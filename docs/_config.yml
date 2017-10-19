@@ -1,0 +1,70 @@
+incremental: bool
+
+# theme: minima
+
+baseurl: /text-fabric-data
+
+collections:
+    features:
+        output: true
+
+defaults:
+    - scope:
+        path: ""
+        type: features
+      values:
+        layout: page
+    - scope:
+        path: ""
+        type: pages
+      values:
+        layout: page
+    - scope:
+        path: "_features/hebrew"
+      values:
+        lang: hebrew
+        feat: true
+    - scope:
+        path: "_features/greek"
+      values:
+        lang: greek
+        feat: true
+    - scope:
+        path: "_features/sanskrit"
+      values:
+        lang: sanskrit
+        feat: true
+
+email: 
+
+staff:
+    - name: Dirk Roorda
+      email: shebanq@ancient-data.org
+      hide: false
+      institute: DANS
+      url: https://dans.knaw.nl/nl
+
+repos:
+    - name: text-fabric wiki
+      url: https://github.com/Dans-labs/text-fabric/wiki
+      desc: Design, data model and API of Text-Fabric
+    - name: BHSA
+      url: https://github.com/ETCBC/bhsa
+      desc: text fabric data resource for Biblical Hebrew
+    - name: text-fabric-data
+      url: https://github.com/Dans-labs/text-fabric-data
+      desc: text fabric resources, such as SBL Greek datasets
+
+web:
+    - name: tutorial (Hebrew)
+      url: https://github.com/Dans-labs/text-fabric/blob/master/docs/tutorial.ipynb
+      desc: IPython notebook with Hebrew examples
+    - name: tutorial (Greek)
+      url: https://github.com/Dans-labs/text-fabric/blob/master/docs/tutorialGNT.ipynb
+      desc: IPython notebook with Greek examples
+    - name: tutorial (search)
+      url: https://github.com/Dans-labs/text-fabric/blob/master/docs/searchTutorial.ipynb
+      desc: IPython notebook with Greek examples
+    - name: SHEBANQ website
+      url: https://shebanq.ancient-data.org
+      desc: View and query Hebrew dataset online

@@ -1,0 +1,7 @@
+---
+title: ClType
+---
+
+**clause type**
+
+

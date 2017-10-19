@@ -1,0 +1,8 @@
+---
+title: Tense
+---
+
+**verbal tense**
+
+
+

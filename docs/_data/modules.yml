@@ -1,0 +1,23 @@
+- title: About
+  docs:
+  - index
+  - news
+  - tfworld
+  
+- title: Hebrew
+  lang: hebrew
+  modules:
+  - etcbc4c
+  - extrabiblical
+  - phono
+  - strong
+
+- title: Greek
+  lang: greek
+  modules:
+  - sblgnt
+
+- title: Sanskrit
+  lang: sanskrit
+  modules:
+  - dcs

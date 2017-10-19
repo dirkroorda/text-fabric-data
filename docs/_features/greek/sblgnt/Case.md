@@ -1,0 +1,6 @@
+---
+title: Case
+---
+
+**grammatical case**
+

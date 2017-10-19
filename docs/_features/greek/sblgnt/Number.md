@@ -1,0 +1,7 @@
+---
+title: Number
+---
+
+**grammatical number**
+
+
