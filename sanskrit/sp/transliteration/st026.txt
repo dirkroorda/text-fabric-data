@@ -1,0 +1,166 @@
+Skandapurāṇa Adhyāya 26
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., and Harunaga Isaacson, eds. The Skandapurāṇa. Vol. IIA. Adhyāyas 26-31.14. The Vārāṇasī Cycle. Critical Edition with an Introduction, English Synopsis & Philological and Historical Commentary. Groningen: Egbert Forsten, 2005.
+
+SP0260010: sanatkumāra uvāca|
+SP0260011: evaṃ nandīśvaro vyāsa utpanno 'nucaraśca ha|
+SP0260012: abhavaddevadevasya senāpatye 'bhiṣecitaḥ|| 1||
+SP0260020: vyāsa uvāca|
+SP0260021: devyā sahātha bhagavānāsīnastatra kāmadaḥ|
+SP0260022: akarotkiṃ mahādeva etadicchāmi veditum|| 2||
+SP0260030: sanatkumāra uvāca|
+SP0260031: bhagavānhimavacchṛṅge śarvo devyāḥ priyepsayā|
+SP0260032: gaṇeśairvividhākārairhāsaṃ saṃjanayanmuhuḥ|| 3||
+SP0260041: devīṃ bālendutilako rāmayacca rarāma ca|
+SP0260042: mahānubhāvaiḥ sarvajñaiḥ kāmarūpadharaiḥ śubhaiḥ|| 4||
+SP0260051: atha devyāsasādaikā mātaraṃ parameśvarī|
+SP0260052: āsīnāṃ kāñcane śubhre āsane paramārcite|| 5||
+SP0260061: atha dṛṣṭvā satīṃ devīmāgatāṃ tu surūpiṇīm|
+SP0260062: āsanena mahārheṇa sampādayadaninditām|| 6||
+SP0260071: āsīnāṃ tāṃ ca sovāca menā himavataḥ priyā|
+SP0260072: cirasyāgamanaṃ hyadya tava putri śubhekṣaṇe|
+SP0260073: daridrakrīḍanaistvaṃ hi bhartrā krīḍasi saṃgatā|| 7||
+SP0260081: ye daridrā bhavanti sma tathaiva ca nirāśrayāḥ|
+SP0260082: ume ta evaṃ krīḍanti yathā tava patiḥ śubhe|| 8||
+SP0260090: sanatkumāra uvāca|
+SP0260091: saivamuktā tu mātrātha nātihṛṣṭamanābhavat|
+SP0260092: mahatyākṣamayā yuktā na kiṃcittāmuvāca ha|| 9||
+SP0260101: visṛṣṭā sā tadā mātrā gatvā devamuvāca ha|
+SP0260102: bhagavandevadeveśa neha vatsyāmi bhūdhare|
+SP0260103: anyaṃ vṛṇu mamāvāsaṃ bhuvaneśa mahādyute|| 10||
+SP0260110: deva uvāca|
+SP0260111: sadā tvamucyamānā vai mayā vāsārthamīśvari|
+SP0260112: anyatra rocitavatī nāvāsaṃ devi karhicit|| 11||
+SP0260121: idānīṃ svayameva tvaṃ vāsamanyatra śobhane|
+SP0260122: kasmānmṛgayase devi brūhi tanme śucismite|| 12||
+SP0260130: devyuvāca|
+SP0260131: gṛhaṃ gatāhaṃ deveśa pituradya mahātmanaḥ|
+SP0260132: dṛṣṭvā ca me tatra mātā vijane lokabhāvanī|| 13||
+SP0260141: āsanādibhirabhyarcya sā māmevamabhāṣata|
+SP0260142: ume tava sadā bhartā daridrakrīḍanaiḥ śubhe|
+SP0260143: krīḍate na hi devānāṃ krīḍā bhavati tādṛśī|| 14||
+SP0260151: yatkila tvaṃ mahādeva gaṇeśairvividhaiḥ śubhaiḥ|
+SP0260152: ramase tadaniṣṭaṃ hi mama māturvṛṣadhvaja|| 15||
+SP0260160: sanatkumāra uvāca|
+SP0260161: tato devaḥ prahasyāha devīṃ hāsayituṃ prabhuḥ|
+SP0260162: evametanna saṃdehaḥ kasmānmanyurabhūttava|| 16||
+SP0260171: kṛttivāsā hyavāsā vā śmaśānanilayaśca ha|
+SP0260172: aniketo hyaraṇyeṣu parvatānāṃ guhāsu ca|
+SP0260173: vicarāmi gaṇairnagnairvṛto 'mbhojavilocane|| 17||
+SP0260181: mā krudho devi mātustvaṃ tathyaṃ mātāvadattava|
+SP0260182: na hi mātṛsamo bandhurjantūnāmasti śobhane|| 18||
+SP0260190: devyuvāca|
+SP0260191: na me 'sti bandhubhiḥ kiṃcitkṛtyaṃ suravareśvara|
+SP0260192: tathā kuru mahādeva yathānyatra vasāmahe|| 19||
+SP0260200: sanatkumāra uvāca|
+SP0260201: sa evamukto deveśo devyā deveśvaraḥ prabhuḥ|
+SP0260202: pārśvasthaṃ gaṇapaṃ prāha nikumbhaṃ nāma viśrutam|| 20||
+SP0260211: gaṇeśvara nikumbha tvaṃ gatvā vārāṇasīṃ śubhām|
+SP0260212: śūnyāṃ kuru mahābāho upāyenaiva mā balāt|| 21||
+SP0260221: tatra rājā nivasati divodāsaḥ pratāpavān|
+SP0260222: dhārmiko mama bhaktaśca mahāyogī mahābalaḥ|| 22||
+SP0260231: sa tvaṃ tathā gataḥ kuryā yathāsmai nāparādhyase|
+SP0260232: tasyaiva cāparādhena śūnyāṃ vārāṇasīṃ kuru|| 23||
+SP0260240: sanatkumāra uvāca|
+SP0260241: sa evamuktastejasvī nikumbho gaṇasattamaḥ|
+SP0260242: uvāca devaṃ praṇataḥ prāñjalirhṛṣitānanaḥ|| 24||
+SP0260251: tathā kariṣye deveśa yathā sa hi narādhipaḥ|
+SP0260252: bhaviṣyatyaparādhīśa tvaṃ ca tuṣṭo bhaviṣyasi|
+SP0260253: śūnyā vārāṇasī caiva bhaviṣyati na saṃśayaḥ|| 25||
+SP0260260: sanatkumāra uvāca|
+SP0260261: evamuktvā nikumbho 'sau praṇamya śirasā haram|
+SP0260262: jagāma puṇyāṃ lokeṣu purīṃ vārāṇasīṃ prabhuḥ|| 26||
+SP0260271: tatrāsau darśanaṃ svapne nāpitāya dadau gaṇaḥ|
+SP0260272: maṇḍūkākṣāya rūpaṃ ca svaṃ tasyādarśayattadā|| 27||
+SP0260280: nikumbha uvāca|
+SP0260281: maṇḍūkākṣa nikumbho 'haṃ gaṇapaḥ śokanāśanaḥ|
+SP0260282: tavānugrahakṛtprāpto yadbravīmi kuruṣva tat|| 28||
+SP0260291: divodāsagṛhadvāri kuruṣva tvaṃ mamālayam|
+SP0260292: sthāpayasva ca tatrārcāṃ madrūpasadṛśīṃ śubhām|| 29||
+SP0260301: vittaṃ ca te pradāsyāmi putrānsaubhāgyameva ca|
+SP0260302: priyatvaṃ caiva sarvatra gatiṃ cānuttamāṃ punaḥ|| 30||
+SP0260310: sanatkumāra uvāca|
+SP0260311: evamukto nikumbhena nāpito nṛpatiṃ tadā|
+SP0260312: gatvāvadaddivodāsamindravaivasvatopamam|| 31||
+SP0260320: nāpita uvāca|
+SP0260321: svāmiṃstava gṛhadvāri kariṣye gaṇapālayam|
+SP0260322: sthāpayiṣye gaṇeśaṃ ca tanme 'nujñātumarhasi|| 32||
+SP0260331: tatheti so 'pyanujñātaścakre tatra tadālayam|
+SP0260332: pratyasthāpayadarcāṃ ca yādṛśīṃ dṛṣṭavānasau|| 33||
+SP0260341: tasya pūjāṃ ca mahatīṃ prāvartayata śobhanām|
+SP0260342: gaṇeśasya mahāsattvaḥ sa ca tāṃ pratyagṛhṇata|| 34||
+SP0260351: sa tasmai karmaṇā tena vittaṃ yadyatsamīhitam|
+SP0260352: paśūṃścaiva hi putrāṃśca saubhāgyaṃ cādadatprabhuḥ|| 35||
+SP0260361: tasya tāṃ vṛddhimatulāṃ nāpitasyābhivīkṣya tu|
+SP0260362: ārirādhayiṣurlokastasya pūjāṃ cakāra ha|| 36||
+SP0260371: cakruryātrāstathā kecidupavāsāṃstathāpare|
+SP0260372: homaṃ japyaṃ tathaivānye pūjāṃ cānye varārthinaḥ|
+SP0260373: upahārāṃstathaivānye gītanṛttaṃ tathāpare|| 37||
+SP0260381: tebhyastathābhyupetebhyo nikumbhaḥ sa mahāyaśāḥ|
+SP0260382: dadau sarvānabhiprāyānye ye teṣāmabhīpsitāḥ|| 38||
+SP0260391: evaṃ taṃ kāmadaṃ jñātvā divodāso nṛpastadā|
+SP0260392: uvāca mahiṣīṃ vyāsa kadācitputralipsayā|| 39||
+SP0260401: devi sarvānabhiprāyāñjanebhyo 'yaṃ prayacchati|
+SP0260402: gaṇeśvaraṃ tvamapyenamapatyārthaṃ prasādaya|| 40||
+SP0260411: saivamuktā tadā gatvā gaṇeśaṃ prāpya śobhanā|
+SP0260412: uvāca bhagavandeva anapatyāhamīśvara|| 41||
+SP0260421: upavāsaṃ kariṣyāmi tava devābhirādhane|
+SP0260422: tāvanna bhokṣye yāvanme varo 'dattastvayā prabho|| 42||
+SP0260431: jāte ca putre dāsyāmi śatānāṃ daśatīrdaśa|
+SP0260432: tvāmuddiśya dvijātibhyo godhenūnāṃ gaṇeśvara|| 43||
+SP0260441: tathā ghaṭasahasreṇa dadhnaścaiva ghṛtasya ca| 
+SP0260442: kṣīrasya pañcagavyasya kariṣye snapanaṃ ca te|| 44||
+SP0260451: brāhmaṇānāṃ sahasrāṇāṃ śataṃ cāpi supūjitam|
+SP0260452: purastādbhojayiṣye te putre jāte na saṃśayaḥ|| 45||
+SP0260461: bahūndāsyati rājā ca grāmāndāsyastathaiva ca|
+SP0260462: sadā sattraṃ ca pūjāṃ ca kariṣyati tava prabho|| 46||
+SP0260470: sanatkumāra uvāca|
+SP0260471: sā tamuktvā tathā vyāsa tasthau niyamamāsthitā|
+SP0260472: sopavāsā tadā pūjāṃ mahatīṃ tasya kurvatī|| 47||
+SP0260481: tāṃ tathā tiṣṭhatīṃ devaḥ provāca sa gaṇeśvaraḥ|
+SP0260482: uttiṣṭha nāsti te putro mā khedaṃ tvaṃ vṛthā kṛthāḥ|| 48||
+SP0260491: evaṃ tena gaṇeśena nikumbhena mahātmanā|
+SP0260492: asakṛtprocyamānā sā niyamādvirarāma ha|| 49||
+SP0260501: tato narādhipaṃ devī provāca vimanā tadā|
+SP0260502: āryaputra na me putraṃ gaṇapo 'sau prayacchati|
+SP0260503: bravīti nāsti te putro mā vṛthā niyamaṃ kṛthāḥ|| 50||
+SP0260510: sanatkumāra uvāca|
+SP0260511: evaṃ mahiṣyā sa proktaḥ svayameva narādhipaḥ|
+SP0260512: sadā saniyamastasthau gaṇeśasyāgrato nṛpaḥ|| 51||
+SP0260521: tamapyuvāca nṛpatiṃ nikumbho niyamasthitam|
+SP0260522: mā sthā vṛtheha nṛpate na te putraṃ dadāmyaham|| 52||
+SP0260531: evamuktaḥ sa rājendro nikumbhena mahābalaḥ|
+SP0260532: krodharaktekṣaṇaḥ prāha tamutthāya gaṇeśvaram|| 53||
+SP0260540: rājovāca|
+SP0260541: gaṇo vā tvaṃ piśāco vā bhūto vā rākṣaso 'pi vā|
+SP0260542: kṛtaghnastvaṃ na saṃdeho na tvaṃ pūjāmihārhasi|| 54||
+SP0260551: mama caiva gṛhadvāri pauraiścaiva samarcitaḥ|
+SP0260552: viṣaye mama vāsī ca na ca putraṃ prayacchasi|| 55||
+SP0260561: pūjārho na bhavāṃstasmānmatto daṇḍaṃ tvamarhasi|
+SP0260562: nṛśaṃsaścāvaliptaśca niṣṭhuro matsarānvitaḥ|| 56||
+SP0260571: tato 'sya bhedayāmāsa nilayaṃ gajayūthapaiḥ|
+SP0260572: sthaṇḍilaṃ ca babhañjāśu dadāhārcāṃ ca suprabhām|| 57||
+SP0260581: nikumbho 'pi kṛtārthaḥ sannākāśe saṃsthitaḥ prabhuḥ|
+SP0260582: uvāca taṃ divodāsaṃ pradahanniva tejasā|| 58||
+SP0260591: yatheṣṭaṃ samprayacchanti devā varamabhīpsitam|
+SP0260592: na datto yadyasau kopaḥ kastatra bhavato 'bhavat|| 59||
+SP0260601: yasmānmamālayo bhagnastvayā nirapakāriṇaḥ|
+SP0260602: tasmādvarṣasahasraṃ te purī śūnyā bhaviṣyati|| 60||
+SP0260610: sanatkumāra uvāca|
+SP0260611: sa evamuktvā rājānaṃ nikumbhaḥ paramātmavān|
+SP0260612: deveśāya nivedyaivaṃ tasthau pārśvagataḥ prabhoḥ|| 61||
+SP0260621: rājāpi tasya vākyena tathyenārthena caiva hi|
+SP0260622: vrīḍāṃ parāṃ samāsādya gṛhānabhyāgamattadā|| 62||
+SP0260631: atha sā tena śāpena purī vārāṇasī tadā|
+SP0260632: śūnyā samabhavatkṣipraṃ viśuddhā mṛgasevitā|| 63||
+SP0260641: tāṃ tu śūnyāṃ sa vijñāya devyā saha pinākadhṛk|
+SP0260642: sagaṇo nandinā sārdhamājagāma mahādyutiḥ|| 64||
+SP0260651: sa tatra mānasaṃ divyaṃ vimānaṃ sūryavarcasam|
+SP0260652: anaupamyaguṇaṃ devo manasaivābhinirmime|| 65||
+SP0260661: na me prabhavati prajñā kṛtsnaśastannirūpaṇe|
+SP0260662: etāvacchakyate vaktumanaupamyaguṇaṃ hi tat|| 66||
+SP0260671: devodyānāni ramyāṇi nandanādyāni yāni tu|
+SP0260672: tebhyaḥ śreṣṭhatamaṃ śrīmadudyānamasṛjatprabhuḥ|| 67||
+SP0260681: tasminvimāne girirājaputrī sarvarddhiyukte vacasāmagamye|
+SP0260682: reme navendīvaraphullanetrā devī na sasmāra vacaśca mātuḥ|| 68||
+SP0269999: iti skandapurāṇe ṣaḍviṃśo 'dhyāyaḥ||

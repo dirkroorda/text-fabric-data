@@ -1,0 +1,105 @@
+Skandapurāṇa Adhyāya 51
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0510010: sanatkumāra uvāca|
+SP0510011: sukeśastu tato vyāsa pituḥ śrutvā sudīnavān|
+SP0510012: dīnavaccintayāmāsa jantūnāṃ tāṃ gatiṃ tadā|| 1||
+SP0510021: cintayābhiparītātmā duḥkhena ca samāhataḥ|
+SP0510022: jantūnāṃ mokṣaṇopāyaṃ mūḍhacetā na jajñivān|| 2||
+SP0510031: cintāpannaḥ sa tu yadā pitṝṃstānnābhyabhāṣata|
+SP0510032: tadā te pitaraḥ sarve sukeśamidamūcire|| 3||
+SP0510040: pitara ūcuḥ|
+SP0510041: atīva kiṃ cintayasi kutaścintā tavānagha|
+SP0510042: īśvarasya sataḥ putra nedaṃ tava vidhīyate|| 4||
+SP0510050: sukeśa uvāca|
+SP0510051: jantūnāṃ karmajaṃ kleśaṃ śrutvā yuṣmābhirīritam|
+SP0510052: cintayāmi kathaṃ teṣāṃ mokṣopāyo bhavediti|| 5||
+SP0510060: pitara ūcuḥ|
+SP0510061: anādṛtya kṣayaṃ putra mokṣasteṣāṃ na vidyate|
+SP0510062: karmaṇaḥ svakṛtasyeha sa ca bhogātkṣayo mataḥ|| 6||
+SP0510071: bhogaśca narake 'vaśyaṃ jantūnāṃ sa vidhīyate|
+SP0510072: na ca te narakāḥ śakyā hartuṃ karmakṣayaṃ vinā|| 7||
+SP0510081: aśakyāḥ khalu ye hyarthā na tānprājñaḥ samārabhet|
+SP0510082: arṇavasya prataraṇaṃ yathā tanmṛtyumarchati|| 8||
+SP0510090: sanatkumāra uvāca|
+SP0510091: evamuktaḥ sa tejasvī pitṝṃstānhṛcchayāvṛtaḥ|
+SP0510092: uvāca praṇato bhūtvā māvamaṃsthāḥ sutaṃ hi mām|| 9||
+SP0510101: kā śaktirmama tāñjantūnbalāttārayituṃ sutāḥ|
+SP0510102: mahādevaprasādāttāṃstārayiṣyāmi durgatim|| 10||
+SP0510111: yūyaṃ yathaiva tīrṇāḥ stha narakasthā vicetasaḥ|
+SP0510112: tathā te jantavaḥ sarve tariṣyanti na saṃśayaḥ|| 11||
+SP0510120: sanatkumāra uvāca|
+SP0510121: tatastānsa tadāmantrya mahātmā gaṇanāyakaḥ|
+SP0510122: saṃpraviśya samudrāmbho antarjalagatastadā|
+SP0510123: jajāpa rudrāñchuddhātmā niścalaḥ susamāhitaḥ|| 12||
+SP0510131: japatastasya yogena yuktasya ca mahātmanaḥ|
+SP0510132: trailokyamakhilaṃ sarvaṃ tapasābhūtpratāpitam|| 13||
+SP0510141: tato devāstadā sarve pitāmahamathābruvan|
+SP0510142: kimidaṃ bhagavansarve tapyāma vivaśā vayam|| 14||
+SP0510151: kasyedaṃ tapaso vīryaṃ kasya yogo 'yamīdṛśaḥ|
+SP0510152: ka eṣa suraśārdūla tapastapyati dāruṇam|| 15||
+SP0510161: yāvadevaṃ na dahati yāvaccaiva na kupyate|
+SP0510162: tāvatsarvānabhiprāyāṃstasya saṃpādaya prabho|| 16||
+SP0510171: sa evamukto devaistairbhagavāndevasattamaḥ|
+SP0510172: uvāca mā bhayaṃ vo 'stu nāyaṃ kaścidasaṃmataḥ|| 17||
+SP0510181: eṣa rudrasya devasya mahātmā gaṇanāyakaḥ|
+SP0510182: samudrāntarjalāsīno rudrāñjapati yogavān|| 18||
+SP0510191: na cāsya duṣṭābhiprāyo lokānprati mahābalāḥ|
+SP0510192: nārakāneṣa narakāduddhartumabhimanyate|| 19||
+SP0510201: te yūyaṃ yadi manyadhvaṃ gatvā rudraṃ praṇamya ca|
+SP0510202: arthayāmo 'sya devasya kriyatāmīpsito varaḥ|| 20||
+SP0510211: evamastviti te sarve brahmaṇā saha saṃgatāḥ|
+SP0510212: gatā mandaramavyagrā nandinā saṃpraveśitāḥ|
+SP0510213: te dṛṣṭvā devamīśānaṃ stutvedamabruvanvibhum|| 21||
+SP0510221: sukeśo bhagavaṃstubhyaṃ vallabho gaṇanāyakaḥ|
+SP0510222: kāruṇyaṃ prāṇināṃ kṛtvā tapastapyati duścaram|
+SP0510223: tasya kāmaṃ sakāmaṃ tvaṃ kuruṣva bhuvaneśvara|| 22||
+SP0510231: teṣāṃ vijñaptimākarṇya devadevastadā bhavaḥ|
+SP0510232: brahmādyaiḥ sahito 'bhyāgātsukeśasya tadāntikam|| 23||
+SP0510241: samudrastatra ye cānye munayaḥ saṃśitavratāḥ|
+SP0510242: arghyamādāya śataśo nemuḥ śaṃkaramāgatam|| 24||
+SP0510251: tamasau gaṇapaśreṣṭhaṃ devadeva idaṃ vacaḥ|
+SP0510252: provāca madhuraṃ vyāsa manaḥśrotrasukhāvaham|| 25||
+SP0510261: vatsottiṣṭha sukeśa tvaṃ prārthayasva yathepsitam|
+SP0510262: sarvaṃ tatsaṃpradāsyāmi tvaṃ hi nandisamo mama|| 26||
+SP0510271: tataḥ sukeśa utthāya stutvā taṃ vṛṣabhadhvajam|
+SP0510272: praṇipatya punarvavre kāmaṃ pūrvasamīhitam|| 27||
+SP0510281: narakeṣu narā deva yātyante pāpakarmiṇaḥ|
+SP0510282: teṣāmupari ceto me duḥkhenārditamīśvara|| 28||
+SP0510291: te yathā pratimucyante sarva eva jagatpate|
+SP0510292: tathā kuru mamādyaiva vara eṣo mayārthitaḥ|| 29||
+SP0510301: ye cādhunā narā deva yātyante narakeṣu vai|
+SP0510302: teṣāṃ tu pratimokṣārthaṃ yācayeyaṃ sureśvara|| 30||
+SP0510311: tatastadarthitaṃ devaḥ prayacchannidamabravīt|
+SP0510312: evaṃ bhavatu te vatsa muktā nārakiṇo narāḥ|| 31||
+SP0510321: anayāpi ca bhaktyā tvaṃ kāruṇyena ca vallabhaḥ|
+SP0510322: sutarāṃ bhava nirvyagraḥ paramaiśvaryasaṃyutaḥ|| 32||
+SP0510331: tataste nārakāḥ sarve vimānāni samāśritāḥ|
+SP0510332: devadevaṃ tato 'bhyetya sukeśaṃ ca praṇemire|| 33||
+SP0510341: tamuvāca punardevaḥ sukeśaṃ gaṇanāyakam|
+SP0510342: yo hi tārayate jantūnāpadaṃ kiṃcideva hi|
+SP0510343: tasya dharmo 'mito bhūtvā saṃsāraṃ na prayacchati|| 34||
+SP0510351: manasāpi hi yaḥ prāṇī kleśājjantūnsadecchati|
+SP0510352: vimoktuṃ so 'pi dharmātmā sarvaduḥkhaiḥ pramucyate|| 35||
+SP0510361: yaścopārjya svayaṃ dharmaṃ jantubhyaḥ saṃprayacchati|
+SP0510362: sukhārthaṃ so 'pi sarvebhyo duḥkhebhyaḥ saṃpramucyate|| 36||
+SP0510371: sa tvaṃ pareṇa yogena aiśvaryeṇa ca saṃyutaḥ|
+SP0510372: jantūnāṃ tāraṇe yuktastvayānyaḥ kaḥ samo bhuvi|| 37||
+SP0510380: sukeśa uvāca|
+SP0510381: bhagavaṃstvatprasādānme sarvametadbhaviṣyati|
+SP0510382: śaktirmama kuto deva tvayaivaitatkṛtaṃ vibho|| 38||
+SP0510391: na cānyadasti kartavyaṃ kṛtyaṃ yanme manogatam|
+SP0510392: tavāsmi kiṃkaro dāso nāścaryaṃ yanmamedṛśam|| 39||
+SP0510400: sanatkumāra uvāca|
+SP0510401: tataḥ sa bhagavāndevo visṛjya gaṇanāyakam|
+SP0510402: abhyagānmandaraṃ vyāsa vṛtaḥ sarvāmaraistadā|| 40||
+SP0510411: devā api vimānasthānnārakānvīkṣya sarvaśaḥ|
+SP0510412: śāntaṃ ca jagato duḥkhaṃ dṛṣṭvā jagmuryathāgatam|| 41||
+SP0510421: ya imaṃ nārakottāraṃ śṛṇuyādvā paṭheta vā|
+SP0510422: sa duḥkhaṃ samanuprāpya nāvasīdati karhicit|| 42||
+SP0510431: etadyogavidhānasarvasamayaṃ śrutvā naro nityaśaḥ 
+SP0510432: pāpātmāpi sunirghṛṇaṃ pratibhayaṃ nābhyeti pāpāśrayam|
+SP0510433: kiṃ nvetaṃ ya ihābhyupetya satataṃ śaucānvitaḥ śrāvayed
+SP0510434: devabrāhmaṇavaidyasaṃsadi dṛḍhaṃ bhaktaḥ sadā śaṃkaram|| 43||
+SP0519999: skandapurāṇa ekapañcāśo 'dhyāyaḥ||

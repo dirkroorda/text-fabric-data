@@ -1,0 +1,26 @@
+Skandapurāṇa Adhyāya 40
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0400010: suśarmovāca|
+SP0400011: ataḥ paraṃ pravakṣyāmi kumbhīpākaṃ mahābhayam|
+SP0400012: śrotṝṇāmapi tatkālaṃ bhayadaṃ hyakṛtātmanām|| 1||
+SP0400021: āyasyastatra bahvyaśca añjanācalasaṃnibhāḥ|
+SP0400022: kumbhyastailena saṃpūrṇā vahnitaptāḥ suduḥsahāḥ|| 2||
+SP0400031: duṣkṛtīṃstāsu taptāsu baddhvā baddhvā bhayāvahāḥ|
+SP0400032: caranti rākṣasā ghorāḥ krandamānānsubhairavam|| 3||
+SP0400041: varṣakoṭīścatasraśca pacyante tatra jantavaḥ|
+SP0400042: ye tānimānnibodha tvamucyamānānmayā vibho|| 4||
+SP0400051: iṣṭakāpākakārī ca kumbhapācaka eva ca|
+SP0400052: tau vināśayate yaśca agnido yo gṛheṣu ca|| 5||
+SP0400061: vane khale 'tha goṣṭhe vā annapākavināśakaḥ|
+SP0400062: bhojane vighnakārī ca yajñahā yajñadāhakaḥ|| 6||
+SP0400071: kūṭakarmakaro yaśca kūṭasākṣī tathaiva ca|
+SP0400072: mithyāgnicayanī caiva mithyāgnyāharaṇī tathā|| 7||
+SP0400081: mithyāpākapradātā ca vedānāṃ yaśca dūṣakaḥ|
+SP0400082: hartopakaraṇānāṃ ca śilpināṃ yo narādhamaḥ|| 8||
+SP0400091: evaṃ te yātitāstatra viśrāmaṃ punarucchraye|
+SP0400092: saṃprāpya narake bhūyo nipatanti kṣayāntikam|| 9||
+SP0400101: ya imaṃ bahuduṣkṛtāntapākaṃ śṛṇuyānmanujo hi karmavāsam|
+SP0400102: na sa gacchati taṃ durātmatāpaṃ narakaṃ kumbhisamākhyamujjhitāghaḥ|| 10||
+SP0409999: skandapurāṇe catvāriṃśo 'dhyāyaḥ||

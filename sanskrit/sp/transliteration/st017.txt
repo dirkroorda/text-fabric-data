@@ -1,0 +1,73 @@
+Skandapurāṇa Adhyāya 17
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0170010: vyāsa uvāca|
+SP0170011: kasmātsa rājā tamṛṣiṃ cakhāda tapasānvitam|
+SP0170012: rakṣasā sa kimarthaṃ ca hṛtacetābhavannṛpaḥ|| 1||
+SP0170020: sanatkumāra uvāca|
+SP0170021: vasiṣṭhayājyo rājāsīnnāmnā mitrasahaḥ prabhuḥ|
+SP0170022: sudāsaputro balavānindracandrasamadyutiḥ|| 2||
+SP0170031: tamāgamyocivāñchaktiścariṣye dīkṣito vratam|
+SP0170032: tatra me niśi rājendra sadaiva piśitāśanam|| 3||
+SP0170041: ihāgatasya yacchasva śuci sarvaguṇānvitam|
+SP0170042: apratīkārasaṃyuktamekadaikānta eva ca|| 4||
+SP0170051: evamastviti tenokto jagāma sa mahāmanāḥ|
+SP0170052: athāsyāntarhitaṃ rakṣo nṛpaterabhavattadā|
+SP0170053: nājñāpayattadā sūdaṃ tasyārthe munisattama|| 5||
+SP0170061: gate 'tha divase tāta saṃsmṛtya prayatātmavān|
+SP0170062: sūdamāhūya covāca ārtavatsa narādhipaḥ|| 6||
+SP0170070: saudāsa uvāca|
+SP0170071: mayāmṛtavaso prātarguruputrasya dhīmataḥ|
+SP0170072: piśitaṃ sampratijñātaṃ bhojanaṃ niśi saṃskṛtam|
+SP0170073: tatkuruṣva tathā kṣipraṃ kālo no nātyagādyathā|| 7||
+SP0170081: sa evamuktaḥ provāca sūdo 'mṛtavasustadā|
+SP0170082: rājaṃstvayā no nākhyātaṃ prāgeva narapuṃgava|
+SP0170083: sāmprataṃ nāsti piśitaṃ stokamapyabhikāṅkṣitam|| 8||
+SP0170091: piśitasyaiva cālpatvādbahūnāṃ caiva tadbhujām|
+SP0170092: amitasya pradānācca na kiṃcidavaśiṣyate|| 9||
+SP0170100: rājovāca|
+SP0170101: jāne sarvopayogaṃ ca jāne cāduṣṭatāṃ tava|
+SP0170102: jāne stokaṃ ca piśitaṃ kāryaṃ cedaṃ tathāvidham|
+SP0170103: mṛgyatāṃ piśitaṃ kṣipraṃ labdhavyaṃ yatra manyase|| 10||
+SP0170110: sanatkumāra uvāca|
+SP0170111: evamukto 'mṛtavasuḥ prayatnaṃ mahadāsthitaḥ|
+SP0170112: piśitaṃ mṛgayansamyaṅnāpyavindata karhicit|| 11||
+SP0170121: yadā na labdhavānmāṃsaṃ tadovāca narādhipam|
+SP0170122: gatvā niśi mahārājamidaṃ vacanamarthavat|| 12||
+SP0170131: rājanna piśitaṃ tvasti pure 'smiñchuci karhicit|
+SP0170132: mṛgayanparikhinno 'smi śādhi kiṃ karavāṇi te|| 13||
+SP0170140: sanatkumāra uvāca|
+SP0170141: sa evamuktaḥ sūdena tasminkāle narādhipaḥ|
+SP0170142: novāca kiṃcittaṃ sūdaṃ tūṣṇīmeva babhūva ha|| 14||
+SP0170151: tadantaramabhiprekṣya viśvāmitrasamīritaḥ|
+SP0170152: rākṣaso rudhiro nāma saṃviveśa narādhipam|| 15||
+SP0170161: rakṣasā sa tadāviṣṭo rudhireṇa durātmanā|
+SP0170162: uvāca sūdaṃ śanakaiḥ karṇamūle mahādyutiḥ|| 16||
+SP0170171: gaccha yatkiṃcidānīya māṃsaṃ mānuṣamantataḥ|
+SP0170172: gārdabhaṃ vāpyathauṣṭraṃ vā sarvaṃ saṃskartumarhasi|| 17||
+SP0170181: kimasau jñāsyate rātrau tvayā bhūyaśca saṃskṛtam|
+SP0170182: rasavadgandhavaccaiva kṣiprameva samācara|| 18||
+SP0170190: sanatkumāra uvāca|
+SP0170191: sa evamuktastenātha mānuṣaṃ māṃsamādade|
+SP0170192: rājāpakāriṇo vyāsa mṛtotsṛṣṭasya kasyacit|| 19||
+SP0170201: athārdharātrasamaye bhāskarākāravarcasam|
+SP0170202: śatānalasamaprakhyamapaśyanmunisattamam|| 20||
+SP0170211: sa tamarghyeṇa pādyena āsanāgryavareṇa ca|
+SP0170212: samarcayitvā vidhivadannamasyopapādayat|| 21||
+SP0170221: sa tadannaṃ samānītaṃ samālabhya mahātapāḥ|
+SP0170222: cukopa kupitaścāha pārthivaṃ pradahanniva|| 22||
+SP0170230: śaktiruvāca|
+SP0170231: pārthivādhama viprāṇāṃ bhojanaṃ rākṣasocitam|
+SP0170232: na dīyate vidhijñena tvaṃ tu māmavamanyase|| 23||
+SP0170241: yasmāttvaṃ rākṣasamidaṃ mahyaṃ ditsasi bhojanam|
+SP0170242: tasmāttvaṃ karmaṇā tena puruṣādo bhaviṣyasi|| 24||
+SP0170250: sanatkumāra uvāca|
+SP0170251: evamuktastu tejasvī rājā saṃcintya tattadā|
+SP0170252: uvāca krodharaktākṣo rākṣasāviṣṭacetanaḥ|| 25||
+SP0170261: puruṣādo bhavetyevaṃ māmavocadbhavānyataḥ|
+SP0170262: tatastvāṃ bhakṣayiṣyāmi bhrātṛbhiḥ sahitaṃ dvija|| 26||
+SP0170271: bhakṣayitvā viśuddhyarthaṃ muktaśāpastataḥ param|
+SP0170272: cariṣyāmi tapaḥ śuddhaṃ saṃyamyendriyasaṃhatim|
+SP0170273: pitrā tavābhyanujñātaḥ svarge vatsye yathepsitam|| 27||
+SP0179999: iti skandapurāṇe saptadaśamo 'dhyāyaḥ||

@@ -1,0 +1,131 @@
+Skandapurāṇa Adhyāya 37
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0370010: sanatkumāra uvāca|
+SP0370011: tataste pitarastasya pratiṣṭhāṃ svasutaṃ prati|
+SP0370012: suśarmāṇamiti khyātaṃ kathayāmāsuravyayāḥ|| 1||
+SP0370020: pitara ūcuḥ|
+SP0370021: ayaṃ te janakaḥ putra suśarmā lokaviśrutaḥ|
+SP0370022: kathayiṣyati tattvena yattvayā samudāhṛtam|| 2||
+SP0370030: sanatkumāra uvāca|
+SP0370031: tataḥ suśarmā viprarṣe tamāmantrya mahāmanāḥ|
+SP0370032: uvācedaṃ mahāsattvaṃ sukeśaṃ gaṇasattamam|| 3||
+SP0370040: suśarmovāca|
+SP0370041: gaṇeśvareśa śṛṇuyā narakā ye prakīrtitāḥ|
+SP0370042: durāsadā mahādurgāḥ sarvaprāṇibhayaṃkarāḥ|| 4||
+SP0370051: prathamo narakastatra viśruto yamalācalaḥ|
+SP0370052: dvitīyaḥ śālmalo nāma tṛtīyaḥ kālasūtrakaḥ|| 5||
+SP0370061: kumbhīpākaścaturthaśca asipatravano 'paraḥ|
+SP0370062: tathā vaitaraṇī ṣaṣṭhaḥ saptamaścāpyayoghanaḥ|| 6||
+SP0370071: aṣṭamaḥ padma ityeva mahāpadmastathāparaḥ|
+SP0370072: rauravo daśamaścaiva mahāraurava eva ca|| 7||
+SP0370081: dvādaśaśca tamo nāma tamastamatarastathā|
+SP0370082: ete mahānto narakā ucchrayāśca tathāpare|| 8||
+SP0370091: ekaikasyocchrayā hyaṣṭau narakāste 'pi kīrtitāḥ|
+SP0370092: ucchrayeṣu saviśrāmā yātanā bhavatīśvara|
+SP0370093: itareṣu tvaviśrāmā viśeṣo hyeṣa kīrtitaḥ|| 9||
+SP0370101: teṣāṃ satataduḥkhaṃ tu nṝṇāṃ pāpena karmaṇā|
+SP0370102: bhedaḥ kṣayācca pāpasya kramasteṣāṃ pravakṣyate|| 10||
+SP0370111: pramāṇaṃ tu gaṇeśeśa na śakyaṃ vaktumekaśaḥ|
+SP0370112: vibhutvātkarmaṇastasya kṣayādantaṃ prapaśyati|| 11||
+SP0370121: narako 'titataḥ sarvo nāntaṃ tasya prapaśyati|
+SP0370122: kṣīṇapāpāḥ prapaśyanti yathā tacchṛṇu me 'vyaya|| 12||
+SP0370131: patito narake ghore duṣkṛtī svena karmaṇā|
+SP0370132: yātyamāno 'tikaruṇaṃ diśamekāṃ prapadyate|| 13||
+SP0370141: sa gatvā śīghramadhvānaṃ bahuyojanavistṛtam|
+SP0370142: bahūnabdānanāsādya tasyāntaṃ vinivartate|| 14||
+SP0370151: vinivṛtya tato bhūyo yātyamāno vicetanaḥ|
+SP0370152: anyāṃ diśaṃ punargatvā tathaiva vinivartate|| 15||
+SP0370161: evaṃ sarvā diśo gatvā hyantamaprāpya duḥkhitāḥ|
+SP0370162: yātyante karuṇaṃ tatra pāpasyānte tataḥ punaḥ|| 16||
+SP0370171: prapaśyante parimitaṃ paricchinnaṃ ca sarvaśaḥ|
+SP0370172: dvāreṇa mahatā yuktaṃ tatastasmādvimucyate|| 17||
+SP0370181: evaṃ hi narakāḥ sarve hyanantāścākṣayāvyayāḥ|
+SP0370182: na teṣāṃ parisaṃkhyānaṃ yojanaiḥ saṃvidhīyate|| 18||
+SP0370191: yena kālena tu punarjantuḥ patati duḥkhitaḥ|
+SP0370192: yathā caitacchṛṇu vibho kathyamānaṃ mayānagha|| 19||
+SP0370201: kṛtvā pāpāni karmāṇi kṣayānte duṣṭacetanaḥ|
+SP0370202: vyādhyādhiyuktaḥ kleśena tyajati svāṃ tanuṃ tataḥ|| 20||
+SP0370211: yamadūtairmahāpāśairbaddhvā duḥkhasamīritaḥ|
+SP0370212: viṣameṇa pathā deva nīyate vikṛtākṛtiḥ|| 21||
+SP0370221: ayomayaiḥ kaṇṭakaiśca vidhyamānastatastataḥ|
+SP0370222: keśāmedhyāsthipaṅkaiśca dahyamānaḥ samantataḥ|| 22||
+SP0370231: viṣameṣu ca garteṣu prapatanbhidyate punaḥ|
+SP0370232: kvaciccopalavarṣeṇa mahatā saṃnikīryate|| 23||
+SP0370241: tatra bhinnaśirojānupādabāhūrubandhanaḥ| 
+SP0370242: kṛṣyate yamadūtaiśca punaḥ kaṇṭakibhirdrumaiḥ|
+SP0370243: pāṭyate bhidyate caiva vallībhiścāvabadhyate|| 24||
+SP0370251: evaṃ bahuvidhākārairduḥkhadaiḥ pathibhiḥ prabho|
+SP0370252: nīyamāno 'vaśaḥ kleśātprāpnoti yamasādanam|| 25||
+SP0370261: sa tato yamamaprāpya dūrādeva yamājñayā|
+SP0370262: citraguptamupāgamya śrāvyate karma yatkṛtam|| 26||
+SP0370271: somo 'gnirvaruṇo vāyuḥ sūryaśceti tadā naram|
+SP0370272: sākṣiṇaḥ sarvajantūnāṃ bruvate karma yatkṛtam|| 27||
+SP0370281: ukto vibhāvitaścaiva citraguptena coditaḥ|
+SP0370282: narake nipatatyārtta ūrdhvapādo hyadhaḥśirāḥ|| 28||
+SP0370291: tomaraiścātitīkṣṇāgraiḥ śaraiścātha paraśvadhaiḥ|
+SP0370292: bhindipālairmudgaraiśca asibhirdīrghavedhanaiḥ|| 29||
+SP0370301: parighaiḥ karapatraiśca vajraiṣṭaṅkairhulopalaiḥ|
+SP0370302: kīlaiśca musalaiścaiva kṣārapiṣṭena caiva hi|| 30||
+SP0370311: pradīptaiścāyudhairghorairagnivarṣeṇa cāpyuta|
+SP0370312: hanyamāno divārātraṃ vinadankaruṇaṃ bahu|
+SP0370313: varṣāṇāṃ tu sahasreṇa narakaṃ prāpnute 'śubham|| 31||
+SP0370321: sa tatra patito bhūyo yātyamānaḥ suduḥkhitaḥ|
+SP0370322: varṣakoṭīmaviśrāmya nirayāntaṃ prapadyate|| 32||
+SP0370331: mahānarakamuktaśca ucchrayāntaramāśritaḥ|
+SP0370332: śītena vāyunā spṛṣṭaḥ sukhaṃ tatra sa vindati|| 33||
+SP0370341: sa taṃ viśrāmamāsādya vismṛto yātanāṃ tadā|
+SP0370342: muhūrtamāhṛte svapne rākṣasenāpakṛṣyate|| 34||
+SP0370351: sa tena kṛṣyamāṇaśca bhūyo duḥkhena cārditaḥ| 
+SP0370352: karuṇaṃ bahudhātīva pravilapyāvatiṣṭhate|| 35||
+SP0370361: tato bhūyaḥ samākṛṣya yātanāyāṃ sa rākṣasaḥ|
+SP0370362: yātayatyeva taṃ jantuṃ saviśrāmaṃ sacetanam|| 36||
+SP0370371: tatra varṣasahasraṃ vai yātitaḥ punareva saḥ|
+SP0370372: anyasminnucchraye ghore yātyate tāvadeva hi|| 37||
+SP0370381: evaṃ sa ucchrayānprāpya aṣṭau pāpena karmaṇā|
+SP0370382: saṃsāraṃ kṛmikīṭādi jantuḥ saṃpratipadyate|| 38||
+SP0370391: ye tu gacchanti taṃ ghoraṃ narakaṃ puruṣādhamāḥ|
+SP0370392: tānahaṃ saṃpravakṣyāmi tava putra samāsataḥ|| 39||
+SP0370401: prathamo yo mayā prokto narako yamalācalaḥ|
+SP0370402: yātyante tatra puruṣā mahānirayagāminaḥ|| 40||
+SP0370411: parvatau dvau mahāsattva siṃhavyāghrasamākulau|
+SP0370412: śarabhebhasamākīrṇau bahusarpasamākulau|| 41||
+SP0370421: pakṣibhirvividhākāraiḥ puruṣaiścodyatāyudhaiḥ|
+SP0370422: vṛkṣairaparṇaiḥ saṃyuktau sūcibhirvajrakaṇṭakaiḥ|| 42||
+SP0370431: tayorantaramekaṃ vai samaṃ sūcibhirāvṛtam|
+SP0370432: ūrdhvābhirvajratuṇḍābhirabhedyābhistathaiva ca|
+SP0370433: anyataḥ puruṣairghoraiḥ śastrapāṇibhirāvṛtam|| 43||
+SP0370441: prākāreṇa ca lohena samantātparivāritau|
+SP0370442: ākāśe cāpi lohena tau jālena samāvṛtau|| 44||
+SP0370451: yātyante tatra puruṣā ye vai striyamanicchatīm|
+SP0370452: ākramanti parākyāṃ vai kanyādūṣaka eva ca|| 45||
+SP0370461: nyāsāpahārakaścaiva tathā māṃsāpahārakaḥ|
+SP0370462: rasāpahārakaścaiva yaścāpi paradūṣakaḥ|| 46||
+SP0370471: indriyagrāmaghātī ca mithyāliṅgī tathaiva ca|
+SP0370472: mṛgaśvāpadahantā ca pṛṣṭhamāṃsāśinaśca ye|| 47||
+SP0370481: vṛthāmāṃsāśino ye ca viṣaṃ ye ca prakurvate|
+SP0370482: ete narādhamāḥ putra gacchanti yamalācalam|| 48||
+SP0370491: yamaleṣu ca jāteṣu yo na kuryānnarādhamaḥ|
+SP0370492: prāyaścittamaśuddhātmā sa ca taṃ pratipadyate|| 49||
+SP0370501: sa prapanno yathoktaistaiḥ puruṣaiḥ samabhidrutaḥ|
+SP0370502: āyudhaiśchidyamānaśca parvataṃ taṃ prapadyate|| 50||
+SP0370511: tatra vyāghraiśca siṃhaiśca śarabhaiḥ sa tarakṣubhiḥ|
+SP0370512: sarpairviḍālaiḥ patagairayastuṇḍaiśca bhakṣyate|| 51||
+SP0370521: tairbhakṣyamāṇo yadi ca vṛkṣaṃ samadhirohate|
+SP0370522: tatra taiḥ kaṇṭakaistīkṣṇairbhidyate pakṣibhiśca ha|| 52||
+SP0370531: atha cetkandarāṃstasya guhāṃ vā yātumicchati|
+SP0370532: tatrāpi hyagninā dagdho duḥkhārto vinivartate|| 53||
+SP0370541: atha cedantaraṃ ghoraṃ tayoḥ saṃpratipadyate|
+SP0370542: tatra sūcībhirugrābhiḥ pādayorbhidyate naraḥ|| 54||
+SP0370551: bhinnaṃ ca taṃ samālakṣya aśaktamapasarpaṇe|
+SP0370552: samāgamyācalau kṣipraṃ pīḍayetāmatīva hi|| 55||
+SP0370561: pīḍyamāno 'calābhyāṃ ca yantreṇekṣuvadāturaḥ|
+SP0370562: karuṇaṃ krandamānastu yātanāṃ tāṃ samaśnute|| 56||
+SP0370571: bhakṣitasyātha bhinnasya viluptasya ca pakṣibhiḥ|
+SP0370572: dagdhasya ca navaṃ bhūyaḥ śarīramabhijāyate|| 57||
+SP0370581: evaṃ sa yātyamāno vai bahūnabdānsuduḥkhitaḥ|
+SP0370582: dvāraṃ labdhvā viniḥsṛtya ucchrayeṣu nipātyate|| 58||
+SP0370591: yamalācalametamugravegaṃ bahupāpasametakarmayogam|
+SP0370592: śṛṇuyādya abhīkṣṇaśo 'tivegaṃ sa na yāti tamugrapāpayogam|| 59||
+SP0379999: skandapurāṇe saptatriṃśo 'dhyāyaḥ||

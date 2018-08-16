@@ -1,0 +1,67 @@
+Skandapurāṇa Adhyāya 49
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0490010: suśarmovāca|
+SP0490011: tamastamataraṃ ghoraṃ narakaṃ śṛṇu me punaḥ|
+SP0490012: prakāśo yatra naivāsti naiva dṛṣṭiḥ pravartate|| 1||
+SP0490021: patanneva narastatra visaṃjñaḥ kriyate 'śubhaḥ|
+SP0490022: rākṣasairvikṛtākāraistamastena sa cocyate|| 2||
+SP0490031: tatrāsau patito mūḍho vahninā dahyate bhṛśam|
+SP0490032: mṛto vegādutthitaśca dṛṣṭihīno vicetanaḥ|
+SP0490033: chidyate bhidyate caiva rākṣasaiḥ krūrakarmabhiḥ|| 3||
+SP0490041: tasmādapi tathaivārtaḥ so 'nyaṃ deśaṃ prapadyate|
+SP0490042: tatrāpi nigṛhītastaiḥ paśumāreṇa vadhyate|| 4||
+SP0490051: tato bhūyaśca kūpeṣu kṣipto durgeṣvacetanaḥ|
+SP0490052: nimagnaścāgnikārīṣyāṃ niṣkūjanso 'bhijāyate|| 5||
+SP0490061: evaṃ sa yātanā bahvīstvanubhūya suduḥkhitaḥ|
+SP0490062: narakāntamanuprāpya ucchrayeṣvabhipātyate|| 6||
+SP0490071: garbhapātanakāraśca rājyakāmaśca yo bhavet|
+SP0490072: ihaivānarhamāno 'sau bhṛtyo rājavadhe rataḥ|| 7||
+SP0490081: anācāryaśca yaḥ karma ācāryāṇāṃ prapadyate|
+SP0490082: śāstravidyauṣadhīnāṃ ca gadānāmagadaiḥ saha|
+SP0490083: yo vināśayitā kaścidyaḥ praśaṃsati dānavān|| 8||
+SP0490091: upadeśaṃ ca yo dveṣādācāryo na prayacchati|
+SP0490092: sa yāti narakaṃ ghoraṃ dustaraṃ taṃ tamomayam|| 9||
+SP0490101: kṛtaghnaṃ tu samādāya narakāḥ sarva eva te|
+SP0490102: yamaṃ praṇamya bruvate saha tairyamakiṃkaraiḥ|| 10||
+SP0490111: bhagavanna vayaṃ śaktāḥ pāpasyāsya vināśane|
+SP0490112: upāyamanyaṃ paśyasva prasādaṃ kuru naḥ prabho|| 11||
+SP0490121: sa evamukto bhagavānyamaḥ pretādhipastadā|
+SP0490122: sarvadharmārthakuśalānpṛcchate ṛṣisattamān|| 12||
+SP0490131: bhagavantaḥ kathaṃ tvasya kṛtaghnasya durātmanaḥ|
+SP0490132: niṣkṛtiḥ sumahāghorādbhavetpāpasya karmaṇaḥ|| 13||
+SP0490141: tataste ṛṣayaḥ sarve dṛṣṭvā dīrgheṇa cakṣuṣā|
+SP0490142: yamaṃ dharmabhṛtāṃ śreṣṭhamidaṃ vai bruvate vacaḥ|| 14||
+SP0490151: brahmaghne ca surāpe ca core bhagnavrate tathā|
+SP0490152: niṣkṛtirvihitā sadbhiḥ kṛtaghne nāsti niṣkṛtiḥ|| 15||
+SP0490161: tataḥ sa bhagavāndevo mārtaṇḍatanayo varaḥ|
+SP0490162: narakebhyo dadātyājñāṃ sarve yūyamimaṃ naram|
+SP0490163: śodhayiṣyatha gacchadhvaṃ naikā hyasya gatiḥ smṛtā|| 16||
+SP0490171: tataste tasya vacanānnarakāḥ pāpakarmiṇam|
+SP0490172: sarveṣvevānupūrveṇa yātayantyatidāruṇam|| 17||
+SP0490181: bhartṛpiṇḍāpahartā ca pitṛpiṇḍāpahārakaḥ|
+SP0490182: tasmādgṛhītvā vidyāṃ ca dakṣiṇāṃ yo na yacchati|| 18||
+SP0490191: puṣṭaśca yaḥ svaṃ nānveti yaśca taṃ ghātayennaraḥ|
+SP0490192: kṛtasya doṣaṃ vadati sakāmaṃ na karoti ca|
+SP0490193: na smarecca kṛtaṃ yastu āśramānyaśca dūṣayet|| 19||
+SP0490201: na puṣṇāti tathā vāhānāśritāṃścopakāriṇaḥ|
+SP0490202: bhṛtyāṃśca karmaniratāṃstathaiva hitakāriṇaḥ|
+SP0490203: bhāryākarmakarīṇāṃ ca narmāṇi vadate ca yaḥ|| 20||
+SP0490211: na dattaṃ na hutaṃ kiṃ cidamuṣminniti yo vadet|
+SP0490212: sarvāṃstānṛṣibhiḥ sārdhaṃ kṛtaghnānabravīnmanuḥ|| 21||
+SP0490221: kṛtaghnaśca śaṭhaścaiva nāstiko 'cchinnasaṃśayaḥ|
+SP0490222: etānsarve 'bhigacchanti ya ete kīrtitā mayā|| 22||
+SP0490231: utpādakopanetā ca yaśca vidyāṃ prayacchati|
+SP0490232: bhayatrātānnadātā ca pañcaite pitaraḥ smṛtāḥ|| 23||
+SP0490241: yasteṣāṃ doṣavaktā ca abhyasūyaka eva ca|
+SP0490242: tathā drohapravṛttaśca saṃtyajettānnarādhamaḥ|| 24||
+SP0490251: mitradhrugyaśca duṣṭātmā tasya randhrāvakīrtakaḥ|
+SP0490252: kṛtopakāriṇe pūrvaṃ na karoti priyaṃ ca yaḥ|| 25||
+SP0490261: ete sarve narā duṣṭāḥ sarva evāśubhe ratāḥ|
+SP0490262: narakānsaṃprapadyante baddhāḥ pāpena karmaṇā|| 26||
+SP0490271: ete sarve mayā proktā mahānirayagāminaḥ|
+SP0490272: ucchrayāneva gacchanti ye 'nye pāpakṛto janāḥ|| 27||
+SP0490281: ya imaṃ tāmasaṃ ghoraṃ śṛṇuyādvā paṭheta vā|
+SP0490282: adharmācca nivarteta sa gacchedbrahmaṇaḥ padam|| 28||
+SP0499999: skandapurāṇa ekonapañcāśattamo 'dhyāyaḥ||

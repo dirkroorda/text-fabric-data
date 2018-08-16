@@ -1,0 +1,45 @@
+Skandapurāṇa Adhyāya 42
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0420010: suśarmovāca|
+SP0420011: ataḥ paraṃ vaitaraṇīṃ nadīṃ pāpapraṇāśanīm|
+SP0420012: śṛṇu me 'vahitaḥ putra pāpakarmabhayāvahām|| 1||
+SP0420021: nadī vaitaraṇī putra ṭaṅkacchinnataṭāśubhā|
+SP0420022: keśāsthirudhirāpūrṇā mahākṣārarasā tathā|| 2||
+SP0420031: ullumpakairgardabhakairmakaraiḥ kacchapairapi|
+SP0420032: śiśumāraiśca nakraiśca tantukai rākṣasairapi|
+SP0420033: mahādaṃṣṭrairmahākāyaiḥ piśitāśaiḥ samākulā|| 3||
+SP0420041: asipatraiśca tairvṛkṣaistīrajātaiḥ samāvṛtā|
+SP0420042: śaivalena ca dīrgheṇa vitānenābhisaṃvṛtā|| 4||
+SP0420051: tasyāstīre vanaṃ ghoraṃ śarabharkṣasamākulam|
+SP0420052: vyāghradvīpisamākīrṇaṃ siṃhebhanarasaṃkulam|| 5||
+SP0420061: tatra duṣkṛtakarmāṇastairvyāghrādibhirarditāḥ|
+SP0420062: tāṃ nadīṃ sumahāghorāṃ pātyante duḥkhitāstataḥ|| 6||
+SP0420071: tatra te patitā vatsa tantukaiḥ śaivalena ca|
+SP0420072: vitānena ca saṃbaddhā bhakṣyante tairjhaṣādibhiḥ|
+SP0420073: kṣārodakena dahyanto nādayantaśca duḥkhitāḥ|| 7||
+SP0420081: varṣakoṭīrbhṛśaṃ tadvai †yāvatpāpasya saṃkṣayaḥ†|
+SP0420082: tato muktāstūcchrayeṣu pātyante vai punaḥ punaḥ|| 8||
+SP0420091: viśrāntāstatra te gatvā ucchrayānnarakaṃ punaḥ|
+SP0420092: pātyante vivaśā mūḍhā yāvatpāpaṃ kṣayaṃ gatam|| 9||
+SP0420101: uttīrṇaḥ socchrayānetānsaṃsāraṃ pratipadyate|
+SP0420102: tīrṇo 'ntameṣu ca punarnarakeṣu pṛthakpṛthak|| 10||
+SP0420111: koṭirekā tu kālasya vardhate hyuttarottaram|
+SP0420112: ucchrayāṇāṃ tu sarveṣāmekaikasya pṛthakpṛthak|
+SP0420113: sahasraṃ vardhate putra varṣāṇāṃ vai samāsataḥ|| 11||
+SP0420121: ye tu gacchanti taṃ ghoraṃ narakaṃ duṣṭacetasaḥ|
+SP0420122: śṛṇuṣva tānimānsamyagucyamānānmayānagha|| 12||
+SP0420131: saritaṃ yo 'bhiśapate yaścaināmavamanyate|
+SP0420132: yaśca nagnaḥ praviśati striyaṃ yaścātra gacchati|
+SP0420133: niṣṭhīvedatha mūtraṃ vā purīṣaṃ vāpyathotsṛjet|| 13||
+SP0420141: āpaśca harate yastu kṣetrārāmajanopagāḥ|
+SP0420142: apāṃ setuharaścaiva taḍāgasya ca bhedakaḥ|| 14||
+SP0420151: tathā puṣkariṇīnāṃ ca dūṣako yaśca mānavaḥ|
+SP0420152: duṣṭāmaduṣṭāmathavā yaśca nārīṃ pradūṣayet|| 15||
+SP0420161: padminīṃ yaśca harati nāśayedvāpi durmatiḥ|
+SP0420162: pathistho vā gṛhe vāpi sārthānāṃ vā bhayaṃkaraḥ|
+SP0420163: te sarve narakaṃ ghoraṃ prapadyante narādhamāḥ|| 16||
+SP0420171: ya imāmaśubhapraṇāśanīṃ śṛṇuyānnityamaśuddhabādhanīm|
+SP0420172: prayataḥ sa na yāti bhāvanīṃ saritaṃ vaitaraṇīmasaṅginīm|| 17||
+SP0429999: skandapurāṇe dvācatvāriṃśo 'dhyāyaḥ||

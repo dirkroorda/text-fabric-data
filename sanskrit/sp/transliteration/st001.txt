@@ -1,0 +1,62 @@
+Skandapurāṇa Adhyāya 1
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0010011: namaḥ paramadevāya traiguṇyāvijitātmane|
+SP0010012: sarvato yogarūpāya saṃsārābhāvahetave|| 1||
+SP0010021: sthitisaṃrodhasargāṇāṃ hetave 'ntaḥprasāriṇe|
+SP0010022: ṣaḍviṃśāya pradhānāya mahādevāya dhīmate|| 2||
+SP0010031: prajāpatermahākṣetre gaṅgākālindisaṃgame|
+SP0010032: prayāge parame puṇye brahmaṇo lokavartmani|| 3||
+SP0010041: munayaḥ saṃśitātmānastapasā kṣīṇakalmaṣāḥ|
+SP0010042: tīrthasaṃplavanārthāya paurṇamāsyāṃ kṛtāhnikāḥ|| 4||
+SP0010051: paurāṇikamapaśyanta sūtaṃ satyaparāyaṇam|
+SP0010052: snātvā tasminmahātīrthe praṇāmārthamupāgatam|| 5||
+SP0010061: dṛṣṭvā te sūtamāyāntamṛṣayo hṛṣṭamānasāḥ|
+SP0010062: āśāsyāsanasaṃveśaṃ tadyogyaṃ samakalpayan|| 6||
+SP0010071: sa praṇamya ca tānsarvānsūtastānmunipuṃgavān|
+SP0010072: pradattamāsanaṃ bheje sarvadharmasamanvitaḥ|| 7||
+SP0010081: tamāsīnamapṛcchanta munayastapasaidhitāḥ|
+SP0010082: brahmasattre purā sādho naimiśāraṇyavāsinām|| 8||
+SP0010091: kathitaṃ bhāratākhyānaṃ purāṇaṃ ca paraṃ tvayā|
+SP0010092: tena naḥ pratibhāsi tvaṃ sākṣātsatyavatīsutaḥ|| 9||
+SP0010101: sarvāgamaparārthajñaḥ satyadharmaparāyaṇaḥ|
+SP0010102: dvijapūjārato nityaṃ tena pṛcchāṃ tvamarhasi|| 10||
+SP0010111: bhāratākhyānasadṛśaṃ purāṇādyadviśiṣyate|
+SP0010112: tattvā pṛcchāma vai janma kārttikeyasya dhīmataḥ|| 11||
+SP0010121: ime hi munayaḥ sarve tvadupāstiparāyaṇāḥ|
+SP0010122: skandasaṃbhavaśuśrūṣāsaṃjātautsukyamānasāḥ|| 12||
+SP0010131: evamuktastadā sūtaḥ saṃsiddhairmunipuṃgavaiḥ|
+SP0010132: provācedaṃ munīnsarvānvaco bhūtārthavācakam|| 13||
+SP0010141: śṛṇudhvaṃ munayaḥ sarve kārttikeyasya sambhavam|
+SP0010142: brahmaṇyatvaṃ samāhātmyaṃ vīryaṃ ca tridaśādhikam|| 14||
+SP0010151: mumukṣayā paraṃ sthānaṃ yāte śukamahātmani|
+SP0010152: sutaśokābhisaṃtapto vyāsastryambakamaikṣata|| 15||
+SP0010161: dṛṣṭvaiva sa maheśānaṃ vyāso 'bhūdvigatavyathaḥ|
+SP0010162: vicaransa tadā lokānmuniḥ satyavatīsutaḥ|| 16||
+SP0010171: meruśṛṅge 'tha dadṛśe brahmaṇaḥ sutamagrajam|
+SP0010172: sanatkumāraṃ varadaṃ yogaiśvaryasamanvitam|| 17||
+SP0010181: vimāne ravisaṃkāśe tiṣṭhantamanalaprabham|
+SP0010182: munibhiryogasaṃsiddhaistapoyuktairmahātmabhiḥ|| 18||
+SP0010191: vedavedāṅgatattvajñaiḥ sarvadharmāgamānvitaiḥ|
+SP0010192: sakalāvāptavidyaistu caturvaktramivāvṛtam|| 19||
+SP0010201: dṛṣṭvā taṃ sumahātmānaṃ vyāso munimathāsthitam|
+SP0010202: vavande parayā bhaktyā sākṣādiva pitāmaham|| 20||
+SP0010211: brahmasūnuratha vyāsaṃ samāyātaṃ mahaujasam|
+SP0010212: pariṣvajya paraṃ premṇā provāca vacanaṃ śubham|| 21||
+SP0010221: diṣṭyā tvamasi dharmajña prasādātpārameśvarāt|
+SP0010222: apetaśokaḥ samprāptaḥ pṛcchasva pravadāmyaham|| 22||
+SP0010231: śrutvātha vacanaṃ sūnorbrahmaṇo munipuṃgavaḥ|
+SP0010232: idamāha vaco viprāściraṃ yaddhṛdaye sthitam|| 23||
+SP0010241: kumārasya kathaṃ janma kārttikeyasya dhīmataḥ|
+SP0010242: kiṃnimittaṃ kuto vāsya icchāmyetaddhi veditum|| 24||
+SP0010251: kathaṃ rudrasutaścāsau vahnigaṅgāsutaḥ katham|
+SP0010252: umāyāstanayaścaiva svāhāyāśca kathaṃ punaḥ|
+SP0010253: suparṇyāścātha mātṝṇāṃ kṛttikānāṃ kathaṃ ca saḥ|| 25||
+SP0010261: kaścāsau pūrvamutpannaḥ kiṃtapāḥ kaśca vikramaḥ|
+SP0010262: bhūtasaṃmohanaṃ hyetatkathayasva yathātatham|| 26||
+SP0010270: sūta uvāca|
+SP0010271: evaṃ sa pṛṣṭastejasvī brahmaṇaḥ putrasattamaḥ|
+SP0010272: uvāca sarvaṃ sarvajño vyāsāyākliṣṭakāriṇe|
+SP0010273: tacchṛṇudhvaṃ yathātattvaṃ kīrtyamānaṃ mayānaghāḥ|| 27||
+SP0019999: iti skandapurāṇe prathamo 'dhyāyaḥ||

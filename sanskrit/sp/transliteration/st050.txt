@@ -1,0 +1,98 @@
+Skandapurāṇa Adhyāya 50
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0500010: suśarmovāca|
+SP0500011: ataḥ paraṃ pravakṣyāmi saṃsāraparivartanam|
+SP0500012: yathā vai narakāttīrṇāḥ saṃsaranti samāsataḥ|| 1||
+SP0500021: prathame narake proktā ye mayā pāpakarmiṇaḥ|
+SP0500022: śeṣeṇa karmaṇā te tu jāyante kṛmiyoniṣu|| 2||
+SP0500031: kṛmiyonau parāvṛttāḥ sahasrāṇāṃ śataṃ yadā|
+SP0500032: tataḥ punarmarkaṭāste jāyante 'tha tarakṣavaḥ|| 3||
+SP0500041: tatra tāvatparāvṛttā jāyante goṣu te yadā|
+SP0500042: tadā tatra śatenaiva janmanāṃ śeṣatastataḥ|
+SP0500043: mānuṣeṣūpajāyante kutsitāsveva yoniṣu|| 4||
+SP0500051: tatra te kurvate bhūyo yadi kiṃcinna kilbiṣam|
+SP0500052: tato viśuddhāṃ jātiṃ te punareva labhantyuta|
+SP0500053: na ca bhūyo 'pi te ghoraṃ saṃsāraṃ prāpnuvanti vai|| 5||
+SP0500061: dvitīye ye mayā proktāste muktāḥ śeṣakarmaṇā|
+SP0500062: kṛmikīṭeṣu jāyante sahasrāṇāṃ śatāni ṣaṭ|| 6||
+SP0500071: tathā śatasahasraṃ ca śatānāṃ te punargatāḥ|
+SP0500072: matsayonau prasūyante tāvadeva na saṃśayaḥ|| 7||
+SP0500081: tato vyāghrāśca ṛkṣāśca tato gotvamavāpyate|
+SP0500082: mānuṣeṣūpapadyante kutsitāḥ svena karmaṇā|| 8||
+SP0500091: tṛtīye tvatha ye proktā mayā duṣkṛtakāriṇaḥ|
+SP0500092: te muktāḥ karmaṇastasmāccheṣeṇa samaveṣṭitāḥ|
+SP0500093: kṛmikīṭeṣu jāyante sahasrāṇāṃ śatāni ṣaṭ|| 9||
+SP0500101: tathaiva daśa cānyāni pakṣiṇastāvadeva ca|
+SP0500102: tataḥ siṃhāśca sarpāśca gāvaḥ paścācca mānuṣāḥ|| 10||
+SP0500111: caturthe tvatha ye proktā mayā duṣkṛtakāriṇaḥ|
+SP0500112: te sarve śeṣavantastu jāyante kṛmiyoniṣu|| 11||
+SP0500121: sahasrāṇāṃ śatānyaṣṭau tathā cānyāni ṣoḍaśa|
+SP0500122: yonīnāṃ hi tato bhūyo jāyante te tato mṛgāḥ|| 12||
+SP0500131: mṛgabhāvādvinirmuktā jāyante ca punaḥ kharāḥ|
+SP0500132: tato 'jā gavayāścāpi gāvo mānuṣyatāntataḥ|| 13||
+SP0500141: pañcame ye mayā proktāste 'pi śeṣeṇa karmaṇā|
+SP0500142: kṛmikīṭeṣu jāyante janmanāṃ koṭimeva hi|| 14||
+SP0500151: hastiyonau ca tāvaddhi uṣṭreṣvaśveṣu caiva hi|
+SP0500152: tato gotvaṃ samāsādya mānuṣyaṃ prāpnuvanti te|| 15||
+SP0500161: ṣaṣṭhāccaiva vinirmuktāstataḥ śeṣeṇa karmaṇā|
+SP0500162: jāyante kṛmikīṭeṣu janmanāṃ dviguṇena hi|| 16||
+SP0500171: koṭimekāṃ tato yūkā tato matso 'tha sūkaraḥ|
+SP0500172: mahiṣatvaṃ tataḥ prāpya gotvājjāyeta mānuṣaḥ|
+SP0500173: mānuṣatve kutsitaśca vyādhitaścaiva jāyate|| 17||
+SP0500181: saptamācca vinirmuktaḥ kṛmikīṭeṣu jāyate|
+SP0500182: koṭitrayaṃ tāvadeva vṛkṣatvamadhigamya ca|| 18||
+SP0500191: tato latā tato gulmastato hastī ca jāyate|
+SP0500192: gotvaṃ ca samanuprāpya jāyate mānuṣastataḥ|| 19||
+SP0500201: aṣṭamācca vinirmukto baddhaḥ śeṣeṇa karmaṇā|
+SP0500202: jāyate kṛmikīṭeṣu dve koṭī dviguṇe ca saḥ|| 20||
+SP0500211: tataścauṣadhibhāvena vīrutsu ca kuśeṣu ca|
+SP0500212: tato gotvādvinirmukto jāyate kutsito naraḥ|| 21||
+SP0500221: navamādapi cottīrṇo baddhaḥ śeṣeṇa karmaṇā|
+SP0500222: jāyate kṛmikīṭeṣu pañcakoṭīstataḥ khagaḥ|| 22||
+SP0500231: tato matsaśca tāvadvai tāvadeva sarīsṛpaḥ|
+SP0500232: śvā tatastāvadevātha tato bhavati kiṃnaraḥ|| 23||
+SP0500241: kiṃnaratvādvinirmuktastato goṣūpajāyate|
+SP0500242: tato goyoninirmukto mānuṣeṣūpajāyate|| 24||
+SP0500251: daśamādapi cottīrṇaḥ ṣaṭkoṭīrjanmanāṃ kṛmiḥ|
+SP0500252: śeṣeṇa karmaṇā jātastato bhavati vānaraḥ|| 25||
+SP0500261: vānarastāvadeveha tāvadeva ca kukkuṭaḥ|
+SP0500262: tāvadeva ca kākastu jīvaṃjīvaka eva ca|| 26||
+SP0500271: vṛkṣadārakamārjārapipilīkā ca jāyate|
+SP0500272: tato goṣu prajāto 'sau mānuṣeṣūpajāyate|| 27||
+SP0500281: mahārauravanirmuktaḥ saptakoṭīḥ suduḥkhitaḥ|
+SP0500282: janmanāṃ kṛmikīṭeṣu tato matsatvamaśnute|| 28||
+SP0500291: tataḥ śvā gardabhaścaiva bhaināśī śuka eva ca|
+SP0500292: tato bhavati gauścāpi tataḥ ṣaṇḍhaḥ prajāyate|| 29||
+SP0500301: tamonarakanirmuktastvaṣṭakoṭīḥ suduḥkhitaḥ|
+SP0500302: janmanāṃ prāpnute janturviṣṭhāyāṃ kṛmiyoniṣu|| 30||
+SP0500311: tataḥ śvā jāyate bhūyaścakrāhvaśca punaḥ punaḥ|
+SP0500312: tato maṇḍūkatāṃ prāpya jāyate mṛgapakṣiṣu|| 31||
+SP0500321: jāyate kiṃnaraścāpi dvīpī śarabha eva ca|
+SP0500322: tato gotvaṃ samāsādya mānuṣatvamavāpnute|| 32||
+SP0500331: tamonarakanirmuktaḥ śeṣeṇaiva hi karmaṇā|
+SP0500332: jāyate kṛmikīṭeṣu navakoṭīḥ sa janmanām|| 33||
+SP0500341: tato bhavati kākaśca bhāsaścaiva sa jāyate|
+SP0500342: vāntāśī ca tataḥ pakṣī ulūkaśca tataḥ punaḥ|| 34||
+SP0500351: punarvṛkṣaśca gulmaśca tato bhavati vai mṛgaḥ|
+SP0500352: tato gaurmanujaścāpi tatra garbhe sa vai mṛtaḥ|| 35||
+SP0500361: punaḥ punarjāyamānaḥ sahasrāṇāṃ śataṃ sa tu|
+SP0500362: vyādhitaḥ kutsitaścaiva jāyate sa naraḥ punaḥ|| 36||
+SP0500371: yastu sarvānimānprāpya narakāniha jāyate|
+SP0500372: sa yoniṣu samastāsu sarvasaṃsāramaśnute|| 37||
+SP0500381: yadi mānuṣyatāṃ yāti kadācitkālaparyayāt|
+SP0500382: tatrāpi kutsitāṃ yoniṃ bhūyo bhūyaḥ prapadyate|| 38||
+SP0500391: aniṣṭaḥ sarvabhūtānāṃ duḥkhito vyādhitastathā|
+SP0500392: vikṛtaṃ rūpamāpnoti karmaṇā svena dūṣitaḥ|| 39||
+SP0500400: suśarmovāca|
+SP0500401: etatte kathitaṃ sarvaṃ samāsātputra sarvaśaḥ|
+SP0500402: narakāṇāṃ satattvaṃ ca kramabhedau yathāgati|| 40||
+SP0500410: sanatkumāra uvāca|
+SP0500411: ya imaṃ śṛṇuyādyuktaḥ sadā parvasu parvasu|
+SP0500412: śrāvayedvā dvijānsamyaksarvapāpaiḥ pramucyate|| 41||
+SP0500421: dharmyaṃ yaśasyamāyuṣyaṃ svargyaṃ sarvārthasādhakam|
+SP0500422: śrāvyaṃ ca paṭhitavyaṃ ca satataṃ bhūtimicchatā|| 42||
+SP0500431: idaṃ tu sarvārthasukhāvahaṃ dhruvaṃ mahānubhāvaṃ sugatipradaṃ śubham|
+SP0500432: sadaiva vipreṇa samāhitātmanā adhītya dhāryaṃ śrutisaṃmitaṃ dhruvam|| 43||
+SP0509999: skandapurāṇe pañcāśo 'dhyāyaḥ||

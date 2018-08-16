@@ -1,0 +1,148 @@
+Skandapurāṇa Adhyāya 25
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., and Harunaga Isaacson, eds. The Skandapurāṇa. Vol. IIA. Adhyāyas 26-31.14. The Vārāṇasī Cycle. Critical Edition with an Introduction, English Synopsis & Philological and Historical Commentary. Groningen: Egbert Forsten, 2005.
+
+SP0250010: sanatkumāra uvāca|
+SP0250011: tatastatrāgatāndevāndevatādhipatirbhavaḥ|
+SP0250012: marutaḥ prāha sampūjya kanyārthaṃ sadasatpatiḥ|| 1||
+SP0250021: maruto ye mahāvegā mahāsattvā mahaujasaḥ|
+SP0250022: āmantrya nāmnā tānīśaḥ saśakraḥ sapitāmahaḥ|| 2||
+SP0250031: yuṣmākaṃ suyaśā kanyā subhagā divyarūpiṇī|
+SP0250032: dātumarhatha tāṃ subhrūṃ snuṣāṃ mahyaṃ mahābalāḥ|| 3||
+SP0250040: maruta ūcuḥ|
+SP0250041: tvamasmākaṃ ca tasyāśca sarvasya jagatastathā|
+SP0250042: prabhaviṣṇustrilokeśa na tu yācitumarhasi|| 4||
+SP0250051: tvayaiva deyā grāhyā ca tvaṃ no gatiranuttamā|
+SP0250052: mā naḥ parāniveśāna yācanena vibhāvaya|| 5||
+SP0250061: pitā naḥ kaśyapaḥ śrīmānmarīciśca pitāmahaḥ|
+SP0250062: pitāmahapitā brahmā tasyāpi tvaṃ pitāmahaḥ|
+SP0250063: sa tvaṃ pitāmaho 'smākaṃ na parānkartumarhasi|| 6||
+SP0250071: sa evamukto deveśo marudbhirdevasattamaiḥ|
+SP0250072: suyaśāṃ marutāṃ kanyāmānayāmāsa tatkṣaṇāt|| 7||
+SP0250081: svayaṃ hotāsya tatrāsīdbrahmā lokapitāmahaḥ|
+SP0250082: kaśyapaśca tathodgātā atriḥ sāma svayaṃ jagau|
+SP0250083: atharvāṅgirasau devau brahmatvamapi cakratuḥ|| 8||
+SP0250091: nāradaḥ parvataścaiva citrasenaśca gāyanaḥ|
+SP0250092: viśvāvasū ruciścaiva hāhā hūhū tathaiva ca|| 9||
+SP0250101: tathā śāliśirā yaśca viśruto gaṇḍamaṇḍakaḥ|
+SP0250102: ītiścaivendravāhaśca yajñavāho 'tha dakṣiṇaḥ|
+SP0250103: ete cānye ca gandharvā jagurmadhurakaṇṭhinaḥ|| 10||
+SP0250111: urvaśī caiva rambhā ca ghṛtācī pūrvacittyapi|
+SP0250112: tilottamā ca viśvācī anyāścāpsarasaḥ śubhāḥ|
+SP0250113: anṛtyanta mahābhāgā nṛttaṃ suramanoharam|| 11||
+SP0250120: sanatkumāra uvāca|
+SP0250121: sa evamabhavadvyāsa vivāhastasya dhīmataḥ|
+SP0250122: nandino gaṇamukhyasya anaupamyo hyaninditaḥ|| 12||
+SP0250131: tataḥ sa tu kṛtodvāho nandī gatvā mahāmanāḥ|
+SP0250132: pādānvavande devasya devyā brahmaṇa eva ca|
+SP0250133: śilādasya ca lokeśaḥ śriyā paramayā yutaḥ|| 13||
+SP0250140: deva uvāca|
+SP0250141: varaṃ vṛṇīṣva putra tvaṃ snuṣā ceyaṃ tava priyā|
+SP0250142: varaṃ dadāmi te vatsa anayā sahamīpsitam|| 14||
+SP0250150: nandyuvāca|
+SP0250151: bhagavanyadi tuṣṭo 'si tvayi bhaktirdṛḍhāstu me|
+SP0250152: sadā ca tuṣṭo bhava me sāmbaḥ saha gaṇeśvaraiḥ|| 15||
+SP0250161: pitaraṃ caiva me deva utpādakamimaṃ prabho|
+SP0250162: anugraheṇa yuktena yoktumarhasi kāmada|| 16||
+SP0250170: deva uvāca|
+SP0250171: sadāhaṃ tava nandīśa sutuṣṭaḥ sagaṇeśvaraḥ|
+SP0250172: pārvatyā sahito dhīmannidaṃ ca śṛṇu me vacaḥ|| 17||
+SP0250181: sadeṣṭaśca variṣṭhaśca paramaiśvaryasaṃyutaḥ|
+SP0250182: mahāyogī maheṣvāso mahābalaparākramaḥ|| 18||
+SP0250191: ajayyaścaiva jetā ca pūjyejyaśca sadā bhava|
+SP0250192: ahaṃ yatra bhavāṃstatra yatra tvaṃ tatra cāpyaham|| 19||
+SP0250201: ayaṃ ca te pitā vipraḥ paramaiśvaryasaṃyutaḥ|
+SP0250202: bhaviṣyati gaṇādhyakṣo mahāgaṇapatirmama|| 20||
+SP0250211: parvataṃ cāsya vaibhrājaṃ kāmagaṃ sarvakāñcanam|
+SP0250212: upetaṃ bhavanairdivyaiḥ prayacchāmi janāvṛtam|
+SP0250213: tenāyaṃ sarvalokeṣu cariṣyati yathepsitam|| 21||
+SP0250221: sthānaṃ śrīparvate cāsya bhaviṣyati supūjitam|
+SP0250222: bhṛgau tasmiṃśca yaḥ prāṇāṃstyakṣyate vai sudhārmikaḥ|
+SP0250223: sa kāmacārī vaibhrāje gaṇapo 'sya bhaviṣyati|| 22||
+SP0250230: sanatkumāra uvāca|
+SP0250231: tato devī mahābhāgā śailāderadadadvaram|
+SP0250232: so 'bravīttvayi bhaktirme sadaivānapagā bhavet|| 23||
+SP0250241: tato marutsutā caiva ubhābhyāmapi coditā|
+SP0250242: varaṃ vṛṇu yatheṣṭaṃ vai tāvidaṃ pratyuvāca ha|| 24||
+SP0250251: yuvayorastu bhaktirme tathā bhartari caiva hi|
+SP0250252: nityaṃ cānapagā syānme dharme ca matiruttamā|
+SP0250253: etadicchāmi deveśau varaṃ varasahasradau|| 25||
+SP0250260: sanatkumāra uvāca|
+SP0250261: tatastāvevametatte bhaviteti śucismite|
+SP0250262: ūcaturmuditau devau snuṣāṃ tāṃ varavarṇinīm|| 26||
+SP0250271: gaṇāścāsya tato 'bhyetya sarve devapriyepsayā|
+SP0250272: varaṃ dadurmahāsattvāḥ sa vavre kāñcanaprabhaḥ|| 27||
+SP0250281: yuṣmāsu mama bhaktiśca aiśvaryaṃ cāpi saṃmatam|
+SP0250282: vaśyāśca yūyaṃ sarve me priyo yuṣmākameva ca|| 28||
+SP0250290: gaṇā ūcuḥ|
+SP0250291: bhavānmantānumantā ca gatirāgatireva ca|
+SP0250292: asmākamīśaḥ sarveṣāṃ devānāmapi ceśvaraḥ|| 29||
+SP0250301: kuṣmāṇḍānāṃ variṣṭhaśca rudrāṇāṃ tvaṃ mahābalaḥ|
+SP0250302: ītīnāṃ dvārapālaśca pramathānāṃ tathaiva ca|| 30||
+SP0250311: mahābalo mahāyogī senānīstvaṃ hi no mataḥ|
+SP0250312: tvaṃ bhūto bhūtanetā ca nāyako 'tha vināyakaḥ|| 31||
+SP0250321: grahāṇāmadhipaścaiva ugradaṇḍadharastathā|
+SP0250322: tvamagrayodhī śatrughnastvaṃ vīrastvaṃ divaspatiḥ|| 32||
+SP0250331: mahānubhāvastvaṃ caiva kṣīrodanilayaśca ha|
+SP0250332: japyeśvaraniketaśca japyeśvaravibhāvitaḥ|| 33||
+SP0250341: bhāvanaḥ sarvabhūtānāṃ varado varadārcitaḥ|
+SP0250342: asmākaṃ varadaścaiva bhava bhūteśvara prabho|| 34||
+SP0250350: sanatkumāra uvāca|
+SP0250351: sa evaṃ gaṇapaiḥ sarvaiḥ stuto nandīśvaro vibhuḥ|
+SP0250352: uvāca praṇataḥ sarvānbrūta kiṃ karavāṇi vaḥ|| 35||
+SP0250361: ta evamuktā gaṇapāḥ sarva eva mahābalāḥ|
+SP0250362: ūcustaṃ divyabhāvajñā devadevasya saṃnidhau|| 36||
+SP0250371: tvamasmākaṃ gaṇādhyakṣaḥ kṛto devena śambhunā|
+SP0250372: asmābhiścābhiṣiktastvaṃ nāyako dharmadāyakaḥ|| 37||
+SP0250381: sa tvaṃ śivaśca saumyaśca guṇavānaguṇeṣvapi|
+SP0250382: kṣamāśaucadamopeto bhava naḥ priyakṛtsadā|| 38||
+SP0250390: sanatkumāra uvāca|  
+SP0250391: evamuktastadā sarvānpraṇamya bahumānataḥ|
+SP0250392: śirasyañjalimādhāya gaṇapānastuvattadā|| 39||
+SP0250400: nandyuvāca|
+SP0250401: namo vaḥ sarvabhūtebhyo namo yogibhya eva ca|
+SP0250402: namaścāpyaniketebhyo yogīśebhyo namastathā|| 40||
+SP0250411: namaḥ kāmacarebhyaśca nama ugrebhya eva ca|
+SP0250412: mṛtyubhyaśca yamebhyaśca kālebhyaśca namo namaḥ|| 41||
+SP0250421: namaḥ kāñcanamālebhyaḥ sarvadharmibhya eva ca|
+SP0250422: namo vo vadhakebhyaśca avadhyebhyastathaiva ca|| 42||
+SP0250431: namaḥ paramayogibhyo jaṭibhyaśca namo namaḥ|
+SP0250432: namo vo 'dṛśyarūpebhyo vikṛtebhyastathaiva ca|| 43||
+SP0250441: namo valkalavāsebhyaḥ kṛttivāsebhya eva ca|
+SP0250442: namaḥ śvetāmbarasragbhyaścitrasragbhyo namo namaḥ|| 44||
+SP0250451: dhāvadbhyaśca dravadbhyaśca prasthitebhyo namo namaḥ|
+SP0250452: namo munibhyo gāyadbhyo japadbhyaśca namo namaḥ|| 45||
+SP0250461: namaḥ śarabharūpebhyaḥ śatarūpebhya eva ca|
+SP0250462: namaḥ parvatavāsebhyo vyāghrarūpebhya eva ca|| 46||
+SP0250471: namo mārjārarūpebhyaḥ kākakokebhya eva ca|
+SP0250472: namo daivatarūpebhyaḥ pavanebhyastathaiva ca|| 47||
+SP0250481: namo 'gnibhyastathādbhyaśca varuṇebhyastathaiva ca|
+SP0250482: namo dhaneśarūpebhyaḥ sarvarūpibhya eva ca|| 48||
+SP0250491: namaścodaravaktrebhyaḥ sarvavaktrebhya eva ca|
+SP0250492: namo vāmanarūpebhyo vāmarūpebhya eva ca|| 49||
+SP0250501: devāsuramanuṣyāṇāmāpyāyibhyo namo namaḥ|
+SP0250502: namo vaḥ sarvabhūtānāṃ namo vaḥ sarvataḥ śubhāḥ|| 50||
+SP0250511: grahebhyaśca namo vo 'stu mokṣebhyaśca namastathā|
+SP0250512: śubhebhyaśca namo vo 'stu aśubhebhyastathaiva ca|
+SP0250513: mama saumyāḥ śivāścaiva bhavantu gaṇanāyakāḥ|| 51||
+SP0250521: iti stutā gaṇapatayo mahābalāḥ śubhairvacobhiḥ suraśatrunāśanāḥ|
+SP0250522: diśantu me sukhamatulaṃ sukhapradā balaṃ ca vīryaṃ sthiratāṃ ca saṃyuge|| 52||
+SP0250531: tapo 'kṣayaṃ sthānamathātulāṃ gatiṃ yaśastathāgryaṃ bahu dharmanityatām|
+SP0250532: diśantu sarvaṃ manasepsitaṃ ca me sureśvarāḥ puṣṭimanuttamāṃ tathā|| 53||
+SP0250540: sanatkumāra uvāca|
+SP0250541: imau nandigaṇendrāṇāṃ stavau yo 'dhyeti nityaśaḥ|
+SP0250542: so 'śvamedhāvabhṛthavatsarvapāpaiḥ pramucyate|| 54||
+SP0250551: sandhyāyāmaparasyāṃ tu japanpāpaṃ divākṛtam|
+SP0250552: pūrvasyāṃ saṃtyajedvāpi sarvarātrikṛtaṃ japan|| 55||
+SP0250560: sanatkumāra uvāca|
+SP0250561: tataste gaṇapāḥ sarve saṃstutāstena dhīmatā|
+SP0250562: nisṛṣṭāśca tadā jagmuḥ praṇipatya vṛṣadhvajam|| 56||
+SP0250571: devāśca sarvalokāśca tato devaḥ svayaṃ prabhuḥ|
+SP0250572: sṛṣṭvā nandīśvaragṛhaṃ pradāya ca mahāmanāḥ|
+SP0250573: īpsitaṃ saha devyā vai jagāma sthānamavyayam|| 57||
+SP0250581: ya imaṃ nandino janma varadānaṃ tathaiva ca|
+SP0250582: abhiṣekaṃ vivāhaṃ ca paṭhedvā śrāvayīta vā|
+SP0250583: brāhmaṇaḥ sa mṛto yāti nandīśvarasalokatām|| 58||
+SP0250591: yo niyatastu paṭhetprayatātmā sarvamimaṃ praṇato bhavabhaktyā|
+SP0250592: so 'pi gataḥ paralokavicārī nandisamo 'nucaro hi mama syāt|| 59||
+SP0259999: iti skandapurāṇe pañcaviṃśatimo 'dhyāyaḥ||

@@ -1,0 +1,42 @@
+Skandapurāṇa Adhyāya 16
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0160010: vyāsa uvāca|
+SP0160011: varānsa labdhvā bhagavānvasiṣṭho 'smatpitāmahaḥ|
+SP0160012: kaṃ putraṃ janayāmāsa ātmanaḥ sadṛśadyutim|| 1||
+SP0160020: sanatkumāra uvāca|
+SP0160021: tenāsau varadānena devadevasya śūlinaḥ|
+SP0160022: arundhatyāmajanayattapoyogabalānvitam|
+SP0160023: brahmiṣṭhaṃ śaktināmānaṃ putraṃ putraśatāgrajam|| 2||
+SP0160031: tasya bālyātprabhṛtyeva vāsiṣṭhasya mahātmanaḥ|
+SP0160032: pareṇa cetasā bhaktirabhavadgovṛṣadhvaje|| 3||
+SP0160041: sa kadācidapatyārthamārādhayadumāpatim|
+SP0160042: tasya tuṣṭo mahādevo varado 'smītyabhāṣata|| 4||
+SP0160051: atha dṛṣṭvā tamīśānamidamāhānatānanaḥ|
+SP0160052: kena stoṣyāmi te deva yastvaṃ sarvajagatpatiḥ|
+SP0160053: sarvāndhārayase lokānātmanā samayādvibho|| 5||
+SP0160061: tvameva bhoktā bhojyaṃ ca kartā kāryaṃ tathā kriyā|
+SP0160062: utpādakastathotpādya utpattiścaiva sarvaśaḥ|| 6||
+SP0160071: ātmānaṃ putranāmānaṃ mama tulyaṃ guṇairvibho|
+SP0160072: icchāmi dattaṃ deveśa eṣa me dīyatāṃ varaḥ|| 7||
+SP0160080: sanatkumāra uvāca|
+SP0160081: tamevaṃvādinaṃ devaḥ prahasya vadatāṃ varaḥ|
+SP0160082: uvāca vacasā vyāsa diśaḥ sarvā vinādayan|| 8||
+SP0160091: tvayāhaṃ yācitaḥ śakte sa ca te saṃbhaviṣyati|
+SP0160092: tvatsamaḥ sarvavedajñastvadīyo munipuṃgava|| 9||
+SP0160101: bījātmā ca tathodbhūtaḥ svayamevāṅkurātmanā|
+SP0160102: bījātmanā na bhavati pariṇāmāntaraṃ gataḥ|| 10||
+SP0160111: evaṃ sa ātmanātmā vaḥ saṃbhūto 'patyasaṃjñitaḥ|
+SP0160112: svenātmanā na bhavitā pariṇāmāntaraṃ gataḥ|| 11||
+SP0160120: sanatkumāra uvāca|
+SP0160121: evamuktvā tu taṃ devaḥ prahasya ca nirīkṣya ca|
+SP0160122: jagāma sahasā yogī adṛśyatvamatidyutiḥ|| 12||
+SP0160131: tasmingate mahādeve śaktistava pitāmahaḥ|
+SP0160132: vacastatpariniścintya evamevetyamanyata|| 13||
+SP0160141: atha kāle 'timahati samatīte śubhavrate|
+SP0160142: tapasā bhāvitaścāpi mahatāgnisamaprabhaḥ|
+SP0160143: adṛśyantyāṃ mahāprajña ādadhe garbhamuttamam|| 14||
+SP0160151: tasyāmāpannasattvāyāṃ rājā kalmāṣapādṛṣim|
+SP0160152: bhakṣayāmāsa saṃrabdho rakṣasā hṛtacetanaḥ|| 15||
+SP0169999: iti skandapurāṇe ṣoḍaśo 'dhyāyaḥ||

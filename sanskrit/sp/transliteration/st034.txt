@@ -1,0 +1,288 @@
+Skandapurāṇa Adhyāya 34
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0340010: sanatkumāra uvāca|
+SP0340011: evaṃ sa bhagavānvyāsa meghamutsṛjya devapaḥ|
+SP0340012: vṛṣavāhaḥ samabhavadyathā te kathitaṃ mayā|| 1||
+SP0340020: vyāsa uvāca|
+SP0340021: kathaṃ bhagavatī devī kṛṣṇā gauratvamāgatā|
+SP0340022: kāraṇaṃ tatra kiṃ cāpi etadicchāmi veditum|| 2||
+SP0340030: sanatkumāra uvāca|
+SP0340031: āsīnau mandaraprasthe umākāmāṅganāśanau|
+SP0340032: rematuḥ pramathaiḥ sārdhaṃ nānārūpadharaistadā|| 3||
+SP0340041: atha devena tatrasthā krīḍatā sā kathāntare|
+SP0340042: kṛṣṇetyuktā bhagavatī sā cukopa manasvinī|| 4||
+SP0340051: kupitāṃ tāṃ mahādevaḥ pariṣvajya mahādyutiḥ|
+SP0340052: uvācāsakṛdavyagraḥ sāntvayanmadhuraṃ vacaḥ|| 5||
+SP0340060: deva uvāca|
+SP0340061: devi mā krodhamanaghe kṛthā viśvasṛgavyaye|
+SP0340062: hāsyaṃ prakṛtametanme kṛṣṇeti samudāhṛtam|| 6||
+SP0340071: adyaprabhṛti nānena vacasāhaṃ śubhānane|
+SP0340072: vakṣyāmi tvāṃ tyaja krodhaṃ tāmuvāca pinākadhṛk|| 7||
+SP0340080: sanatkumāra uvāca|
+SP0340081: tamevaṃvādinaṃ devaṃ śrutvā girivarātmajā|
+SP0340082: agamatparamāṃ tuṣṭimidaṃ covāca susvaram|| 8||
+SP0340090: devyuvāca|
+SP0340091: tvaṃ guruḥ sarvalokasya pūjyo bhartā mamaiva ca|
+SP0340092: - - - - - - - -  - - - - - - - -|| 9||
+SP0340101: iti teneṣṭavacasā tuṣṭo devyāḥ pinākadhṛk|
+SP0340102: vareṇa cchandayāmāsa tayaiṣo 'bhyarthito varaḥ|| 10||
+SP0340111: yadā yadā vadasi māṃ kṛṣṇeti vadatāṃ vara|
+SP0340112: tadā tadā me hṛdayaṃ vidīryata iva prabho|| 11||
+SP0340121: etadarthamahaṃ pādau praṇamya tava śaṃkara|
+SP0340122: vijñāpayāmi sarveśa gauravarṇamanuttamam|
+SP0340123: vijñāpayāmi putraśca yathā mama bhavediti|| 12||
+SP0340131: yadi tuṣṭo 'si me deva yadi deyo varaśca me|
+SP0340132: tapaścaritumicchāmi tadanujñātumarhasi|| 13||
+SP0340141: tato haraḥ prahasyaināmuvāca tapasā hi kim|
+SP0340142: tapasā kāṅkṣitaṃ yatte tadadyaiva dadāni te|| 14||
+SP0340151: ityuktā girijā prāha tapte tapasi puṣkale|
+SP0340152: tvameva dātā bhagavanvarānmahyaṃ yathepsitān|| 15||
+SP0340161: tadā vijñāpitenaivaṃ sarvakāryārthadarśinā|
+SP0340162: anujñātā satī bhaktyā cakāra triḥ pradakṣiṇam|| 16||
+SP0340171: caraṇau ca namaskṛtya śirasāmitatejasaḥ|
+SP0340172: prasthitā viyadutpatya giriṃ girivarātmajā|| 17||
+SP0340181: sā kṣaṇādāgatā devī himavantaṃ nagottamam|
+SP0340182: dadarśa ṛṣimukhyānāmāśramairupaśobhitam|| 18||
+SP0340191: saro mānasamāsādya tathā bindusaraśca tat|
+SP0340192: divyāṃ pāṇḍuśilāṃ caiva gaṅgāprabhavameva ca|| 19||
+SP0340201: tato mahālayaṃ prāpya devadāruvanaṃ tathā|
+SP0340202: anyāni ca tato 'gryāṇi vanānyāsādya sā satī|| 20||
+SP0340211: tasyottareṇa śailasya gatvā sātimanoharam|
+SP0340212: apaśyacchikharaṃ divyamekamekāntamāśritam|
+SP0340213: cāmīkaramayaṃ divyaṃ sarvauṣadhisamanvitam|| 21||
+SP0340221: indranīlamahānīlanīlopalatalaiḥ śubhaiḥ|
+SP0340222: vṛkṣairmaṇimayaiścitraiḥ sarvataḥ parisaṃvṛtam|| 22||
+SP0340231: kvacinmanaḥśilāśṛṅgaṃ haritālopalaṃ kvacit|
+SP0340232: kvacidañjanapuñjābhaṃ sphaṭikopalameva ca|
+SP0340233: kvaciddhemopalaṃ divyaṃ kvaciccitropalaṃ punaḥ|| 23||
+SP0340241: sālatālatamālaiśca priyālāmrātakaistathā|
+SP0340242: aśokaiścampakairlodhraiḥ kadambāmrātimuktakaiḥ|| 24||
+SP0340251: nāgapunnāgatilakaiḥ surabhīcandanairapi|
+SP0340252: dhātakīketakībhiśca tathaivoddālakairapi|| 25||
+SP0340261: kadalībhiśca citrābhiḥ kharjūraiḥ panasairapi|
+SP0340262: bakulairnālikeraiśca padmaṣaṇḍaiśca śobhitam|| 26||
+SP0340271: kapitthaiḥ khadiraiścaiva bhavyaiḥ pārāvatairapi|
+SP0340272: mṛdvīkāmaṇḍapaiścaiva tathāṅkoṭhaiḥ samāvṛtam|| 27||
+SP0340281: sadāpuṣpaphalopetaiścārucāmīkaraprabhaiḥ|
+SP0340282: tathā prasravaṇaiścaiva nadībhiścopaśobhitam|| 28||
+SP0340291: pakṣibhirmadhurālāpaiḥ samantāccābhināditam|
+SP0340292: mayūracātakopetaṃ haṃsacakrāhvasaṃkulam|
+SP0340293: sārasaiḥ khañjarīṭaiśca hārītaiścābhināditam|| 29||
+SP0340301: jīvaṃjīvasamākīrṇaṃ mahiṣarkṣasamākulam|
+SP0340302: siṃhaśārdūlacaritaṃ śarabhebhasamākulam|| 30||
+SP0340311: merumandarasaṃkāśaṃ sarvapuṣpaphalapradam|
+SP0340312: ramyaṃ svargamivāgamyaṃ pāpānāṃ krūrakarmiṇām|
+SP0340313: śriyāḥ svalaṃkṛtāvāsamudyānamiva satkṛtam|| 31||
+SP0340321: tatra kecinmadhuphalā vṛkṣāḥ sarvatra kāmadāḥ|
+SP0340322: apare kṣīriṇo nāma vṛkṣāstatra manoramāḥ|| 32||
+SP0340331: apare sarvapuṣpāṇi phalāni ca mahīruhāḥ|
+SP0340332: puṣpante ca phalante ca kāñcanāścāpare drumāḥ|| 33||
+SP0340341: phalanti bhakṣyāṇyapare bhojanāni ca sarvadā|
+SP0340342: mānuṣāṇyatha divyāni ṣaḍrasāni mahādrumāḥ|| 34||
+SP0340351: vastrāṇyanye prasūyante phaleṣvābharaṇāni ca|
+SP0340352: tathā bahuvidhā anye śayyāḥ svāstaraṇā drumāḥ|| 35||
+SP0340361: amākṣikaṃ madhvapare amṛtapratimaṃ nagāḥ|
+SP0340362: bhogāṃśca vividhānanye tathaivābharaṇāni ca|
+SP0340363: anye strīḥ saṃprasūyante manuṣyāṃśca tathāpare|| 36||
+SP0340371: sarvā maṇimayī bhūmirdivye tasmiñchiloccaye|
+SP0340372: sugandhaḥ pavano vāti nātyarthaṃ coṣṇaśītalaḥ|| 37||
+SP0340381: yāvadeva mahādevī taṃ giriṃ nābhyagacchata|
+SP0340382: prītyarthaṃ tāvadevāsau devyā rudreṇa nirmitaḥ|| 38||
+SP0340391: tasyaiva ca prasādena nāsau gamyaḥ śiloccayaḥ|
+SP0340392: sarvadevanikāyānāṃ bhūtānāṃ caiva sarvaśaḥ|| 39||
+SP0340401: tasmingirivare devī tapastepe suduścaram|
+SP0340402: vārkṣe dadhānā rucire vāsasī dharmasādhane|| 40||
+SP0340411: kadācitsā phalāhārā kadācitparṇabhojanā|
+SP0340412: kadācidambubhakṣābhūtkadācidanilāśanā|| 41||
+SP0340421: kadācidekapādena sūryasyābhimukhī sthitā|
+SP0340422: nigṛhītendriyagrāmā sā babhūva varānanā|| 42||
+SP0340431: mahādevanamaskārā mahādevaparāyaṇā|
+SP0340432: mahādevapriyā devī putrārthaṃ ca varārthinī|| 43||
+SP0340441: ajaikapādaṃ rudraṃ ca diṇḍimuṇḍeśvaraṃ tathā|
+SP0340442: kāpālinaṃ bhārabhūtimaṣāḍhiṃ caiva sānugam|
+SP0340443: nikumbhaṃ śatamanyuṃ ca bhūtamohanameva ca|| 44||
+SP0340451: kāladaṇḍadharaṃ caiva mṛtyudaṇḍadharaṃ tathā|
+SP0340452: brahmadaṇḍadharaṃ caiva ghoracakradharaṃ tathā|| 45||
+SP0340461: etānguhyāngaṇādhyakṣānadṛśyānsarvatomukhān|
+SP0340462: prāgeva tasyā rakṣārthaṃ mahādevo niyuktavān|| 46||
+SP0340471: upariṣṭādadhastācca taṃ giriṃ te gaṇeśvarāḥ|
+SP0340472: adṛśyāḥ sarvataścaiva rarakṣuramitaujasaḥ|| 47||
+SP0340481: na tasya giriśṛṅgasya rakṣamāṇasya taistadā|
+SP0340482: devadānavagandharvāḥ śekurgantumupāntikam|| 48||
+SP0340491: prāgeva sthāpitavatī yāni cāruśilātale|
+SP0340492: bhūṣaṇāni nadī tebhyo jajñe puṇyajalāśrayā|| 49||
+SP0340501: tāmalaṃkāradhāreti viśrutāṃ pāpanāśanīm|
+SP0340502: adyāpi paśyanti janāḥ sarvakālajalāṃ śubhām|| 50||
+SP0340511: yasminneva dine devī sā tathātiṣṭhadadrijā|
+SP0340512: tasminneva dine vyāsa śārdūlo 'pi jagāma tām|| 51||
+SP0340521: mahākāyamukho bhīmaḥ piṅgalānalalocanaḥ|
+SP0340522: nakhadaṃṣṭrāyudho bhīmastrāsanaḥ sarvadehinām|| 52||
+SP0340531: guhāmukhādviniḥsṛtya vyajṛmbhata mahābalaḥ|
+SP0340532: jṛmbhatastasya vadanānniṣpeturanalārciṣaḥ|| 53||
+SP0340541: tataḥ sa devīmālokya bhakṣārthamupacakrame|
+SP0340542: tapasā stambhitastasyā etadevānvacintayat|| 54||
+SP0340551: nāryeṣā dṛṣṭapūrvā me śarvapārśve suśobhanā|
+SP0340552: yādṛśaṃ tapasaścāsyā vīryaṃ manye na mānuṣī|| 55||
+SP0340561: athavā nityamevāsau maheśvaramanuvratā|
+SP0340562: mandare saha devena ramate himavatsutā|| 56||
+SP0340571: tapasā kiṃ tadā vāsyā yasyā bhartā pinākadhṛk|
+SP0340572: tadrūpiṇīyaṃ kāpyanyā taponiyamamāsthitā|| 57||
+SP0340581: mahatā tejasā yuktā neyaṃ śakyā mayā śubhā|
+SP0340582: hantuṃ bhakṣārthamadyeha yayāhaṃ stambhitaḥ sthitaḥ|| 58||
+SP0340591: tasmādenāmupāsiṣye yāvatkālasya paryayaḥ|
+SP0340592: svayametāṃ mṛtāṃ paścādyatheṣṭamabalāmaham|
+SP0340593: bhakṣayiṣye bubhukṣārto muniḥ phalamivāśrame|| 59||
+SP0340601: vicintyaivaṃ sa śārdūlo devyādūre samāsthitaḥ|
+SP0340602: stabdhadṛkkarṇalāṅgūla upaviṣṭo nirīkṣya tām|| 60||
+SP0340611: sāpi devyūrdhvadṛṣṭiṃ taṃ dṛṣṭvā sthitamasaṅginam|
+SP0340612: anugrahakarīṃ buddhiṃ cakre tasminsadaiva hi|| 61||
+SP0340620: vyāsa uvāca|
+SP0340621: tapaścaraṇasaktāyāṃ devyāṃ devastrilocanaḥ|
+SP0340622: kimakurvatsureśāna etadicchāmi veditum|| 62||
+SP0340630: sanatkumāra uvāca|
+SP0340631: devyāmadīnātmataporatāyāṃ varṇaprasādaṃ prati bhāvitāyām|
+SP0340632: putrārthamāsaktamanorathāyāṃ devo 'karodyattadidaṃ śṛṇuṣva|| 63||
+SP0340641: devyāṃ tapasi saktāyāṃ bhagavāngovṛṣadhvajaḥ|
+SP0340642: jagāmānugrahaṃ kartumupamanyormahātmanaḥ|| 64||
+SP0340651: sa ṛṣirmātulagṛhe kadācitkṣīramuttamam|
+SP0340652: homaśeṣamatisvādu pītavānagnihotragaḥ|| 65||
+SP0340661: tatsmṛtvā mātaraṃ prāha dehi mātaḥ payo mama|
+SP0340662: tasmai piṣṭaṃ dadau mātā toyenāloḍya duḥkhitā|| 66||
+SP0340671: kṣīramityupanītaṃ taṃ dṛṣṭvā piṣṭaṃ tadā muniḥ|
+SP0340672: naitatkṣīramiti prāha mātaraṃ sā tato 'bravīt|| 67||
+SP0340681: vatsa kṣīraṃ kuto 'smākaṃ kutaścānnaṃ tapasvinām|
+SP0340682: ārādhaya mahādevaṃ sa te sarvaṃ pradāsyati|| 68||
+SP0340691: ityuktaḥ sa tadā mātrā duḥkhaśokapariplutaḥ|
+SP0340692: jagāma śaraṇaṃ devaṃ sarvabhāvena śaṃkaram|| 69||
+SP0340701: ādityābhimukho bhūtvā pādenaikena saṃyataḥ|
+SP0340702: manasā cintayannityaṃ praṇatārtiharaṃ haram|| 70||
+SP0340711: sahasramekaṃ varṣāṇāṃ tasthau divyaṃ phalāśanaḥ|
+SP0340712: dvitīyaṃ śīrṇaparṇāśī tṛtīyaṃ cāmbubhojanaḥ|| 71||
+SP0340721: mahādevaparo bhūtvā caturthaṃ vai jitendriyaḥ|
+SP0340722: tasthau sahasraṃ varṣāṇāmanilāśana eva saḥ|| 72||
+SP0340731: yadā caturthaṃ tatpūrṇaṃ sahasraṃ śaradāṃ mune|
+SP0340732: tuṣṭastadā dadau śarvaḥ śakrarūpeṇa darśanam|| 73||
+SP0340740: śakra uvāca|
+SP0340741: upamanyo mahābhāga tapaste bahu saṃcitam|
+SP0340742: tuṣṭo 'smi te varaṃ brūhi yadyadicchasi putraka|| 74||
+SP0340750: upamanyuruvāca|
+SP0340751: svāgataṃ devarājasya trailokyādhipateriha|
+SP0340752: adya niṣkalmaṣaṃ manye tapaścīrṇaṃ mayā mahat|
+SP0340753: yo 'haṃ trailokyadeveśamindraṃ paśyāmi dikpatim|| 75||
+SP0340761: idaṃ pādyamidaṃ cārghyamidamāsanaviṣṭaram|
+SP0340762: ayaṃ ca madhuparkaste gṛhyatāṃ sadasatpate|| 76||
+SP0340771: kiṃ karomi tadākhyāhi prārthayasva mahābala|
+SP0340772: kṛtameva hi tadviddhi yadi syātsukaraṃ mayā|| 77||
+SP0340780: śakra uvāca|
+SP0340781: bhavato me pitā vipra sakhābhūtparamaḥ purā|
+SP0340782: tena snehena dṛṣṭvāhaṃ bhavantaṃ tapasi sthitam|
+SP0340783: kliśyamānamihāyāto brūhi kiṃ te dadāmyaham|| 78||
+SP0340790: upamanyuruvāca|
+SP0340791: devarājyamapi tvatto nāhaṃ kāṃkṣe surottama|
+SP0340792: mahādevamahaṃ bhaktastasmādicchāmyahaṃ varam|| 79||
+SP0340800: śakra uvāca|
+SP0340801: mahādevaṃ na paśyanti surāpi sadasatpatim|
+SP0340802: na taṃ drakṣyasi viprendra brūhi yatte manogatam|| 80||
+SP0340811: ahaṃ pituste snehena ihāyāto mahāvrata|
+SP0340812: dharmato hi suto me tvaṃ brūhi tasmādvaraṃ varam|| 81||
+SP0340820: upamanyuruvāca|
+SP0340821: kṛtaṃ svajanakṛtyaṃ te pūjito 'smi tvayā prabho|
+SP0340822: gaccha nāhamṛte rudrādvaraṃ yāce namastava|| 82||
+SP0340830: sanatkumāra uvāca|
+SP0340831: evamuktaḥ sa tejasvī śakrarūpī maheśvaraḥ|
+SP0340832: uvāca tapsyase paścātkiṃ te rudraḥ kariṣyati|| 83||
+SP0340841: gacchāmi svasti te cāstu nirvighnaste bhavatvayam|
+SP0340842: rudraṃ prati samārambhaḥ smarethāstvaṃ hi māṃ vibho|| 84||
+SP0340851: gate tasmiṃstadā hīndre rudraḥ svaṃ rūpamāsthitaḥ|
+SP0340852: tasyādarśayadavyagra idaṃ covāca susvaram|| 85||
+SP0340860: rudra uvāca|
+SP0340861: upamanyo mahābhāga paśya māṃ vigatajvaraḥ|
+SP0340862: brūhi niścintya manasā varaṃ yāvaddadāmi te|| 86||
+SP0340870: sanatkumāra uvāca|
+SP0340871: tataḥ sa dṛṣṭvā deveśaṃ śirasābhipraṇamya ca|
+SP0340872: uvāca praṇato vākyaṃ manasā saṃpradhārayan|| 87||
+SP0340881: bhagavanyadi tuṣṭo 'si sadāsuragaṇārcita|
+SP0340882: yadbravīmi tadīśāna mahyaṃ yaccha namo 'stu te|| 88||
+SP0340891: dravyaṃ kiṃcidanāśritya mānuṣaṃ divyameva vā|
+SP0340892: kṣīrodanaṃ samaśnīyāmayācitamupasthitam|| 89||
+SP0340900: deva uvāca|
+SP0340901: anāśrityeha naivāsti kasyaciddvijasattama|
+SP0340902: tṛṇamapyāśrayaṃ kṛtvā tasmādvada mahāmune|| 90||
+SP0340910: upamanyuruvāca|
+SP0340911: naivāhamāśraye kiṃcitprasādādbhagavaṃstava|
+SP0340912: tadarthaścāyamārambhastatprayaccha yathārthitam|| 91||
+SP0340920: deva uvāca|
+SP0340921: mune kiṃcidanāśritya nāsti kṣīrodanaṃ tava|
+SP0340922: ityuktvā taṃ mahādevastatraivāntaradhīyata|| 92||
+SP0340931: antardhānaṃ tato gatvā jijñāsārthaṃ pinākadhṛk|
+SP0340932: brahmaṇo rūpamāsthāya bhūya enaṃ tato 'bravīt|| 93||
+SP0340940: brahmovāca|
+SP0340941: upamanyo mahāprajña sucīrṇaṃ te tapaḥ śubham|
+SP0340942: tuṣṭo 'smi te brūhi varaṃ prayacchāmi tavānagha|| 94||
+SP0340950: upamanyuruvāca|
+SP0340951: bhagavansarvalokeśa namaste sarvasṛkprabho|
+SP0340952: sucīrṇaṃ me tapo deva yastvāṃ paśyāmi lokapa|| 95||
+SP0340961: maheśvaramahaṃ bhaktastadāśīstatparāyaṇaḥ|
+SP0340962: tasmādvaraṃ vṛṇe deva tvatto nāhamasaṃśayam|| 96||
+SP0340970: brahmovāca|
+SP0340971: rudraste nādadadvipra kṣīrodanamadurlabham|
+SP0340972: sa te 'nyatkuta eveha dāsyate varamuttamam|| 97||
+SP0340981: prājāpatyaṃ suratvaṃ vā amaratvamathāpi vā|
+SP0340982: indratvamatha somatvaṃ viṣṇutvaṃ vā dadāmi te|
+SP0340983: lokapālo bhavānastu sarvalokābhipūjitaḥ|| 98||
+SP0340991: brūhi kiṃ te dadānyadya visṛjasva maheśvaram|
+SP0340992: nāsau dātā taveśānastṛṇamapyekamakṣatam|| 99||
+SP0341000: upamanyuruvāca|
+SP0341001: na gṛhītaṃ prabho tena mama kiṃcinmahātmanā|
+SP0341002: īśvaraḥ sarvabhūtānāṃ na svāmī tasya kaścana|| 100||
+SP0341011: icchayā kurute devaḥ sarvakāryāṇi kāryiṇām|
+SP0341012: dadāti yadi lābho me na dadāti tathāpi ca|| 101||
+SP0341021: bahunā kiṃ pralaptena tena dattamahaṃ vṛṇe|
+SP0341022: narakaṃ vā paśutvaṃ vā kiṃ punaryadato 'nyathā|| 102||
+SP0341031: tvatto necchāmi viṣṇutvaṃ na śakratvaṃ pitāmaha|
+SP0341032: gaccha sarvasureśāna mā vṛthā kleśamācara|| 103||
+SP0341040: sanatkumāra uvāca|
+SP0341041: sa evamukto deveśastena brahmarṣiṇā tadā|
+SP0341042: tasya tatra punarvākyaṃ varārthamavadatprabhuḥ|| 104||
+SP0341051: upamanyurapīśāne manaḥ saṃdhāya niścalam|
+SP0341052: tūṣṇīṃ babhūva devo 'pi tatraivāntaradhīyata|| 105||
+SP0341061: tasya tāṃ bhāvanāṃ jñātvā pinākī sa trilocanaḥ|
+SP0341062: svameva rūpamāsthāya darśayāmāsa tatkṣaṇāt|| 106||
+SP0341071: tryakṣo jaṭī viśālākṣaḥ kuṇḍalī dīptalocanaḥ|
+SP0341072: jvālāmālādharaḥ śrīmānbhujagābaddhamekhalaḥ|| 107||
+SP0341081: sarpayajñopavītī ca vyāghracarmāmbaracchadaḥ|
+SP0341082: kṛṣṇājinottarīyaśca kamaṇḍaludharastathā|| 108||
+SP0341091: daṇḍī śūlī mahāhāso gaṇapairbahubhirvṛtaḥ|
+SP0341092: uvāca putra putreti tuṣṭo 'smi tapasā tava|| 109||
+SP0341101: amaro jarayā tyaktaḥ sarvaduḥkhavivarjitaḥ|
+SP0341102: kāmarūpadharaḥ śrīmānmatprasādādbhaviṣyasi|| 110||
+SP0341111: dvīpaṃ cemaṃ gṛhāṇa tvaṃ mayā sṛṣṭaṃ hi kāmagam|
+SP0341112: kṣīrodena samudreṇa sarvataḥ parivāritam|| 111||
+SP0341121: mahāyogabalo bhūtvā sarvajñaḥ priyadarśanaḥ|
+SP0341122: bhuṅkṣva kṣīrodanaṃ vatsa bandhubhiḥ sahitaḥ sadā|| 112||
+SP0341131: sapta pūrvāṇi sarvāṇi kulāni tava tāpasa|
+SP0341132: idaṃ caiva kulaṃ sarvamanugṛhṇāmi suvrata|| 113||
+SP0341141: sarve bhavantu viprarṣe ya ime tava bāndhavāḥ|
+SP0341142: matprasādānmahāsattvā nityaṃ kṣīrodavāsinaḥ|| 114||
+SP0341150: sanatkumāra uvāca|
+SP0341151: sa tu taṃ varamādāya praṇamya śirasā bhavam|
+SP0341152: śirasyañjalimādhāya astauṣītprayatātmavān|| 115||
+SP0341160: upamanyuruvāca|
+SP0341161: namaḥ sarvāmareśāya viśveśāya namo namaḥ|
+SP0341162: namaḥ sarvārtihartre ca namaḥ śokaharāya ca|| 116||
+SP0341171: namaḥ pavanavegāya namaḥ pavanarūpiṇe|
+SP0341172: namaḥ kāñcanamālāya padmamālāya vai namaḥ|| 117||
+SP0341181: namaḥ suraripughnāya caṇḍavegāya vai namaḥ|
+SP0341182: namaḥ pitṛsureśāya mahiṣaghnāya vai namaḥ|| 118||
+SP0341191: strīrūpāya namastubhyaṃ sarvarūpadharāya ca|
+SP0341192: namaḥ skandaviśākhāya viśvaksraṣṭre namo namaḥ|| 119||
+SP0341201: namo viśvāya pāśāya namo 'cintyāya caiva ha|
+SP0341202: tvaṃ no gatiśca śreyaśca tvameva hṛdayaṃ sadā|| 120||
+SP0341210: sanatkumāra uvāca|
+SP0341211: tatastaṃ mūrdhnyupāghrāya samāśvāsya visṛjya ca|
+SP0341212: jagāma bhagavānvyāsa sukeśaṃ prati sa prabhuḥ|| 121||
+SP0341221: upamanyuṃ jvalitānalaprakāśaṃ śatamanyuṃ tapasā jigīṣamāṇam|
+SP0341222: sa cakārāvanataṃ harogramanyuṃ varadānena tadā vyapetamanyum|| 122||
+SP0349999: skandapurāṇe catustriṃśattamo 'dhyāyaḥ||

@@ -1,0 +1,140 @@
+Skandapurāṇa Adhyāya 63
+
+E-text generated on February 22, 2017 from the original TeX files of: Yokochi, Yuko, ed. The Skandapurāṇa. Vol.III. Adhyāyas 34.1-61, 53-69. The Vindhyavāsinī Cycle. Critical Edition with an Introduction & Annotated English Synopsis. Leiden/Groningen: Brill & Egbert Forsten, 2013.
+
+SP0630010: sanatkumāra uvāca|
+SP0630011: atha nirjitya samare devāndevadviṣastadā|
+SP0630012: ājagmuḥ sahitā vindhyaṃ śikharālīnatoyadam|| 1||
+SP0630021: prasthāpya vidhivatsarvāṃstau tadā daityadānavān|
+SP0630022: remāte sahitau vindhye kiṃnarodgītakandare|| 2||
+SP0630031: ārakṣikastayostatra mūko nāma mahāsuraḥ|
+SP0630032: apaśyacchikhare devīṃ jvalantīmiva tejasā|| 3||
+SP0630041: puṇyalakṣaṇasaṃpūrṇāṃ divyābharaṇabhūṣitām|
+SP0630042: āgatāṃ tatra tāṃ siddhiṃ puṇyānāṃ karmaṇāmiva|| 4||
+SP0630051: atha mūkastadā devīṃ vismayotphullalocanaḥ|
+SP0630052: dṛṣṭvā jagāma manasā sumbhaṃ dānavasattamam|| 5||
+SP0630061: yatheyaṃ cārusarvāṅgī pradhānā sarvayoṣitām|
+SP0630062: tathā puṃsāṃ pradhāno 'sau sumbho daityendracandramāḥ|| 6||
+SP0630071: vistīrṇavakṣasastasya viśālajaghanasthalā|
+SP0630072: anurūpā bhavetpatnī dīrghākṣasyāsitekṣaṇā|| 7||
+SP0630081: iti saṃcintya manasā tāmuvāca sumadhyamām|
+SP0630082: kā tvaṃ trastasamudbhrāntamṛgaśāvavilocane|| 8||
+SP0630091: kaḥ pitā te 'navadyāṅgi kā vā mātā tavānaghe|
+SP0630092: kimarthaṃ vā vasasyatra girau dānavasevite|| 9||
+SP0630101: evamuktātha mūkena mahāyogā sureśvarī|
+SP0630102: vijñāya manasā kālaṃ prāptaṃ sumbhanisumbhayoḥ|| 10||
+SP0630111: smitapūrvamidaṃ prāha vākyaṃ vākyaviśāradā|
+SP0630112: mānuṣīṃ māṃ vijānīhi girāvasminkṛtālayām|| 11||
+SP0630121: ātreyaḥ svargato vidvānpitā cakracaro mama|
+SP0630122: vihāya māṃ purā bālāṃ mātāpyanugatā patim|| 12||
+SP0630131: ājñāptāsmi tadā mātrā pradāyāstrāṇi dānava|
+SP0630132: vasa vindhye girau ramye yogyāṃ ca kuru sarvadā|| 13||
+SP0630141: sāhaṃ vacanamāryāyāḥ pālayantī nagottame|
+SP0630142: vasāmi siṃhaśārdūlamātaṅgamṛgasevite|| 14||
+SP0630151: iti devyā vacaḥ śrutvā mūkaḥ saṃhṛṣṭamānasaḥ|
+SP0630152: jagāma dānavaśreṣṭhaṃ sumbhaṃ draṣṭuṃ kṛtatvaraḥ|| 15||
+SP0630161: atha sumbhaṃ samāsādya harṣeṇotphullalocanaḥ|
+SP0630162: ācacakṣa ivākārairapūrvaṃ ratnadarśanam|| 16||
+SP0630171: taṃ dṛṣṭvā vismayotphullaraktāyatavilocanam|
+SP0630172: mūkamāha tadā sumbhaḥ kasmāttuṣṭo 'si dānava|| 17||
+SP0630181: evamuktaḥ sa sumbhena mūko vacanamabravīt|
+SP0630182: apūrvamadya dṛṣṭaṃ me strīratnaṃ śikhare gireḥ|| 18||
+SP0630191: na tādṛśā manuṣyeṣu na deveṣvasti sundarī|
+SP0630192: na rakṣaḥsu na yakṣeṣu na gandharvapureṣu vā|| 19||
+SP0630201: na nāgeṣu na siddheṣu na daityapativeśmasu|
+SP0630202: dṛṣṭapūrvā mayā rājanyādṛśā sā varāṅganā|| 20||
+SP0630211: kā tvaṃ kasya kimarthaṃ vā vasasīha girāviti|
+SP0630212: pṛṣṭābravīnmayā vākyamātreyaduhitā hyaham|| 21||
+SP0630221: vasāmi cātra vindhyasya śikhare māturājñayā|
+SP0630222: iti bhartuḥ samākhyāya vireme mūkadānavaḥ|| 22||
+SP0630231: atha sumbhasya hṛdaye mūkasya vacasā saha|
+SP0630232: kāmo 'vakāśamakarodvināśāya suradviṣām|| 23||
+SP0630241: tataḥ provāca daityendraḥ kāmākulitamānasaḥ|
+SP0630242: gaccha mūka madarthe tāṃ pralobhaya sumadhyamām|| 24||
+SP0630251: evamuktaḥ sa sumbhena drutamutthāya dānavaḥ|
+SP0630252: prayayau yatra sā devī prāganenābhilakṣitā|| 25||
+SP0630261: taṃ dṛṣṭvā dānavaṃ devī kṛtāñjalimupasthitam|
+SP0630262: kimarthamāgato 'sīti mūkaṃ pṛṣṭavatī tadā|| 26||
+SP0630271: evaṃ pṛṣṭo 'tha kauśikyā prāhetthaṃ mūkadānavaḥ|
+SP0630272: ārye dūto 'smi sumbhasya tvatsamīpamupāgataḥ|| 27||
+SP0630281: atha devī smitaṃ kṛtvā prasannamabhivīkṣya tam|
+SP0630282: itthamāhāgataṃ dūtaṃ kimāhāsau 'sureśvaraḥ|| 28||
+SP0630291: iti pṛṣṭastadā devyā prāha mūkaḥ kṛtāñjaliḥ|
+SP0630292: ārye daityeśvaraḥ sumbhaḥ patnītvena vṛṇoti te|| 29||
+SP0630301: tasya dānavasiṃhasya jetuḥ śakrasya saṃyuge|
+SP0630302: bhavāgryā sarvapatnīnāṃ patnī mṛgavilocane|| 30||
+SP0630311: evamuktā tadā tena vihasyāhāmareśvarī|
+SP0630312: svabāhūnavalokyetthaṃ yuddhaśulkāmavaihi mām|| 31||
+SP0630321: māṃ vinirjitya daityo 'sau patnīṃ vai kartumarhati|
+SP0630322: mayā vā nihato yātu kākagomāyubhojyatām|| 32||
+SP0630331: evamuktavatīṃ devīmāha mūko hasanniva|
+SP0630332: patyā dānavadaityānāṃ kiṃ te yuddhena bhāmini|| 33||
+SP0630341: kruddhasya tasya samare na śaśāka nirīkṣitum|
+SP0630342: mukhamairāvataskandhagato 'pi valavṛtrahā|| 34||
+SP0630351: śrutvā tadvacanaṃ tasya prāha devī smayanniva|
+SP0630352: tṛṇāni mama daityendrāḥ sarve 'pi raṇamūrdhani|| 35||
+SP0630361: nivedayasva sumbhasya gaccha tvaṃ dānavādhama|
+SP0630362: dautyenāsi yataḥ prāpto mayāto na vihanyase|| 36||
+SP0630371: atha praṇamya tāṃ mūko yayau pārśvaṃ suradviṣaḥ|
+SP0630372: anujñātaśca tenāsāvākhyātumupacakrame|| 37||
+SP0630381: sā mayā prārthitā kanyā tvadarthe dānavottama|
+SP0630382: uvāca yuddhaśulkāsmi jitvā māṃ netumarhati|| 38||
+SP0630391: bhūyaścoktavatī rājangarvamālambya sāṅganā|
+SP0630392: tṛṇāni mama saṃgrāme daityā iti savismayā|| 39||
+SP0630401: tattadā vacanaṃ tasyā mūkenoktaṃ niśāmya saḥ|
+SP0630402: krodhāddarpācca kāmācca mamṛṣe nāsurottamaḥ|| 40||
+SP0630411: athotthāya sabhāṃ ramyāmagacchaddānavādhipaḥ|
+SP0630412: sphāṭikastambhaniryūhāṃ vicitramaṇitoraṇām|| 41||
+SP0630421: tasyāṃ siṃhāsane haime svāstīrṇe mahati sthire|
+SP0630422: niṣasāda mahābāhuḥ sukhāyāṃ varuṇo yathā|| 42||
+SP0630431: anu tasya nisumbho 'pi niṣasāda varāsane|
+SP0630432: ratnāṅgadāṃśunivahacchuritoraḥsthalastadā|| 43||
+SP0630441: tayoranu mahāsattvā viviśurdaityadānavāḥ|
+SP0630442: darīṃ himavato ramyāṃ kariśyāmā ivāmbudāḥ|| 44||
+SP0630451: atha teṣūpaviṣṭeṣu daityadānavarājasu|
+SP0630452: provāca vacanaṃ sumbho ghanastanitanisvanaḥ|| 45||
+SP0630461: ārakṣiko girau vindhye madīyo mūkadānavaḥ|
+SP0630462: vindhyasya śikhare kanyāṃ dṛṣṭavāṃścārurūpiṇīm|| 46||
+SP0630471: yuddhaśulkāhamityāha madarthe 'nena sā vṛtā|
+SP0630472: tṛṇāni mama daityendrā bhūyaścoktavatī kila|| 47||
+SP0630481: jitvā tāṃ prasabhaṃ kanyāṃ samare garvaśālinīm|
+SP0630482: viceṣṭamānāmavaśāmadyaivānetumutsahe|| 48||
+SP0630491: atha tasya vacaḥ śrutvā śambhurnāma mahāsuraḥ|
+SP0630492: prahasyoccairmahābāhuritthamāhāsureśvaram|| 49||
+SP0630501: vāmaprakṛtayaḥ sarvāḥ svabhāvena varāṅganāḥ|
+SP0630502: parisāntvyāsakṛdrājaṃstvaṃ tāmādātumarhasi|| 50||
+SP0630511: śrutvātha vacanaṃ śambhormayo dānavasattamaḥ|
+SP0630512: provācābhinavotphullanīlanīrajalocanaḥ|| 51||
+SP0630521: ākāraḥ kaḥ punastasyāḥ kā vā ceṣṭāsurādhipa|
+SP0630522: pārśvasthāni ca kānyasyāḥ sadopakaraṇāni vā|| 52||
+SP0630531: ityuktavati daityendre maye mattebhavikrame|
+SP0630532: atha daityapatirmūkaṃ pārśvasthaṃ samacodayat|| 53||
+SP0630541: yaṃ praśnaṃ pṛṣṭavāṃstatra mayo matimatāṃ varaḥ|
+SP0630542: mūkastu taṃ tadā sarvamākhyātumupacakrame|| 54||
+SP0630551: asau susaṃsthitā tryakṣā karāladaśanānanā|
+SP0630552: aṣṭabāhurghanaśyāmā sunasā valgunisvanā|| 55||
+SP0630561: pārśvasthāni sadā tasyāḥ sarvapraharaṇāni ca|
+SP0630562: tanutrāṇi ca mukhyāni citrāṇyābharaṇāni ca|| 56||
+SP0630571: atyādityaṃ vapustasyāḥ kāntiścātiniśākarā|
+SP0630572: ityākhyāya tadā mūko vireme daityasaṃsadi|| 57||
+SP0630581: atha dīrghaṃ viniḥśvasya tadā mayamahāsuraḥ|
+SP0630582: provāca sadasi svantaṃ vaco vacanakovidaḥ|| 58||
+SP0630591: nūnamutpāditā devaiḥ kṛtyā yudhi parājitaiḥ|
+SP0630592: vindhyaṃ mahīdhramāyātā vināśāya suradviṣām|| 59||
+SP0630601: tadalaṃ te tayā rājansanti kanyāḥ sumadhyamāḥ|
+SP0630602: dīrghākṣyaścārusarvāṅgyo daityadānavaveśmasu|| 60||
+SP0630611: samyagāhṛtya tā rājannanurūpāḥ kalasvanāḥ|
+SP0630612: yatheṣṭaṃ krīḍa satataṃ prāsādodarasaṃsthitaḥ|| 61||
+SP0630621: evamukte tadā vākye mayenāsurasaṃsadi|
+SP0630622: prāha vākyaṃ tadā sumbho vihasyetthaṃ mahāsuraḥ|| 62||
+SP0630631: yadi sā devataiḥ sṛṣṭā kṛtyā dānavaśāsane|
+SP0630632: ahatvā dānavānāśu tadā sā na viraṃsyate|| 63||
+SP0630641: yāvadeva na kṛtyāsmānabhiyuṅkte kṛtodyamā|
+SP0630642: tāvadeva prasahyāśu tāṃ vaśe kartumarhatha|| 64||
+SP0630651: tato 'numenire sarve daityadānavasattamāḥ|
+SP0630652: vacanaṃ daityarājasya kālenābhipracoditāḥ|| 65||
+SP0630661: atha sadasi samastāndaityasiṃhāṃstadānīṃ 
+SP0630662: tridaśapativijetā vākyametadvivṛtya|
+SP0630663: udapatadavalambasvacchaśubhroruhāro
+SP0630664: navajalabharanamraḥ prāvṛṣīvāmbuvāhaḥ|| 66||
+SP0639999: iti skandapurāṇe triṣaṣṭo 'dhyāyaḥ||

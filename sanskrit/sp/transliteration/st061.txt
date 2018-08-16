@@ -1,0 +1,120 @@
+Skandapurāṇa Adhyāya 61
+
+E-text generated on February 22, 2017 from the original TeX files of: Yokochi, Yuko, ed. The Skandapurāṇa. Vol.III. Adhyāyas 34.1-61, 53-69. The Vindhyavāsinī Cycle. Critical Edition with an Introduction & Annotated English Synopsis. Leiden/Groningen: Brill & Egbert Forsten, 2013.
+
+SP0610010: sanatkumāra uvāca|
+SP0610011: atha dānavamukhyānāṃ lokanāśāya niryayau|
+SP0610012: mattavāraṇasambādhaṃ rathāśvakalilaṃ balam|| 1||
+SP0610021: tattadā dānavānīkaṃ visasāra diśo diśaḥ|
+SP0610022: pralaye mārutoddhūtamudanvata ivodakam|| 2||
+SP0610031: nijaghnurbrāhmaṇānkecitkecinniṣpipiṣurviśaḥ|
+SP0610032: susubhuḥ kṣatriyānanye śūdrānanye babhakṣire|| 3||
+SP0610041: jagrasurlilihurnedurbabhañjuśca samantataḥ|
+SP0610042: yajñeṣvannaṃ havirnādānyūpāṃścāmaravidviṣaḥ|| 4||
+SP0610051: svadhītavedādhyayanābhināditānmunipravekācitagulmapādapān|
+SP0610052: prabhūtacīrājinadarbhasaṃcayānnikāmaparyantahimāmbunirjharān|| 5||
+SP0610061: upāntanīvāragavedhukācitānprasuptaviśvastamṛgarkṣavānarān|
+SP0610062: havirbhujo dhūmavitānasaṃkulānvisṛtya cānye parijaghnurāśramān|| 6||
+SP0610071: kecinmunīnāmasurā jīrṇoragasamatviṣaḥ|
+SP0610072: jaṭāḥ saṃgṛhya lulucuḥ kṣālitāstīrthavāriṇā|| 7||
+SP0610081: pātayitvāsurāḥ keciccaraṇaiḥ pipiṣuḥ kṣitau|
+SP0610082: ṛṣīnātmavināśāya hutāśāñjvalitāniva|| 8||
+SP0610091: śirāṃsi munipatnīnāṃ karaiḥ kecittalatribhiḥ|
+SP0610092: pūtāni vāribhiḥ puṇyaiḥ paspṛśurdānavādhamāḥ|| 9||
+SP0610101: atha te jagṛhuryātrāṃ jñātvābhyudayamātmanaḥ|
+SP0610102: vikṣiptaṃ lokanāśāya balamāhūya sarvaśaḥ|| 10||
+SP0610111: praśaste 'hani nakṣatre muhūrte ca jayānvite|
+SP0610112: saṃnāhabherīrāhatya kriyāścakrurjayāvahāḥ|| 11||
+SP0610121: saṃnāhyānbalino mattānānāyya varavāraṇān|
+SP0610122: samyagabhyarcya varmāṇi babandhurvidhināsurāḥ|| 12||
+SP0610131: yantrāṇi dhautairnārācaiḥ pūrṇānyāsanapārśvayoḥ|
+SP0610132: babandhuḥ śaktipūrṇāṃśca veṇūṃstiryagavasthitān|| 13||
+SP0610141: tomarānkaṇapāñchaṃkūñchūlacakraparaśvadhān|
+SP0610142: ābabandhurniyuktāṃśca madhyamāsanapārśvayoḥ|| 14||
+SP0610151: sajjāni paramāstrāṇi bāṇadhīṃśca susaṃskṛtān|
+SP0610152: sampūrṇāngārdhravāsobhirniśitāgraiḥ śilīmukhaiḥ|| 15||
+SP0610161: saṃnāhyānaṅkuśāṃl lohānbālendusadṛśadyutīn|
+SP0610162: graiveyeṣu sitāṃścakrurmadhye mastakapiṇḍayoḥ|| 16||
+SP0610171: kṣurapramālāḥ saṃyastāḥ śātakumbhamayīḥ śubhāḥ|
+SP0610172: ābabandhuśca kumbheṣu gajānāṃ gajasādinaḥ|| 17||
+SP0610181: vaijayantīpatākāśca vicitrāḥ svabhilakṣitāḥ|
+SP0610182: ucchrayāmāsurāyattā dantyanīkasya dānavāḥ|| 18||
+SP0610191: ghaṇṭā vāraṇamukhyānāmāsasañjurmahāsvanāḥ|
+SP0610192: cāmarāṇi sudīrghāṇi haṃsāṃsarucirāṇi ca|| 19||
+SP0610201: ekaikasya catasraśca kareṇvaścārudarśanāḥ|
+SP0610202: sthāpitāḥ purato daityaiḥ paravāraṇavāraṇāḥ|| 20||
+SP0610211: yūno yuvabhirārūḍhāñchikṣitānastrakovidaiḥ|
+SP0610212: cakruragresarānaśvānvarmiṇo lohajālinaḥ|| 21||
+SP0610221: varmiṇo baddhakavacāñchitanistriṃśadhāriṇaḥ|
+SP0610222: teṣāṃ puraḥsarānpattīnanuyātāṃśca dhanvibhiḥ|| 22||
+SP0610231: daityayodhāstataścānye varmiṇo lohajālinaḥ|
+SP0610232: ārūḍhā baddhanistriṃśāḥ snātapītāṃsturaṃgamān|| 23||
+SP0610241: kecidvinītairyuvabhiḥ snāpitaiḥ kṛtamaṅgalaiḥ|
+SP0610242: rathānsaṃyojayāmāsuraśvairagrajavaistadā|| 24||
+SP0610251: sāyudhānsapatākāṃśca kiṃkiṇījālanāditān|
+SP0610252: adhitasthustadā kecidrathānhāṭakasaṃskṛtān|| 25||
+SP0610261: evaṃ tatkalpitaṃ śrutvā sainyaṃ sainyanamaskṛtaḥ|
+SP0610262: sundo dānavaśārdūlo niryayau kṛtamaṅgalaḥ|| 26||
+SP0610271: svīṣaṃ sukūbaraṃ svakṣaṃ śātakumbhamayaṃ varam|
+SP0610272: nānāmaṇimayaiścitrairbhaktipuṣpamṛgadvijaiḥ|| 27||
+SP0610281: yuktaṃ paramasaṃhṛṣṭairmanovegaisturaṃgamaiḥ|
+SP0610282: āruhyātha rathaṃ divyaṃ patākādhvajaśobhitam|| 28||
+SP0610291: kavacī baddhanistriṃśo vidhūtasitacāmaraḥ|
+SP0610292: abhitaḥ stūyamānaśca sūtamāgadhavandibhiḥ|| 29||
+SP0610301: nisundo 'pi madaśyāmakapolālīnaṣaṭpadam|
+SP0610302: āruhya nirjagāmāśu saṃgrāmikamanekapam|| 30||
+SP0610311: anye ca dānavāstatra rathairaśvairmataṅgajaiḥ|
+SP0610312: niryayuḥ paramaprītyā yuddhaśauṇḍāḥ sudaṃśitāḥ|| 31||
+SP0610321: balasyāgresaraṃ kṛtvā tārakākṣaṃ mahāsuram|
+SP0610322: sahitaṃ bahubhiḥ śūrai rathanāgāśvapattibhiḥ|| 32||
+SP0610331: pṛṣṭhataḥ saṃvidhāyāśu balonmattaṃ mahāsuram|
+SP0610332: balena caturaṅgena mahiṣaṃ parirakṣaṇam|| 33||
+SP0610341: pārśvayorubhayornyasya meghasvanamahāsvanau|
+SP0610342: sainyena mahatā guptau dānavāvarisūdanau|| 34||
+SP0610351: madhye sundo nisundaśca mayaḥ śambhuḥ kharo muraḥ|
+SP0610352: saṃnaddhā balinaḥ śūrāḥ parasainyanivāraṇāḥ|| 35||
+SP0610361: pratasthire susaṃyattā divaṃ dānavasattamāḥ|
+SP0610362: pralaye mārutoddhūtā ghanāḥ saṃvartakā iva|| 36||
+SP0610371: teṣāmāgamanaṃ jñātvā saha svarlokavāsibhiḥ|
+SP0610372: apasṛtya jagāmāśu janasthānaṃ śatakratuḥ|| 37||
+SP0610381: meroḥ śikharamāruhya sarve 'tha sahitāstadā|
+SP0610382: senāṃ niveśayāmāsurnandane te suradviṣaḥ|| 38||
+SP0610391: atha sainyasya daityendrā rakṣāmādhāya sarvataḥ|
+SP0610392: pravibhaktānasambādhānāvāsāñjagṛhustataḥ|| 39||
+SP0610401: dattānujñāstataḥ sarve dānavā dānavottamaiḥ|
+SP0610402: saṃnāhyamapaninyuste sarvopakaraṇaṃ tadā|| 40||
+SP0610411: ārūḍhā gajakanyāsu varmāṇi mumucuḥ śanaiḥ|
+SP0610412: āyudhānyapanīyāśu sainikā mattadantinām|| 41||
+SP0610421: saṃnāhānapaninyuśca mumucuḥ kavacāni ca|
+SP0610422: tanutrāṇi vicitrāṇi tadā dānavasainikāḥ|| 42||
+SP0610431: apetakakṣānmātaṅgānsnātapītāngataklamān|
+SP0610432: babandhuḥ kalpavṛkṣeṣu keciddānavasainikāḥ|| 43||
+SP0610441: kecitkalpadrumānnāgā madasaṃlīnaṣaṭpadāḥ|
+SP0610442: babhañjurbalinastrastamattodbhrāntavihaṅgamān|| 44||
+SP0610451: cakarṣurbalinaḥ kecinmadaśyāmānmataṅgajāḥ|
+SP0610452: kapolānkalpavṛkṣeṣu puṣpālīnālipaṅktiṣu|| 45||
+SP0610461: nāgā jagāhire kecinmattā mandākinīṃ nadīm|
+SP0610462: haimavārijakiñjalkapiñjaropāntarodhasam|| 46||
+SP0610471: vimuktasāṃgrāmikavarmajālānprasannacittānparighṛṣṭakāyān|
+SP0610472: nipītatoyānapanītakhedānbabandhuraśvānpṛthagaśvabandhāḥ|| 47||
+SP0610481: atha sūkṣmāṇi vāsāṃsi vicitrāḥ paramasrajaḥ|
+SP0610482: āninyuḥ kalpavṛkṣebhyaḥ phalāni madhu cāsurāḥ|| 48||
+SP0610491: haimāni kecitpadmāni tadrajoruṇamūrtayaḥ|
+SP0610492: babhañjurdānavā hṛṣṭā gatā mandākinīṃ nadīm|| 49||
+SP0610501: āninyuḥ sainikāḥ kecinmandārakusumotkarān|
+SP0610502: phalānyājahrire kecitsvādūni ca bahūni ca|| 50||
+SP0610511: tatroṣya rajanīmekāṃ bherīrāhatya dānavāḥ|
+SP0610512: tenaiva vidhinā yattāḥ prajagmuramarāvatīm|| 51||
+SP0610521: tatastūryaninādena gajānāṃ bṛṃhitena ca|
+SP0610522: siṃhanādaiśca daityānāṃ cacālevāmarāvatī|| 52||
+SP0610531: atha śūnyāṃ samudvīkṣya purīṃ dānavasattamāḥ|
+SP0610532: itthamūcuḥ susaṃhṛṣṭā nadanto bhairavasvanam|| 53||
+SP0610541: jayati vibudhaśatruḥ sundadaityendrasiṃhaḥ 
+SP0610542: kaṭhinarucirabāhuḥ pīnavistīrṇavakṣāḥ|
+SP0610543: śatamakhapurajetā cārupṛthvāyatākṣaḥ 
+SP0610544: sajalaghananinādo mattanāgendragāmī|| 54||
+SP0610551: tadanu jayati cāruprāntaraktāyatākṣo
+SP0610552: mṛgapatigatilīlaḥ saṃyugeṣvapradhṛṣyaḥ|
+SP0610553: tridaśavaravijetā dānavendro nisundaḥ 
+SP0610554: prahatamurajanādaḥ pīnadīrghorubāhuḥ|| 55||
+SP0619999: iti skandapurāṇa ekaṣaṣṭo 'dhyāyaḥ||

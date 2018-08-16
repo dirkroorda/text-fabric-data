@@ -1,0 +1,82 @@
+Skandapurāṇa Adhyāya 22
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0220010: sanatkumāra uvāca|
+SP0220011: tatastu devadeveśo bhaktyā paramayā yutam|
+SP0220012: aśrupūrṇekṣaṇaṃ dīnaṃ pādayoḥ śirasā natam|| 1||
+SP0220021: karābhyāṃ susukhābhyāṃ tu saṃgṛhya paramārtihā|
+SP0220022: utthāpya nayane somaḥ aśrupūrṇe mamārja ha|| 2||
+SP0220031: uvāca cainaṃ tuṣṭātmā vacasāpyāyayanniva|
+SP0220032: nirīkṣya gaṇapānsarvāndevyā saha tadā prabhuḥ|| 3||
+SP0220040: deva uvāca|
+SP0220041: jāne bhaktiṃ tava mayi jāne cārtiṃ tavānagha|
+SP0220042: tasya sarvasya śailāde udarkaṃ saṃniśāmaya|| 4||
+SP0220051: amaro jarayā tyakto nityaṃ duḥkhavivarjitaḥ|
+SP0220052: akṣayaścāvyayaścaiva sapitā sasuhṛjjanaḥ|| 5||
+SP0220061: mameṣṭo gaṇapaścaiva madvīryo matparākramaḥ|
+SP0220062: iṣṭo mama sadā caiva mama pārśvagataḥ sadā|
+SP0220063: madrūpaścaiva bhavitā mahāyogabalānvitaḥ|| 6||
+SP0220071: ṛddhimaccaiva te dvīpaṃ kṣīrodamamṛtākaram|
+SP0220072: saṃvāsaṃ samprayacchāmi tatra raṃsyasi sarvadā|| 7||
+SP0220081: kuśeśayamayīṃ mālāmavamucyātmanastataḥ|
+SP0220082: ābabandha mahātejā nandine divyarūpiṇīm|| 8||
+SP0220091: sa tayā mālayā nandī babhau kaṇṭhāvasaktayā|
+SP0220092: tryakṣo daśabhujaḥ śrīmāndvitīya iva śaṃkaraḥ|| 9||
+SP0220101: tatastaṃ vai samādāya hastena bhagavānharaḥ|
+SP0220102: uvāca brūhi kiṃ te 'dya dadāni varamuttamam|| 10||
+SP0220111: āśramaścāyamatyarthaṃ tapasā tava bhāvitaḥ|
+SP0220112: japyeśvara iti khyāto mama guhyo bhaviṣyati|| 11||
+SP0220121: samantādyojanaṃ kṣetraṃ divyaṃ devagaṇairvṛtam|
+SP0220122: siddhacāraṇasaṃkīrṇamapsarogaṇasevitam|
+SP0220123: siddhikṣetraṃ paraṃ guhyaṃ bhaviṣyati na saṃśayaḥ|| 12||
+SP0220131: karmaṇā manasā vācā yatkiṃcitkurute naraḥ|
+SP0220132: śubhaṃ vāpyaśubhaṃ vātra sarvaṃ bhavitṛ tacchubham|| 13||
+SP0220141: jāpyaṃ mānasaṃ tulyaṃ vai rudrāṇāṃ tadbhaviṣyati|
+SP0220142: yatra tatra mṛtā martyā yāsyanti tava lokatām|| 14||
+SP0220151: tato jaṭāsrutaṃ vāri gṛhītvā hāranirmalam|
+SP0220152: uktvā nadī bhavasveti visasarja mahātapāḥ|| 15||
+SP0220161: sā tato divyatoyā ca puṇyā maṇijalā śubhā|
+SP0220162: haṃsakāraṇḍavākīrṇā cakravākopaśobhitā|
+SP0220163: padmotpalavanopetā prāvartata mahānadī|| 16||
+SP0220171: strīrūpadhāriṇī caiva prāñjaliḥ śirasā natā|
+SP0220172: padmotpaladalābhākṣī mahādevamupasthitā|| 17||
+SP0220181: tāmuvāca tato devo nadīṃ svayamupasthitām|
+SP0220182: yasmājjaṭodakāddevi pravṛttā tvaṃ śubhānane|
+SP0220183: tasmājjaṭodā nāmnā tvaṃ bhaviṣyasi saridvarā|| 18||
+SP0220191: tvayi snānaṃ tu yaḥ kuryācchuciḥ prayatamānasaḥ|
+SP0220192: so 'śvamedhaphalaṃ prāpya rudraloke mahīyate|| 19||
+SP0220200: sanatkumāra uvāca|
+SP0220201: tato devyā mahādevo nandīśvaramatiprabham|
+SP0220202: putraste 'yamiti procya pādayostaṃ vyanāmayat|| 20||
+SP0220211: sā tamāghrāya śirasi pāṇibhyāṃ parimārjatī|
+SP0220212: putrapremṇābhyaṣiñcattaṃ srotobhiḥ stanajaistribhiḥ|
+SP0220213: payasā śaṅkhagaureṇa devī devaṃ nirīkṣatī|| 21||
+SP0220221: tāni srotāṃsi trīṇyasyāḥ srutānyoghavatī nadī|
+SP0220222: nadīṃ trisrotasīṃ puṇyāṃ tatastāmavadaddharaḥ|| 22||
+SP0220231: trisrotasaṃ nadīṃ dṛṣṭvā vṛṣaḥ paramaharṣitaḥ|
+SP0220232: nanarda nādāttasmācca saridanyā tato 'bhavat|| 23||
+SP0220241: yasmādvṛṣabhanādena pravṛttā sā mahānadī|
+SP0220242: tasmāḍḍhitkirikāṃ tāṃ vai uvāca vṛṣabhadhvajaḥ|| 24||
+SP0220251: jāmbūnadamayaṃ citraṃ svaṃ devaḥ paramādbhutam|
+SP0220252: mukuṭaṃ cābabandhāsmai kuṇḍale cāmṛtodbhave|| 25||
+SP0220261: taṃ tathābhyarcitaṃ vyomni dṛṣṭvā meghaḥ prabhākaraḥ|
+SP0220262: devopavāhyaḥ siṣice sanādaḥ sataḍidguṇaḥ|| 26||
+SP0220271: tasyābhiṣiktasya tadā pravṛtte srotasī bhṛśam|
+SP0220272: yasmātsuvarṇānniḥsṛtya nadyekā sampravartata|
+SP0220273: svarṇodaketi nāmnā tāṃ mahādevo 'bhyabhāṣata|| 27||
+SP0220281: jāmbūnadamayādyasmāddvitīyā mukuṭācchubhāt|
+SP0220282: prāvartata nadī puṇyā ūcurjambūnadīti tām|| 28||
+SP0220291: etatpañcanadaṃ nāma japyeśvarasamīpagam|
+SP0220292: vyākhyātaṃ phalametāsāṃ jaṭodāyāṃ mahātmanā|| 29||
+SP0220301: tacca pañcanadaṃ divyaṃ devaṃ japyeśvaraṃ ca tam|
+SP0220302: trirātropoṣito gatvā snātvābhyarcya ca śūlinam|| 30||
+SP0220311: brāhmaṇāṃśca tarpayitvā yatra tatra mṛto naraḥ|
+SP0220312: nandīśvarasyānucaraḥ kṣīrodanilayo bhavet|| 31||
+SP0220321: yastu japyeśvare prāṇānparityajati dustyajān|
+SP0220322: niyamenānyathā vāpi sa me gaṇapatirbhavet|| 32||
+SP0220331: nandīśvarasamo nityaḥ śāśvataḥ akṣayo 'vyayaḥ|
+SP0220332: mama pārśvādanapagaḥ priyaḥ saṃmata eva ca|| 33||
+SP0220341: japyeśvaraṃ pañcanadaṃ ca tadvai yo mānavo 'bhyetya jahāti deham|
+SP0220342: sa me sadā syādgaṇapo variṣṭhastvayā samaḥ kāntivapuśca nityam|| 34||
+SP0229999: iti skandapurāṇe dvāviṃśatimo 'dhyāyaḥ||

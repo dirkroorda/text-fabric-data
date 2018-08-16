@@ -1,0 +1,65 @@
+Skandapurāṇa Adhyāya 2
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0020010: sanatkumāra uvāca|     
+SP0020011: prapadye devamīśānaṃ sarvajñamaparājitam|
+SP0020012: mahādevaṃ mahātmānaṃ viśvasya jagataḥ patim|| 1||
+SP0020021: śaktirapratighā yasya aiśvaryaṃ caiva sarvaśaḥ|
+SP0020022: svāmitvaṃ ca vibhutvaṃ ca svakṛtāni pracakṣate|| 2||
+SP0020031: tasmai devāya somāya praṇamya prayataḥ śuciḥ|
+SP0020032: purāṇākhyānajijñāsorvakṣye skandodbhavaṃ śubham|| 3||
+SP0020041: dehāvatāro devasya rudrasya paramātmanaḥ|
+SP0020042: prājāpatyābhiṣekaśca haraṇaṃ śirasastathā|| 4||
+SP0020051: darśanaṃ ṣaṭkulīyānāṃ cakrasya ca visarjanam|
+SP0020052: naimiśasyodbhavaścaiva sattrasya ca samāpanam|| 5||
+SP0020061: brahmaṇaścāgamastatra tapasaścaraṇaṃ tathā|
+SP0020062: śarvasya darśanaṃ caiva devyāścaiva samudbhavaḥ|| 6||
+SP0020071: satyā vivādaśca tathā dakṣaśāpastathaiva ca|
+SP0020072: menāyāṃ ca yathotpattiryathā devyāḥ svayaṃvaram|| 7||
+SP0020081: devānāṃ varadānaṃ ca vasiṣṭhasya ca dhīmataḥ|
+SP0020082: parāśarasya cotpattirvyāsasya ca mahātmanaḥ|| 8||
+SP0020091: vasiṣṭhakauśikābhyāṃ ca vairodbhavasamāpanam|
+SP0020092: vārāṇasyāśca śūnyatvaṃ kṣetramāhātmyavarṇanam|| 9||
+SP0020101: rudrasya cātra sāṃnidhyaṃ nandinaścāpyanugrahaḥ|
+SP0020102: gaṇānāṃ darśanaṃ caiva kathanaṃ cāpyaśeṣataḥ|| 10||
+SP0020111: kālīvyāharaṇaṃ caiva tapaścaraṇameva ca|
+SP0020112: somanandisamākhyānaṃ varadānaṃ tathaiva ca|| 11||
+SP0020121: gaurītvaṃ putralambhaśca devyā utpattireva ca|
+SP0020122: kauśikyā bhūtamātṛtvaṃ siṃhāśca rathinastathā|| 12||
+SP0020131: gauryāśca nilayo vindhye vindhyasūryasamāgamaḥ|
+SP0020132: agastyasya ca māhātmyaṃ vadhaḥ sundanisundayoḥ|| 13||
+SP0020141: nisumbhasumbhaniryāṇaṃ mahiṣasya vadhastathā|
+SP0020142: abhiṣekaśca kauśikyā varadānamathāpi ca|| 14||
+SP0020151: andhakasya tathotpattiḥ pṛthivyāścaiva bandhanam|
+SP0020152: hiraṇyākṣavadhaścaiva hiraṇyakaśipostathā|| 15||
+SP0020161: balisaṃyamanaṃ caiva devyāḥ samaya eva ca|
+SP0020162: devānāṃ gamanaṃ caiva agnerdūtatvameva ca|| 16||
+SP0020171: devānāṃ varadānaṃ ca śukrasya ca visarjanam|
+SP0020172: sutasya ca tathotpattirdevyāścāndhakadarśanam|| 17||
+SP0020181: śailādidaityasaṃmardo devyāśca śatarūpatā|
+SP0020182: āryāvarapradānaṃ ca śailādistava eva ca|| 18||
+SP0020191: devasyāgamanaṃ caiva vṛttasya kathanaṃ tathā|
+SP0020192: pativratāyāścākhyānaṃ guruśuśrūṣaṇasya ca|| 19||
+SP0020201: ākhyānaṃ pañcacūḍāyāstejasaścāpyadhṛṣyatā|
+SP0020202: dūtasyāgamanaṃ caiva saṃvādo 'tha visarjanam|| 20||
+SP0020211: andhakāsurasaṃvādo mandarāgamanaṃ tathā|
+SP0020212: gaṇānāmāgamaścaiva saṃkhyānaśravaṇaṃ tathā|| 21||
+SP0020221: nigrahaścāndhakasyātha yuddhena mahatā tathā|
+SP0020222: śarīrārdhapradānaṃ ca aśokasutasaṃgrahaḥ|| 22||
+SP0020231: bhasmasomodbhavaścaiva śmaśānavasatistathā|
+SP0020232: rudrasya nīlakaṇṭhatvaṃ tathāyatanavarṇanam|| 23||
+SP0020241: utpattiryakṣarājasya kuberasya ca dhīmataḥ|
+SP0020242: nigraho bhujagendrāṇāṃ śikharasya ca pātanam|| 24||
+SP0020251: trailokyasya saśakrasya vaśīkaraṇameva ca|
+SP0020252: devasenāpradānaṃ ca senāpatyābhiṣecanam|| 25||
+SP0020261: nāradasyāgamaścaiva tārakapreṣitasya ha|
+SP0020262: vadhaśca tārakasyogro yātrā bhadravaṭasya ca|| 26||
+SP0020271: mahiṣasya vadhaścaiva krauñcasya ca nibarhaṇam|
+SP0020272: śakteruddharaṇaṃ caiva tārakasya vadhaḥ śubhaḥ|| 27||
+SP0020281: devāsurabhayotpattistraipuraṃ yuddhameva ca|
+SP0020282: prahlādavigrahaścaiva kṛtaghnākhyānameva ca|
+SP0020283: mahābhāgyaṃ brāhmaṇānāṃ vistareṇa prakīrtyate|| 28||
+SP0020291: etajjñātvā yathāvaddhi kumārānucaro bhavet|
+SP0020292: balavānmatisampannaḥ putraṃ cāpnoti saṃmatam|| 29||
+SP0029999: iti skandapurāṇe dvitīyo 'dhyāyaḥ||

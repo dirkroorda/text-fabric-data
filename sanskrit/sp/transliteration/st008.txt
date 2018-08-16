@@ -1,0 +1,86 @@
+Skandapurāṇa Adhyāya 8
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0080010: vāyuruvāca|
+SP0080011: evameṣā bhagavatī brahmalokānusāriṇī|
+SP0080012: yuṣmākaṃ dharmasiddhyarthaṃ vedīmadhyādvyavartata|| 1||
+SP0080020: sanatkumāra uvāca|
+SP0080021: evaṃ teṣāṃ samāpte 'tha sattre varṣasahasrike|
+SP0080022: pravṛttāyāṃ sarasvatyāmagāttatra pitāmahaḥ|| 2||
+SP0080030: brahmovāca|
+SP0080031: bhūyo 'nyena ha sattreṇa yajadhvaṃ devamīśvaram|
+SP0080032: yadā vo bhavitā vighnaṃ tadā niṣkalmaṣaṃ tapaḥ|| 3||
+SP0080041: vighnaṃ taccaiva saṃtīrya tapastaptvā ca bhāsvaram|
+SP0080042: yogaṃ prāpya mahadyuktāstato drakṣyatha śaṃkaram|| 4||
+SP0080051: tathetyuktvā gate tasminsattrāṇyājahrire tadā|
+SP0080052: bahūni vividhākārāṇyabhiyuktā mahāvratāḥ|| 5||
+SP0080061: niḥsomāṃ pṛthivīṃ kṛtvā kṛtsnāmetāṃ tato dvijāḥ|
+SP0080062: rājānaṃ somamānāyya abhiṣektumiyeṣire|| 6||
+SP0080071: atha so 'pi kṛtātithyaḥ adṛśyena durātmanā|
+SP0080072: svarbhānunā hṛtaḥ somastataste duḥkhitābhavan|| 7||
+SP0080081: te gatvā munayaḥ sarve kalāpagrāmavāsinaḥ |
+SP0080082: purūravasamānīya rājānaṃ te 'bhyaṣecayan|| 8||
+SP0080091: ūcuścainaṃ mahābhāgā hṛtaḥ somo hi naḥ prabho|
+SP0080092: kenāpi tadbhavānkṣipramihānayatu mā ciram|| 9||
+SP0080101: sa evamukto mṛgayanna tamāsādayatprabhuḥ|
+SP0080102: uvāca sa tadā viprānpraṇamya bhayapīḍitaḥ|| 10||
+SP0080111: paramaṃ yatnamāsthāya mayā somo 'bhimārgitaḥ|
+SP0080112: na ca taṃ vedmi kenāsau kva vā nīta iti prabhuḥ|| 11||
+SP0080121: tamevaṃvādinaṃ kruddhā ṛṣayaḥ saṃśitavratāḥ|
+SP0080122: ūcuḥ sarve susaṃrabdhā ilāputraṃ mahāmatim|| 12||
+SP0080131: bhavānrājā kutastrātā kṛto 'smābhirbhayārditaiḥ|
+SP0080132: na ca nastadbhayaṃ śakto vināśayitumāśvapi|| 13||
+SP0080141: viṣayeṣvatisaktātmā yogāttaṃ nānupaśyasi|
+SP0080142: tasmādvirodhamāsthāya dvijebhyo vadhamāpsyasi|| 14||
+SP0080151: vayameva hi rājānamānayiṣyāma durvidam|
+SP0080152: tapasā svena rājendra paśya no balamuttamam|| 15||
+SP0080161: tataste ṛṣayaḥ sarve tapasā dagdhakilbiṣāḥ|
+SP0080162: astuvanvāgbhiriṣṭābhirgāyatrīṃ vedabhāvinīm|| 16||
+SP0080171: stuvatāṃ tu tatasteṣāṃ gāyatrī vedabhāvinī|
+SP0080172: rūpiṇī darśanaṃ prādāduvācedaṃ ca tāndvijān|| 17||
+SP0080181: tuṣṭāsmi vatsāḥ kiṃ vo 'dya karomi varadāsmi vaḥ|
+SP0080182: brūta tatkṛtameveha bhaviṣyati na saṃśayaḥ|| 18||
+SP0080190: ṛṣaya ūcuḥ|
+SP0080191: somo no 'pahṛto devi kenāpi sudurātmanā|
+SP0080192: tamānaya namaste 'stu eṣa no vara uttamaḥ|| 19||
+SP0080200: sanatkumāra uvāca|
+SP0080201: sā tathoktā viniścitya dṛṣṭvā divyena cakṣuṣā|
+SP0080202: śyenībhūtā jagāmāśu svarbhānumasuraṃ prati|| 20||
+SP0080211: vyagrāṇāmasurāṇāṃ sā gṛhītvā somamāgatā|
+SP0080212: āgamya tānṛṣīnprāha ayaṃ somo 'bhiṣūyatām|| 21||
+SP0080221: te tamāsādya ṛṣayaḥ prāpya yajñaphalaṃ mahat|
+SP0080222: amanyanta tapo 'smākaṃ niṣkalmaṣamiti dvijāḥ|| 22||
+SP0080231: tatastatra svayaṃ brahmā saha devoragādibhiḥ|
+SP0080232: āgatya tānṛṣīnprāha tapaḥ kuruta mā ciram|| 23||
+SP0080241: te saha brahmaṇā gatvā mainākaṃ parvatottamam|
+SP0080242: sarvairdevagaṇaiḥ sārdhaṃ tapaśceruḥ samāhitāḥ|| 24||
+SP0080251: teṣāṃ kālena mahatā tapasā bhāvitātmanām|
+SP0080252: yogapravṛttirabhavatsūkṣmayuktāstatastu te|| 25||
+SP0080261: te yuktā brahmaṇā sārdhamṛṣayaḥ saha devataiḥ|
+SP0080262: maheśvare manaḥ sthāpya niścalopalavatsthitāḥ|| 26||
+SP0080271: atha teṣāṃ mahādevaḥ pinākī nīlalohitaḥ|
+SP0080272: abhyagacchata taṃ deśaṃ vimānenārkatejasā|| 27||
+SP0080281: tadbhāvabhāvitāñjñātvā sadbhāvena pareṇa ha|
+SP0080282: uvāca meghanirhrādaḥ śatadundubhinisvanaḥ|| 28||
+SP0080291: bho bho sabrahmakā devāḥ saviṣṇuṛṣicāraṇāḥ|
+SP0080292: divyaṃ cakṣuḥ prayacchāmi paśyadhvaṃ māṃ yathepsitam|| 29||
+SP0080300: sanatkumāra uvāca|
+SP0080301: apaśyanta tataḥ sarve sūryāyutasamaprabham|
+SP0080302: vimānaṃ merusaṃkāśaṃ nānāratnavibhūṣitaṃ || 30||
+SP0080311: tasya madhye 'gnikūṭaṃ ca sumahaddīptimāsthitam|
+SP0080312: jvālāmālāparikṣiptamarcibhirupaśobhitam|| 31||
+SP0080321: daṃṣṭrākarālavadanaṃ pradīptānalalocanam|
+SP0080322: tretāgnipiṅgalajaṭaṃ bhujagābaddhamekhalam|| 32||
+SP0080331: mṛṣṭakuṇḍalinaṃ caiva śūlāsaktamahākaram|
+SP0080332: pinākinaṃ daṇḍahastaṃ mudgarāśanipāṇinam|| 33||
+SP0080341: asipaṭṭisahastaṃ ca cakriṇaṃ cordhvamehanam|
+SP0080342: akṣasūtrakaraṃ caiva duṣprekṣyamakṛtātmabhiḥ|
+SP0080343: candrādityagrahaiścaiva kṛtasragupabhūṣaṇam|| 34||
+SP0080351: tamapaśyanta te sarve devā divyena cakṣuṣā|
+SP0080352: yaṃ dṛṣṭvā na bhavenmṛtyurmartyasyāpi kadācana|| 35||
+SP0080361: tapasā viniyogayoginaḥ praṇamanto bhavamindunirmalam|
+SP0080362: viyatīśvaradattacakṣuṣaḥ saha devairmunayo mudānvitāḥ|| 36||
+SP0080371: prasamīkṣya mahāsureśakālaṃ manasā cāpi vicārya durvisahyam|
+SP0080372: praṇamanti gatātmabhāvacintāḥ saha devairjagadudbhavaṃ stuvantaḥ|| 37||
+SP0089999: iti skandapurāṇe aṣṭamo 'dhyāyaḥ||

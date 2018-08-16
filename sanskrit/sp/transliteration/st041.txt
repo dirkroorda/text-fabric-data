@@ -1,0 +1,47 @@
+Skandapurāṇa Adhyāya 41
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0410010: suśarmovāca|
+SP0410011: ataḥ paraṃ pravakṣyāmi asipatravanaṃ punaḥ|
+SP0410012: narakaṃ pāpakṛdduḥkhaṃ sarvasattvabhayaṃkaram|| 1||
+SP0410021: asipatra iti khyātā vṛkṣāstatra durāsadāḥ|
+SP0410022: bahavaḥ sumahāśākhā ghanāścoccāśca te bhṛśam|| 2||
+SP0410031: teṣāṃ patrāṇi ghorāṇi tīkṣṇānyasinibhāni ca|
+SP0410032: āyasebhyo viśiṣṭāni na ca tānyāyasāni hi|| 3||
+SP0410041: taikṣṇyāttāni viśiṣṭāni chedane ca mahāmate|
+SP0410042: taiḥ patrairācitāścaiva tathā kaṇṭakinaśca te|| 4||
+SP0410051: jantavastatra rakṣobhiḥ pāpakarmanibandhanāḥ|
+SP0410052: vadhyamānāsimusalaistathaivānyairmahāyudhaiḥ|
+SP0410053: agninā dahyamānāśca vṛkṣāṃstānsaṃśrayanti te|| 5||
+SP0410061: tānāgatānsamīkṣyaiva parṇāni sma patantyuta|
+SP0410062: mahāgurūṇi tīkṣṇāni vinikṛntanti tāṃśca ha|| 6||
+SP0410071: te nikṛttaśirogrīvā deśāttasmātprayānti vai|
+SP0410072: te gatā rākṣasairbhūyo bhūyo vṛkṣairdurāsadaiḥ|| 7||
+SP0410081: yātyante varṣakoṭīstu tatra pañca suduḥkhitāḥ|
+SP0410082: tato vimuktāstebhyaste ucchrayānsaṃviśanti ha|| 8||
+SP0410091: viśrāntāstatra te gatvā ucchrayānnarakaṃ punaḥ|
+SP0410092: pātyante vivaśā mūḍhā yāvatpāpaṃ kṣayaṃ gatam|| 9||
+SP0410101: ye tu taṃ narakaṃ ghoraṃ narā gacchanti pāpinaḥ|
+SP0410102: tāṃste 'haṃ saṃpravakṣyāmi śṛṇuṣvāvahito dvija|| 10||
+SP0410111: vṛkṣaṃ yaḥ putrakṛtakaṃ vināśayati durmatiḥ|
+SP0410112: ārāme vātha grāme vā vikrīṇati ca durmatiḥ|| 11||
+SP0410121: niṣpāditaṃ tathā vṛkṣamāśrame pathi vā punaḥ|
+SP0410122: taḍāge vā tathodyāne devatāyataneṣu vā|| 12||
+SP0410131: gṛhe prapāyāmatha vā nadyāstīre catuṣpathe|
+SP0410132: yatra vā tatra vā jātaṃ yo nāśayati durmatiḥ|| 13||
+SP0410141: pādapāngulmavallīrvā kṣupānatha tṛṇānyapi|
+SP0410142: chāyāpuṣpaphalārthaṃ hi svakāryakaraṇāya vā|
+SP0410143: vināśayati yo mūḍhaḥ sa ca taṃ pratipadyate|| 14||
+SP0410151: yaścāpaharate mūḍhaḥ puṣpāṇi ca phalāni ca|
+SP0410152: ātmārthaṃ kāmasaṃmatto na devapitṛkāraṇāt|| 15||
+SP0410161: nadīryaścāvarudhnīyātkūpānyaśca prapūrayet|
+SP0410162: yaśca parṇatvacāmarthe vṛkṣaṃ chindyānnarādhamaḥ|
+SP0410163: vināśayedvā taṃ vṛkṣaṃ sa ca taṃ pratipadyate|| 16||
+SP0410171: yaśca chāyāṃ samāsannāñjantūnvai saṃprabādhate|
+SP0410172: svasthānaṃ ca samāsīnāṃstrāsayedvārayedapi|| 17||
+SP0410181: sarve te taṃ prapadyante socchrayaṃ narakaṃ mahat|
+SP0410182: uttīrṇāśca tato bhūyaḥ saṃsāraṃ yānti te 'śubhāḥ|| 18||
+SP0410191: ya imaṃ śṛṇuyādatandritātmā narakaṃ pāpakṛtāmaśarmabhūtam|
+SP0410192: na sa taṃ samupaiti puṇyakarmā viditātmā hyasipatranāmadheyam|| 19||
+SP0419999: skandapurāṇa ekacatvāriṃśo 'dhyāyaḥ||

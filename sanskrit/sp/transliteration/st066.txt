@@ -1,0 +1,80 @@
+Skandapurāṇa Adhyāya 66
+
+E-text generated on February 22, 2017 from the original TeX files of: Yokochi, Yuko, ed. The Skandapurāṇa. Vol.III. Adhyāyas 34.1-61, 53-69. The Vindhyavāsinī Cycle. Critical Edition with an Introduction & Annotated English Synopsis. Leiden/Groningen: Brill & Egbert Forsten, 2013.
+
+SP0660010: sanatkumāra uvāca|
+SP0660011: devyo 'pi teṣāṃ viditaprayatnā gajottamānāruruhuḥ samantāt|
+SP0660012: āvirmadānvarṣmavataḥ sudantānpraśastagātrāmbarahastapakṣān|| 1||
+SP0660021: supuṣkarānunnatavṛttakumbhānsuvāladhīnañcitacārukarṇān|
+SP0660022: sudantaveṣṭānkalaviṅkanetrānsuvakṣasaḥ svāsanapṛṣṭhavaṃśān|| 2||
+SP0660031: saṃgrāmikānagrajavānvayaḥsthānsuśikṣitānunnatapūrvakāyān|
+SP0660032: ābaddhavarmāyudhacitraghaṇṭānsamucchritorudhvajavaijayantīn|| 3||
+SP0660041: tāsāṃ patākādhvajaśobhitāni vicitranānāyudhabhūṣaṇāni|
+SP0660042: mātaṅgavṛndāni tadā babhūvurvane vanānīva samāgatāni|| 4||
+SP0660051: daityāpi te vāraṇamūrdhni sannā visphārayanto vibabhurdhanūṃṣi|
+SP0660052: sendrāyudhāḥ sāśaniśabdagarbhāḥ śaileṣu meghā iva saṃnilīnāḥ|| 5||
+SP0660061: sainyāni tānyāhanane gajānāmādhoraṇairāśvabhicoditāni|
+SP0660062: anyonyamāpeturabhīritāni vātena vṛndāni yathā ghanānām|| 6||
+SP0660071: vegena nāgānabhisṛtya nāgā madānmadaśyāmamukhānviṣāṇaiḥ|
+SP0660072: lohābhinaddhairbisakāṇḍagauraiḥ śambūkadeśe-r-abhijaghnurājau|| 7||
+SP0660081: prasārya hastānabhitaśca keciddānānugandhaṃ dviradābhiseruḥ|
+SP0660082: ādhoraṇairaṅkuśapādavāgbhirāvidhyamānāpi madābhidṛptāḥ|| 8||
+SP0660091: chinnāni peturniśitaiḥ kṣurapraiḥ samucchritānyātapavāraṇāni|
+SP0660092: citrāḥ patākā vividhā dhvajāśca paraspareṇāhanane gajebhyaḥ|| 9||
+SP0660101: yodhā nipetuḥ pariniṣṭananto viddhāḥ śarairmarmasu devatābhiḥ|
+SP0660102: saphenamāsyai rudhiraṃ vamanto dhanūṃṣi sajjāni karairdadhānāḥ|| 10||
+SP0660111: nāgā nipetuḥ parito 'bhipadmā marmātigairbāṇavarairvibhinnāḥ|
+SP0660112: devībhirājau ditijādhipānāṃ vātābhinunnā iva gaṇḍaśailāḥ|| 11||
+SP0660121: mātaṅgamukhyānpatitānparāsūnraṇājire nīlagirīndrakalpān|
+SP0660122: gandhena nāgāḥ samadāḥ parītya vinamya kiṃcidvadanairvineduḥ|| 12||
+SP0660131: chinnāni vaktrāṇi sakuṇḍalāni bhujāḥ saśastrāśca sucandanāktāḥ|
+SP0660132: peturgajebhyo 'surayūthapānāṃ devībhirājau niśitaiḥ kṣurapraiḥ|| 13||
+SP0660141: cukūjuruccaiḥ parito dhanūṃṣi vinedurāhatya surārimukhyāḥ|
+SP0660142: vipusphururjyāḥ parikṛṣya muktāḥ śarābhividdhāśca gajā niṣeduḥ|| 14||
+SP0660151: nāgaiḥ patadbhirviśikhābhividdhaiḥ samucchritorudhvajacārupṛṣṭhaiḥ|
+SP0660152: āstīryate bhūranilapranunnaiḥ satālavṛkṣairiva śailapādaiḥ|| 15||
+SP0660161: nāgā gajānāhanane 'bhijaghnurdaityāśca devīrditijāṃśca devyaḥ|
+SP0660162: daityā gajendrāndviradāśca daityānkruddhāḥ saroṣānabhisṛtya tatra|| 16||
+SP0660171: śastrābhitaptaiḥ patitaiḥ samantānmātaṅgavṛndairgirisānukalpaiḥ|
+SP0660172: saṃcārayogyā na babhūva bhūmirāyodhane devatadānavānām|| 17||
+SP0660181: abhyarditāni svabalāni dṛṣṭvā devībhirājau nihatadvipāni|
+SP0660182: sumbho nisumbhaśca samājabhūmimājagmaturdaityapatī rathasthau|| 18||
+SP0660191: agresaraiḥ pattituraṃganāgairvrātaiśca devadviṣatāmupetau|
+SP0660192: visphārayantau dhanuṣī vicitre yuddhāya yattau parighorubāhū|| 19||
+SP0660201: jñātvā tayorāgamanaṃ tadānīṃ devī calatpiṅgalakesarāḍhyān|
+SP0660202: saṃcodayāmāsa rathasya siṃhānvisphārayantī samare dhanūṃṣi|| 20||
+SP0660211: jyāniṃ javasyātha turaṃgamānāṃ madapramoṣaṃ ca mahādvipānām|
+SP0660212: cetovimohaṃ suravidviṣāṃ ca cāpasvanenaiva cakāra devī|| 21||
+SP0660221: ājau samāsthāya paraṃ prayatnaṃ śarāḥ surāṇāṃ ripubhiḥ samastāḥ|
+SP0660222: aprāpya devīṃ patitāḥ pṛthivyāṃ parājayaṃ prāhurivāsurāṇām|| 22||
+SP0660231: gabhastibhiḥ sthāvarajaṅgamāni vyāpnoti yadvatsavitā dineṣu|
+SP0660232: tadvaccharaughairditijādhipānāṃ raṇājire vyāpa balāni devī|| 23||
+SP0660241: nipeturāśu vyasavasturaṃgamā vicaskhalurmattagajāḥ kṣaranmadāḥ|
+SP0660242: cakampire yodhavarāḥ suradviṣāṃ samaṃ samastāḥ samare śarāhatāḥ|| 24||
+SP0660251: arcirbhiriddhairjvalito yathānalaḥ kakṣāṇi śuṣkāni dahatyavāritaḥ|
+SP0660252: dīptaiḥ śaraughaiḥ samare 'maradviṣāṃ sainyāni tadvatpradadāha kauśikī|| 25||
+SP0660261: chāyāṃ yathā sthāvarajaṅgamānāṃ madhyaṃdine 'lpāṃ kurute vivasvān|
+SP0660262: devī tathā tāṃ dhvajinīṃ ripūṇāmalpāvaśiṣṭāṃ samare cakāra|| 26||
+SP0660271: āhūya devīmatha dānavādhipau visphārya cāpe mahatī 'bhiseratuḥ|
+SP0660272: tīkṣṇaiḥ supatrairviśikhaiśca kauśikīṃ saṃchādayāmāsaturāhavājire|| 27||
+SP0660281: cāpeṣu yantryāṃ hariṣu dhvajeṣu mahābhujau krodhaparītacittau|
+SP0660282: daityeśvarau saṃyati devatāyā nicakhnaturbāṇavarānsupatrān|| 28||
+SP0660291: daityeśvarāstānatha sāyakaughānacintayitvā ripudarpahantrī|
+SP0660292: vivyādha daityau yudhi rukmapuṅkhaiḥ suparvabhirbāṇavaraiḥ supatraiḥ|| 29||
+SP0660301: daityāvapīṣūnavicintya śūrau gade pragṛhyojjvalacārughaṇṭe|
+SP0660302: udbhrāmya yatnātiśayena devyā raṇājire cikṣipaturbṛhatyau|| 30||
+SP0660311: te vyomni bāṇaiḥ śataśo nikṛtya suparvabhirhāṭakacārupuṅkhaiḥ|
+SP0660312: ciccheda devī kavace vicitre tayoḥ kṣuraprairaparaiḥ śitāgraiḥ|| 31||
+SP0660321: jaghāna cāśvānatha sārathī ca dhvajau ca citrau rathayoścakarta|
+SP0660322: cakhāna cānyānapi sā pṛṣatkānsuradviṣormarmasu hemapuṅkhān|| 32||
+SP0660331: sumbho nisumbhaśca rathāvapāsya daityeśvarau bāṇavarābhitaptau|
+SP0660332: ādāya nistriṃśavarau tadānīmutpetaturvyoma śitāsinīlam|| 33||
+SP0660341: atha nabhasi vimeghe dhautanistriṃśanīle 
+SP0660342: drutataramabhisṛtya grīvayoḥ sampragṛhya|
+SP0660343: dititanayapatī tau niṣpipeṣāśu devī 
+SP0660344: vigatabhayaviṣādaiḥ stūyamānā munīndraiḥ|| 34||
+SP0660351: asṛgatha vadanābhyāmudvamantau saphenaṃ 
+SP0660352: sapadi vihatavīryau piṣṭasarvāṅgasandhī|
+SP0660353: asubhirapagataistau raktaparyantanetrau 
+SP0660354: kṣititalamabhitastau petaturdaityasiṃhau|| 35||
+SP0669999: iti skandapurāṇe ṣaṭṣaṣṭo 'dhyāyaḥ||

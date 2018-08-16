@@ -1,0 +1,95 @@
+Skandapurāṇa Adhyāya 4
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0040010: sanatkumāra uvāca|
+SP0040011: prājāpatyaṃ tato labdhvā prajāḥ sraṣṭuṃ pracakrame|
+SP0040012: prajāstāḥ sṛjyamānāśca na vivardhanti tasya ha|| 1||
+SP0040021: sa kurvāṇastathā sṛṣṭiṃ śaktihīnaḥ pitāmahaḥ|
+SP0040022: sṛṣṭyarthaṃ bhūya evātha tapaścartuṃ pracakrame|| 2||
+SP0040031: sṛṣṭihetostapastasya jñātvā tribhuvaneśvaraḥ|
+SP0040032: tejasā jagadāviśya ājagāma tadantikam|
+SP0040033: sraṣṭā tasya jagannātho 'darśayatsvatanau jagat|| 3||
+SP0040041: svayamāgatya deveśo mahābhūtapatirharaḥ|
+SP0040042: vyāpyeva hi jagatkṛtsnaṃ parameṇa svatejasā|
+SP0040043: śambhuḥ prāha varaṃ vatsa yācasveti pitāmaham|| 4||
+SP0040051: taṃ brahmā lokasṛṣṭyarthaṃ putrastvaṃ manasābravīt|
+SP0040052: sa jñātvā tasya saṃkalpaṃ brahmaṇaḥ parameśvaraḥ|
+SP0040053: mūḍho 'yamiti saṃcintya provāca varadaḥ svayam|| 5||
+SP0040061: āgataṃ pitaraṃ mā tvaṃ yasmātputraṃ samīhase|
+SP0040062: manmūrtistanayastasmādbhaviṣyati mamājñayā|| 6||
+SP0040071: sa ca te putratāṃ yātvā madīyo gaṇanāyakaḥ|
+SP0040072: rudro vigrahavānbhūtvā mūḍha tvāṃ vinayiṣyati|| 7||
+SP0040081: sarvavidyādhipatyaṃ ca yogānāṃ caiva sarvaśaḥ|
+SP0040082: balasyādhipatitvaṃ ca astrāṇāṃ ca prayoktṛtā|| 8||
+SP0040091: mayā dattāni tasyāśu upasthāsyanti sarvaśaḥ|
+SP0040092: dhanuḥ pinākaṃ śūlaṃ ca khaḍgaṃ paraśureva ca|| 9||
+SP0040101: kamaṇḍalustathā daṇḍaḥ astraṃ pāśupataṃ tathā|
+SP0040102: saṃvartakāśaniścaiva cakraṃ ca pratisargikam|
+SP0040103: evaṃ sarvarddhisampannaḥ sutaste sa bhaviṣyati|| 10||
+SP0040111: evamuktvā gate tasminnantardhānaṃ mahātmani|
+SP0040112: brahmā cakre tadā ceṣṭiṃ putrakāmaḥ prajāpatiḥ|| 11||
+SP0040121: sa juhvañchramasaṃyuktaḥ pratighātasamanvitaḥ|
+SP0040122: samidyuktena hastena lalāṭaṃ pramamārja ha|| 12||
+SP0040131: samitsaṃyogajastasya svedabindurlalāṭajaḥ|
+SP0040132: papāta jvalane tasmindviguṇaṃ tasya tejasā|| 13||
+SP0040141: taddhi māheśvaraṃ tejaḥ saṃdhitaṃ brahmaṇi srutam|
+SP0040142: preritaṃ devadevena nipapāta havirbhuji|| 14||
+SP0040151: kṣaṇe tasminmaheśena smṛtvā taṃ varamuttamam|
+SP0040152: preṣito gaṇapo rudraḥ sadya evābhavattadā|| 15||
+SP0040161: tacca saṃsvedajaṃ tejaḥ pūrvaṃ jvalanayojitam|
+SP0040162: bhūtvā lohitamāśveva punarnīlamabhūttadā|| 16||
+SP0040171: nīlalohita ityeva tenāsāvabhavatprabhuḥ|
+SP0040172: tryakṣo daśabhujaḥ śrīmānbrahmāṇaṃ chādayanniva|| 17||
+SP0040181: śarvādyairnāmabhirbrahmā tanūbhiśca jalādibhiḥ|
+SP0040182: stutvā taṃ sarvagaṃ devaṃ nīlalohitamavyayam|| 18||
+SP0040191: jñātvā sarvasṛjaṃ paścānmahābhūtapratiṣṭhitam|
+SP0040192: asṛjadvividhāstvanyāḥ prajāḥ sa jagati prabhuḥ|| 19||
+SP0040201: so 'pi yogaṃ samāsthāya aiśvaryeṇa samanvitaḥ|
+SP0040202: lokānsarvānsamāviśya dhārayāmāsa sarvadā|| 20||
+SP0040211: brahmaṇo 'pi tataḥ putrā dakṣadharmādayaḥ śubhāḥ|
+SP0040212: asṛjanta prajāḥ sarvā devamānuṣasaṃkulāḥ|| 21||
+SP0040221: atha kālena mahatā kalpe 'tīte punaḥ punaḥ|
+SP0040222: prajā dhārayato yogādasminkalpa upasthite|| 22||
+SP0040231: pratiṣṭhitāyāṃ vārttāyāṃ pravṛtte vṛṣṭisarjane|
+SP0040232: prajāsu ca vivṛddhāsu prayāge yajataśca ha|| 23||
+SP0040241: brahmaṇaḥ ṣaṭkulīyāste ṛṣayaḥ saṃśitavratāḥ|
+SP0040242: marīcayo 'trayaścaiva vasiṣṭhāḥ kratavastathā|| 24||
+SP0040251: bhṛgavo 'ṅgirasaścaiva tapasā dagdhakilbiṣāḥ|
+SP0040252: ūcurbrahmāṇamabhyetya sahitāḥ karmaṇo 'ntare|| 25||
+SP0040261: bhagavannandhakāreṇa mahatā smaḥ samāvṛtāḥ|
+SP0040262: khinnā vivadamānāśca na ca paśyāma yatparam|| 26||
+SP0040271: etaṃ naḥ saṃśayaṃ deva ciraṃ hṛdi samāsthitam|
+SP0040272: tvaṃ hi vettha yathātattvaṃ kāraṇaṃ paramaṃ hi naḥ|| 27||
+SP0040281: kiṃ paraṃ sarvabhūtānāṃ balīyaścāpi sarvataḥ|
+SP0040282: kena cādhiṣṭhitaṃ viśvaṃ ko nityaḥ kaśca śāśvataḥ|| 28||
+SP0040291: kaḥ sraṣṭā sarvabhūtānāṃ prakṛteśca pravartakaḥ|
+SP0040292: ko 'smānsarveṣu kāryeṣu prayunakti mahāmanāḥ|| 29||
+SP0040301: kasya bhūtāni vaśyāni kaḥ sarvaviniyojakaḥ|
+SP0040302: kathaṃ paśyema taṃ caiva etannaḥ śaṃsa sarvaśaḥ|| 30||
+SP0040311: evamuktastato brahmā sarveṣāmeva saṃnidhau|
+SP0040312: devānāṃ ca ṛṣīṇāṃ ca gandharvoragarakṣasām|| 31||
+SP0040321: yakṣāṇāmasurāṇāṃ ca ye ca kutra pravartakāḥ|
+SP0040322: pakṣiṇāṃ sapiśācānāṃ ye cānye tatsamīpagāḥ|
+SP0040323: utthāya prāñjaliḥ prāha rudreti triḥ plutaṃ vacaḥ|| 32||
+SP0040331: sa cāpi tapasā śakyo draṣṭuṃ nānyena kenacit|
+SP0040332: sa sraṣṭā sarvabhūtānāṃ balavāṃstanmayaṃ jagat|
+SP0040333: tasya vaśyāni bhūtāni tenedaṃ dhāryate jagat|| 33||
+SP0040341: tataste sarvalokeśā namaścakrurmahātmane|| 34||
+SP0040350: ṛṣaya ūcuḥ|
+SP0040351: kiṃ tanmahattapo deva yena dṛśyeta sa prabhuḥ|
+SP0040352: tanno vadasva deveśa varadaṃ cābhidhatsva naḥ|| 35||
+SP0040360: pitāmaha uvāca|
+SP0040361: sattraṃ mahatsamāsadhvaṃ vāṅmanodoṣavarjitāḥ|
+SP0040362: deśaṃ ca vaḥ pravakṣyāmi yasmindeśe cariṣyatha|| 36||
+SP0040371: tato manomayaṃ cakraṃ sa sṛṣṭvā tānuvāca ha|
+SP0040372: kṣiptametanmayā cakramanuvrajata mā ciram|| 37||
+SP0040381: yatrāsya nemiḥ śīryeta sa deśastapasaḥ śubhaḥ|
+SP0040382: tato mumoca taccakraṃ te ca tatsamanuvrajan|| 38||
+SP0040391: tasya vai vrajataḥ kṣipraṃ yatra nemiraśīryata|
+SP0040392: naimiśaṃ tatsmṛtaṃ nāmnā puṇyaṃ sarvatra pūjitam|| 39||
+SP0040401: tatpūjitaṃ devamanuṣyasiddhai rakṣobhirugrairuragaiśca divyaiḥ|
+SP0040402: yakṣaiḥ sagandharvapiśācasaṃghaiḥ sarvāpsarobhiśca diteḥ sutaiśca|| 40||
+SP0040411: vipraiśca dāntaiḥ śamayogayuktaistīrthaiśca sarvairapi cāvanīdhraiḥ|
+SP0040412: gandharvavidyādharacāraṇaiśca sādhyaiśca viśvaiḥ pitṛbhiḥ stutaṃ ca|| 41||
+SP0049999: iti skandapurāṇe caturtho 'dhyāyaḥ||

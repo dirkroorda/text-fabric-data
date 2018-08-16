@@ -1,0 +1,107 @@
+Skandapurāṇa Adhyāya 27
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., and Harunaga Isaacson, eds. The Skandapurāṇa. Vol. IIA. Adhyāyas 26-31.14. The Vārāṇasī Cycle. Critical Edition with an Introduction, English Synopsis & Philological and Historical Commentary. Groningen: Egbert Forsten, 2005.
+
+SP0270010: sanatkumāra uvāca|
+SP0270011: atha tasminsukhāsīnau śailajāvṛṣabhadhvajau|
+SP0270012: āsane kāñcane divye nānāratnopaśobhite|| 1||
+SP0270021: athācalasutā devī sukhāsīnā vibhāvarī|
+SP0270022: sarvalokapatiṃ prāha girīndratanayā patim|| 2||
+SP0270031: bhagavandevatārighna candrāvayavabhūṣaṇa|
+SP0270032: kathayaitanmama vibho yattvāṃ pṛcchāmi mānada|| 3||
+SP0270041: kiṃ phalaṃ tava deveśa labhante bhaktavatsala|
+SP0270042: bhaktā ye phalamuddiśya kurvate tava kiṃcana|| 4||
+SP0270050: sanatkumāra uvāca|
+SP0270051: sa evamumayā proktaḥ śūlapāṇirvṛṣadhvajaḥ|
+SP0270052: avocatsarvamavyagro devadevaḥ śubhāśubham|| 5||
+SP0270060: vyāsa uvāca|
+SP0270061: kiṃ tatsa bhagavāndevaḥ prīyamāṇo mahātapāḥ|
+SP0270062: praṇayātsa tadā devyā pṛṣṭo 'kathayadavyayaḥ|| 6||
+SP0270070: sanatkumāra uvāca|
+SP0270071: mayāpyetatpurā vyāsa pṛṣṭo nandīśvaraḥ prabhuḥ|
+SP0270072: yathoktavānmayi brahmaṃstathā tatkathayāmi te|| 7||
+SP0270081: gaṇeśānaṃ mahābhāgaṃ sūryāyutasamaprabham|
+SP0270082: apṛcchamahamavyagro nandīśvaraṃ mahādyutim|| 8||
+SP0270091: īśena yatpurā devyāḥ kathitaṃ gaṇasattama|
+SP0270092: tanme brūhi yathātattvaṃ paraṃ kautūhalaṃ hi me|| 9||
+SP0270100: nandīśvara uvāca|
+SP0270101: śrūyatāmabhidhāsyāmi pṛcchataste mahāmune|
+SP0270102: devadevena pārvatyā yatpurā kathitaṃ hitam|| 10||
+SP0270110: deva uvāca|
+SP0270111: śrūyatāmabhidhāsyāmi yanmāṃ pṛcchasi suvrate|
+SP0270112: hitāya devi bhaktānāṃ pṛṣṭaste kathayāmi te|| 11||
+SP0270121: prāsādaṃ yastu me devi śubhraṃ kuryādanindite|
+SP0270122: vidadhāmyarjunaṃ tasya gṛhaṃ śivapure 'kṣayam|| 12||
+SP0270131: vidhānena yathoktena liṅgaṃ me sthāpayecca yaḥ|
+SP0270132: carate sa mayā sārdhaṃ nityamaṣṭaguṇānvitaḥ|| 13||
+SP0270141: kāñcanaṃ tuṭimātraṃ vā yo dadyādbahu vā mama|
+SP0270142: tasya haimavate śṛṅge dadāni gṛhamuttamam|| 14||
+SP0270151: yo me gāstu hiraṇyaṃ vā dadyādavimanāḥ priye|
+SP0270152: lokāndadānyahaṃ tasmai sarvakāmasamanvitān|| 15||
+SP0270161: vṛṣabhaṃ yaḥ prayaccheta śvetaṃ nīlamathāpi vā|
+SP0270162: sa kulānāmubhayatastārayedekaviṃśatim|| 16||
+SP0270171: gocarmadvayasāṃ vāpi yo me dadyādvasundharām|
+SP0270172: sa me puraṃ samāsādya gaṇeśaiḥ saha modate|| 17||
+SP0270181: yo me puṇyaphalaṃ dadyādātmanā pūrvamārjitam|
+SP0270182: so 'nantaphalamāpnoti modate ca triviṣṭape|| 18||
+SP0270191: yo 'nuyānaṃ caturdaśyāṃ kṛṣṇasya kurute mama|
+SP0270192: rathena vṛṣayuktena mama loke sa modate|| 19||
+SP0270201: †mahimāno†pacāraiśca yo māṃ japyaiśca pūjayet| 
+SP0270202: dadāni brahmaṇo loke vāsaṃ tasya supūjitam|| 20||
+SP0270211: manasā cintayedyaśca pūjayeyamahaṃ haram|
+SP0270212: aśakto nāsti ca dravyaṃ yasya nityaṃ sumadhyame|| 21||
+SP0270221: sa tayā śraddhayā pūto vimuktaḥ sarvapātakaiḥ|
+SP0270222: mama lokamavāpnoti bhinne dehe na saṃśayaḥ|| 22||
+SP0270231: snātvā yaḥ pūrvasaṃdhyāyāṃ sadā māmupagacchati|
+SP0270232: sa mitraṃ yakṣarājasya yakṣo bhavati vīryavān|| 23||
+SP0270241: saṃmārjanaṃ pañcaśataṃ sahasramupalepanam|
+SP0270242: gandhāśca daśasāhasrā ānantyaṃ cārcanaṃ smṛtam|| 24||
+SP0270251: abhyaṅgo 'ṣṭaśataṃ caiva snapanaṃ triśataṃ bhavet|
+SP0270252: gandhodakaṃ pañcaśataṃ pañcagavyaṃ tathaiva ca|| 25||
+SP0270261: kṣīraṃ pañcaguṇaṃ devi tasmādbhūyaśca kāpilam|
+SP0270262: tasmācca sarpiṣā snānaṃ bhūyaḥ pañcaguṇaṃ tathā|| 26||
+SP0270271: kṣamāmi devi cāsyeha aparādhānbahūnapi|
+SP0270272: bhasmābhiṣekamānantyaṃ guhyaṃ caitanmamepsitam|| 27||
+SP0270281: agaruṃ daśasāhasraṃ ṣaṭsahasraṃ tu candanam|
+SP0270282: caturdaśasahasrāṇi dhūpaḥ kālāgaruḥ smṛtaḥ|| 28||
+SP0270291: akṣatāstaṇḍulayavāḥ śālayo dviśatāḥ smṛtāḥ|
+SP0270292: ānantyo gugguluścaiva sahājyena sudhūpitaḥ|| 29||
+SP0270301: dve sahasre palānāṃ tu mahiṣākṣasya yo dahet|
+SP0270302: devi saṃvatsaraṃ pūrṇaṃ sa me nandisamo bhavet|| 30||
+SP0270311: dakṣiṇāyāṃ tu yo mūrtau pāyasaṃ saghṛtaṃ śubhe|
+SP0270312: nivedayedvarṣamekaṃ sa ca nandisamo bhavet|| 31||
+SP0270321: caravo daśasāhasrā yāvakaśca caturguṇaḥ|
+SP0270322: śeṣāśca caravaḥ sarve yāvakārdhena saṃmitāḥ|| 32||
+SP0270331: ghṛtapātramasaṃkhyeyamiha pretya ca śāśvatam|
+SP0270332: prīṇāti ca pitṝnsarvānvimāne caiva modate|
+SP0270333: chattraṃ dadyācca yaḥ so 'pi dīpyate tejasā divi|| 33||
+SP0270341: ubhe pakṣe trayodaśyāmaṣṭamyāṃ copavāsikaḥ|
+SP0270342: upatiṣṭheta māṃ bhaktyā sopahāramanindite|
+SP0270343: dadānyasya svakaṃ lokaṃ tuṣṭo 'haṃ devi śāśvatam|| 34||
+SP0270351: raktapītakavāsobhiḥ puṣpaiśca vividhairapi|
+SP0270352: pūjito 'haṃ sadā bhaktyā putratve kalpayāmi tam|| 35||
+SP0270361: ekarātraṃ ca yo martyo dīpaṃ dhārayati sthitaḥ|
+SP0270362: sarvayajñaphalaṃ tasya dadāni śriyameva ca|| 36||
+SP0270371: mayaiva mohitāḥ sarve lokāḥ sajaḍapaṇḍitāḥ|
+SP0270372: na māṃ paśyanti rāgāndhāstamasā bahulīkṛtāḥ|| 37||
+SP0270381: dhyānino nityayuktā ye satyadharmaparāyaṇāḥ|
+SP0270382: ekāgramanaso dāntāste māṃ paśyanti nityadā|| 38||
+SP0270391: ye me bhaktāḥ sadā caiva sāṃkhyayogaviśāradāḥ|
+SP0270392: sarvaṃ paśyanti ca mayi māṃ ca sarvatra yogataḥ|| 39||
+SP0270401: trīṃl lokānsamatikramya brahmalokaṃ tathaiva ca|
+SP0270402: gacchanti mama te lokaṃ tamo bhittvā sudurbhidam|| 40||
+SP0270411: na śakyo 'smi tapoyuktairdraṣṭuṃ munigaṇairapi|
+SP0270412: dhyānino nityayuktāśca devi paśyanti māṃ budhāḥ|| 41||
+SP0270421: yāni lokeṣu tīrthāni devatāyatanāni ca|
+SP0270422: pādayostāni suśroṇi sadā saṃnihitāni me|| 42||
+SP0270431: mayyarpitamanā nityaṃ tathā madbhāvabhāvitaḥ|
+SP0270432: mamaiva sa prabhāvena sarvapāpaiḥ pramucyate|| 43||
+SP0270441: sarvathā vartamāno 'pi devi yo māṃ sadā smaret|
+SP0270442: kalmaṣeṇa na yujyeta naraḥ kartā kadācana|| 44||
+SP0270451: sarvāvastho 'pi pāpātmā jñānaniṣṭhena cetasā|
+SP0270452: yo 'bhyarcayati māṃ nityaṃ sa mamātmasamo bhavet|| 45||
+SP0270461: ṣaḍaṅgena ca yogena yo māmarcayate sadā|
+SP0270462: praviśeta sa māṃ kṣipramatra nāsti vicāraṇā|| 46||
+SP0270471: yo 'pyasajjanarato viyonijaḥ pātakairapi samanvitaḥ sadā|
+SP0270472: so 'pi madgatamanā madarpaṇo yāti devi gatimapratarkitām|| 47||
+SP0279999: iti skandapurāṇe saptaviṃśatitamo 'dhyāyaḥ||

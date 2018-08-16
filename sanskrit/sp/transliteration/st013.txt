@@ -1,0 +1,296 @@
+Skandapurāṇa Adhyāya 13
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0130010: sanatkumāra uvāca|
+SP0130011: vistṛte himavatpṛṣṭhe vimānaśatasaṃkule|
+SP0130012: abhavatsa tu kālena śailaputryāḥ svayaṃvaraḥ|| 1||
+SP0130021: atha parvatarājo 'sau himavāndhyānakovidaḥ|
+SP0130022: duhiturdevadevena jñātvā tadabhimantritam|| 2||
+SP0130031: jānannapi mahāśailaḥ samācārakriyepsayā|
+SP0130032: svayaṃvaraṃ tato devyāḥ sarvalokeṣvaghoṣayat|| 3||
+SP0130041: devadānavasiddhānāṃ sarvalokanivāsinām|
+SP0130042: vṛṇuyātparameśānaṃ samakṣaṃ yena me sutā|| 4||
+SP0130051: tadeva sukṛtaṃ ślāghyaṃ mamābhyudayasaṃmatam|
+SP0130052: iti saṃcintya śailendraḥ kṛtvā hṛdi maheśvaram|| 5||
+SP0130061: ābrahmakeṣu lokeṣu devyāḥ śailendrasattamaḥ|
+SP0130062: kṛtvā ratnākulaṃ deśaṃ svayaṃvaramacīkarat|| 6||
+SP0130071: athaivamāghoṣitamātra eva svayaṃvare vyāsa mahīdhraputryāḥ|
+SP0130072: devādayaḥ sarvajagannivāsāḥ samāyayurdivyagṛhītaveṣāḥ|| 7||
+SP0130081: praphullapadmāsanasaṃniviṣṭaḥ siddhairvṛto yogibhiraprameyaiḥ|
+SP0130082: vijñāpitastena mahīdhrarājñā pitāmahastatra samājagāma|| 8||
+SP0130091: akṣṇāṃ sahasraṃ surarāṭ sa bibhraddivyāṅgahārasragudāttarūpaḥ|
+SP0130092: airāvataṃ sarvagajendramukhyaṃ sravanmadāsārakṛtapravāham|
+SP0130093: āruhya sarvāmararāṭ sa vajraṃ bibhratsamāgātpurataḥ surāṇām|| 9||
+SP0130101: tejaḥpratāpādhikadivyarūpaḥ prodbhāsayansarvadiśo vivasvān|
+SP0130102: haimaṃ vimānaṃ sacalatpatākamāruhya āgāttvaritaṃ javena|| 10||
+SP0130111: maṇipradīptojjvalakuṇḍalaśca vahnyarkatejaḥpratime vimāne|
+SP0130112: samabhyagātkaśyapaviprasūnurāditya āgādbhaganāmadhārī|| 11||
+SP0130121: pīnāṅgayaṣṭiḥ sukṛtāṅgahārastejobalājñāsadṛśaprabhāvaḥ|
+SP0130122: daṇḍaṃ samādāya kṛtānta āgādāruhya bhīmaṃ mahiṣaṃ javena|| 12||
+SP0130131: mahāmahīdhrocchrayapīnagātraḥ svarṇādiratnācitacāruveṣaḥ|
+SP0130132: samīraṇaḥ sarvajagadvibhartā vimānamāruhya samabhyagāddhi|| 13||
+SP0130141: saṃtāpayansarvasurāsureśāṃstejodhikastejasi saṃniviśya|
+SP0130142: vahniḥ samabhyetya surendramadhye jvalanpratasthau varaveṣadhārī|| 14||
+SP0130151: nānāmaṇiprajvalitāṅgayaṣṭirjagaccarandivyavimānamagryam|
+SP0130152: āruhya sarvadraviṇādhipeśaḥ sa rājarājastvarito 'bhyagācca|| 15||
+SP0130161: āpyāyayansarvasurāsureśānkāntyā ca veṣeṇa ca cārurūpaḥ|
+SP0130162: jvalanmahāratnavicitrarūpaṃ vimānamāruhya śaśī samāgāt|| 16||
+SP0130171: śyāmāṅgayaṣṭiḥ suvicitraveṣaḥ sarvasragābaddhasugandhamālī|
+SP0130172: tārkṣyaṃ samāruhya mahīdhrakalpaṃ gadādharo 'sau tvaritaṃ sametaḥ|| 17||
+SP0130181: tathāśvinau devabhiṣagvarau tu ekaṃ vimānaṃ tvarayābhiruhya|
+SP0130182: manoharāvujjvalacāruveṣāvājagmaturdevasadaḥ suvīrau|| 18||
+SP0130191: śeṣaḥ sahasraṃ sphuradagnivarṇaṃ bibhratsphaṭānāṃ jvalanārkatejāḥ|
+SP0130192: sārdhaṃ sa nāgairaparairmahātmā vimānamāruhya samabhyagācca|| 19||
+SP0130201: diteḥ sutānāṃ ca mahāsurāṇāṃ vahnyarkaśakrānilatulyabhāsām|
+SP0130202: varānurūpaṃ pravidhāya veṣaṃ vṛndaṃ samāgātpurataḥ surāṇām|| 20||
+SP0130211: gandharvarājaḥ sa ca cārurūpī divyaṅgamo divyavimānacārī|
+SP0130212: gandharvasaṃghaiḥ sahito 'psarobhiḥ śakrājñayā tatra samājagāma|| 21||
+SP0130221: anye ca devāstridivaukaseśāḥ pṛthakpṛthakcārugṛhītaveṣāḥ|
+SP0130222: ājagmurāruhya vimānapṛṣṭhaṃ gandharvayakṣoragakiṃnarāśca|| 22||
+SP0130231: śacīpatistatra surendramadhye rājādhikārādhikalakṣyamūrtiḥ|
+SP0130232: ājñābalaiśvaryakṛtapramoho vṛthādhikaṃ yatnamupācakāra|| 23||
+SP0130241: hetustrilokasya jagatprasūtermātā ca teṣāṃ sasurāsurāṇām|
+SP0130242: patnī ca śambhoḥ puruṣasya dhāmno gītā purāṇe prakṛtiḥ parārthā|
+SP0130243: dakṣasya kopāddhimavadgṛhaṃ sā kāryārthamāgātparameśapatnī|| 24||
+SP0130251: evaṃ yatastāṃ na viduḥ sureśā mohastatastānpara āviveśa|
+SP0130252: varārthamājagmurato vimūḍhā īśena yasmādvṛḍitāḥ kṛtāste|| 25||
+SP0130261: tataḥ pranṛttābhirathāpsarobhirgandharvasaṃghaiśca sugītaśabdaiḥ|
+SP0130262: sthitaiśca nānāvidharūpaveṣairdevāsurāditridivaukasaṃghaiḥ|| 26||
+SP0130271: vimānapṛṣṭhe maṇihemacitre sthitā calaccāmaravījitāṅgī|
+SP0130272: sarvartupuṣpāṃ susugandhamālāṃ pragṛhya devī prasabhaṃ pratasthe|| 27||
+SP0130280: sanatkumāra uvāca|
+SP0130281: mālāṃ pragṛhya devyāṃ tu sthitāyāṃ devasaṃsadi|
+SP0130282: śakrādyairāgatairdevaiḥ svayaṃvaramupāgataiḥ|| 28||
+SP0130291: devyā jijñāsayā śambhurbhūtvā pañcaśikhaḥ śiśuḥ|
+SP0130292: utsaṅgatalasaṃsupto babhūva sahasā vibhuḥ|| 29||
+SP0130301: akasmādatha taṃ devī śiśuṃ pañcaśikhaṃ sthitam|
+SP0130302: jñātvā yogasamādhānājjahṛṣe prītisaṃyutā|| 30||
+SP0130311: atha sā śuddhasaṃkalpā kāṅkṣitaprāptasatphalā|
+SP0130312: nirvṛteva tadā tasthau kṛtvā hṛdi tameva tu|| 31||
+SP0130321: tato dṛṣṭvā śiśuṃ devā devyā utsaṅgavartinam|
+SP0130322: ko 'yamatreti saṃmantrya cukrudhurbhṛśamārditāḥ|| 32||
+SP0130331: vajramākārayattasya bāhumutkṣipya vṛtrahā|
+SP0130332: sa bāhurutthitastasya tathaiva samatiṣṭhata|| 33||
+SP0130341: stambhitaḥ śiśurūpeṇa devadevena śambhunā|
+SP0130342: vajraṃ kṣeptuṃ na śaśāka bāhuṃ cālayituṃ na ca|| 34||
+SP0130351: bhago nāma tato deva ādityaḥ kāśyapo balī|
+SP0130352: utkṣipya muśalaṃ dīptaṃ kṣeptumaicchadvimohitaḥ|
+SP0130353: tasyāpi bhagavānbāhuṃ tathaivāstambhayattadā|| 35||
+SP0130361: śiraḥ prakampayanviṣṇuḥ sakrodhastamavaikṣata|
+SP0130362: tasyāpi śiraso devaḥ khālityaṃ pracakāra ha|| 36||
+SP0130371: pūṣā dantāndaśandantaiḥ śarvamaikṣata mohitaḥ|
+SP0130372: tasyāpi daśanāḥ peturdṛṣṭamātrasya śambhunā|| 37||
+SP0130381: yamasya stambhito daṇḍastejo vahneḥ śaśeḥ prabhā|
+SP0130382: balaṃ vāyostathānyeṣāṃ tasminsarvadivaukasām|
+SP0130383: balaṃ tejaśca yogaṃ ca tathaivāstambhayadvibhuḥ|| 38||
+SP0130391: atha teṣu sthiteṣvevaṃ manyumatsu sureṣu tu|
+SP0130392: brahmā paramasaṃvigno dhyānamāsthāya sādaram|
+SP0130393: bubudhe devadeveśamumotsaṅgasamāsthitam|| 39||
+SP0130401: sa buddhvā parameśānaṃ śīghramutthāya sādaram|
+SP0130402: vavande caraṇau śambhorastuvacca pitāmahaḥ|
+SP0130403: paurāṇaiḥ sāmasaṃgītaiḥ puṇyākhyairguhyanāmabhiḥ|| 40||
+SP0130411: ajastvamamaro deva sraṣṭā hartā vibhuḥ paraḥ|
+SP0130412: pradhānapuruṣastattvaṃ brahma dhyeyaṃ tadakṣayam|| 41||
+SP0130421: amṛtaṃ paramātmā ca īśvaraḥ kāraṇaṃ mahat|
+SP0130422: brahmakṛtprakṛteḥ sraṣṭā sarvasṛkparameśvaraḥ|| 42||
+SP0130431: iyaṃ ca prakṛtirdevī sadā te sṛṣṭikāraṇam|
+SP0130432: patnīrūpaṃ samāsthāya jagatkāraṇamāgatā|| 43||
+SP0130441: namastubhyaṃ sadeśāna devyāścaiva sadā namaḥ|
+SP0130442: prasādāttava deveśa niyogācca mayā prajāḥ|| 44||
+SP0130451: devādyāsta ime sṛṣṭā mūḍhāstvadyogamohitāḥ|
+SP0130452: kuru prasādameteṣāṃ yathāpūrvaṃ bhavantvime|| 45||
+SP0130461: tata evaṃ tadā brahmā vijñāpya parameśvaram|
+SP0130462: stambhitānsarvadevāṃstānidamāha mahādyutiḥ|| 46||
+SP0130471: mūḍhāḥ stha devatāḥ sarve nainaṃ budhyata śaṃkaram|
+SP0130472: devadevamihāyātaṃ mamaivotpattikāraṇam|| 47||
+SP0130481: ayaṃ rudro mahādevaḥ śarvo bhīmaḥ kapardimān|
+SP0130482: ugra īśāna ātmā ca ajaḥ śaṃkara eva ca|| 48||
+SP0130491: devadevaḥ paraṃ dhāma īśaḥ paśupatiḥ patiḥ|
+SP0130492: jagatsraṣṭā jagaddhartā jagatsaṃsthitikāraṇam|| 49||
+SP0130501: gacchadhvaṃ śaraṇaṃ śīghramevamevāmareśvarāḥ|
+SP0130502: sārdhaṃ mayaiva deveśaṃ paramātmānamavyayam|| 50||
+SP0130511: tataste stambhitāḥ sarve tathaiva tridivaukasaḥ|
+SP0130512: praṇemurmanasā śarvaṃ bhāvaśuddhena cetasā|| 51||
+SP0130521: atha teṣāṃ prasanno 'bhūddevadevo maheśvaraḥ|
+SP0130522: yathāpūrvaṃ cakārāśu devatānāṃ tanūstadā|| 52||
+SP0130531: tata evaṃ pravṛtte tu sarvadevanivāraṇe|
+SP0130532: vapuścakāra deveśastryakṣaṃ paramamadbhutam|
+SP0130533: tejasā yasya devāste cakṣuraprārthayanvibhum|| 53||
+SP0130541: tebhyaḥ paramakaṃ cakṣuḥ svavapurdṛṣṭiśaktimat|
+SP0130542: prādātparamadeveśaḥ apaśyaṃste tadā prabhum|| 54||
+SP0130551: te dṛṣṭvā parameśānaṃ tṛtīyekṣaṇadhāriṇam|
+SP0130552: brahmādyā nemire tūrṇaṃ sarva eva sureśvarāḥ|| 55||
+SP0130561: tasya devī tadā hṛṣṭā samakṣaṃ tridivaukasām|
+SP0130562: pādayoḥ sthāpayāmāsa sragmālāmamitadyuteḥ|| 56||
+SP0130571: sādhu sādhviti samprocya devatāste punarvibhum|
+SP0130572: saha devyā namaścakruḥ śirobhirbhūtalāśritaiḥ|| 57||
+SP0130581: athāsminnantare vyāsa brahmā lokapitāmahaḥ|
+SP0130582: himavantaṃ mahāśailamidamāha mahādyutiḥ|| 58||
+SP0130591: ślāghyaḥ pūjyaśca vandyaśca sarveṣāṃ nastvamadya hi|
+SP0130592: śarveṇa saha sambandho yasya te 'bhūdayaṃ mahān|
+SP0130593: kriyatāṃ cāśu udvāhaḥ kimarthaṃ sthīyate param|| 59||
+SP0130601: tataḥ praṇamya himavāṃstaṃ devaṃ pratyabhāṣata|
+SP0130602: tvameva kāraṇaṃ deva yena śarvādayaṃ mama|| 60||
+SP0130611: prasādaḥ sahasotpanno hetuścāpi tvameva hi|
+SP0130612: udvāhaṃ tu yathā yādṛktadvidhatsva pitāmaha|| 61||
+SP0130621: tata evaṃ vacaḥ śrutvā girirājñaḥ pitāmahaḥ|
+SP0130622: udvāhaḥ kriyatāṃ deva iti devamuvāca ha|
+SP0130623: tamāha śaṃkaro devaṃ yatheṣṭamiti lokapaḥ|| 62||
+SP0130631: tatkṣaṇācca tato vyāsa brahmaṇā kalpitaṃ puram|
+SP0130632: udvāhārthaṃ maheśasya nānāratnopaśobhitam|| 63||
+SP0130641: ratnāni maṇayaścitrā hema mauktikameva ca|
+SP0130642: mūrtimanta upāgamya alaṃcakruḥ purottamam|| 64||
+SP0130651: citrā mārakatī bhūmiḥ sauvarṇastambhaśobhitā|
+SP0130652: bhāsvatsphaṭikabhittībhirmuktāhārapralambitā|| 65||
+SP0130661: tasmiñchivapure ramye udvāhārthaṃ vinirmite|
+SP0130662: śuśubhe devadevasya maheśasya mahātmanaḥ|| 66||
+SP0130671: somādityau samaṃ tatra bhāsayantau mahāmaṇī|
+SP0130672: saurabheyaṃ manoramyaṃ gandhamāghrāya mārutaḥ|
+SP0130673: pravavau sukhasaṃsparśa īśe bhaktiṃ prasādayan|| 67||
+SP0130681: samudrāstatra catvāraḥ śakrādyāśca surottamāḥ|
+SP0130682: devanadyo mahānadyaḥ siddhā munaya eva ca|| 68||
+SP0130691: gandharvāpsarasaḥ sarve nāgā yakṣāḥ sarākṣasāḥ|
+SP0130692: guhyakāḥ khecarāścānye kiṃnarā devacāraṇāḥ|| 69||
+SP0130701: tumbururnārado hāhā hūhū caiva tu sāmagāḥ|
+SP0130702: ratnānyādāya vādyāṃśca tatrājagmustadā puram|| 70||
+SP0130711: ṛṣayaḥ kṛtsnaśastatra vedagītāṃstapodhanāḥ|
+SP0130712: puṇyānvaivāhikānmantrāñjepuḥ saṃhṛṣṭamānasāḥ|| 71||
+SP0130721: jagato mātaraḥ sarvā devakanyāśca kṛtsnaśaḥ|
+SP0130722: gāyanti hṛṣitāḥ sarvā udvāhe parameṣṭhinaḥ|| 72||
+SP0130731: ṛtavaḥ ṣaṭ samaṃ tatra nānāgandhasukhāvahāḥ|
+SP0130732: udvāhaḥ śaṃkarasyeti mūrtimanta upasthitāḥ|| 73||
+SP0130741: nīlajīmūtasaṃghātamandradhvānapraharṣitaiḥ|
+SP0130742: kekāyamānaiḥ śikhibhirnṛtyamānaiśca sarvaśaḥ|| 74||
+SP0130751: vilolapiṅgalaspaṣṭavidyullekhāvabhāsitā|
+SP0130752: kumudāpītaśuklābhirbalākābhiśca śobhitā|| 75||
+SP0130761: pratyagrasaṃjātaśilīndhrakandalā latādrumābhyudgatacārupallavā|
+SP0130762: śubhāmbudhārāpraṇayaprabodhitairmadālasairbhekagaṇaiśca nāditā|| 76||
+SP0130771: priyeṣu mānonnatamānasānāṃ suniścitānāmapi kāminīnām|
+SP0130772: mayūrakekābhirutaiḥ kṣaṇena manoharairmānavibhaṅgakartrī|| 77||
+SP0130781: tathā trivarṇojjvalacārumūrtinā śaśāṅkalekhākuṭilena sarvataḥ|
+SP0130782: payodasaṃghātasamīpavartinā mahendracāpena bhṛśaṃ virājitā|| 78||
+SP0130791: vicitrapuṣpasparśātsugandhibhirghanāmbusamparkatayā suśītalaiḥ|
+SP0130792: vikampayantī pavanairmanoharaiḥ surāṅganānāmalakāvalīḥ śubhāḥ|| 79||
+SP0130801: garjatpayodasthagitendubimbā navāmbusekodgatacārudūrvā|
+SP0130802: nirīkṣitā sādaramutsukābhirniśvāsadhūmraṃ pathikāṅganābhiḥ|| 80||
+SP0130811: haṃsanūpuraśabdāḍhyā samunnatapayodharā|
+SP0130812: caladvidyullatākāñcī spaṣṭapadmavilocanā|| 81||
+SP0130821: asitajaladavṛndadhvānavitrastahaṃsā vimalasaliladhārāpātanamrotpalāgrā|
+SP0130822: surabhikusumareṇuk.lptasarvāṅgaśobhā giriduhitṛvivāhe prāvṛḍāgādvibhūtyai|| 82||
+SP0130831: meghakañcukanirmuktā padmakośodgatastanī|
+SP0130832: haṃsanūpuranirhrādā sarvaramyadigantarā|| 83||
+SP0130841: vistīrṇapulinaśroṇī kūjatsārasamekhalā|
+SP0130842: praphullendīvarābhogavilocanamanoharā|| 84||
+SP0130851: pakvabimbādharapuṭā kundadantaprahāsinī|
+SP0130852: navaśyāmālatāśyāmaromarājīpariṣkṛtā|| 85||
+SP0130861: candrāṃśuhāravaryeṇa saudhoraḥsthalasarpiṇā|
+SP0130862: prahlādayantī cetāṃsi sarveṣāṃ tridivaukasām|| 86||
+SP0130871: samadālikulodgītamadhurasvarabhāṣiṇī|
+SP0130872: calatkumudasaṃghātacārukuṇḍalaśobhinī|| 87||
+SP0130881: raktāśokāgraśākhotthapallavāṅgulidhāriṇī|
+SP0130882: tatpuṣpasaṃcayamayairvāsobhiḥ samalaṃkṛtā|| 88||
+SP0130891: raktotpalāgracaraṇā jātīpuṣpanakhāvalī|
+SP0130892: kadalīstambhacārūruḥ śaśāṅkavadanā tathā|| 89||
+SP0130901: padmakiñjalkasampṛktapavanāgrakaraiḥ surān|
+SP0130902: premṇā spṛśantī kānteva śaradāgānmanoramā|| 90||
+SP0130911: nirmuktāsitameghakañcukapuṭā pūrṇendubimbānanā
+SP0130912: nīlāmbhojavilocanāravindamukulaprodbhinnacārustanī|
+SP0130913: nānāpuṣparajaḥsugandhipavanaprahlādanī cetasāṃ 
+SP0130914: tatrāgātkalahaṃsanūpuraravā devyā vivāhe śarat|| 91||
+SP0130921: atyarthaśītalāmbhobhiḥ plāvayantau gireḥ śilāḥ|
+SP0130922: ṛtū śiśirahemantāvājagmaturatidyutī|| 92||
+SP0130931: tābhyāmṛtubhyāṃ prāptābhyāṃ himavānsa nagottamaḥ|
+SP0130932: prāleyacūrṇavarṣibhyāṃ kṣipraṃ raupya ivābabhau|| 93||
+SP0130941: tena prāleyavarṣeṇa ghanena sa himācalaḥ|
+SP0130942: agādhena tadā reje kṣīroda iva sāgaraḥ|| 94||
+SP0130951: himasthāneṣu himavānnāśayāmāsa pādapān|
+SP0130952: sādhūpacārānsahasā kṛtārtha iva durjanaḥ|| 95||
+SP0130961: prāleyapaṭalacchannaiḥ śṛṅgaiḥ sa śuśubhe nagaḥ|
+SP0130962: chatrairiva mahābhogaiḥ pāṇḍaraiḥ pṛthivīpatiḥ|| 96||
+SP0130971: pāṇḍarāṇi viśālāni śrīmanti subhagāni ca|
+SP0130972: tuṅgāni cādriśṛṅgāṇi saudhānīva cakāśire|| 97||
+SP0130981: tasyācalendrasya darīṣvatīva vicitrasāraṅgakulākulāsu|
+SP0130982: prāleyadhārāḥ śaśipādagaurā gokṣīradhārā iva saṃnipetuḥ|| 98||
+SP0130991: bahukusumarajobhirutkarāṅgā himakaṇasaṅgasuśītalāḥ samīrāḥ|
+SP0130992: vavuramaragaṇeśvarāmbarāṇi pratanutamāni śanairvikampayantaḥ|| 99||
+SP0131001: nirdhūtarūkṣānilaśītadoṣaḥ prodbhinnacūtāṅkurakarṇapūraḥ|
+SP0131002: vasantakālaśca tamadriputrīsevārthamāgāddhimavantamāśu|| 100||
+SP0131011: tasminnṛtāvadrisutāvivāhasiṣevayā taṃ girimabhyupete|
+SP0131012: prādurbabhūvuḥ kusumāvataṃsāḥ samantataḥ pādapagulmaṣaṇḍāḥ|| 101||
+SP0131021: vavuḥ sugandhāḥ subhagāḥ suśītā vicitrapuṣpāgrarajotkarāṅgāḥ|
+SP0131022: manobhavodrekakarāḥ surāṇāṃ surāṅganānāṃ ca muhuḥ samīrāḥ|| 102||
+SP0131031: svacchāmbupūrṇāśca tathā nalinyaḥ padmotpalānāṃ mukulairupetāḥ|
+SP0131032: īṣatsamudbhinnapayodharāgrā nāryo yathā ramyatamā babhūvuḥ|| 103||
+SP0131041: ṛtoḥ svabhāvācca madodbhavācca phullāsu śākhāsu nilīnapakṣāḥ|
+SP0131042: cetobhirāmaṃ tridaśāṅganānāṃ puṃskokilāścātikalaṃ vineduḥ|| 104||
+SP0131051: nātyuṣṇaśītāni saraḥpayāṃsi kiñjalkacūrṇaiḥ kapilīkṛtāni|
+SP0131052: cakrāhvayugmairupanāditāni papuḥ prahṛṣṭāḥ suradantimukhyāḥ|| 105||
+SP0131061: priyaṅgūścūtataravaścūtāṃścāpi priyaṅgavaḥ|
+SP0131062: tarjayanta ivānyonyaṃ mañjarībhiścakāśire|| 106||
+SP0131071: himaśukleṣu śṛṅgeṣu tilakāḥ kusumotkarāḥ|
+SP0131072: śuśubhuḥ kāryamuddiśya vṛddhā iva samāgatāḥ|| 107||
+SP0131081: phullāśokalatāstatra rejire śālasaṃśritāḥ|
+SP0131082: kāminya iva kāntānāṃ kaṇṭhālambitamūrtayaḥ|| 108||
+SP0131091: samadālikulodgītalatākusumasaṃcayāḥ|
+SP0131092: parasparaṃ hi mālatyo bhāṣantya iva rejire|| 109||
+SP0131101: nīlāni nīlāmburuhaiḥ payāṃsi gaurāṇi gauraiśca sanāladaṇḍaiḥ|
+SP0131102: raktaiśca raktāni bhṛśaṃ kṛtāni mattadvirephārdhavidaṣṭapatraiḥ|| 110||
+SP0131111: haimāni vistīrṇajaleṣu keṣucinnirantaraṃ mārakatāni keṣucit|
+SP0131112: vaidūryanālāni saraḥsu keṣucitprajajñire padmavanāni sarvataḥ|| 111||
+SP0131121: vāpyastatrābhavanramyāḥ kamalotpalabhūṣitāḥ|
+SP0131122: nānāvihagasaṃghuṣṭā hemasopānapaṅktayaḥ|| 112||
+SP0131131: śṛṅgāṇi tasya tu gireḥ karṇikāraiḥ supuṣpitaiḥ|
+SP0131132: samucchritānyaviralairhaimānīva babhurmune|| 113||
+SP0131141: īṣadudbhinnakusumaiḥ pāṭalaiścāpi pāṭalāḥ|
+SP0131142: sambabhūvurdiśaḥ sarvāḥ pavanākampimūrtibhiḥ|| 114||
+SP0131151: kṛṣṇāñjanādriśṛṅgābhā nīlāśokamahīruhāḥ|
+SP0131152: girau vavṛdhire phullāḥ spardhayeva parasparam|| 115||
+SP0131161: cīruvākavighuṣṭāni kiṃśukānāṃ vanāni ca|
+SP0131162: parvatasya nitambeṣu sarveṣvevābhijajñire|| 116||
+SP0131171: tamālagulmaistasyāsīcchobhā himavatastadā|
+SP0131172: nīlajīmūtasaṃghātairnilīnairiva sandhiṣu|| 117||
+SP0131181: nikāmapuṣpaiḥ suviśālaśākhaiḥ samucchritaiścampakapādapaiśca|
+SP0131182: pramattapuṃskokilasampralāpairhimācalo 'tīva tadā rarāja|| 118||
+SP0131191: śrutvā śabdaṃ ṛtumadakalaṃ sarvataḥ kokilānāṃ 
+SP0131192: cañcatpakṣāḥ sumadhurarutaṃ nīlakaṇṭhā vineduḥ|
+SP0131193: teṣāṃ śabdairupacitabalaḥ puṣpacāpeṣuhastaḥ 
+SP0131194: sajjībhūtastridaśavanitā veddhumaṅgeṣvanaṅgaḥ|| 119||
+SP0131201: paṭusūryātapaścāpi prāyaḥ soṣṇajalāśayaḥ|
+SP0131202: devīvivāhasevārthaṃ grīṣma āgāddhimācalam|| 120||
+SP0131211: sa cāpi tarubhistatra bahubhiḥ kusumotkaraiḥ|
+SP0131212: śobhayāmāsa śṛṅgāṇi prāleyādreḥ samantataḥ|| 121||
+SP0131221: tasyāpi ca ṛtostatra vāyavaḥ sumanoharāḥ|
+SP0131222: vavuḥ pāṭalavistīrṇakadambārjunagandhinaḥ|| 122||
+SP0131231: vāpyaḥ praphullapadmaughāḥ kesarāruṇamūrtayaḥ|
+SP0131232: abhavaṃstaṭasaṃghuṣṭakalahaṃsakadambakāḥ|| 123||
+SP0131241: tathā kuravakāścāpi kusumāpāṇḍumūrtayaḥ|
+SP0131242: sarveṣu jajñuḥ śṛṅgeṣu bhramarāvalisevitāḥ|| 124||
+SP0131251: bakulāśca nitambeṣu viśāleṣu mahībhṛtaḥ|
+SP0131252: utsasarjurmanojñāni kusumāni samantataḥ|| 125||
+SP0131261: iti kusumavicitrasarvavṛkṣā vividhavihaṃgamanādaramyadeśāḥ|
+SP0131262: himagiritanayāvivāhabhūtyai ṣaḍupayayurṛtavo munipravīra|| 126||
+SP0131271: tata evaṃ pravṛtte tu sarvabhūtasamāgame|
+SP0131272: nānāvādyaśatākīrṇe brahmā mama pitā svayam|| 127||
+SP0131281: śailaputrīmalaṃkṛtya yogyābharaṇasampadā|
+SP0131282: puraṃ praveśayāmāsa svayamādāya lokadhṛk|| 128||
+SP0131291: tatastu punareveśaṃ brahmā vyajñāpayadvibhum|
+SP0131292: havirjuhomi vahnau tu upādhyāyapade sthitaḥ|
+SP0131293: dadāsi mahyaṃ yadyājñāṃ kartavyo 'yaṃ kriyāvidhiḥ|| 129||
+SP0131301: tamāha śaṃkaro devaṃ devadevo jagatpatiḥ|
+SP0131302: yadyadiṣṭaṃ sureśāna tatkuruṣva yathepsitam|
+SP0131303: kartāsmi vacanaṃ sarvaṃ brahmaṃstava jagadvibho|| 130||
+SP0131311: tataḥ praṇamya hṛṣṭātmā brahmā lokapitāmahaḥ|
+SP0131312: hastaṃ devasya devyāśca yogabandhe yuyoja ha|| 131||
+SP0131321: jvalanaṃ ca svayaṃ kṛtvā kṛtāñjalimupasthitaṃ |
+SP0131322: śrutigītairmahāmantrairmūrtimadbhirupasthitaiḥ|| 132||
+SP0131331: yathoktavidhinā hutvā sarpistadamṛtaṃ ca hi|
+SP0131332: triśca taṃ jvalanaṃ devaṃ kārayitvā pradakṣiṇam|| 133||
+SP0131341: muktvā hastasamāyogaṃ sahitaḥ sarvadevataiḥ|
+SP0131342: sutaiśca mānasaiḥ sarvaiḥ prahṛṣṭenāntarātmanā|
+SP0131343: vṛtte udvāhakāle tu praṇanāma vṛṣadhvajam|| 134||
+SP0131351: yogenaiva tayorvyāsa tadomāparameśayoḥ|
+SP0131352: udvāhaḥ sa paro vṛtto yaṃ devā na viduḥ kvacit|| 135||
+SP0131361: iti te sarvamākhyātaṃ svayaṃvaramidaṃ śubham|
+SP0131362: udvāhaścaiva devasya śṛṇvataḥ paramādbhutam|| 136||
+SP0139999: iti skandapurāṇe nāma trayodaśo 'dhyāyaḥ||

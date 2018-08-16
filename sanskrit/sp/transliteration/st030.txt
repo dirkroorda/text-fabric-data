@@ -1,0 +1,192 @@
+Skandapurāṇa Adhyāya 30
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., and Harunaga Isaacson, eds. The Skandapurāṇa. Vol. IIA. Adhyāyas 26-31.14. The Vārāṇasī Cycle. Critical Edition with an Introduction, English Synopsis & Philological and Historical Commentary. Groningen: Egbert Forsten, 2005.
+
+SP0300010: vyāsa uvāca|
+SP0300011: bhagavanpiṅgalaḥ kena gaṇatvaṃ samupāgataḥ|
+SP0300012: annadatvaṃ ca samprāpto vārāṇasyāṃ mahādyutiḥ|| 1||
+SP0300021: kṣetrapālaḥ kathaṃ jātaḥ priyatvaṃ ca kathaṃ gataḥ|
+SP0300022: etadicchāmi kathitaṃ śrotuṃ brahmasuta tvayā|| 2||
+SP0300030: sanatkumāra uvāca|
+SP0300031: śṛṇu vyāsa yathā lebhe gaṇeśatvaṃ sa piṅgalaḥ|
+SP0300032: annadatvaṃ ca lokānāṃ sthānaṃ vārāṇasīṃ ca hi|| 3||
+SP0300041: pūrṇabhadrasutaḥ śrīmānāsīdyakṣaḥ pratāpavān|
+SP0300042: harikeśa iti khyāto brahmaṇyo dhārmikaśca ha|| 4||
+SP0300051: tasya janmaprabhṛtyeva śarve bhaktiranuttamā|
+SP0300052: tadāśīstannamaskārastanniṣṭhastatparāyaṇaḥ|| 5||
+SP0300061: āsīnaśca śayānaśca gacchaṃstiṣṭhannanuvrajan|
+SP0300062: bhuñjāno 'tha pibanvāpi rudramevānucintayat|| 6||
+SP0300071: tamevaṃ yuktamanasaṃ pūrṇabhadraḥ pitābravīt|
+SP0300072: na tvā putramahaṃ manye durjāto yastvamanyathā|| 7||
+SP0300081: na hi yakṣakulīnānāmetadvṛttaṃ bhavatyuta|
+SP0300082: guhyakā vata yūyaṃ vai svabhāvātkrūracetasaḥ|
+SP0300083: kravyādāścaiva kiṃbhakṣā hiṃsāśīlāśca putraka|| 8||
+SP0300091: maivaṃ kārṣīrna no vṛttirevaṃ dṛṣṭā mahātmanām|
+SP0300092: svayambhuvā yathā sṛṣṭā saiva vṛttiḥ praśasyate|| 9||
+SP0300100: harikeśa uvāca|
+SP0300101: duṣṭā caivāpraśastā ca garhitā sādhubhiḥ sadā|
+SP0300102: vṛttiḥ svayambhuvā sṛṣṭā tyaktavyā yadi no bhavet|
+SP0300103: āśramāntarajaṃ karma na kuryurgṛhiṇastataḥ|| 10||
+SP0300111: hitvā manuṣyabhāvaṃ ca karmabhirvividhaiśca ha|
+SP0300112: devatvaṃ no vimārgeyurmānuṣyāṃ jātimeva ca|| 11||
+SP0300121: atha cedvihitaṃ teṣāṃ karma tatprāptisaṃśritam|
+SP0300122: mamāpi vihitaṃ paśya karmaitannātra saṃśayaḥ|| 12||
+SP0300130: sanatkumāra uvāca|
+SP0300131: sa evamuktaḥ putreṇa pūrṇabhadraḥ pratāpavān|
+SP0300132: uvāca niṣkrama kṣipraṃ gaccha tvaṃ yatra rocate|| 13||
+SP0300141: tataḥ sa nirgatastyaktvā gṛhasambandhibāndhavān|
+SP0300142: vārāṇasīṃ samāsādya tapastepe suduścaram|| 14||
+SP0300151: sthāṇubhūto hyanimiṣaḥ śuṣkakāṣṭhopalopamaḥ|
+SP0300152: saṃniyamyendriyagrāmamavātiṣṭhata niścalaḥ|| 15||
+SP0300161: atha tasyaivamaniśaṃ tatparasya tadāśiṣaḥ|
+SP0300162: sahasramekaṃ varṣāṇāṃ divyamabhyativartata|| 16||
+SP0300171: valmīkena samākrānto bhakṣyamāṇaḥ pipīlikaiḥ|
+SP0300172: vajrasūcīmukhairvyāsa vidhyamānastathaiva ca|| 17||
+SP0300181: nirmāṃsarudhiratvakca kundaśaṅkhendusaprabhaḥ|
+SP0300182: asthiśeṣo 'bhavatsarvo devaścainamamanyata|| 18||
+SP0300191: etasminnantare devī vyajñāpayata śaṃkaram|
+SP0300192: udyānaṃ punarevedaṃ draṣṭumicchāmi sarvada|| 19||
+SP0300201: kṣetrasya caiva māhātmyaṃ śrotuṃ kautūhalaṃ hi me|
+SP0300202: yataśca priyametatte yaccāsya phalamuttamam|| 20||
+SP0300211: iti vijñāpito devaḥ pārvatyā bhuvaneśvaraḥ|
+SP0300212: sarvaṃ pṛṣṭaṃ yathānyāyamākhyātumupacakrame|| 21||
+SP0300221: nirjagāma ca deveśaḥ pārvatyā saha śaṃkaraḥ|
+SP0300222: udyānaṃ darśayāmāsa devyā devaḥ pinākadhṛk|| 22||
+SP0300231: praphullanānāvidhagulmaśobhitaṃ latāpratānāvanataṃ manoharam|
+SP0300232: virūḍhapuṣpaiḥ paritaḥ priyaṅgubhiḥ supuṣpitaiḥ kaṇṭakitaiśca ketakaiḥ|| 23||
+SP0300241: tamālagulmairnicitaṃ sugandhibhirnikāmapuṣpairbakulaiśca sarvaśaḥ|
+SP0300242: aśokapuṃnāgavanaiḥ supuṣpitairdvirephamālākulapuṣpasaṃcayaiḥ|| 24||
+SP0300251: kvacitpraphullāmbujareṇurūṣitairvihaṃgamaiścārukalapraṇādibhiḥ|
+SP0300252: vināditaṃ sārasahaṃsanādibhiḥ pramattadātyūharutaiśca valgubhiḥ|| 25||
+SP0300261: kvacicca cakrāhvarutopanāditaṃ kvacicca kādambakadambakāyutam|
+SP0300262: kvacicca kāraṇḍavanādanāditaṃ kvacicca mattālikulākulīkṛtam|| 26||
+SP0300271: madākulābhirbhramarāṅganābhirniṣevitaṃ cārusugandhipuṣpam|
+SP0300272: kvacitsupuṣpaiḥ sahakāravṛkṣairlatopagūḍhaistilakaiśca gūḍham|| 27||
+SP0300281: pragītavidyādharasiddhacāraṇaṃ pranṛttanityānugatāpsarogaṇam|
+SP0300282: prahṛṣṭanānāvidhapakṣisevitaṃ pramattahārītakulopanāditam|| 28||
+SP0300291: mṛgendranādākulasannamānasaiḥ kvacitkvacidbaddhakadambakaṃ mṛgaiḥ|
+SP0300292: praphullanānāvidhacārupaṅkajaiḥ sarastaḍāgairupaśobhitaṃ kvacit|| 29||
+SP0300301: niviḍaniculanīlaṃ nīlakaṇṭhābhirāmaṃ 
+SP0300302: madamuditavihaṃgavrātanādābhirāmam|
+SP0300303: kusumitataruśākhālīnamattadvirephaṃ 
+SP0300304: navakisalayaśobhāśobhitaprāntaśākham|| 30||
+SP0300311: kvacicca dantikṣatacāruvīrutkvacillatāliṅgitacāruvṛkṣam|
+SP0300312: kvacidvilāsālasagāminībhirniṣevitaṃ kiṃpuruṣāṅganābhiḥ|| 31||
+SP0300321: pārāvatadhvaninikūjitacāruśṛṅgairabhraṃkaṣaiḥ sitamanoharacārurūpaiḥ|
+SP0300322: ākīrṇapuṣpanikarapraviviktahāsairvibhrājitaṃ tridaśadevakulairanekaiḥ|| 32||
+SP0300331: phullotpalāgarusahasravitānayuktaistoyāśayaiḥ samanuśobhitadevamārgam|
+SP0300332: mārgāntarāgalitapuṣpavicitrabhakti sambaddhagulmaviṭapairvihagairupetam|| 33||
+SP0300341: tuṅgāgrairnīlapuṣpastabakabharanataprāntaśākhairaśokair
+SP0300342: mattālivrātagītaśrutisukhajananairbhāsitāntaṃ manojñaiḥ|
+SP0300343: rātrau candrasya bhāsā kusumitatilakairekatāṃ samprayātaṃ 
+SP0300344: chāyāsuptaprabuddhasthitahariṇakulāluptadarbhāṅkurāgram|| 34||
+SP0300351: haṃsānāṃ pakṣavātapracalitakamalasvacchavistīrṇatoyaṃ 
+SP0300352: toyānāṃ tīrajātapravikacakadalīvāṭanṛtyanmayūram|
+SP0300353: māyūraiḥ pakṣacandraiḥ kvacidapi patitai rañjitakṣmāpradeśaṃ 
+SP0300354: deśe deśe nilīnapramuditavilasanmattahārītavṛndam|| 35||
+SP0300361: sāraṅgaiḥ kvacidupasevitapradeśaṃ 
+SP0300362: saṃchannaṃ kusumacayaiḥ kvacidvicitraiḥ|
+SP0300363: hṛṣṭābhiḥ kvacidapi kiṃnarāṅganābhiḥ 
+SP0300364: kṣīvābhiḥ sumadhuragītavṛkṣaṣaṇḍam|| 36||
+SP0300371: saṃsṛṣṭaiḥ kvacidupaliptakīrṇapuṣpair
+SP0300372: āvāsaiḥ parivṛtapādapaṃ munīnām|
+SP0300373: ā mūlātphalanicitaiḥ kvacidviśālair
+SP0300374: uttuṅgaiḥ panasamahīruhairupetam|| 37||
+SP0300381: phullātimuktakalatāgṛhalīnasiddhaṃ 
+SP0300382: siddhāṅganākanakanūpurarāvaramyam|
+SP0300383: ramyapriyaṅgutarumañjarisaktabhṛṅgaṃ 
+SP0300384: bhṛṅgāvalīśabalitāmrakadambapuṣpam|| 38||
+SP0300391: puṣpotkarānilavighūrṇitapādapāgram
+SP0300392: agre surebhavinipātitavaṃśagulmam|
+SP0300393: gulmāntaraprasṛtabhītamṛgīsamūham
+SP0300394: ūhāvatāṃ tanubhṛtāmapavargadātṛ|| 39||
+SP0300401: candrāṃśujāladhavalaistilakairmanojñaiḥ 
+SP0300402: sindūrakuṅkumakusumbhanibhairaśokaiḥ|
+SP0300403: cāmīkarapratisamairatha karṇikāraiḥ 
+SP0300404: puṣpotkarairupacitaṃ suviśālaśākhaiḥ|| 40||
+SP0300411: kvacidañjanacūrṇābhaiḥ kvacidvidrumasaṃnibhaiḥ|
+SP0300412: kvacitkāñcanasaṃkāśaiḥ puṣpairācitabhūtalam|| 41||
+SP0300421: puṃnāgeṣu dvijaśatavirutaṃ raktāśokastabakabharanatam|
+SP0300422: ramyopāntaṃ klamaharapavanaṃ phullābjeṣu bhramaravilasitam|| 42||
+SP0300431: sakalabhuvanabhartā lokanāthastadānīṃ 
+SP0300432: tuhinaśikhariputryā sārdhamiṣṭairgaṇeśaiḥ|
+SP0300433: vividhataruviśālaṃ mattahṛṣṭānyapuṣṭam
+SP0300434: upavanamatiramyaṃ darśayāmāsa devyāḥ|| 43||
+SP0300440: devyuvāca|
+SP0300441: udyānaṃ darśitaṃ deva śobhayā parayā yutam|
+SP0300442: kṣetrasya tu guṇānsarvānpunarvaktumihārhasi|| 44||
+SP0300451: asya kṣetrasya māhātmyamavimuktasya tattadā|
+SP0300452: śrutvāpi na hi me tṛptirato bhūyo vadasva me|| 45||
+SP0300460: deva uvāca|
+SP0300461: idaṃ guhyatamaṃ kṣetraṃ sadā vārāṇasī mama|
+SP0300462: sarveṣāmeva jantūnāṃ heturmokṣasya sarvadā|| 46||
+SP0300471: asminsiddhāḥ sadā devi madīyaṃ vratamāśritāḥ|
+SP0300472: nānāliṅgadharā nityaṃ mama lokābhikāṅkṣiṇaḥ|
+SP0300473: abhyasyanti paraṃ yogaṃ yuktātmāno jitendriyāḥ|| 47||
+SP0300481: nānāvṛkṣasamākīrṇe nānāvihagasevite|
+SP0300482: kamalotpalapuṣpāḍhyaiḥ sarobhiḥ samalaṃkṛte|| 48||
+SP0300491: apsarogaṇagandharvaiḥ sadā saṃsevite śubhe|
+SP0300492: rocate me sadāvāso yena kāryeṇa tacchṛṇu|| 49||
+SP0300501: manmanā mama bhaktaśca mayi sarvārpitakriyaḥ|
+SP0300502: yathā mokṣamihāpnoti anyatra na tathā kvacit|| 50||
+SP0300511: etanmama puraṃ divyaṃ guhyādguhyataraṃ mahat|
+SP0300512: brahmādayo vijānanti ye ca siddhā mumukṣavaḥ|
+SP0300513: ataḥ priyamidaṃ kṣetramasmācceha ratirmama|| 51||
+SP0300521: vimuktaṃ na mayā yasmānmokṣyate vā kadācana|
+SP0300522: mama kṣetramidaṃ tasmādavimuktamiti smṛtam|| 52||
+SP0300531: naimiśe 'tha kurukṣetre gaṅgādvāre 'tha puṣkare|
+SP0300532: snānātsaṃsevanādvāpi na mokṣaḥ prāpyate yataḥ|
+SP0300533: iha samprāpyate yena tata etadviśiṣyate|| 53||
+SP0300541: prayāge vā bhavenmokṣa iha vā matparigrahāt|
+SP0300542: prayāgādapi tīrthāgryādidameva mahatsmṛtam|| 54||
+SP0300551: jaigīṣavyaḥ parāṃ siddhiṃ yo gataḥ sa mahātapāḥ|
+SP0300552: asya kṣetrasya māhātmyādbhaktyā ca mama bhāvataḥ|| 55||
+SP0300561: jaigīṣavyaguhā śreṣṭhā yogināṃ sthānamiṣyate|
+SP0300562: dhyāyatastatra māṃ nityaṃ yogāgnirdīpyate bhṛśam| 
+SP0300563: kaivalyaṃ paramaṃ yāti devānāmapi durlabham|| 56||
+SP0300571: avyaktaliṅgairmunibhiḥ sarvasiddhāntavedibhiḥ|
+SP0300572: iha samprāpyate mokṣo durlabho 'nyatra karhicit|| 57||
+SP0300581: tebhyaścāhaṃ prayacchāmi yogaiśvaryamanuttamam|
+SP0300582: ātmanaścaiva sāyujyamīpsitaṃ sthānameva ca|| 58||
+SP0300591: kuberaḥ sa mahāyakṣastathā sarvārpitakriyaḥ|
+SP0300592: kṣetrasaṃsevanāddevi gaṇeśatvamavāpa ha|| 59||
+SP0300601: saṃvarto bhavitā yaśca so 'pi bhaktyā mamaiva tu|
+SP0300602: ihaivārādhya māṃ devi siddhiṃ yāsyatyanuttamām|| 60||
+SP0300611: parāśarasuto yogī ṛṣirvyāso mahātapāḥ|
+SP0300612: dharmavaktā bhaviṣyaśca vedasaṃsthāpravartakaḥ|
+SP0300613: raṃsyate so 'pi padmākṣi kṣetre 'sminmunipuṃgavaḥ|| 61||
+SP0300621: brahmā devarṣibhiḥ sārdhaṃ viṣṇurvāyurdivākaraḥ|
+SP0300622: devarājastathā śakro ye 'pi cānye divaukasaḥ|
+SP0300623: upāsate mahātmānaḥ sarve māmiha suvrate|| 62||
+SP0300631: anye ca yoginaḥ siddhāśchannarūpā mahāvrate|
+SP0300632: ananyamanaso bhūtvā māmihopāsate sadā|| 63||
+SP0300641: alarkaśca purīmetāṃ matprasādādavāpsyati|
+SP0300642: sa caināṃ pūrvavatkṛtvā caturvarṇasamākulām|| 64||
+SP0300651: sphītāṃ janapadākīrṇāṃ bhuktvā ca suciraṃ nṛpaḥ|
+SP0300652: mayi sarvārpitaprāṇo māmeva pratipatsyate|| 65||
+SP0300661: tataḥ prabhṛti cārvaṅgi ye 'pi kṣetranivāsinaḥ|
+SP0300662: gṛhiṇo liṅgino vāpi madbhaktā matparāyaṇāḥ|
+SP0300663: matprasādādgamiṣyanti mokṣaṃ paramadurgamam|| 66||
+SP0300671: viṣayāsaktacitto 'pi tyaktadharmaratirnaraḥ|
+SP0300672: iha kṣetre mṛtaḥ so 'pi saṃsāraṃ na punarviśet|| 67||
+SP0300681: ye punarnirmamā dhīrāḥ sattvasthā vijitendriyāḥ|
+SP0300682: vratinaśca nirārambhāḥ sarvato mayi bhāvitāḥ|| 68||
+SP0300691: dehabhedaṃ samāsādya dhīmantaḥ saṅgavarjitāḥ|
+SP0300692: gatā eva paraṃ mokṣaṃ prasādānmama suvrate|| 69||
+SP0300701: janmāntarasahasreṣu yuñjanyogī yamāpnuyāt|
+SP0300702: tamihaiva paraṃ mokṣaṃ maraṇādadhigacchati|| 70||
+SP0300711: etatsaṃkṣepato devi kṣetrasyāsya mahatphalam|
+SP0300712: avimuktasya kathitaṃ mayā te guhyamuttamam|| 71||
+SP0300721: ataḥ parataraṃ nāsti kṣetraṃ guhyamitīśvari|
+SP0300722: etadbudhyanti yogajñā ye ca yogīśvarā bhuvi|| 72||
+SP0300731: etadeva paraṃ jñānametadeva paraṃ śivam|
+SP0300732: etadeva paraṃ brahma etadeva paraṃ padam|| 73||
+SP0300741: vārāṇasīti bhuvanatrayasārabhūtā
+SP0300742: ramyā purī mama sadā girirājaputri|
+SP0300743: atrāgatā vividhaduṣkṛtakāriṇo 'pi
+SP0300744: pāpakṣayādvirajasaḥ pratibhānti martyāḥ|| 74||
+SP0300751: etatsmṛtaṃ priyatamaṃ mama devi nityaṃ 
+SP0300752: kṣetraṃ vicitratarugulmanikāmapuṣpam|
+SP0300753: asminmṛtāstanubhṛtaḥ padamāpnuvanti
+SP0300754: mokṣākhyamenasi ratāpi na saṃśayo 'tra|| 75||
+SP0309999: iti skandapurāṇe triṃśattamo 'dhyāyaḥ||

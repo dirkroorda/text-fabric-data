@@ -1,0 +1,153 @@
+Skandapurāṇa Adhyāya 23
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0230010: sanatkumāra uvāca|
+SP0230011: bhagavāndevadeveśaḥ sarvabhūtapatirharaḥ|
+SP0230012: devīmuvāca vāgīśa umāṃ girivarātmajām|| 1||
+SP0230021: devi nandīśvaraṃ devamabhiṣekṣyāmi bhūtapam|
+SP0230022: gaṇānāvāhayiṣyāmi kiṃ vā tvaṃ manyase 'vyaye|| 2||
+SP0230030: devyuvāca|
+SP0230031: saptalokādhipatyaṃ ca gaṇeśānāṃ tathaiva ca|
+SP0230032: sarvamarhati deveśa nandī putro mamāgrajaḥ|| 3||
+SP0230040: sanatkumāra uvāca|
+SP0230041: tataḥ sa bhagavāndevaḥ suraśatruniṣūdanaḥ|
+SP0230042: prāṅmukhaḥ sa gaṇeśānāmāhvānamakarottadā|| 4||
+SP0230051: tataḥ sahasraśastatra gaṇādhyakṣā mudā yutāḥ|
+SP0230052: samprāptāḥ sarvalokeśāstacchṛṇuṣva mahāmune|| 5||
+SP0230061: tataḥ karāladaśano bhṛkuṭībhūṣitānanaḥ|
+SP0230062: śaṅkhahārāmbugauraśca daṃṣṭrī sragmī trilocanaḥ|| 6||
+SP0230071: jaṭāsahasrordhvaśirā jvālākeśo mahāhanuḥ|
+SP0230072: agnyaṅgārakanetraśca bhujagābaddhamekhalaḥ|| 7||
+SP0230081: vidyujjihvo mahākāyastathā caivordhvamehanaḥ|
+SP0230082: sarpayajñopavītī ca paraśvadhadharastathā|| 8||
+SP0230091: bhujagābaddhamauñjiśca bhujagaireva kaṅkaṇaiḥ|
+SP0230092: aṭṭahāsānsṛjānaśca aśanīpātasaṃnibhān|
+SP0230093: diṇḍirityeva vikhyāto gaṇapaḥ samadṛśyata|| 9||
+SP0230101: ātmanaḥ sadṛśānāṃ ca koṭībhirdaśabhirvṛtaḥ|
+SP0230102: gaṇapānāṃ sureśānāṃ yogināṃ dīptatejasām|| 10||
+SP0230111: tato 'paro mahākeśo mahākāyordhvamehanaḥ|
+SP0230112: tryakṣo 'nalaśataprakhyaḥ aśanīpātanardanaḥ|| 11||
+SP0230121: nṛtyangāyaṃśca citrāṇi kurvannāṭyānyanekaśaḥ|
+SP0230122: jvaladaṃṣṭro mahāhāso bṛhatskandhaḥ pinākadhṛk|| 12||
+SP0230131: koṭībhirdaśabhiḥ sārdhaṃ dviguṇābhirmahātmanām|
+SP0230132: gaṇānāṃ citrarūpāṇāṃ yugapatsampradṛśyata|| 13||
+SP0230141: siṃhāsyagajakokāsyairdvīpiśārdūlakānanaiḥ|
+SP0230142: so 'ṣāḍhirnāma gaṇapo vyāsa tatra samāgataḥ|| 14||
+SP0230150: sanatkumāra uvāca|
+SP0230151: athānyo vyāsa samprāpto yugāntādityasaprabhaḥ|
+SP0230152: śatayojanabāhuśca digvāsāścordhvamehanaḥ|| 15||
+SP0230161: atidīrgho 'timeḍhraśca lambabhrūḥ sthūlanāsikaḥ|
+SP0230162: vṛttāsyaśca mahākṣaśca bhṛkuṭīsaṃhatānanaḥ|| 16||
+SP0230171: pañcayojanavistīrṇo dīrgho vai tāvadeva ca|
+SP0230172: daṃṣṭrāścatasro vaktreṇa bibhracchaṅkhendupāṇḍarāḥ|| 17||
+SP0230181: pañcajihvordhvakarṇaśca pāśahasto manojavaḥ|
+SP0230182: vṛtaḥ koṭīśatenaiva sadṛśānāmadṛśyata|| 18||
+SP0230191: bhārabhūtīti vikhyāto mahāyogabalānvitaḥ|
+SP0230192: gaṇapo devadevasya samīpaṃ so 'bhyagacchata|| 19||
+SP0230201: tataḥ kundenduśaṅkhābhaṃ himarāśyambusaṃnibham|
+SP0230202: mṛṇālasphaṭikābhaṃ ca bhasmakakṣāvalambanam|| 20||
+SP0230211: gṛhītvā cāśanīhāsaṃ tripādaṃ cīravāsasam|
+SP0230212: śatodaraṃ triśirasaṃ trinetraṃ cordhvamūrdhajam|| 21||
+SP0230221: jvālāmālāgrakeśaṃ ca vyāghracarmājināmbaram|
+SP0230222: vāyuvegaṃ mahāhāsaṃ bhujagābaddhamekhalam|| 22||
+SP0230231: mahoragakṛtāpīḍaṃ śaṅkukarṇordhvamehanam|
+SP0230232: bhasmapraharaṇaṃ caiva mahādaṃṣṭraṃ mahāhanum|| 23||
+SP0230241: mahāgaṇapatiṃ vīraṃ jvara ityeva viśrutam|
+SP0230242: koṭīśatavṛtaṃ taṃ ca gaṇapaṃ so 'nvapaśyata|| 24||
+SP0230251: tato 'paraḥ saumyarūpo bhasmadigdhāṅga eva ca|
+SP0230252: triśūlapāṇirdigvāsā mahāyogabalānvitaḥ|| 25||
+SP0230261: bahuveṣadharaścaiva dhyānayogaparāyaṇaḥ|
+SP0230262: somavarṇa iti khyātaḥ koṭīśatavṛtaḥ prabhuḥ|
+SP0230263: tādṛśānāṃ gaṇādhyakṣo devenāhūta āgataḥ|| 26||
+SP0230271: athāparo mahākāyaḥ śūlapāṇirmahābalaḥ|
+SP0230272: yugāntānalasaṃkāśaḥ sthiraḥ sthirayaśobalaḥ|| 27||
+SP0230281: candramaulirmahākeśaścaturbāhurvilohitaḥ|
+SP0230282: ekapādairmahākāyaistryakṣaistaiḥ śūlapāṇibhiḥ|| 28||
+SP0230291: vṛtaḥ koṭīśatenaiva sthāṇustatrābhyavartata|
+SP0230292: samahāpārṣado rudraḥ sarvāsuranibarhaṇaḥ|| 29||
+SP0230301: tato 'paraḥ paṭṭisena hrasvapādodaraḥ śuciḥ|
+SP0230302: sahasrabāhucaraṇaḥ sahasrākṣaḥ pratāpavān|| 30||
+SP0230311: karāladaśanaścaiva kṛṣṇasarpāmbaracchadaḥ|
+SP0230312: tryakṣaścandrakṛtāpīḍaḥ kaṇṭhamālāvibhūṣitaḥ|| 31||
+SP0230321: ugrasena iti khyātaḥ koṭīśatavṛtaḥ sa ca|
+SP0230322: āgātsamīpaṃ devasya āhūtaḥ svayamīśvaraḥ|| 32||
+SP0230331: tato 'paraḥ samāpede devaṃ candrārdhadhāriṇam|
+SP0230332: caturvaktro mahātejāścaturviṃśekṣaṇaḥ prabhuḥ|| 33||
+SP0230341: sahasrabāhurjvālāsyo mahānetrordhvamehanaḥ|
+SP0230342: karāladaśanaścaiva śaṅkukarṇo mahānakhaḥ|| 34||
+SP0230351: asipāṇirmahātejāḥ śatapādaḥ śatodaraḥ|
+SP0230352: vidyutkeśo 'tihāsaśca tathaivobhayatogatiḥ|| 35||
+SP0230361: ajaikapāditi khyāto vṛtaḥ koṭīśatena saḥ|
+SP0230362: kāñcanopalavṛkṣāḍhyaḥ samegha iva parvataḥ|| 36||
+SP0230370: sanatkumāra uvāca|
+SP0230371: āgāttato 'paro vyāsa gaṇapaḥ sumahābalaḥ|
+SP0230372: sarvatovadanaḥ śrīmānsarvataḥpāṇipādadhṛk|| 37||
+SP0230381: hrasvabāhūrupādaśca aśaniṃ dhārayañchubham|
+SP0230382: śatairvṛtaśca koṭīnāmaṣṭābhistvātmanaḥ samaiḥ|
+SP0230383: nikumbha iti vikhyātaḥ śatapādodarānanaḥ|| 38||
+SP0230391: āgāttato 'paraścāpi vidyutkeśo mahābalaḥ|
+SP0230392: candramālādharo ghoraḥ prahasanpravicālayan|| 39||
+SP0230401: daṇḍadhārī mahāvaktraḥ śaṅkhakundendusaprabhaḥ|
+SP0230402: gaṇakoṭīśatavṛtaḥ paramaṃ paratāpanaḥ|| 40||
+SP0230411: tato 'paraḥ sahasreṇa koṭīnāṃ gaṇapo vṛtaḥ|
+SP0230412: sūryamālāsrajaṃ bibhradājagāma mahātapāḥ|| 41||
+SP0230421: sa sūryāpyāyano nāma devasya paramapriyaḥ|
+SP0230422: dhanuṣpāṇirmahātejā viśrutaḥ samahādyutiḥ|| 42||
+SP0230431: tathānyaḥ sarpamālaśca cakrābharaṇa eva ca|
+SP0230432: cakrāyudho mahātejā hrasvapādakaṭīkaraḥ|| 43||
+SP0230441: sa nāmnā viśruto loke grahāpyāyana ityuta|
+SP0230442: gaṇakoṭiśataiḥ ṣaḍbhirvṛtaḥ samanudhāvata|| 44||
+SP0230451: śaṅkukarṇo 'bhyayāccaiva gaṇakoṭyā mahābalaḥ|
+SP0230452: nandikaścāpi daśabhiḥ piṅgākṣo 'ṣṭābhireva ca|
+SP0230453: vināyakaścatuḥṣaṣṭyā kuṣmāṇḍo nāma viśrutaḥ|| 45||
+SP0230461: hiraṇyavarṇaḥ ṣaḍbhiśca ekapādastathaiva ca|
+SP0230462: dhūmrakeśo dvādaśabhiḥ patākī daśabhistathā|| 46||
+SP0230471: sahasraghaṇṭo 'ṣṭādaśabhistapaḥ pañcabhireva ca|
+SP0230472: sahasraśīrṣaḥ ṣaḍbhiśca bhavaḥ koṭiśatāvṛtaḥ|| 47||
+SP0230481: varo daśabhirabhyāgātkumbhakarṇastathāṣṭabhiḥ|
+SP0230482: viṣvaksenaḥ sahasreṇa annadastu śatena vai|| 48||
+SP0230491: āveśanī tathāṣṭābhiḥ saptabhiśca pravartanaḥ|
+SP0230492: mahāravaḥ sahasreṇa koṭīnāṃ gaṇapo vṛtaḥ|| 49||
+SP0230501: caturmukho dvādaśabhistathā bāhūpahārakaḥ|
+SP0230502: mahākālaḥ śatenaiva tathāgniśikharo gaṇaḥ|| 50||
+SP0230511: ādityamūrdhā koṭyā ca tathā caiva dhanāvahaḥ|
+SP0230512: saṃnāmaśca śatenaiva kukkuṭo 'ṣṭābhireva ca|| 51||
+SP0230521: kundaśca pañcadaśabhistathā saṃkoṭako 'paraḥ|
+SP0230522: amoghabhūtiḥ koṭyā ca tathā dvau meghabhūtikau|| 52||
+SP0230531: ekapādo 'paraḥ ṣaṣṭyā tathā saptaśirā gaṇaḥ|
+SP0230532: mahābalaśca navabhirapasmāraśca viśrutaḥ|| 53||
+SP0230541: nīlo navatyā deveśaḥ pūrṇabhadrastathaiva ca|
+SP0230542: nirṛtiścaiva saptatyā koṭīnāmabhyagātsaha|| 54||
+SP0230551: koṭīkoṭīsahasrāṇāṃ śatairviṃśatibhirvṛtāḥ|
+SP0230552: ītayastatra cājagmurmahāyogabalānvitāḥ|| 55||
+SP0230561: bhūtāḥ koṭisahasreṇa pramathāḥ koṭibhistribhiḥ|
+SP0230562: vīrabhadraścatuḥṣaṣṭyā vṛṣabhaśca mahābalaḥ|| 56||
+SP0230571: meghaḥ saudāmanīmālo navatyā saṃvṛto 'bhyagāt|
+SP0230572: prabhākaraśca viṃśatyā viṭpatiśca mahābalaḥ|| 57||
+SP0230581: giriko meghanādaśca udaro maṇireva ca|
+SP0230582: kāṣṭhakarṇaśca divyātmā bilvarūpaśca viśrutaḥ|| 58||
+SP0230591: śatamanyustathā caiva pañcākṣaścaiva vīryavān|
+SP0230592: tālaketuśca ṣaṇḍaśca kāpālī gajanāśanaḥ|| 59||
+SP0230601: saṃvartakastathā caitrastrailokyadahanastathā|
+SP0230602: lokāntakaśca dīptātmā hemakuṇḍala eva ca|| 60||
+SP0230611: mṛtyuścaiva yamaścaiva kālo viṣaharastathā|
+SP0230612: śatamāyo mahāmāyaḥ sarvatrāśaraṇastathā|
+SP0230613: ekaśṛṅgī ca vikhyātastathā bhṛṅgiriṭiśca yaḥ|| 61||
+SP0230621: ete cānye ca gaṇapā guhyā ye ca mahābalāḥ|
+SP0230622: tatrājagmurmudā yuktāḥ sarve citrāstrayodhinaḥ|| 62||
+SP0230631: gāyantaśca dravantaśca nṛtyantaśca mahābalāḥ|
+SP0230632: mukhāḍambaravādyāni nādayantastathaiva ca|| 63||
+SP0230641: rathairnāgairhayaiścaiva vāyumarkaṭavāhanāḥ|
+SP0230642: vyāghrasiṃhabiḍālaiśca sarpaiḥ pakṣibhireva ca|| 64||
+SP0230651: śvāpadaiśca tathānekairanyaiśca vividhaiḥ śubhaiḥ|
+SP0230652: vimāneṣu tathārūḍhā manuṣyeṣu tathāpare|| 65||
+SP0230661: bherīśaṅkhamṛdaṅgaiśca paṇavānakagomukhaiḥ|
+SP0230662: vāditrairvividhaiścaiva paṭahairekapuṣkaraiḥ|| 66||
+SP0230671: bherījharjharasaṃnādairāḍambarakaḍiṇḍimaiḥ|
+SP0230672: maḍḍukairveṇuvīṇābhirvivṛṣaistuṇavairapi|| 67||
+SP0230681: darduraistālaghātaiśca kacchapaiḥ paṇavairapi|
+SP0230682: vādyamānairmahāyogā ājagmurdevasaṃsadam|| 68||
+SP0230691: te viśvakarmāṇamamitrasāhā viśveśamekākṣaramavyayaṃ ca|
+SP0230692: sahasranetrapratimātibhāsvarāḥ praṇemuruccairapi cābhineduḥ|| 69||
+SP0239999: iti skandapurāṇe trayoviṃśatimo 'dhyāyaḥ||

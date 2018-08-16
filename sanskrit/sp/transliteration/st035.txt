@@ -1,0 +1,103 @@
+Skandapurāṇa Adhyāya 35
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0350010: sanatkumāra uvāca|
+SP0350011: tataḥ sa bhagavāndevaḥ sukeśaṃ gaṇapaṃ punaḥ|
+SP0350012: cakāra brāhmaṇaṃ vyāsa tapaḥsatyaparāyaṇam|| 1||
+SP0350020: vyāsa uvāca|
+SP0350021: kathaṃ sa brāhmaṇaḥ pūrvaṃ gaṇeśatvamupāgataḥ|
+SP0350022: kenāsya tapasā tuṣṭo gaṇapatvaṃ dadau prabhuḥ|| 2||
+SP0350030: sanatkumāra uvāca|
+SP0350031: āsīdvasiṣṭhakulajo brāhmaṇaḥ satyavākśuciḥ|
+SP0350032: tīrthayātrāsvabhirata upavāsaparāyaṇaḥ|| 3||
+SP0350041: sa kadācidvideśastho vane 'paśyatpathi sthitam|
+SP0350042: vyāghraṃ vyāttānanaṃ ghoraṃ nakhadaṃṣṭrāyudhaṃ varam|| 4||
+SP0350051: dṛṣṭvā taṃ sa tadā viprastyaktvā panthānamāśugaḥ|
+SP0350052: viveśa mahatīṃ ghorāmaṭavīṃ prāṇivarjitām|| 5||
+SP0350061: tatrāpaśyatsa purato vīraṇastambamāśritān|
+SP0350062: puruṣāṃl lambamānāṃśca krandamānānsuduḥkhitān|| 6||
+SP0350071: tānavākśiraso dṛṣṭvā lambamānāṃstadā dvijān|
+SP0350072: ke yūyamiti papraccha te caivamidamūcire|| 7||
+SP0350081: tava smaḥ pitaraḥ sarve narake 'sminnadhomukhāḥ|
+SP0350082: vīraṇe tvayi lambāmastava doṣeṇa durmate|| 8||
+SP0350091: putrānicchanti manujāstārayiṣyanti nastvime|
+SP0350092: narakāditi sa tvaṃ naḥ pātayiṣyasi duḥkhitān|| 9||
+SP0350100: vipra uvāca|
+SP0350101: mayā tīrthābhigamanāttapo yatsamupārjitam|
+SP0350102: janmaprabhṛti yaccāpi mayā kiṃcitkṛtaṃ śubham|
+SP0350103: tena yūyamito gartāduddharadhvaṃ pitāmahāḥ|| 10||
+SP0350110: pitara ūcuḥ|
+SP0350111: na vayaṃ tapasā śakyā na yajñenāpyato 'nyathā|
+SP0350112: gartādasmātsamuddhartuṃ yadbrūmastatkuruṣva naḥ|| 11||
+SP0350121: apatyaṃ guṇasaṃyuktamutpādaya tapoyutam|
+SP0350122: tato vayamito gartānmucyema yadi manyase|| 12||
+SP0350130: vipra uvāca|
+SP0350131: ūrdhvaretāhamityetanmayā vratamudāhṛtam|
+SP0350132: na dārānāhariṣyāmi tārayiṣye ca vai pitṝn|| 13||
+SP0350141: tataḥ sa tāṃstadotsṛjya duḥkhena mahatā vṛtaḥ|
+SP0350142: jagāma rudraṃ śaraṇaṃ pitaro 'ntarhitāstataḥ|| 14||
+SP0350151: pitṛṣvantarhiteṣvevaṃ vāyubhakṣastadā dvijaḥ|
+SP0350152: kāṣṭhaloṣṭopalībhūto nirucchvāso 'vatiṣṭhata|| 15||
+SP0350161: saṃdhāya sa mano rudre niścalaṃ susamāhitaḥ|
+SP0350162: hṛdayena japanrudrānākāśe samatiṣṭhata|| 16||
+SP0350171: tasya pūrṇe tadā māsi vātavarṣamabhūnmahat|
+SP0350172: sarvasattvapramathanaṃ duḥsahaṃ bhīmaśabdavat|| 17||
+SP0350181: tena varṣeṇa mahatā naiva tasyābhavattadā|
+SP0350182: duḥkhaṃ vāpyathavā bhaṅgaḥ samyagevāvatasthivān|| 18||
+SP0350191: atha taṃ bhagavāndevo māse vartati saptame|
+SP0350192: viṣṇurūpadharo bhūtvā provāca dvijasattamam|| 19||
+SP0350201: tuṣṭo 'smi tava bhadraṃ te tapasānena suvrata|
+SP0350202: varaṃ varaya viprarṣe yaste manasi vartate|| 20||
+SP0350211: sukeśastu tato dṛṣṭvā nārāyaṇamupāgatam|
+SP0350212: abravīcchaṃkarādicche varaṃ na bhavato hyaham|| 21||
+SP0350220: viṣṇuruvāca|
+SP0350221: alametena viprarṣe nirbandhena haraṃ prati|
+SP0350222: devairapi na śakyo 'sau draṣṭuṃ kimuta mānuṣaiḥ|| 22||
+SP0350230: sukeśa uvāca|
+SP0350231: śaṃkarādeva cakreśa śubhaṃ vā yadi vāśubham|
+SP0350232: varaṃ kāṃkṣe na ca tvatto na cānyasmātkathaṃcana|| 23||
+SP0350241: bhavanto 'pi hi taṃ devaṃ yasmātsarve samāhitāḥ|
+SP0350242: arcayadhvaṃ stuvadhvaṃ ca tasmācchreṣṭhaḥ sa ucyate|| 24||
+SP0350251: tasya taṃ niścayaṃ jñātvā tutoṣa bhagavānharaḥ|
+SP0350252: uvāca cainaṃ viprendra gaṇapo me bhavākṣayaḥ|| 25||
+SP0350261: amaro jarayā tyaktaḥ sarvaduḥkhavivarjitaḥ|
+SP0350262: aiśvaryeṇa ca saṃyuktaḥ priyo mama puraḥsaraḥ|| 26||
+SP0350271: idaṃ ca matkṛtaṃ divyaṃ trikūṭaṃ nāma parvatam|
+SP0350272: bhavanaiḥ kāñcanairyuktaṃ kāmagaṃ te dadāmyaham|| 27||
+SP0350281: yeṣāṃ kṛte ca tvaṃ putra māṃ toṣayitumudyataḥ|
+SP0350282: te ceme pitaraḥ sarve suputreṇa tvayānagha|
+SP0350283: tāritā narakādghorādgaṇeśatvamupasthitāḥ|| 28||
+SP0350291: kiṃkarāste bhaviṣyanti nityaṃ duḥkhavivarjitāḥ|
+SP0350292: gaṇeśvarāstavaiveme bhaviṣyanti vaśānugāḥ|| 29||
+SP0350301: sukeśa iti nāmnā ca prathitastvaṃ bhaviṣyasi|
+SP0350302: sadā cāṣṭaguṇaiśvaryasamāyuktaścariṣyasi|| 30||
+SP0350310: sanatkumāra uvāca|
+SP0350311: tataḥ sa dṛṣṭvātha pitṝnnarakātsasuhṛjjanān|
+SP0350312: tīrṇāngaṇeśvaratvena punaḥ pūjyena saṃyutān|| 31||
+SP0350321: maheśvaraṃ hṛṣṭamanāḥ śirasā prāñjalirnataḥ|
+SP0350322: uvāca harṣamāṇāsyastadā vacanakovidaḥ|| 32||
+SP0350330: sukeśa uvāca|
+SP0350331: bhagavangaṇapatvaṃ ca labdhamaiśvaryameva ca|
+SP0350332: amaratvaṃ tathākṣayyaṃ tathaivājaratā varā|| 33||
+SP0350341: pitarastāritāśceme gaṇapāścaiva me kṛtāḥ|
+SP0350342: nagaśca kāmago hyeṣa labdho me tvatprasādataḥ|| 34||
+SP0350351: icchāmi tvāṃ mahādeva somaṃ sapravareśvaram|
+SP0350352: sadā sumukhamatyarthaṃ sudṛśyaṃ caiva kāmada|| 35||
+SP0350360: sanatkumāra uvāca|
+SP0350361: sa evamukto bhagavānsukeśena mahātmanā|
+SP0350362: uvācaivamidaṃ sarvaṃ bhaviṣyati gaṇeśvara|| 36||
+SP0350371: imaṃ giriṃ samāśritya sahaibhiḥ pravarairvaraiḥ|
+SP0350372: gaccha sveṣṭāṃ gatiṃ vatsa devānviprāṃśca pālaya|| 37||
+SP0350381: visṛjya taṃ mahādevaḥ sukeśaṃ gaṇanāyakam|
+SP0350382: jagāmādarśanaṃ somaḥ sarveṣāmeva paśyatām|| 38||
+SP0350391: sukeśo 'pi girau tasminnagare svargasaṃnibhe|
+SP0350392: narakāṇāṃ sa tattvārthaṃ pitṝnpapraccha yatnataḥ|| 39||
+SP0350400: vyāsa uvāca|
+SP0350401: kimarthaṃ gaṇapo brahmaṃstānpitṝnparyapṛcchata|
+SP0350402: kathaṃ ca pitarastatra ācakhyustasya dhīmataḥ|| 40||
+SP0350411: etadvistaraśastāta saṃkṣepādvā yathātatham|
+SP0350412: tvatto 'haṃ śrotumicchāmi hitaṃ sarvasukhāvaham|| 41||
+SP0350421: sa evamuktaḥ surasṛksutaḥ prabhurvimānakartā vigataprayojanaḥ|
+SP0350422: jagāda vākyaṃ suralokabandhanaṃ purākṛtaṃ duṣkṛtasarvanāśanam|| 42||
+SP0359999: iti skandapurāṇe pañcatriṃśo 'dhyāyaḥ||

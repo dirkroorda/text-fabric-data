@@ -1,0 +1,150 @@
+Skandapurāṇa Adhyāya 67
+
+E-text generated on February 22, 2017 from the original TeX files of: Yokochi, Yuko, ed. The Skandapurāṇa. Vol.III. Adhyāyas 34.1-61, 53-69. The Vindhyavāsinī Cycle. Critical Edition with an Introduction & Annotated English Synopsis. Leiden/Groningen: Brill & Egbert Forsten, 2013.
+
+SP0670010: sanatkumāra uvāca|
+SP0670011: ājagmuḥ kauśikīṃ draṣṭumatha vindhyaṃ divaukasaḥ|
+SP0670012: ādityā vasavo rudrā marutvānmaruto 'śvinau|| 1||
+SP0670021: dharmāṅgirośanodakṣavasiṣṭhabhṛgukaśyapāḥ|
+SP0670022: pulastyapulahāgastyasanakātrisanandanāḥ|| 2||
+SP0670031: apsaroyakṣagandharvāḥ siddhā nāgamahoragāḥ|
+SP0670032: upavedāśca yajñāśca vedā vidyāḥ sarasvatī|| 3||
+SP0670041: samudrāḥ saritaḥ śailāstīrthāni vividhāni ca|
+SP0670042: mātaro lokapālāśca nakṣatrāṇi dhruvo grahāḥ|| 4||
+SP0670051: athocurdevatā devīṃ dyutimatyo mahādyutim|
+SP0670052: prahṛṣṭā hṛṣṭamanasāmāsīnāmasuradviṣaḥ|| 5||
+SP0670061: dānavendrau mahāsattvau tvayā trailokyakaṇṭakau|
+SP0670062: nighnatyā devi lokānāṃ duḥkhaśalyamapākṛtam|| 6||
+SP0670071: ṛṣayaḥ pāvanaṃ devi havirjuhvanti sāmpratam|
+SP0670072: chandāṃsyadhīyate coccairācaranti vratāni ca|| 7||
+SP0670081: yajño 'yamadhunā viprairījyate bahudakṣiṇaḥ|
+SP0670082: uṭajeṣu ca viśvastā munayaḥ śerate sukham|| 8||
+SP0670091: āsate nirbhayā devi santaḥ sanmārgamāśritāḥ|
+SP0670092: āvirbhūtaḥ punarloke vicchinnaḥ satkriyāpathaḥ|| 9||
+SP0670101: lokapālāḥ śirāṃsyuccaistvatprasādācca bibhrati|
+SP0670102: pṛktaḥ puṣparajobhiśca sukho vāti samīraṇaḥ|| 10||
+SP0670111: jalāni devi saritaḥ svacchāni śiśirāṇi ca|
+SP0670112: tvatprasādānmahāyoge vahanti vigataklamāḥ|| 11||
+SP0670121: idānīṃ ca punarjātā girayo girijātmaje|
+SP0670122: vijvarāḥ śiśirasvādunirjharodakavāhinaḥ|| 12||
+SP0670131: phaṇānsvastikacakrāṅkānuccairdadhati bhoginaḥ|
+SP0670132: udanvantaśca viśvāsādidānīṃ sukhamāsate|| 13||
+SP0670141: bhramantyapsaraso devi tvatprasādācca sāmpratam|
+SP0670142: saceto vimale vyomni vilāsālasalocanāḥ|| 14||
+SP0670151: siddhāṅganāśca sevante viśvastā devi sāmpratam|
+SP0670152: śikhareṣu mahīdhrāṇāmutphullāṃścandanadrumān|| 15||
+SP0670161: svabhāvānmadhupānācca raktalolavilocanāḥ|
+SP0670162: vicarantyadhunā yakṣā gandhamādanasānuṣu|| 16||
+SP0670171: sukhaṃ bibharti vasudhāmidānīṃ vigataklamaḥ|
+SP0670172: śeṣaḥ phaṇaiḥ svaratnāṃśuvitānapariveṣibhiḥ|| 17||
+SP0670181: mātā tvamasi lokānāṃ bhītānāmabhayapradā|
+SP0670182: vṛṇu devi varāniṣṭānabhiṣicyasva cācyute|| 18||
+SP0670191: evamuktā surairdevī prāha kiṃcitsmayanniva|
+SP0670192: icchāmi pitaraṃ draṣṭumasamagrendumaulinam|| 19||
+SP0670201: suprasannaṃ prasannāṃ ca jananīṃ śailanandanām|
+SP0670202: pitṛbhyāṃ cābhyanujñātāmabhiṣekṣyatha māṃ tataḥ|| 20||
+SP0670211: evamuktāḥ surā dadhyuravyagramanasā tadā|
+SP0670212: sapatnīkaṃ mahādevamamitadyutipauruṣam|| 21||
+SP0670221: atha te dadṛśurdevā devadevamumāpatim|
+SP0670222: tejasāmiva sarveṣāṃ saṃghātaṃ purataḥ sthitam|| 22||
+SP0670231: jaṭānāṃ prāntababhrūṇāṃ śirasā bhāramunnatam|
+SP0670232: bibhrāṇaṃ jvalitaṃ vahniṃ dīptānāmarciṣāmiva|| 23||
+SP0670241: karpūrabhaṅgagaureṇa snātaṃ puṇyena bhasmanā|
+SP0670242: prāntahemalatājālaṃ raupyaṃ girimivocchritam|| 24||
+SP0670251: tejasā svena tejāṃsi tiraskurvandivaukasām|
+SP0670252: madhyaṃdine pradīpānāmarcīṃsīva divākaraḥ|| 25||
+SP0670261: sudhāmbusyandinīṃ tanvīmekataḥ pariveṣiṇīm|
+SP0670262: dadhānaṃ maulinā kiñcitkuṭilāmaindavīṃ kalām|| 26||
+SP0670271: vijihmanakharāṃ gurvīṃ dhūsarāṃ bhasmareṇunā|
+SP0670272: saiṃhīṃ vasānamālambāmīṣadbhaṅgavatīṃ tvacam|| 27||
+SP0670281: churitopāntakāyena phaṇaratnamarīcibhiḥ|
+SP0670282: mahatā bhogapatinā vakṣaḥsthalavisarpiṇā|| 28||
+SP0670291: bhavānīṃ cāsya pārśvasthāṃ dīpyamānāṃ svatejasā|
+SP0670292: vasānāmaṃśukaṃ raktaṃ kalpapādapasambhavam|| 29||
+SP0670301: mandāramālāmutphullāṃ mattālikulasevitām|
+SP0670302: dadhānāmuttamāṅgena svareṇūtkarapiñjarām|| 30||
+SP0670311: svaḥśilpighaṭitaiścitrai ratnāṃśupariveṣibhiḥ|
+SP0670312: śātakumbhamayaiḥ ślāghyairbhūṣitāṃ bhūṣaṇottamaiḥ|| 31||
+SP0670321: bibhratīṃ rucirāṃ śuddhāṃ śaraccandrāṃśunirmalām|
+SP0670322: śirodharaṇyā mahatīmekāvalimanuttamām|| 32||
+SP0670331: athotthāya surāḥ sarve kauśikī cānatānanā|
+SP0670332: tayoścaraṇapadmeṣu nipetustuṣṭamānasāḥ|| 33||
+SP0670341: athodvīkṣya mahādevaḥ kauśikīmidamabravīt|
+SP0670342: ajeyā sarvabhūtānāṃ mahāyogā mahādyutiḥ|
+SP0670343: vicariṣyasi lokāṃstvaṃ sarvatrāpratighātinī|| 34||
+SP0670351: imāśca devatāḥ sarvāstvatprasādādanindite|
+SP0670352: - - - - - - - -  - - - - - - - -|| 35||
+SP0670361: bhaktyā balyupahāraiśca pūjayiṣyanti mānavāḥ|
+SP0670362: varadā cāpi bhaktānāṃ bhaviṣyasi sadānaghe|| 36||
+SP0670371: abhiṣicyasva ca kṣipraṃ surairasurasūdani|
+SP0670372: kṛtsnaṃ rakṣa ca bhūrlokaṃ pūjyamānā sadāvyaye|| 37||
+SP0670381: śarvāṇī ca pariṣvajya mūrdhni cāghrāya kauśikīm|
+SP0670382: prāha prītā mahābhāgā matprasādādbhaviṣyasi|| 38||
+SP0670391: arcayanti yathā māṃ ca surā yakṣā mahoragāḥ|
+SP0670392: gandharvā munayaḥ siddhāstathā tvāmapyanindite|
+SP0670393: arcayiṣyanti sarvatra bhaktāḥ stoṣyanti cāvyaye|| 39||
+SP0670401: evaṃ tasyai varāndattvā girijāvṛṣabhadhvajau|
+SP0670402: namaskṛtau tadā devairantardadhaturavyayau|| 40||
+SP0670411: athendro viśvakarmāṇamādideśa tadā prabhuḥ|
+SP0670412: sudharmeva sabhā divyā kriyatāmiha sāmpratam|| 41||
+SP0670421: ṛtūṃśca sarvāṃstatretthamādideśa śatakratuḥ|
+SP0670422: nānāpuṣpotkaraiḥ kṣipraṃ bhūmiḥ samyagvibhūṣyatām|| 42||
+SP0670431: kṣupagulmalatāvṛkṣapuṣpareṇusugandhayaḥ|
+SP0670432: ākṣipanto manāṃsyatra sukhā vāntu samīraṇāḥ|| 43||
+SP0670441: siñcantu vāribhiḥ puṇyairvindhyaprasthaṃ payomucaḥ|
+SP0670442: tāraṃ nadantu śikhinaḥ prahṛṣṭāḥ sarvatodiśaḥ|| 44||
+SP0670451: nṛtyantu paritaścitrā darśayantaḥ pṛthagvidhān|
+SP0670452: rasānbhāvānvilāsāṃśca sarve cāpsarasāṃ gaṇāḥ|| 45||
+SP0670461: pratisāryāśu vīṇāśca gandharvā madhurasvarāḥ|
+SP0670462: layatālasamaṃ geyaṃ gāyantu ca samantataḥ|| 46||
+SP0670471: āhanyantāṃ samantācca devadundubhayo bhṛśam|
+SP0670472: pāṇibhiḥ kaṭhinaistūrṇaṃ citrarūpā mahāsvanāḥ|| 47||
+SP0670481: mandānilasamuddhūtā līnālikulapaṅktayaḥ|
+SP0670482: patantvasminpradeśe ca divyāḥ kusumavṛṣṭayaḥ|| 48||
+SP0670491: ucchrayantāṃ samantācca patākāścitramūrtayaḥ|
+SP0670492: dhvajāśca vividhākārā hemadaṇḍāḥ susaṃskṛtāḥ|| 49||
+SP0670501: athāśu nirmime tatra viśvakarmā mahādyutiḥ|
+SP0670502: nānāratnojjvalastambhāṃ vicitramaṇivedikām|| 50||
+SP0670511: vajrasphaṭikaniryūhāṃ jāmbūnadamayīṃ śubhām|
+SP0670512: indranīlorusopānāṃ muktādāmāvalambinīm|| 51||
+SP0670521: sadhvajāṃ sapatākāṃ ca ghaṇṭāsvananināditām|
+SP0670522: taponiyamayajñānāṃ sākṣātsiddhimivodgatām|| 52||
+SP0670531: bhinnakālāni puṣpāni dadṛśurdevatāstadā|
+SP0670532: samaṃ supuṇyagandhāni vicitrāṇi bahūni ca|| 53||
+SP0670541: puṣpakiñjalkagarbhāśca sukhasparśāḥ sugandhayaḥ|
+SP0670542: nādayanto muhurghaṇṭā vavustatra samīraṇāḥ|| 54||
+SP0670551: pragītāḥ suragandharvā nanṛtuścāpsarogaṇāḥ|
+SP0670552: ṛṣayastuṣṭuvurgīrbhiḥ puṇyābhiḥ kauśikīṃ tadā|| 55||
+SP0670561: sarvaratnauṣadhairgandhaiḥ pūrṇāḥ puṇyaiśca vāribhiḥ|
+SP0670562: ānītāstatra kalaśā hemaratnamayāḥ śubhāḥ|| 56||
+SP0670571: padmarāgamayaiḥ siṃhaiścaturbhirvajrakesaraiḥ|
+SP0670572: ucchvasadbhiriva śrīmaduhyamānaṃ hiraṇmayam|| 57||
+SP0670581: sarvaratnaprabhājālakhacitopāntamaṇḍalam|
+SP0670582: kalpayāmāsa devyāśca viśvakarmā varāsanam|| 58||
+SP0670591: stutibhirjayaśabdaiśca stūyamānā samantataḥ|
+SP0670592: ṛṣibhirdevatābhiśca devadevasutā tataḥ|| 59||
+SP0670601: tasminsiṃhāsane divye niṣasādātha kauśikī|
+SP0670602: kṛtasvastyayanā vipraiḥ suhute jātavedasi|| 60||
+SP0670611: vasānā vāsasī śukle kalpadrumasamudbhave|
+SP0670612: muktādāmāvabaddhāṅgī śuklasraganulepanā|| 61||
+SP0670621: tataḥ saptarṣayo viṣṇurdharmo yajñaḥ prajāpatiḥ|
+SP0670622: ādityāḥ kaśyapo rudrā lokapālā hutāśanāḥ|| 62||
+SP0670631: śailendrāḥ pṛthivī gaṅgā candramā maruto 'śvinau|
+SP0670632: samudrā vasavo lakṣmī sandhyā kīrtiḥ sarasvatī|| 63||
+SP0670641: nāgendrā vihageśāśca vividhāśca saridvarāḥ|
+SP0670642: ādāya kalaśānsarvānabhyaṣiñcanta kauśikīm|| 64||
+SP0670651: pūrṇendubimbapratimaṃ ratnadaṇḍaṃ mahādyutim|
+SP0670652: jagrāha ca tataśchattraṃ svayameva śatakratuḥ|| 65||
+SP0670661: cāmarairhemadaṇḍaiśca dīrghaiścandrāṃśunirmalaiḥ|
+SP0670662: vījayāmāsurāyastairlokapālāstadāvyayām|| 66||
+SP0670671: uvāca ca tataḥ śrīmānkauśikīṃ pākaśāsanaḥ|
+SP0670672: pāhi kṛtsnāṃ bhuvaṃ devi bhaginī tvaṃ mamāvyaye|| 67||
+SP0670681: bhaktānanugṛhāṇeśe jahi cāmarakaṇṭakān|
+SP0670682: vicarasva samastāṃśca lokānsiddhagaṇārcitā|| 68||
+SP0670691: iti vacanamathoktvā kauśikīṃ devarājaḥ 
+SP0670692: tridaśagaṇasametaḥ śubhraloloruhāraḥ|
+SP0670693: udapatadatha vindhyādvikṣipanvyomni nīlān
+SP0670694: salilabharavinamrānambuvāhānsamantāt|| 69||
+SP0670701: ya imaṃ śṛṇuyānnityaṃ paṭhedvā satsamāgame|
+SP0670702: iha loke sukhaṃ prāpya sa yāti paramāṃ gatim|| 70||
+SP0679999: iti skandapurāṇe saptaṣaṣṭo 'dhyāyaḥ||

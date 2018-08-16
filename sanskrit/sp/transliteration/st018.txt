@@ -1,0 +1,101 @@
+Skandapurāṇa Adhyāya 18
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0180010: sanatkumāra uvāca|
+SP0180011: tataḥ sa rājā svaṃ rājyamutsṛjya saha bhāryayā|
+SP0180012: vanaṃ viveśa tatrābhūtpuruṣādo mahābalaḥ|| 1||
+SP0180021: so 'bhakṣayata tatrāgre śaktimeva mahāmunim|
+SP0180022: tato bhrātṛśataṃ tasya vasiṣṭhasyaiva paśyataḥ|| 2||
+SP0180031: tataḥ putravadhaṃ ghoraṃ dṛṣṭvā brahmasutaḥ prabhuḥ|
+SP0180032: notsasarja tadā krodhaṃ vasiṣṭhaḥ kauśikaṃ prati|
+SP0180033: putraśokena mahatā bhṛśamevānvakīryata|| 3||
+SP0180041: sa baddhvā mahatīṃ kaṇṭhe śilāṃ brahmasutaḥ prabhuḥ|
+SP0180042: nadyāmātmānamutsṛjya śatadhā sādravadbhayāt|
+SP0180043: śatadrūriti tāṃ prāhurmunayaḥ saṃśitavratāḥ|| 4||
+SP0180051: punaḥ pāśairdṛḍhairbaddhvā anyasyāmasṛjadvaśī|
+SP0180052: tasyāṃ vipāśaḥ saṃvṛtto vipāśā sābhavattataḥ|| 5||
+SP0180061: tato 'ṭavīṃ samāsādya nirāhāro jitendriyaḥ|
+SP0180062: vāyubhakṣastadā tasthau svaṃ dehaṃ paritāpayan|| 6||
+SP0180071: atha śuśrāva vedānāṃ dhvanimekasya susvaram|
+SP0180072: adhīyānasya tatrāśu dhyānamevānvapadyata|| 7||
+SP0180081: athainaṃ cārusarvāṅgī pīnonnatapayodharā|
+SP0180082: upatasthe 'grataḥ patnī śakterdīnānanekṣaṇā|| 8||
+SP0180091: tāmuvāca kutastvaṃ vai kasyaiṣa śrūyate dhvaniḥ|
+SP0180092: sovāca dīnayā vācā rudatī śvaśuraṃ tadā|| 9||
+SP0180100: adṛśyantyuvāca|
+SP0180101: yadaiva sutaduḥkhena nirgato 'syāśramādguro|
+SP0180102: tadāprabhṛtyevādṛśyā bhagavantamanuvratā|| 10||
+SP0180111: adhīyānasya caivāyaṃ dhvaniḥ putrasya te vibho|
+SP0180112: udarasthasya te sūnormā duḥkhe tvaṃ manaḥ kṛthāḥ|| 11||
+SP0180120: sanatkumāra uvāca|
+SP0180121: idānīmasti me vatse jīvitāśeti so 'bravīt|
+SP0180122: kṣāntiṃ dhṛtiṃ ca saṃsthitya prayayāvāśramaṃ muniḥ|| 12||
+SP0180131: tadāśramapadaṃ gacchanpathi rājānamaikṣata|
+SP0180132: vasārudhiradigdhāṅgaṃ saudāsaṃ raktalocanam|| 13||
+SP0180141: abhidravantaṃ vegena mantrairastambhayanmuniḥ|
+SP0180142: tato 'sya nirgataḥ kāyādrakṣaḥ paramadāruṇaḥ|| 14||
+SP0180151: uvāca cainaṃ duṣṭātmandaheyaṃ tvāṃ sabāndhavam|
+SP0180152: dagdhena ca tvayā kiṃ me gaccha mukto 'si durmate|| 15||
+SP0180161: tataḥ sa mukto dīnātmā rākṣasaḥ krūrakarmakṛt|
+SP0180162: praṇamya śirasā bhīto jagāma kuśikāntikam|| 16||
+SP0180171: gate niśācare rājā praṇamya śirasā munim|
+SP0180172: prasādayāmāsa tadā sa covācedamarthavat|| 17||
+SP0180181: na doṣastava rājendra rakṣasādhiṣṭhitasya vai|
+SP0180182: kṛtāntena hatāḥ putrā nimittaṃ tatra rākṣasaḥ|| 18||
+SP0180191: praśādhi rājyaṃ rājendra pitṛpaitāmahaṃ vibho|
+SP0180192: brūhi kiṃ vā priyaṃ te 'dya karomi narapuṃgava|| 19||
+SP0180200: rājovāca|
+SP0180201: icchāmi bhagavanputraṃ tvayotpāditamacyuta|
+SP0180202: devyāmasyāṃ mahāsattvaṃ tatkuruṣva mama priyam|| 20||
+SP0180210: sanatkumāra uvāca|
+SP0180211: evamastvityathoktvāsau tasyāṃ patnyāṃ mahāvrataḥ|
+SP0180212: putraṃ ca śoṇakaṃ nāma janayāmāsa nirvṛtaḥ|| 21||
+SP0180221: taṃ śoṇakaṃ tato rājye svaṃ putramabhiṣicya saḥ|
+SP0180222: jagāma vanamevāśu sabhāryastapasi sthitaḥ|| 22||
+SP0180231: vasiṣṭhasyāpi kālena śakteḥ putraḥ pratāpavān|
+SP0180232: adṛśyantyāṃ samabhavatputro nāmnā parāśaraḥ|| 23||
+SP0180241: vasiṣṭhaṃ tu tadā dhīmāṃstātamevābhyamanyata|
+SP0180242: tāta tāteti ca muhurvyājahāra piturgurum|| 24||
+SP0180251: tataḥ kadācidvijñāya bhakṣitaṃ rakṣasā śucim|
+SP0180252: pitaraṃ tapasā mantrairīje rakṣaḥkratau tadā|| 25||
+SP0180261: tatra koṭīḥ sa pañcāśadrakṣasāṃ krūrakarmaṇām|
+SP0180262: juhāvāgnau mahātejāstato brahmābhyagāddrutam|| 26||
+SP0180271: sutamabhyetya sampūjya vasiṣṭhasahitaḥ prabhuḥ|
+SP0180272: ṛṣibhirdaivataiścaiva idamāha parāśaram|| 27||
+SP0180280: brahmovāca|
+SP0180281: †devatāste patanti sma yajñairmantrapuraskṛtaiḥ|
+SP0180282: aṣṭamaṃ sthānametaddhi devānāmādyamīdṛśam†|| 28||
+SP0180290: parāśara uvāca|
+SP0180291: saha devairahaṃ sarvāṃl lokāndhakṣyāmi pāvakaiḥ|
+SP0180292: dagdhvānyānprathayiṣyāmi tatra lokānna saṃśayaḥ|| 29||
+SP0180300: sanatkumāra uvāca|
+SP0180301: tasyaivaṃ garvitaṃ vākyaṃ śrutvā devaḥ pitāmahaḥ|
+SP0180302: uvāca ślakṣṇayā vācā sāntvayaṃstamidaṃ vacaḥ|| 30||
+SP0180310: pitāmaha uvāca|
+SP0180311: kṛtametanna saṃdeho yathā brūṣe mahāmate|
+SP0180312: kṣantavyaṃ sarvametattu asmatpriyacikīrṣayā|| 31||
+SP0180321: yaiste pitā mahābhāga bhakṣitaḥ saha sodaraiḥ|
+SP0180322: ta evāgnau ca hotavyā viśvāmitrasya paśyataḥ|
+SP0180323: anyeṣāṃ svasti sarvatra devānāṃ saha rākṣasaiḥ|| 32||
+SP0180331: †tasya saṃkalpasaṃtapto manyumūlamudāharat|
+SP0180332: vasiṣṭhasya mahābhāga tvaṃ nivāraya putraka†|| 33||
+SP0180341: devāḥ prāñjalayaḥ sarve praṇemuste mahāmunim|
+SP0180342: ṛṣayaścaiva te sarve vāgbhistuṣṭuvire tadā|| 34||
+SP0180351: tatasteṣāṃ mahātejā vacāṃsi pratyapūjayat|
+SP0180352: viśvāmitrasya miṣata idaṃ provāca susvaram|| 35||
+SP0180361: ya eṣāṃ brāhmaṇo vāpi kṣatriyo vā durātmavān|
+SP0180362: rakṣasāṃ pakṣamāsthāya pratīkāraṃ kariṣyati|| 36||
+SP0180371: tamapyatrāpi saṃkruddhastapoyogabalānvitaḥ|
+SP0180372: vihatya tapaso yogāddhoṣye dīpte vibhāvasau|| 37||
+SP0180380: sanatkumāra uvāca|
+SP0180381: tato devāḥ sagandharvāḥ pitāmahapuraḥsarāḥ|
+SP0180382: prabhāvaṃ tasya taṃ jñātvā parāśaramapūjayan|| 38||
+SP0180391: huteṣu ca tatasteṣu rākṣaseṣu durātmasu|
+SP0180392: saṃjahāra tataḥ sattraṃ brahmaṇo 'numate tadā|| 39||
+SP0180400: sanatkumāra uvāca|
+SP0180401: ya imaṃ śrāddhakāle vā daive karmaṇi vā dvijān|
+SP0180402: śrāvayīta śucirbhūtvā na taṃ hiṃsanti rākṣasāḥ|| 40||
+SP0180411: parāśarasyedamadīnasambhavaṃ viśuddhavākkarmavidhānasambhavam|
+SP0180412: niśāmya vipraḥ kulasiddhisambhavaṃ na rākṣasaṃ gacchati yonisambhavam|| 41||
+SP0189999: iti skandapurāṇe 'ṣṭādaśamo 'dhyāyaḥ||

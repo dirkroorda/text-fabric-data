@@ -1,0 +1,70 @@
+Skandapurāṇa Adhyāya 14
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0140010: sanatkumāra uvāca|
+SP0140011: atha vṛtte vivāhe tu bhavasyāmitatejasaḥ|
+SP0140012: praharṣamatulaṃ gatvā devāḥ sahapitāmahāḥ|
+SP0140013: tuṣṭuvurvāgbhiriṣṭābhiḥ praṇamanto maheśvaram|| 1||
+SP0140021: namaḥ parvataliṅgāya parvateśāya vai namaḥ|
+SP0140022: namaḥ pavanavegāya virūpāyājitāya ca|| 2||
+SP0140031: namaḥ kleśavināśāya dātre ca śubhasampadām|
+SP0140032: namo nīlaśikhaṇḍāya ambikāpataye namaḥ|| 3||
+SP0140041: namaḥ pavanarūpāya śatarūpāya vai namaḥ|
+SP0140042: namo bhairavarūpāya virūpanayanāya ca|| 4||
+SP0140051: namaḥ sahasranetrāya sahasracaraṇāya ca|
+SP0140052: namo vedarahasyāya vedāṅgāya namo namaḥ|| 5||
+SP0140061: viṣṭambhanāya śakrasya bāhorvedāṅkurāya ca|
+SP0140062: carācarādhipataye śamanāya namo namaḥ|| 6||
+SP0140071: salileśayaliṅgāya yugāntāyataliṅgine|
+SP0140072: namaḥ kapālamālāya kapālasragmiṇe namaḥ|| 7||
+SP0140081: namaḥ kapālahastāya daṃṣṭriṇe gadine namaḥ|
+SP0140082: namastrailokyavāhāya saptalokarathāya ca|| 8||
+SP0140091: namaḥ khaṭvāṅgahastāya pramathārtiharāya ca|
+SP0140092: namo yajñaśirohartre kṛṣṇakeśāpahāriṇe|| 9||
+SP0140101: bhaganetranipātāya pūṣṇo dantaharāya ca|
+SP0140102: namaḥ pinākaśūlāsikhaḍgamudgaradhāriṇe|| 10||
+SP0140111: namo 'stu kālakālāya tṛtīyanayanāya ca|
+SP0140112: antakāntakṛte caiva namaḥ parvatavāsine|| 11||
+SP0140121: suvarṇaretase caiva sarpakuṇḍaladhāriṇe|
+SP0140122: vāḍvaleryoganāśāya yogināṃ gurave namaḥ|| 12||
+SP0140131: śaśāṅkādityanetrāya lalāṭanayanāya ca|
+SP0140132: namaḥ śmaśānarataye śmaśānavaradāya ca|| 13||
+SP0140141: namo daivatanāthāya tryambakāya namo namaḥ|
+SP0140142: aśanīśatahāsāya brahmaṇyāyājitāya ca|| 14||
+SP0140151: gṛhasthasādhave nityaṃ jaṭine brahmacāriṇe|
+SP0140152: namo muṇḍārdhamuṇḍāya paśūnāṃ pataye namaḥ|| 15||
+SP0140161: salile tapyamānāya yogaiśvaryapradāya ca|
+SP0140162: namaḥ śāntāya dāntāya pralayotpattikāriṇe|| 16||
+SP0140171: namo 'nugrahakartre ca sthitikartre namo namaḥ|
+SP0140172: namo rudrāya vasave ādityāyāśvine namaḥ|| 17||
+SP0140181: namaḥ pitre 'tha sādhyāya viśvedevāya vai namaḥ|
+SP0140182: namaḥ śarvāya sarvāya ugrāya varadāya ca|| 18||
+SP0140191: namo bhīmāya senānye paśūnāṃ pataye namaḥ|
+SP0140192: śucaye rerihāṇāya sadyojātāya vai namaḥ|| 19||
+SP0140201: mahādevāya citrāya namaścitrarathāya ca|
+SP0140202: pradhānāya prameyāya kāryāya karaṇāya ca|| 20||
+SP0140211: puruṣāya namaste 'stu puruṣecchākarāya ca|
+SP0140212: namaḥ puruṣasaṃyogapradhānaguṇakāriṇe|| 21||
+SP0140221: pravartakāya prakṛteḥ puruṣasya ca sarvaśaḥ|
+SP0140222: kṛtākṛtasya saṃvettre phalasaṃyogadāya ca|| 22||
+SP0140231: kālajñāya ca sarvatra namo niyamakāriṇe|
+SP0140232: namo vaiṣamyakartre ca guṇānāṃ vṛttidāya ca|| 23||
+SP0140241: namaste devadeveśa namaste bhūtabhāvana|
+SP0140242: śivaḥ saumyaḥ sukho draṣṭuṃ bhava somo hi naḥ prabho|| 24||
+SP0140250: sanatkumāra uvāca|
+SP0140251: evaṃ sa bhagavāndevo jagatpatirumāpatiḥ|
+SP0140252: stūyamānaḥ suraiḥ sarvairamarānidamabravīt|| 25||
+SP0140261: draṣṭuṃ sukhaśca saumyaśca devānāmasmi bho surāḥ|
+SP0140262: varaṃ brūta yatheṣṭaṃ ca dātāsmi vadatānaghāḥ|| 26||
+SP0140271: tataste praṇatāḥ sarve ūcuḥ sabrahmakāḥ surāḥ|
+SP0140272: tavaiva bhagavanhaste vara eṣo 'vatiṣṭhatām|
+SP0140273: yadā kāryaṃ tadā nastvaṃ dāsyase varamīpsitam|| 27||
+SP0140281: evamastviti tānuktvā visṛjya ca surānharaḥ|
+SP0140282: lokāṃśca pramathaiḥ sārdhaṃ viveśa bhavanaṃ tataḥ|| 28||
+SP0140291: yastu harotsavamadbhutametaṃ gāyati daivataviprasamakṣam|
+SP0140292: so 'pratirūpagaṇeśasamāno dehaviparyayametya sukhī syāt|| 29||
+SP0140300: sanatkumāra uvāca|
+SP0140301: pārāśarya stavaṃ hīdaṃ śṛṇuyādyaḥ paṭheta vā|
+SP0140302: sa svargalokago devaiḥ pūjyate 'mararāḍiva|| 30||
+SP0149999: iti skandapurāṇe caturdaśamo 'dhyāyaḥ||

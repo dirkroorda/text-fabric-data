@@ -1,0 +1,70 @@
+Skandapurāṇa Adhyāya 19
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0190010: sanatkumāra uvāca|
+SP0190011: evaṃ tava pitā vyāsa rakṣaḥsattraṃ samāharat|
+SP0190012: samāpayitvā ca punastapastepe ca bhāsvaram|| 1||
+SP0190021: tamāgatya vasiṣṭhastu tapasā bhāskaradyutim|
+SP0190022: uvāca prītisampannamidamarthavadavyayaḥ|| 2||
+SP0190030: vasiṣṭha uvāca|
+SP0190031: pitaraḥ putrakāmā vai tapaḥ kṛtvātiduścaram|
+SP0190032: putramutpādayanti sma tapojñānasamanvitam|| 3||
+SP0190041: ayaṃ naḥ saṃtatiṃ caiva jñānavāṃstapasānvitaḥ|
+SP0190042: kariṣyati gatiṃ caiva iti vedavido viduḥ|| 4||
+SP0190051: sa tvaṃ taponvitaścaiva jñānavānyaśasānvitaḥ|
+SP0190052: putraḥ putravatāṃ śreṣṭho vihīnaḥ prajayā vibho|| 5||
+SP0190061: tasmātpitṝṇāmānṛṇyaṃ gaccha vratavatāṃ vara|
+SP0190062: sutamutpādaya kṣipramadhikaṃ samameva vā|| 6||
+SP0190070: sanatkumāra uvāca|
+SP0190071: sa evamuktastejasvī vasiṣṭhenāmitātmanā|
+SP0190072: mainākaṃ parvataṃ prāpya tapastepe suduścaram|| 7||
+SP0190081: tasya kālena mahatā tapasā bhāvitasya tu|
+SP0190082: umāpatirvaraṃ prādātsa ca vavre sutaṃ śubham|| 8||
+SP0190091: sa labdhavara āgamya yayāce putrakāraṇāt|
+SP0190092: kṣetraṃ supariśuddhaṃ ca svaputro yatra sambhavet|| 9||
+SP0190101: sambhramandāśarājasya duhitṛtvamupāgatām|
+SP0190102: pitṛkanyāṃ tataḥ kālīmapaśyaddivyarūpiṇīm|| 10||
+SP0190111: matsīgarbhasamutpannāṃ vasorbījāśanātpurā|
+SP0190112: adrikāmapsaraḥśreṣṭhāṃ brahmatejomayīṃ śubhām|| 11||
+SP0190121: tasyāṃ sa janayāmāsa varaṃ dattvā mahātapāḥ|
+SP0190122: bhavantaṃ tapasāṃ yoniṃ śrautasmārtapravartakam|| 12||
+SP0190131: tava putro 'bhavaccāpi śuko yogavidāṃ varaḥ|
+SP0190132: tasya putrāśca catvāraḥ kanyā caikā sumadhyamā|| 13||
+SP0190140: vyāsa uvāca|
+SP0190141: kathaṃ vairaṃ samabhavadviśvāmitravasiṣṭhayoḥ|
+SP0190142: kathaṃ cāpagataṃ bhūya etadicchāmi veditum|| 14||
+SP0190150: sanatkumāra uvāca|
+SP0190151: parāśare tu garbhasthe vipratvaṃ gādhije gate|
+SP0190152: sarasvatyāṃ kurukṣetre dvayorapyāśramau tayoḥ|| 15||
+SP0190161: tatra vairamanusmṛtya viśvāmitreṇa dhīmatā|
+SP0190162: miṣatastu vasiṣṭhasya hataṃ putraśataṃ ruṣā|| 16||
+SP0190171: munirapyāha tatrāsau viśvāmitraḥ pratāpavān|
+SP0190172: sarasvatīmathaikānte vasiṣṭhaṃ me mahāpage|
+SP0190173: srotasā mahatākṣipya snāyamānamihānaya|| 17||
+SP0190181: saivamuktā tu taṃ gatvā vasiṣṭhaṃ prāha duḥkhitā|
+SP0190182: yaduktavāṃstu gādheyaḥ sa covāca mahānadīm|| 18||
+SP0190191: evaṃ kuru mahābhāge māṃ nayasva yathepsitam|
+SP0190192: mā te krūraḥ sa gādheyaḥ śāpaṃ dadyātsudustaram|| 19||
+SP0190200: sanatkumāra uvāca|
+SP0190201: gādheyasya tataḥ sā tu juhvato 'gniṃ divākare|
+SP0190202: madhyaṃ prāpte 'nayadvegādvasiṣṭhaṃ srotasā śubhā|| 20||
+SP0190211: taṃ dṛṣṭvāpahṛtaṃ vyāsa srotasā munisattamam|
+SP0190212: uvāca cchadmanā yasmādvegenāpahṛtastvayā|
+SP0190213: tasmāttvaṃ karmaṇānena sāsṛktoyā bhaviṣyasi|| 21||
+SP0190221: viśvāmitreṇa sā śaptā nadī lokasukhapradā|
+SP0190222: avahadrudhiraṃ caiva māṃsamedastathaiva ca|| 22||
+SP0190231: atha tīrthaprasaṅgena munibhiḥ samupāgataiḥ|
+SP0190232: anugrahaḥ kṛtastasyā yena svacchajalābhavat|| 23||
+SP0190241: mahatastapasaḥ śaktyā kālena mahatā tadā|
+SP0190242: vasiṣṭhasya ca tāṃ kṣāntiṃ jñātvā sa ṛṣipuṃgavaḥ|| 24||
+SP0190251: viśvāmitro mahātejā vasiṣṭhe vairamatyajat|
+SP0190252: evaṃ tau vairamanyonyaṃ jahaturmunisattamau|| 25||
+SP0190260: sanatkumāra uvāca|
+SP0190261: ya imaṃ śṛṇuyānnityaṃ brāhmaṇāñchrāvayīta vā|
+SP0190262: sa dustarāṇi durgāṇi taratyaśrāntapauruṣaḥ|| 26||
+SP0190271: hrīpauruṣaudāryavihārasattvaiḥ samanvitaḥ sojjvalacāruveṣaḥ|
+SP0190272: bhavecca sarvāmararājatulyastripiṣṭape krīḍati cecchayā svayam|| 27||
+SP0190281: evaṃ tadabhavadvyāsa viśvāmitravasiṣṭhayoḥ|
+SP0190282: vairaṃ samāptaṃ lokānāṃ hitārthaṃ punareva ca|| 28||
+SP0199999: iti skandapurāṇe ūnaviṃśatitamo 'dhyāyaḥ||

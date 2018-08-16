@@ -1,0 +1,91 @@
+Skandapurāṇa Adhyāya 7
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0070010: vāyuruvāca|
+SP0070011: brahmalokaṃ samāsādya bhagavānsarvalokapaḥ|
+SP0070012: bhaikṣyaṃ bhaikṣyamiti procya dvāre samavatiṣṭhata|| 1||
+SP0070021: taṃ dṛṣṭvā vikṛtaṃ brahmā kapālakarabhūṣaṇam|
+SP0070022: jñātvā yogena mahatā tuṣṭāva bhuvaneśvaram|| 2||
+SP0070031: tasya tuṣṭastadā devo varado 'smītyabhāṣata|
+SP0070032: vṛṇīṣva varamavyagro yaste manasi vartate|| 3||
+SP0070040: brahmovāca|
+SP0070041: icchāmi devadeveśa tvayā cihnamidaṃ kṛtam|
+SP0070042: yena cihnena loko 'yaṃ cihnitaḥ syājjagatpate|| 4||
+SP0070051: tasya tadvacanaṃ śrutvā bhagavānvadatāṃ varaḥ|
+SP0070052: sarvaśrutimayaṃ brahma omiti vyājahāra ha|| 5||
+SP0070061: śambhorvyāhāramātreṇa vāgiyaṃ divyarūpiṇī|
+SP0070062: niḥsṛtā vadanāddevī prahvā samavatiṣṭhata|| 6||
+SP0070071: tāmuvāca tadā devo vācā saṃjīvayanniva|
+SP0070072: yasmāttvamakṣaro bhūtvā mama vāco viniḥsṛtā|
+SP0070073: sarvavidyādhidevī tvaṃ tasmāddevi bhaviṣyasi|| 7||
+SP0070081: yasmādbrahmasaraścedaṃ mukhaṃ mama samāśritā|
+SP0070082: tasmātsarasvatītyeva loke khyātiṃ gamiṣyasi|| 8||
+SP0070091: imaṃ lokaṃ varāmbhobhiḥ pāvayitvā ca suprabhe|
+SP0070092: sarvāṃl lokāṃstārayitrī punastvaṃ nātra saṃśayaḥ|| 9||
+SP0070101: yajñabhāgaṃ ca devāste dāsyanti sapitāmahāḥ|
+SP0070102: puṇyā ca sarvasaritāṃ bhaviṣyasi na saṃśayaḥ|| 10||
+SP0070111: tataḥ sā samanujñātā śaṃkareṇa vibhāvinī|
+SP0070112: cakre brahmasaraḥ puṇyaṃ brahmaloke 'tipāvanam|| 11||
+SP0070121: toyāmṛtasusampūrṇaṃ svarṇapadmopaśobhitam|
+SP0070122: nānāpakṣigaṇākīrṇaṃ mīnasaṃkṣobhitodakam|
+SP0070123: tato viniḥsṛtā bhūyaḥ semaṃ lokamapāvayat|| 12||
+SP0070131: taṃ gṛhītvā mahādevaḥ kapālamamitaujasam|
+SP0070132: imaṃ lokamanuprāpya deśe śreṣṭhe 'vatiṣṭhata|| 13||
+SP0070141: tatra tacca mahaddivyaṃ kapālaṃ devatādhipaḥ|
+SP0070142: sthāpayāmāsa dīptārcirgaṇānāmagrataḥ prabhuḥ|| 14||
+SP0070151: tatsthāpitamatho dṛṣṭvā gaṇāḥ sarve mahātmanaḥ|
+SP0070152: anadansumahānādaṃ nādayanto diśo daśa|
+SP0070153: kṣubdhārṇavāśaniprakhyaṃ nabho yena vyaśīryata|| 15||
+SP0070161: tena śabdena ghoreṇa asuro devakaṇṭakaḥ|
+SP0070162: hālāhala iti khyātastaṃ deśaṃ so 'bhyagacchata|| 16||
+SP0070171: amṛṣyamāṇaḥ krodhāndho durātmā yajñanāśakaḥ|
+SP0070172: brahmadattavaraścaiva avadhyaḥ sarvajantubhiḥ|
+SP0070173: mahiṣaśchannarūpāṇāmasurāṇāṃ śatairvṛtaḥ|| 17||
+SP0070181: tamāpatantaṃ sakrodhaṃ mahiṣaṃ devakaṇṭakam|
+SP0070182: samprekṣyāha gaṇādhyakṣo gaṇānsarvānpinākinaḥ|| 18||
+SP0070191: daityo 'yaṃ gaṇapā duṣṭastrailokyasurakaṇṭakaḥ|
+SP0070192: āyāti tvarito yūyaṃ tasmādenaṃ nihanyatha|| 19||
+SP0070201: tataste gaṇapāḥ sarve samāyāntaṃ suradviṣam|
+SP0070202: bhittvā śūlena saṃkruddhā vigatāsuṃ ca cakrire|| 20||
+SP0070211: hate tasmiṃstadā devo diśaḥ sarvā avaikṣata|
+SP0070212: tābhyaḥ piśācā vṛttāsyāḥ piśācyaśca mahābalāḥ|
+SP0070213: abhyagacchanta deveśaṃ tābhyastaṃ vinivedayat|| 21||
+SP0070221: sa tābhirupayuktaśca viniyuktaśca sarvaśaḥ|
+SP0070222: tameva cāpyathāvāsaṃ devādiṣṭaṃ prapedire|| 22||
+SP0070231: bhakṣayanti sma mahiṣaṃ mitvā mitvā yatastu tāḥ|
+SP0070232: kapālamātaraḥ proktāstasmāddevena dhīmatā|| 23||
+SP0070241: kapālaṃ sthāpitaṃ yasmāttasmindeśe pinākinā|
+SP0070242: mahākapālaṃ tattasmāttriṣu lokeṣu gadyate|| 24||
+SP0070251: sthāpitasya kapālasya yathoktamabhavattadā|
+SP0070252: khyātaṃ śivataḍāgaṃ tatsarvapāpapramocanam|| 25||
+SP0070261: āgatyātha tato brahmā devatānāṃ gaṇairvṛtaḥ|
+SP0070262: kapardinamupāmantrya taṃ deśaṃ so 'nvagṛhṇata|| 26||
+SP0070271: ardhayojanavistīrṇaṃ kṣetrametatsamantataḥ|
+SP0070272: bhaviṣyati na saṃdehaḥ siddhakṣetraṃ mahātmanaḥ|| 27||
+SP0070281: śmeti hi procyate pāpaṃ kṣayaṃ śānaṃ vidurbudhāḥ|
+SP0070282: dhyānena niyamaiścaiva śmaśānaṃ tena saṃjñitam|
+SP0070283: guhyaṃ devātidevasya paraṃ priyamanuttamam|| 28||
+SP0070291: evaṃ tatra naraḥ pāpaṃ sarvameva prahāsyati|
+SP0070292: trirātropoṣitaścaiva arcayitvā vṛṣadhvajam|
+SP0070293: rājasūyāśvamedhābhyāṃ phalaṃ yattadavāpsyati|| 29||
+SP0070301: yaśca prāṇānpriyāṃstatra parityakṣyati mānavaḥ|
+SP0070302: sa guhyagaṇadevānāṃ samatāṃ samavāpsyati|| 30||
+SP0070310: vāyuruvāca|
+SP0070311: tataḥ sa tatra saṃsthāpya devasyārcādvayaṃ śubham|
+SP0070312: śūleśvaraṃ mahākāyaṃ rudrasyāyatanaṃ śubham|| 31||
+SP0070321: tatrābhigamanādeva kṛtvā pāpasya saṃkṣayam|
+SP0070322: rudralokamavāpnoti sa prāhaivaṃ pitāmahaḥ|| 32||
+SP0070331: yatra cāpi śirastasya ciccheda bhuvaneśvaraḥ|
+SP0070332: kaśmīraḥ so 'bhavannāmnā deśaḥ puṇyatamaḥ sadā|| 33||
+SP0070341: tato devaḥ saha gaṇai rūpaṃ vikṛtamāsthitaḥ|
+SP0070342: paśyatāṃ sarvadevānāmantardhānamagātprabhuḥ|| 34||
+SP0070351: gate ca devanāthe 'tha kapālasthānamavyayam|
+SP0070352: sarvatīrthābhiṣekasya phalena samayojayat|| 35||
+SP0070361: tadadyāpi mahaddivyaṃ sarastatra pradṛśyate|
+SP0070362: mahākapālaṃ viprendrāḥ svargāstatrākṣayāḥ smṛtāḥ|| 36||
+SP0070371: idaṃ śubhaṃ divyamadharmanāśanaṃ mahāphalaṃ sendrasurāsurārcitam|
+SP0070372: mahākapālaṃ prakṛtopadarśanaṃ sureśalokādivigāhane hitam|| 37||
+SP0070381: tapodhanaiḥ siddhagaṇaiśca saṃstutaṃ diviṣṭhatulyadvijarājamaṇḍale|
+SP0070382: paṭhennaro yaḥ śṛṇuyācca sarvadā tripiṣṭapaṃ gacchati so 'bhinanditaḥ|| 38||
+SP0079999: iti skandapurāṇe saptamo 'dhyāyaḥ||

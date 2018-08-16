@@ -1,0 +1,41 @@
+Skandapurāṇa Adhyāya 47
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0470010: suśarmovāca|
+SP0470011: mahārauravamanyacca śṛṇu me duṣṭayātanam|
+SP0470012: yatra dhārāśca toyasya taḍāgāni ca putraka|
+SP0470013: kārīṣī kanakābhā ca kulyāścāgniprapūritāḥ|| 1||
+SP0470021: āyasā bahavaḥ stambhā vṛkṣāśca bahukaṇṭakāḥ|
+SP0470022: rākṣasā vividhākārāstīkṣṇaśastrāstradhāriṇaḥ|| 2||
+SP0470031: tatra pāpena bahunā jantuḥ samabhipāśitaḥ|
+SP0470032: nipatedvikṛtākāraḥ krandamāno muhurmuhuḥ|| 3||
+SP0470041: sa tatra patitaḥ kṣipraṃ rākṣasairbhinnamastakaḥ|
+SP0470042: kārīṣyāmagnivarṇāyāṃ pacyate bhṛśadāruṇam|| 4||
+SP0470051: tataḥ sa tena dāhena duḥkhitaḥ paramārtimān|
+SP0470052: dāhapraśamanārthāya taḍāge 'bhinimajjate|| 5||
+SP0470061: tatra kṣāreṇa kaṣṭena dviguṇaṃ vedanārditaḥ|
+SP0470062: vegenotthāya vṛkṣaṃ vā stambhaṃ vāpyabhirohati|| 6||
+SP0470071: tatra taiḥ kaṇṭakaistīkṣṇairāyasaiścāvatakṣitaḥ|
+SP0470072: patate hyagnikulyāyāṃ karuṇaṃ bahudhā nadan|| 7||
+SP0470081: evaṃ sa yātyamānastu tṛṣārto vilapanbahu|
+SP0470082: dhārāmāśrayate pātuṃ sāpi tasyāyasaṃ tadā|
+SP0470083: agnivarṇaṃ vahatyambhastato mūrchārdito mriyet|| 8||
+SP0470091: saṃpūrṇayātanaścāpi muktastasmādbhayāvahāt|
+SP0470092: ucchrayeṣu tadā janturyātyate bhṛśadāruṇam|| 9||
+SP0470101: tatra gacchanti rājaghno rājabhāryāvamanyakaḥ|
+SP0470102: āśāṃ dattvā na dadyādyo yaśca tīrthāvadūṣakaḥ|| 10||
+SP0470111: moṣakaḥ sūcakaścaiva strībhṛto yaśca pāpakṛt|
+SP0470112: agnau gavi ca yo dānaṃ brāhmaṇe vāpi vārayet|| 11||
+SP0470121: vikrīṇīyātsvabhāryāṃ yo apatyaṃ vā narādhamaḥ|
+SP0470122: harate cāgnibhāṇḍāni yogināṃ caiva kiṃcana|| 12||
+SP0470131: coragrāhaśca durbuddhirmanuṣyāstasya ye ca ha|
+SP0470132: brāhmaṇādhikṛtaścaiva dharmādhikṛta eva ca|| 13||
+SP0470141: kapilā yasya gauḥ syācca anagnerbrāhmaṇasya ha|
+SP0470142: mithyāgnihotrī yaścaiva naityake 'pariveṣakaḥ|| 14||
+SP0470151: rājaputraharaścaiva durbhikṣaṃ yaśca cintayet|
+SP0470152: rāṣṭralopaṃ dāralopaṃ dhanalopaṃ ca yo naraḥ|
+SP0470153: deśasya ḍāmaraṃ caiva satataṃ ya ihecchati|| 15||
+SP0470161: ya imaṃ śṛṇuyādabhīkṣṇaśo niyataṃ dharmamatiśca tiṣṭhati|
+SP0470162: na sa gacchati taṃ bhayāvahaṃ narakaṃ rauravamugrarauravam|| 16||
+SP0479999: skandapurāṇe saptacatvāriṃśo 'dhyāyaḥ||

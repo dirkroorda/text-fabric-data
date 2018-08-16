@@ -1,0 +1,184 @@
+Skandapurāṇa Adhyāya 69
+
+E-text generated on February 22, 2017 from the original TeX files of: Yokochi, Yuko, ed. The Skandapurāṇa. Vol.III. Adhyāyas 34.1-61, 53-69. The Vindhyavāsinī Cycle. Critical Edition with an Introduction & Annotated English Synopsis. Leiden/Groningen: Brill & Egbert Forsten, 2013.
+
+SP0690010: vyāsa uvāca|
+SP0690011: bhagavansarvalokajña pitāmahasamadyute|
+SP0690012: tapaḥ kṛtvā tadā devī puṣkalaṃ himavatsutā|| 1||
+SP0690021: varaṃ yathepsitaṃ labdhvā brahmaṇo gauravarṇatām|
+SP0690022: kimanyadakarodvipra tapaso 'nte mahāmune|| 2||
+SP0690031: somanandī ca śārdūlaḥ kimavāpa varaṃ śubham|
+SP0690032: etanme pṛcchato brūhi bhaktāya praṇatāya ca|| 3||
+SP0690040: sanatkumāra uvāca|
+SP0690041: namaskṛtvā mahādevaṃ paramaṃ brahma śāśvatam|
+SP0690042: yaṃ paṭhanti sadā sāṃkhyāḥ puruṣaṃ pañcaviṃśakam|| 4||
+SP0690051: yoginaścaiva ṣaḍviṃśaṃ brahmādyāśca divaukasaḥ|
+SP0690052: praṇamya parayā bhaktyā śirasā taṃ trilocanam|| 5||
+SP0690061: gauryā samāgamo vyāsa śaṃkarasya yathābhavat|
+SP0690062: tatpravakṣyāmi te sarvaṃ śṛṇu yogavidāṃ vara|| 6||
+SP0690071: tasminhimavataḥ śṛṅge tapaḥ kṛtvā suduṣkaram|
+SP0690072: gaurāṅgī sā tadā bhūtvā śuddhahemasamaprabhā|
+SP0690073: darśane śaṃkarasyātha śarvāṇī matimādadhe|| 7||
+SP0690081: mandaraṃ girimāgamya sahitā somanandinā|
+SP0690082: apaśyadbhavane bharturdvāramūle samāsthitam|
+SP0690083: nandinaṃ gaṇapaṃ devī dīptapaṭṭisadhāriṇam|| 8||
+SP0690091: tato nandīśvaraṃ dṛṣṭvā bhaktaṃ premṇā girīndrajā|
+SP0690092: ehi vatsa cirāddṛṣṭastvamityuktavatī tadā|| 9||
+SP0690101: nandī samprekṣya tāṃ cāpi gaurāṅgīṃ hemasaprabhām|
+SP0690102: harṣeṇa mahatā yuktaḥ pādayorapatadbhṛśam|
+SP0690103: praṇamya sa tadā dhīmānastuvatparvatātmajām|| 10||
+SP0690111: namaḥ siddhyai mahādevyai rataye gataye namaḥ|
+SP0690112: tvaṃ kriyā kāraṇaṃ tvaṃ ca prakṛtirmuktireva ca|| 11||
+SP0690121: kāntirdyutistathā tuṣṭiḥ śāntiḥ svastyayanaṃ param|
+SP0690122: dakṣiṇā niyatirmṛtyuḥ sandhyā vidyudahaḥ kṣapā|| 12||
+SP0690131: pṛthivī kauśikī śrīśca śarvāṇī śarvavallabhā|
+SP0690132: gaṇamātāditiścaiva pavitrā vindhyavāsinī|| 13||
+SP0690141: kṛṣṇā kātyāyanī gaurī bhūtamātā tatheśvarī|
+SP0690142: bhava devi prasannā me bhaktasya praṇatasya ca|| 14||
+SP0690151: atha devī tadā dṛṣṭvā nandinaṃ pādayornatam|
+SP0690152: provāca varadāsmīti sa ca vavre varaṃ śubham|| 15||
+SP0690161: prasannā nityameva tvameṣo 'stu vara-m-uttamaḥ|
+SP0690162: evamastviti sā procya praviveśāyatekṣaṇā|| 16||
+SP0690171: agrato 'syā yayau nandī somanandī ca pṛṣṭhataḥ|
+SP0690172: candralekhā tayormadhye grahayoriva sā babhau|| 17||
+SP0690181: dūrādeva samālokya devadevo mudānvitaḥ|
+SP0690182: ājagāma mahātejāḥ saṃbhramotphullalocanaḥ|
+SP0690183: papāta pādayordevī devadevasya dhīmataḥ|| 18||
+SP0690191: atha devastadāyātāṃ devīṃ girivarātmajām|
+SP0690192: tāmuvāca suraśreṣṭhaḥ samālokya muhurmuhuḥ|| 19||
+SP0690201: diṣṭyāsi prītavadanā diṣṭyā ca saphalaṃ tapaḥ|
+SP0690202: diṣṭyā cedaṃ varaṃ varṇaṃ gauraṃ kanakasaprabham|| 20||
+SP0690211: priyaṃ naḥ sarvathā devi paramaṃ yattvamāgatā|
+SP0690212: pratijñāṃ pūrayitveha śārdūlo 'yaṃ kutaśca te|| 21||
+SP0690221: evamuktā tadā devī bhartrā praṇayapeśalam|
+SP0690222: kathayāmāsa devāya sarvaṃ caritamātmanaḥ|| 22||
+SP0690230: devyuvāca|
+SP0690231: prāgahaṃ yattvayā deva kṛṣṇavarṇeti bhāṣitā|
+SP0690232: tadā manyuparītāṅgī gauravarṇasamīpsayā|| 23||
+SP0690241: himavacchikharaṃ gatvā tapo 'haṃ mahadāsthitā|
+SP0690242: cintayantī sadaiva tvāmekapādena saṃsthitā|| 24||
+SP0690251: yasminneva dine tatra tapo 'haṃ samupāśritā|
+SP0690252: tasminnevaiṣa śārdūlaḥ somanandī mamāgrataḥ|
+SP0690253: vyatiṣṭhata mahādeva bhaktyā paramayā yutaḥ|| 25||
+SP0690261: divyaṃ varṣasahasraṃ tu tapoyuktāhamāsthitā|
+SP0690262: tāvantaṃ kālameṣo 'pi mamātiṣṭhatsamīpataḥ|
+SP0690263: stabdhalāṅgūlanetrāsyo nirāhāro vilokayan|| 26||
+SP0690271: āgatastapasaścānte brahmā mahyaṃ varapradaḥ|
+SP0690272: tamahaṃ pūrvamasyārthe varamaprārthayaṃ vibho|| 27||
+SP0690281: tenāyamamaro deva jarāśokavivarjitaḥ|
+SP0690282: mamaivānucaraḥ pārśve kṛto yogī ca śaṃkara|
+SP0690283: varṇaṃ cedamadānmahyaṃ tavādeśātpitāmahaḥ|| 28||
+SP0690290: deva uvāca|
+SP0690291: parituṣṭo 'smi te devi varaṃ vṛṇu yathepsitam|
+SP0690292: mṛgendro 'yaṃ gaṇaśreṣṭhaḥ somanandī mahābalaḥ|| 29||
+SP0690301: yādṛśo mama nandīśastādṛśaste bhaviṣyati|
+SP0690302: yadanyadbrūhi tatsarvaṃ kariṣyāmi tava priye|| 30||
+SP0690310: devyuvāca|
+SP0690311: yasmindeśe mahādeva tapaścaritamuttamam|
+SP0690312: taṃ bhūyo 'pi tvayā sārdhaṃ draṣṭumicchāmi śaṃkara|| 31||
+SP0690321: evamuktaḥ sa pārvatyā provāca parameśvaraḥ|
+SP0690322: rocate cārusarvāṅgi gantuṃ tatra mamāvyaye|
+SP0690323: ramyaṃ taddhimavacchṛṅgaṃ taptaṃ yatra tapastvayā|| 32||
+SP0690331: nandinaṃ sa tadāhūya gaṇapāṃśca sahasraśaḥ|
+SP0690332: jagāma sahito devyā himavantaṃ mahāgirim|| 33||
+SP0690341: devairvidyādharaiḥ siddhairgandharvairmunisattamaiḥ|
+SP0690342: vandyamāno 'sakṛddevaḥ stūyamānaśca sarvataḥ|| 34||
+SP0690351: nādinaṃ vṛṣamārūḍhaḥ prakrīḍitagaṇeśvaraḥ|
+SP0690352: himavadgirimāgamya taṃ pradeśamupāgamat|| 35||
+SP0690361: sa taṃ śikharamāsādya ramyaṃ dhātuvibhūṣitam|
+SP0690362: tutoṣa paramaprīto reme ca sagaṇeśvaraḥ|| 36||
+SP0690371: āgataṃ tamatho dṛṣṭvā mūrtimānacalastadā|
+SP0690372: upatasthe mahādevaṃ praṇipatya kṛtāñjaliḥ|| 37||
+SP0690381: kṛtvā tadarghakuṇḍaṃ tu tasmiñchikharasattame|
+SP0690382: varadānena śailendramanugṛhṇatpinākadhṛk|| 38||
+SP0690391: amaro jarayā tyaktaḥ sarvaduḥkhavivarjitaḥ|
+SP0690392: abhedyaścaiva vajreṇa matprasādādbhaviṣyasi|| 39||
+SP0690401: puṇyastvamacalaśreṣṭha bhavitā pāpamocanaḥ|
+SP0690402: gaurīśikhara ityeva loke khyātiṃ gamiṣyasi|| 40||
+SP0690411: dūrādeva nagaśreṣṭha dṛṣṭvā tvāmucchritaṃ janāḥ|
+SP0690412: sarvapāpairvimokṣyanti yāsyanti ca parāṃ gatim|| 41||
+SP0690421: trirātramuṣito yastvāmabhiruhya śucivrataḥ|
+SP0690422: dṛṣṭvā gaurīmathābhyarcya brāhmaṇaṃ tarpayiṣyati|
+SP0690423: nārī vātha naro vāpi lokaṃ gauryāḥ sa yāsyati|| 42||
+SP0690431: yaśceha tyakṣyate prāṇānniyamena samāhitaḥ|
+SP0690432: sa gāṇapatyaṃ samprāpya mayā sārdhaṃ cariṣyati|
+SP0690433: gauryāścātraiva sāṃnidhyaṃ sarvadā te bhaviṣyati|| 43||
+SP0690441: tamityuktvā nagaśreṣṭhaṃ devadevastrilocanaḥ|
+SP0690442: pārvatyā sahitastatra paricakrāma sarvataḥ|| 44||
+SP0690451: athāpaśyacchilāṃ vyāsa sauvarṇāṃ maṇibhūṣitām|
+SP0690452: kathayāmāsa tāṃ devyai śilāṃ paśyeti sa prabhuḥ|| 45||
+SP0690461: tamāha devī deveśamiha taptaṃ mayā tapaḥ|
+SP0690462: priyametanmama sthānaṃ somanandina eva ca|| 46||
+SP0690471: atha tāmanujagrāha śilāṃ prītyā bhavastadā|
+SP0690472: śucirasyāṃ nirāhārastrirātraṃ yaḥ kariṣyati|
+SP0690473: bhavettaptaṃ tapastena lokaṃ ca tava yāsyati|| 47||
+SP0690481: ekapādena yo martyastiṣṭhedekamahaḥ śuciḥ|
+SP0690482: tapanābhimukho bhūtvā tvadbhaktastvatparāyaṇaḥ|
+SP0690483: so 'pi yāsyati te lokaṃ gaṇapaśca bhaviṣyati|| 48||
+SP0690491: prāṇānparityajedyaśca śilāyāmiha dustyajān|
+SP0690492: so 'pi taptatapā bhūtvā brahmalokaṃ gamiṣyati|| 49||
+SP0690501: imaṃ ca parvatoddeśamāspadaṃ somanandinaḥ|
+SP0690502: yo 'bhigacchedahorātraṃ so 'pi nandisamo bhavet|| 50||
+SP0690511: athāpṛcchatpunardevaḥ pārvatīṃ vicaranprabhuḥ|
+SP0690512: kathametāni kuṇḍāni babhūvuriha śailaje|
+SP0690513: evaṃ pṛṣṭā punardevī vākyametajjagāda ha|| 51||
+SP0690521: yadāhamāgatā deva tapastaptumiha prabho|
+SP0690522: stanayoḥ prasrute dhāre mahatyau me tadāsakṛt|
+SP0690523: ete tābhyāṃ kṛte kuṇḍe sitatoye mahāplave|| 52||
+SP0690531: tapastaptumalaṃkārānahaṃ tyaktavatī yadā|
+SP0690532: tadā tebhyaḥ srutā deva jaladhārāpataddrutam|
+SP0690533: tayā hīdaṃ mahatkuṇḍaṃ dvitīyaṃ me kṛtaṃ śubham|| 53||
+SP0690541: brahmaṇaśca yadā labdhaṃ gauravarṇatvamuttamam|
+SP0690542: śarīrānme tadā deva kṛṣṇā kośī vyaniṣkramat|
+SP0690543: tasyāṃ kośyāṃ samutpannametatkuṇḍaṃ tṛtīyakam|| 54||
+SP0690551: asminpradeśe deveśa tvāmabhyarcya yathāvidhi|
+SP0690552: havirbhirmantrayuktābhiragnikāryaṃ kṛtaṃ mayā|| 55||
+SP0690561: imāni pādapasthāni valkalāni samāsate|
+SP0690562: idaṃ kṛṣṇājinaṃ śubhraṃ sthāpitaṃ tatpurā mayā|| 56||
+SP0690571: atha śrutvā mahādevaḥ pārvatyā vacanaṃ prabhuḥ|
+SP0690572: pratyuvāca tadā devīṃ prītyā paramayā yutaḥ|| 57||
+SP0690581: stanatoyena ye pūrṇe tava kuṇḍe śaśiprabhe|
+SP0690582: stanakuṇḍeti tenaite yāsyete khyātimuttamām|| 58||
+SP0690591: upavāsī naro yo 'tra snātvābhyarcya ca devatāḥ|
+SP0690592: tarpayitvā pitṝnsarvānbrāhmaṇānbhojayiṣyati|
+SP0690593: tadbhavedakṣayaṃ tasya gaṇaścaiva bhaviṣyati|| 59||
+SP0690601: alaṃkārātsrutā dhārā yeyaṃ tava varānane|
+SP0690602: eṣālaṃkāradhāreti nāmnā khyātiṃ gamiṣyati|| 60||
+SP0690611: asyāṃ snātvā naro yastu pitṝnsaṃtarpayiṣyati|
+SP0690612: akṣayaṃ tadbhavecchrāddhamaśvamedhaṃ ca vindati|| 61||
+SP0690621: nīlatoyamidaṃ yatte mahatkuṇḍaṃ śubhodakam|
+SP0690622: nīlakuṇḍamiti khyātimetatsarvatra yāsyati|| 62||
+SP0690631: yo 'sminniyamavānsnātvā tarpayetpitṛdevatāḥ|
+SP0690632: tasyākṣayaṃ bhavetsarvaṃ pāpebhyaśca pramucyate|| 63||
+SP0690641: mṛtaśca sa naro devi yatra tatra yathā tathā|
+SP0690642: kauśikyā vindhyavāsinyā mahāgaṇapatirbhavet|| 64||
+SP0690651: agnikāryamiha snātvā yaḥ kuryādbrāhmaṇaḥ śuciḥ|
+SP0690652: agnihotraṃ hutaṃ tena bhaveddvādaśavārṣikam|| 65||
+SP0690661: evamuktvā mahādevaḥ protthāya munisattama|
+SP0690662: gṛhītvā pādapasthāni valkalāni tadā prabhuḥ|
+SP0690663: nadī bhaveti samprocya cikṣepa prahasanniva|| 66||
+SP0690671: tānyabhūvaṃstadā vyāsa nadī svacchajalā śubhā|
+SP0690672: taṭajairvividhairvṛkṣairhaṃsacakrāhvaśobhitā|| 67||
+SP0690681: tāmuvāca suraśreṣṭhaḥ puṇyatoyavahāṃ nadīm|
+SP0690682: cīrebhyaḥ prasṛtā yasmāttvamatra saritāṃ varā|
+SP0690683: loke puṇyatamā tasmānniścīreti bhaviṣyasi|| 68||
+SP0690691: tvayi snātvā naraḥ kṣipraṃ sarvapāpairvimucyate|
+SP0690692: pitṝnsaṃtarpayedyastu śrāddhaṃ tasyākṣayaṃ bhavet|| 69||
+SP0690701: kapilāṃ cātra yo dadyādbrāhmaṇāya samāhitaḥ|
+SP0690702: gosahasraphalaṃ tasya bhaviṣyati varānane|| 70||
+SP0690711: agramāruhya yasmāttvamatra taptavatī tapaḥ|
+SP0690712: agrāraṇyamiti khyātimetadyāsyati sarvataḥ|| 71||
+SP0690721: mahatphalaṃ mahāpuṇyaṃ sarvasiddhipradaṃ śubham|
+SP0690722: pañcayojanasaṃkhyātaṃ gaurīśikharamuttamam|| 72||
+SP0690731: ihopoṣya śuciḥ snātvā bhaktyā paramayā yutaḥ|
+SP0690732: dehabhedaṃ samāsādya vimānastho virājate|| 73||
+SP0690741: kṛṣṇājinaṃ mahāpuṇyaṃ sarvapāpaharaṃ tava|
+SP0690742: idaṃ drakṣyati yo vipraḥ svargastasya na durlabhaḥ|| 74||
+SP0690751: yatphalaṃ naimiśāraṇye puṣkareṣu ca yatphalam|
+SP0690752: tadeva labhate devi dṛṣṭvā kṛṣṇājinaṃ dvijaḥ|| 75||
+SP0690761: vatsyāmi caiva satataṃ tvayā sārdhamiha priye|
+SP0690762: āvāmiha sthitau devi yo 'rcayiṣyati mānavaḥ|
+SP0690763: āvayorgaṇapo bhūtvā jagatsa vicariṣyati|| 76||
+SP0690771: evaṃ nagendraṃ sa tadānugṛhya munīndra sārdhaṃ girirājaputryā|
+SP0690772: devaiḥ sasiddhairanugamyamānaḥ śarvaḥ punarmandaramājagāma|| 77||
+SP0699999: iti skandapurāṇa ekonasaptato 'dhyāyaḥ||

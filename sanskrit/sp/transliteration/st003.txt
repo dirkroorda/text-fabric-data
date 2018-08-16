@@ -1,0 +1,70 @@
+Skandapurāṇa Adhyāya 3
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0030010: sanatkumāra uvāca|
+SP0030011: śṛṇuṣvemāṃ kathāṃ divyāṃ sarvapāpapraṇāśanīm|
+SP0030012: kathyamānāṃ mayā citrāṃ bahvarthāṃ śrutisaṃmitām|
+SP0030013: yāṃ śrutvā pāpakarmāpi gacchecca paramāṃ gatim|| 1||
+SP0030021: na nāstikāśraddadhāne śaṭhe cāpi kathaṃcana|
+SP0030022: imāṃ kathāmanubrūyāttathā cāsūyake nare|| 2||
+SP0030031: idaṃ putrāya śiṣyāya dhārmikāyānasūyave|
+SP0030032: kathanīyaṃ mahābrahmandevabhaktāya vā bhavet|
+SP0030033: kumārabhaktāya tathā śraddadhānāya caiva hi|| 3||
+SP0030041: purā brahmā prajādhyakṣaḥ aṇḍe 'sminsamprasūyate|
+SP0030042: so 'jñānātpitaraṃ brahmā na veda tamasāvṛtaḥ|| 4||
+SP0030051: ahameka iti jñātvā sarvāṃl lokānavaikṣata|
+SP0030052: na cāpaśyata tatrānyaṃ tapoyogabalānvitaḥ|| 5||
+SP0030061: putra putreti cāpyukto brahmā śarveṇa dhīmatā|
+SP0030062: praṇataḥ prāñjalirbhūtvā tameva śaraṇaṃ gataḥ|| 6||
+SP0030071: sa dattvā brahmaṇe śambhuḥ sraṣṭṛtvaṃ jñānasaṃhitam|
+SP0030072: vibhutvaṃ caiva lokānāmantardhe parameśvaraḥ|| 7||
+SP0030081: tadeṣopaniṣatproktā mayā vyāsa sanātanā|
+SP0030082: yāṃ śrutvā yogino dhyānātprapadyante maheśvaram|| 8||
+SP0030091: brahmaṃ ca yo vidadhe putramagre jñānaṃ ca yaḥ prahiṇoti sma tasmai|
+SP0030092: tamātmasthaṃ ye 'nupaśyanti dhīrāsteṣāṃ śāntiḥ śāśvatī netareṣām|| 9||
+SP0030101: sa vyāsa pitaraṃ dṛṣṭvā svadīptyā parayā yutam|
+SP0030102: putrakāmaḥ prajāhetostapastīvraṃ cakāra ha|| 10||
+SP0030111: mahatā yogatapasā yuktasya sumahātmanaḥ|
+SP0030112: acireṇaiva kālena pitā sampratutoṣa ha|| 11||
+SP0030121: darśanaṃ cāgamattasya varado 'smītyuvāca ha|
+SP0030122: sa tuṣṭāva nato bhūtvā kṛtvā śirasi cāñjalim|| 12||
+SP0030131: namaḥ paramadevāya devānāmapi vedhase|
+SP0030132: sraṣṭre vai lokatantrāya brahmaṇaḥ pataye namaḥ|| 13||
+SP0030141: ekasmai śaktiyuktāya aśaktirahitāya ca|
+SP0030142: anantāyāprameyāya indriyāviṣayāya ca|| 14||
+SP0030151: vyāpine vyāptapūrvāya adhiṣṭhātre pracodine|
+SP0030152: kṛtapracetanāyaiva tattvavinyāsakāriṇe|| 15||
+SP0030161: pradhānacodakāyaiva guṇināṃ śāntidāya ca|
+SP0030162: dṛṣṭidāya ca sarveṣāṃ svayaṃ vai darśanāya ca|| 16||
+SP0030171: viṣayagrāhiṇe caiva niyamasya ca kāriṇe|
+SP0030172: manasaḥ karaṇānāṃ ca tatraiva niyamasya ca|| 17||
+SP0030181: bhūtānāṃ guṇakartre ca śaktidāya tathaiva ca|
+SP0030182: kartre hyaṇḍasya mahyaṃ ca acintyāyāgrajāya ca|
+SP0030183: aprameya pitarnityaṃ prīto no diśa śakvarīm|| 18||
+SP0030191: tasyaivaṃ stuvato vyāsa devadevo maheśvaraḥ|
+SP0030192: tuṣṭo 'bravītsvayaṃ putraṃ brahmāṇaṃ praṇataṃ tathā|| 19||
+SP0030201: yasmātte viditaṃ vatsa sūkṣmametanmahādyute|
+SP0030202: tasmādbrahmeti lokeṣu nāmnā khyātiṃ gamiṣyasi|| 20||
+SP0030211: yasmāccāhaṃ pitetyuktastvayā buddhimatāṃ vara|
+SP0030212: tasmātpitāmahatvaṃ te loke khyātiṃ gamiṣyati|| 21||
+SP0030221: prajārthaṃ yacca te taptaṃ tapa ugraṃ suduścaram|
+SP0030222: tasmātprajāpatitvaṃ te dadāni prayatātmane|| 22||
+SP0030231: evamuktvā sa deveśo mūrtimatyo 'sṛjatstriyaḥ|
+SP0030232: yāstāḥ prakṛtayastvaṣṭau viśeṣāścendriyaiḥ saha|
+SP0030233: bhāvāśca sarve te devamupatasthuḥ svarūpiṇaḥ|| 23||
+SP0030241: tānuvāca tato devaḥ patiryuktaḥ svatejasā|
+SP0030242: etamadyābhiṣekeṇa sampādayata mā ciram|| 24||
+SP0030251: tābhiḥ svaṃ svaṃ samādāya bhāvaṃ divyamatarkitam|
+SP0030252: abhiṣikto babhūveti prajāpatiratidyutiḥ|| 25||
+SP0030261: tatraivaṃ yoginaḥ sūkṣmaṃ dṛṣṭvā divyena cakṣuṣā|
+SP0030262: purāṇaṃ yogatattvajñā gāyanti triguṇānvitam|| 26||
+SP0030271: rudraḥ sraṣṭā hi sarveṣāṃ bhūtānāṃ tava ca prabho|
+SP0030272: asmābhiśca bhavānsārdhaṃ jagataḥ sampravartakaḥ|| 27||
+SP0030281: sa devastoṣitaḥ samyakparamaiśvaryayogadhṛk|
+SP0030282: brahmāṇamagrajaṃ putraṃ prājāpatye 'bhyaṣecayat|| 28||
+SP0030291: yaḥ kṛtvā bahuvidhamārgayogayuktaṃ tattvākhyaṃ jagadidamādarādyuyoja|
+SP0030292: †devānāṃ paramamanantayogayuktaṃ† māyābhistribhuvanamandhamaprasādam|| 29||
+SP0030301: sarveṣāṃ manasi sadāvatiṣṭhamāno jānānaḥ śubhamaśubhaṃ ca bhūtanāthaḥ|
+SP0030302: taṃ devaṃ pramathapatiṃ praṇamya bhaktyā nityaṃ vai śaraṇamupaimi sūkṣmasūkṣmam|| 30||
+SP0039999: iti skandapurāṇe tṛtīyo 'dhyāyaḥ||

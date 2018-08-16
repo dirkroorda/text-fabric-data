@@ -1,0 +1,39 @@
+Skandapurāṇa Adhyāya 45
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0450010: suśarmovāca|
+SP0450011: mahāpadmastataścānyo nirayo romaharṣaṇaḥ|
+SP0450012: yatra te kiṃkarā ghorā yamasya yamasaṃnibhāḥ|| 1||
+SP0450021: jantūnāmāyudhaiḥ kuṇṭhairnirghṛṇāḥ pāpakarmiṇām|
+SP0450022: utkṛtyotkṛtya māṃsāni tebhyo yacchanti vai punaḥ|| 2||
+SP0450031: te bhakṣayitvā māṃsāni svāni duṣkṛtakāriṇaḥ|
+SP0450032: padmapatranibhā jātā dhāmyante 'gnau divāniśam|| 3||
+SP0450041: analena ca ghoreṇa dravīkṛtamayaḥ punaḥ|
+SP0450042: mukhe 'pāvṛtya yacchanti dāruṇā yamakiṃkarāḥ|| 4||
+SP0450051: ayomayyastathā nāryo narāścāgnisamaprabhāḥ|
+SP0450052: samāśliṣyanti saṃgatya dravamāṇāstatastataḥ|| 5||
+SP0450061: vṛkṣāśca tatra bahavaḥ supuṣpaphalapatriṇaḥ|
+SP0450062: tānāśrayanti duḥkhārtā agniṃ varṣanti te 'pi ca|| 6||
+SP0450071: śilāśca bahvyastatrānyāstāḥ śliṣyanti yadā ca te|
+SP0450072: tadā tāścāgnivarṇābhā dahante tānbhṛśaṃ narān|
+SP0450073: evameṣa mahāpadmo narakaḥ saṃprakīrtitaḥ|| 7||
+SP0450081: suvarṇahārī yaścaiva mātṛyāyī ca yo naraḥ|
+SP0450082: mātā putraṃ ca yo 'bhyeti vedadoṣāvakīrtakaḥ|| 8||
+SP0450091: matsarī yaśca durvṛttaḥ śravaṇānāṃ ca pūjakaḥ|
+SP0450092: vṛṣalo yaḥ śrutiṃ brūyācchṛṇuyādapi vā punaḥ|
+SP0450093: gṛhṇīyādvāpi durbuddhirbrāhmaṇānvāvamanyate|| 9||
+SP0450101: brāhmaṇebhyo rahasyāni āśramāntarajāni ca|
+SP0450102: yasminnādhikṛto yaḥ syācchṛṇuyādvā paṭheta vā|| 10||
+SP0450111: duṣṭaśravaṇanirgranthāstathaivājīvakāśca ye|
+SP0450112: bhaktastebhyo dvijo yaśca narakaṃ saṃprapadyate|| 11||
+SP0450121: yogaṃ parivadedyaśca pitṝnatha pitāmahān|
+SP0450122: yogeśvarāṃśca durvṛtto yogadharmamathāpi ca|
+SP0450123: vedavarṇāśramajñāṃśca tannindābhirataḥ śaṭhaḥ|| 12||
+SP0450131: hetuko nāstivādī ca sarvastaṃ pratipadyate|
+SP0450132: tathyamuktaṃ mayā sarvamevametanna saṃśayaḥ|| 13||
+SP0450141: evaṃ te yātitāstatra svakarmaphalabandhanāḥ|
+SP0450142: tataḥ śeṣeṇa saṃbaddhā jāyante kīṭakādiṣu|| 14||
+SP0450151: śṛṇuyādya imaṃ vijitya doṣānmatimānnityamalobhamohaśokaḥ|
+SP0450152: sa tu daivavidhipraveritātmā divamevaiti na yāti taṃ kadācit|| 15||
+SP0459999: skandapurāṇe pañcacatvāriṃśo 'dhyāyaḥ||

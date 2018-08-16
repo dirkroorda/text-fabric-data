@@ -1,0 +1,168 @@
+Skandapurāṇa Adhyāya 28
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., and Harunaga Isaacson, eds. The Skandapurāṇa. Vol. IIA. Adhyāyas 26-31.14. The Vārāṇasī Cycle. Critical Edition with an Introduction, English Synopsis & Philological and Historical Commentary. Groningen: Egbert Forsten, 2005.
+
+SP0280010: sanatkumāra uvāca|
+SP0280011: tato vyāsa punardevī patiṃ vratapatiṃ śubhā|
+SP0280012: apṛcchadvratasambaddhaṃ phalaṃ phalaśatārcitā|| 1||
+SP0280021: vratānāṃ phalamalpaṃ vā mahadvā yattrilokapa|
+SP0280022: vrataṃ bhavati yādṛgvā tatprabrūhi maheśvara|| 2||
+SP0280030: deva uvāca|
+SP0280031: mahāphalaṃ yadbhavati yaccāpyalpaphalaṃ śubhe|
+SP0280032: vrataṃ yādṛkca yatproktaṃ tacchṛṇuṣva-m-anindite|| 3||
+SP0280041: caturdaśyāṃ tathāṣṭamyāmubhayoḥ pakṣayoḥ śuciḥ|
+SP0280042: saṃvatsaramabhuñjānaḥ śānto dānto jitendriyaḥ|| 4||
+SP0280051: sattrayājiphalaṃ yacca satyavāgṛtugāminām|
+SP0280052: taccaiva phalamāpnoti yamaṃ caiva na paśyati|| 5||
+SP0280061: śayyāsanasthaḥ strīmadhye ratiraktaḥ sukhe rataḥ|
+SP0280062: sa tapyatyā nakhāgrebhyo nityaṃ yo māṃ samāśritaḥ|| 6||
+SP0280071: madbhaktastapasā yukto māmeva pratipadyate|
+SP0280072: lokāstasyākṣayā devi yadyapi syātsupāpakṛt|| 7||
+SP0280081: pṛthivībhājane bhuṅkte nityaṃ parvasu yo naraḥ|
+SP0280082: sa trirātraphalaṃ devi ahorātreṇa vindati|| 8||
+SP0280091: saṃvatsaraṃ tu yo bhuṅkte nityameva hyatandritaḥ|
+SP0280092: nivedya pitṛdevebhyaḥ pṛthivyāmekarāḍbhavet|| 9||
+SP0280101: navamī aṣṭamī caiva paurṇamāsī trayodaśī|
+SP0280102: yo bhuṅkte devi naiteṣu saṃyatastu naraḥ samām|| 10||
+SP0280111: gāṇapatyaṃ sa labhate niḥsapatnamanindite|
+SP0280112: bhūtānāṃ dayitaścaiva divyaṃ rūpaṃ bibharti ca|| 11||
+SP0280121: śrīvatsaṃ yaśca piṣṭena dadyāddhemaphalaṃ śubham|
+SP0280122: kiretkṛṣṇatilāṃścātra taṇḍulākṣatameva ca|
+SP0280123: phalaiśca vividhākārairyathālabdhai rasānvitaiḥ|| 12||
+SP0280131: sa vai varṣasahasrāṇi dviṣaṣṭiṃ divi modate|
+SP0280132: divyarūpadharaḥ śrīmāndevataiḥ saha nityaśaḥ|| 13||
+SP0280141: hariberamayīṃ yo me dadyātpratikṛtiṃ svakām|
+SP0280142: sarvagandharasairyuktāṃ niryāsaiśca susaṃskṛtām|| 14||
+SP0280151: bhakṣyabhojyaiśca vividhaiḥ kṛṣṇapakṣe caturdaśīm|
+SP0280152: pūrvadakṣiṇayoścātra paścimottarayostathā|| 15||
+SP0280161: pārśveṣu haritālaṃ ca kṛṣṇāgarumanaḥśilām|
+SP0280162: candanaṃ caiva dadyādvai yathāsaṃkhyena pūjitam|| 16||
+SP0280171: tasya puṇyaphalaṃ devi śṛṇu yanmattakāśini|
+SP0280172: sarvavyādhivinirmuktastathā niṣkalmaṣaśca ha|| 17||
+SP0280181: varṣakoṭiśatānyaṣṭau divi bhuktvā mahatsukham|
+SP0280182: iha loke sukhī jāto māmeva pratipadyate|| 18||
+SP0280191: ratnāvaliṃ tu yo dadyādbrāhmaṇaḥ kṣatriyo 'tha viṭ|
+SP0280192: śūdraḥ strī vā sa me loke matsaukhyaṃ prāpnute param|| 19||
+SP0280201: siddhārthakairathārghārthe daive pitrye 'thavā punaḥ|
+SP0280202: triṃśadvarṣasahasrāṇi tarpayetsa pitṝnapi|| 20||
+SP0280211: ṛṣīṃśca sarvadevāṃśca rūpaṃ cāpnoti puṣkalam|
+SP0280212: manvantaraṃ ca goloke gokanyābhiḥ sa pūjyate|| 21||
+SP0280221: sarve devāstathā viṣṇurbrahmā ṛṣaya eva ca|
+SP0280222: kurvantyarghe hi sāṃnidhyaṃ tebhyastadviddhi niḥsṛtam|| 22||
+SP0280231: guhyametatparaṃ devi yo vetti sa mahātapāḥ|
+SP0280232: tasya prabhāvājjāyeta dhanavānpriyadarśanaḥ|
+SP0280233: prajñārūpaguṇairyuktaḥ saṃvatsaraśatāyutam|| 23||
+SP0280241: kṣīreṇa yo māṃ satataṃ snāpayeta trirudyataḥ|
+SP0280242: aparādhasahasraṃ tu kṣame tasyāhamantaśaḥ|| 24||
+SP0280251: yaśca tatsnapanaṃ paśyetsarvapāpaiḥ pramucyate|
+SP0280252: mānasasya ca jāpyasya sahasrasya phalaṃ labhet|| 25||
+SP0280261: saṃvatsaraṃ tu yaḥ kuryātkṣīreṇa snapanaṃ śuciḥ|
+SP0280262: gāṇapatyaṃ sa labhate vallabhatvaṃ ca nityaśaḥ|| 26||
+SP0280271: sarpiṣā yo mamābhyaṅgaṃ karotyavimanā naraḥ|
+SP0280272: dvisāhasrasya jāpyasya mānasasya phalaṃ labhet|| 27||
+SP0280281: abhigamyaśca devānāṃ sa bhaveta narottamaḥ|
+SP0280282: niṣkāṇāṃ ca suvarṇasya sahasrasya phalaṃ labhet|| 28||
+SP0280291: saṃmārjanaṃ ca yaḥ kuryātsaṃvatsaramanuvrataḥ|
+SP0280292: vitarāmi śubhaṃ lokaṃ nityaṃ tasya dhruvaṃ śivam|
+SP0280293: sarvalokakṣaye tasya na kṣayo bhavatīśvari|| 29||
+SP0280301: liṅgapūjāṃ tu yaḥ kuryānmama devi dṛḍhavrataḥ|
+SP0280302: śataṃ varṣasahasrāṇi divyāni divi modate|| 30||
+SP0280311: caturṇāṃ puṣpajātīnāṃ gandhamāghrāti śaṃkaraḥ|
+SP0280312: arkasya karavīrasya bilvasya ca bukasya ca|
+SP0280313: suvarṇaniṣkaṃ puṣpe tu sarvasminneva kathyate|| 31||
+SP0280321: sahasre tvarkapuṣpāṇāṃ datte yatkathyate phalam|
+SP0280322: ekasminkaravīrasya datte puṣpe hi tatphalam|| 32||
+SP0280331: karavīrasahasrasya bhaveddattasya yatphalam|
+SP0280332: tadekasya tu padmasya dattasya phalamucyate|| 33||
+SP0280341: padmānāṃ tu sahasrasya mama dattasya yatphalam|
+SP0280342: tatphalaṃ labhate pattre datte bilvasya śobhane|| 34||
+SP0280351: bilvapattrasahasre tu datte me yatphalaṃ smṛtam|
+SP0280352: bukapuṣpe tadekasminmama datte labhetphalam|| 35||
+SP0280361: bukapuṣpasahasrasya mama dattasya yatphalam|
+SP0280362: puṣpe datte tadekasmiṃl labheddhuttūrakasya tu|| 36||
+SP0280371: nirmālyaṃ yo hi me nityaṃ śirasā dhārayiṣyati|
+SP0280372: aśucirbhinnamaryādo naraḥ pāpasamanvitaḥ|| 37||
+SP0280381: svairī caiva tathāyukto niyamaiśca bahiṣkṛtaḥ|
+SP0280382: narake sa patedghore tiryagyonau ca sambhavet|| 38||
+SP0280391: brahmacārī śucirbhūtvā nirmālyaṃ yastu dhārayet|
+SP0280392: tasya pāpamahaṃ śīghraṃ nāśayāmi mahāvrate|| 39||
+SP0280401: dīpamālāṃ tu yaḥ kuryātkārttike māsi vai mama|
+SP0280402: avasāne ca dīpānāṃ brāhmaṇāṃstarpayecchuciḥ|
+SP0280403: gāṇapatyaṃ sa labhate dīpyate ca raviryathā|| 40||
+SP0280411: dadyātkṛṣṇatilāṃścaiva saha siddhārthakāṃśca ha|
+SP0280412: yo me devi sadā mūrdhni sa me nandisamo bhavet|| 41||
+SP0280421: ye hi siddhārthakāḥ proktāstathā kṛṣṇatilāśca ye|
+SP0280422: sarve te tvanmayā devi guhyametanmayeritam|| 42||
+SP0280431: citro nāma gaṇo mahyaṃ tena sārdhaṃ sa modate|
+SP0280432: sarvasampralaye caiva prāpte trailokyasaṃkṣaye|
+SP0280433: tyaktvā sarvāṇi duḥkhāni māmeva pratipadyate|| 43||
+SP0280441: na tuṣyāmyarcito 'rcāyāṃ tathā devi nagātmaje|
+SP0280442: liṅge 'rcite yathātyarthaṃ parituṣyāmi pārvati|| 44||
+SP0280451: sarvendriyaprasakto vā yukto vā sarvapātakaiḥ|
+SP0280452: sa prayāti divaṃ devi liṅgaṃ yo 'rcayatīha me|| 45||
+SP0280461: tyaktvā sarvāṇi pāpāni nirdvandvo dagdhakilbiṣaḥ|
+SP0280462: madāśīrmannamaskāro māmeva pratipadyate|| 46||
+SP0280470: sanatkumāra uvāca|
+SP0280471: tato bhagavatī bhūyaḥ patiṃ sarvajagatpatim|
+SP0280472: apṛcchatpuṣpyamāṇāsyā kena tvaṃ deva tuṣyasi|| 47||
+SP0280481: tataḥ prahasamānāsyaḥ sarvalokeśvareśvaraḥ|
+SP0280482: vacaḥ provāca bhagavāṃl lokānāṃ hitakāmyayā|| 48||
+SP0280490: deva uvāca|
+SP0280491: śṛṇu devi yathātattvaṃ yena yānti śubhāṃ gatim|
+SP0280492: trailokye jantavaḥ sarve madbhaktā ye śubhānane|| 49||
+SP0280501: yattatparataraṃ guhyaṃ tatsarvaṃ tvayi tiṣṭhati|
+SP0280502: yo hi tattvena tadveda saṃsārādvipramucyate|| 50||
+SP0280511: na ca prakāśayedguhyaṃ nāma te kīrtayennaraḥ|
+SP0280512: sadā sarvasahetyevaṃ prātaḥ prāñjalirutthitaḥ|| 51||
+SP0280521: tasmācca kīrtanātpāpaṃ sarvameva vinirdahet|
+SP0280522: yaśaḥ kīrtiṃ ca samprāpya rudraloke mahīyate|| 52||
+SP0280531: sarvamālyāni yo dadyātsarvamūrtiṣu nityaśaḥ|
+SP0280532: mantreṇa vidhivaccaiva tasya puṇyaphalaṃ mahat|| 53||
+SP0280540: mantraḥ|
+SP0280541: sarvagāya sureśāya sarvadevamayāya ca|
+SP0280542: namo bhagavate caiva guhyāguhyāya vai sadā|| 54||
+SP0280551: somāya bhūtanāthāya bhāvanāya bhavāya ca|
+SP0280552: sarvaguhyāya vai svāhā devaguhyamayāya ca|| 55||
+SP0280561: sarvaguhyamayo mantraḥ svāhā somāya caiva ha|
+SP0280562: kaṭaṃkaṭāya vai svāhā svāhā devāya śuṣmiṇe|| 56||
+SP0280571: puṣpāṇyetena mantreṇa yo me nityaṃ nivedayet|
+SP0280572: sahasraṃ tena jāpyasya mānasasya kṛtaṃ bhavet|| 57||
+SP0280581: athāñjalimamāvāsyāṃ susampūrṇāṃ samāhitaḥ|
+SP0280582: tilānāṃ caiva kṛṣṇānāṃ sarṣapāṇāṃ ca pārvati|
+SP0280583: arcayitvā yathānyāyaṃ yathālābhaṃ prayacchati|| 58||
+SP0280591: idaṃ ca vacanaṃ brūyāt sūryeti ca mameti ca|
+SP0280592: sarvapāpavinirmuktaḥ svargalokaṃ vrajennaraḥ|| 59||
+SP0280601: arcayitvā ca māṃ devi yo me nāmāni kīrtayet|
+SP0280602: caturdaśyāmathāṣṭamyāṃ pakṣayorubhayorapi|
+SP0280603: so 'pi devi prapaśyenmāṃ viyoniṃ na sa gacchati|| 60||
+SP0280611: vāmadeva sudeveti hara gupteti vā punaḥ|
+SP0280612: umāpate nīlakaṇṭha śānta śrīkaṇṭha gopate|| 61||
+SP0280621: śarva bhīma paśupate śaṃkarogra bhaveti ca|
+SP0280622: mahādeveti cāpyanyannāma guhyaṃ prakīrtayet|
+SP0280623: sarvapāpaiḥ pramucyeta divi devaiśca pūjyate|| 62||
+SP0280631: eteṣāmekamapi yaḥ kathayedvā paṭheta vā|
+SP0280632: sa dehapaddhatiṃ bhittvā māmeva pratipadyate|
+SP0280633: evaṃ sarvapraṇāmena yanmayā parikīrtitam|| 63||
+SP0280641: amāvāsyāṃ tu yo nityaṃ saghṛtaṃ gugguluṃ dahet|
+SP0280642: kṣīreṇa caiva saṃmiśraṃ guhyametanmama priye|
+SP0280643: so 'cyutaṃ sthānamāpnoti matprasādānna saṃśayaḥ|| 64||
+SP0280651: idaṃ ca paramaṃ guhyaṃ yo me devi nivedayet|
+SP0280652: arkaparṇapuṭaṃ pūrṇaṃ ghṛtasya madhunā saha|
+SP0280653: nivedya vidhivadbhaktyā sarvapāpaiḥ pramucyate|| 65||
+SP0280661: imāni ca mahābhāge yo me nāmāni kīrtayet|
+SP0280662: śmaśānanilayo nagno bhasmaśāyī yatavrataḥ|| 66||
+SP0280671: vāmadevaḥ praśāntaśca stabdhaśephastrilocanaḥ|
+SP0280672: avasavyapriyaḥ savyo bahurūpo 'ntakāntakṛt|| 67||
+SP0280681: purāṇaḥ puruhūtaśca mṛtyormṛtyurjitendriyaḥ|
+SP0280682: anindriyo 'tīndriyaśca sarvabhūtahṛdi sthitaḥ|| 68||
+SP0280691: saṃsāracakrī yogātmā kāpālī diṇḍireva ca|
+SP0280692: mahādevo mahādevo mahādeveti caiva hi|| 69||
+SP0280701: japedetanniyamavān śṛṇuyādvāpi nityaśaḥ|
+SP0280702: sa dehabhedamāsādya yogātmā gaṇapo bhavet|| 70||
+SP0280710: sanatkumāra uvāca|
+SP0280711: nāśubhāya na pāpāya nānṛtāya kadācana|
+SP0280712: śrāvayedbhaktimānpuṇyaṃ nāvratāya kadācana|| 71||
+SP0280721: dhanyaṃ yaśasyamāyuṣyaṃ śāntivṛddhikaraṃ śubham|
+SP0280722: pūtaṃ pavitraṃ paramaṃ maṅgalānāṃ ca maṅgalam|
+SP0280723: śrotavyaṃ na ca sarveṇa tathā deyaṃ na kasyacit|| 72||
+SP0289999: iti skandapurāṇe 'ṣṭāviṃśatitamo 'dhyāyaḥ|

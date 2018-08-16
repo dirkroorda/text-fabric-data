@@ -1,0 +1,84 @@
+Skandapurāṇa Adhyāya 9
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0090010: sanatkumāra uvāca|
+SP0090011: te dṛṣṭvā devadeveśaṃ sarve sabrahmakāḥ surāḥ|
+SP0090012: astuvanvāgbhiriṣṭābhiḥ praṇamya vṛṣavāhanam|| 1||
+SP0090020: pitāmaha uvāca|
+SP0090021: namaḥ śivāya somāya bhaktānāṃ bhayahāriṇe|
+SP0090022: namaḥ śūlāgrahastāya kamaṇḍaludharāya ca|| 2||
+SP0090031: daṇḍine nīlakaṇṭhāya karāladaśanāya ca|
+SP0090032: tretāgnidīptanetrāya trinetrāya harāya ca|| 3||
+SP0090041: namaḥ pinākine caiva namo 'stvaśanidhāriṇe|
+SP0090042: vyālayajñopavītāya kuṇḍalābharaṇāya ca|| 4||
+SP0090051: namaścakradharāyaiva vyāghracarmadharāya ca|
+SP0090052: kṛṣṇājinottarīyāya sarpamekhaline tathā|| 5||
+SP0090061: varadātre ca rudrāya sarasvatīsṛje tathā|
+SP0090062: somasūryarkṣamālāya akṣasūtrakarāya ca|| 6||
+SP0090071: jvālāmālāsahasrāya ūrdhvaliṅgāya vai namaḥ|
+SP0090072: namaḥ parvatavāsāya śirohartre ca me purā|| 7||
+SP0090081: hālāhalavināśāya kapālavaradhāriṇe|
+SP0090082: vimānavaravāhāya janakāya mamaiva ca|
+SP0090083: varadāya variṣṭhāya śmaśānarataye namaḥ|| 8||
+SP0090091: namo narasya kartre ca sthitikartre namaḥ sadā|
+SP0090092: utpattipralayānāṃ ca kartre sarvasahāya ca|| 9||
+SP0090101: ṛṣidaivatanāthāya sarvabhūtādhipāya ca|
+SP0090102: śivaḥ saumyaśca deveśa bhava no bhaktavatsala|| 10||
+SP0090110: sanatkumāra uvāca|
+SP0090111: brahmaṇyathaivaṃ stuvati devadevaḥ sa lokapaḥ|
+SP0090112: uvāca tuṣṭastāndevānṛṣīṃśca tapasaidhitān|| 11||
+SP0090121: tuṣṭo 'smyanena vaḥ samyaktapasā ṛṣidevatāḥ|
+SP0090122: varaṃ brūta pradāsyāmi suniścintya sa ucyatām|| 12||
+SP0090130: sanatkumāra uvāca|
+SP0090131: atha sarvānabhiprekṣya saṃtuṣṭāṃstapasaidhitān|
+SP0090132: darśanenaiva viprendra brahmā vacanamabravīt|| 13||
+SP0090140: brahmovāca|
+SP0090141: yadi tuṣṭo 'si deveśa yadi deyo varaśca naḥ|
+SP0090142: tasmācchivaśca saumyaśca dṛśyaścaiva bhavasva naḥ|| 14||
+SP0090151: sukhasaṃvyavahāryaśca nityaṃ tuṣṭamanāstathā|
+SP0090152: sarvakāryeṣu ca sadā hitaḥ pathyaśca śaṃkaraḥ|| 15||
+SP0090161: saha devyā sasūnuśca saha devagaṇairapi|
+SP0090162: eṣa no dīyatāṃ deva varo varasahasrada|| 16||
+SP0090170: sanatkumāra uvāca|
+SP0090171: evamuktaḥ sa bhagavānbrahmaṇā devasattamaḥ|
+SP0090172: svakaṃ tejo mahaddivyaṃ vyasṛjatsarvayogavit|| 17||
+SP0090181: ardhena tejasaḥ svasya mukhādulkāṃ sasarja ha|
+SP0090182: tāmāha bhava nārīti bhagavānviśvarūpadhṛk|| 18||
+SP0090191: sākāśaṃ dyāṃ ca bhūmiṃ ca mahimnā vyāpya viṣṭhitā|
+SP0090192: upatasthe ca deveśaṃ dīpyamānā yathā taḍit|| 19||
+SP0090201: tāmāha prahasandevo devīṃ kamalalocanām|
+SP0090202: brahmāṇaṃ devi varadamārādhaya śucismite|| 20||
+SP0090211: sā tatheti pratijñāya tapastaptuṃ pracakrame|
+SP0090212: rudraśca tānṛṣīnāha śṛṇudhvaṃ mama toṣaṇe|
+SP0090213: phalaṃ phalavatāṃ śreṣṭhā yadbravīmi tapodhanāḥ|| 21||
+SP0090221: amarā jarayā tyaktā arogā janmavarjitāḥ|
+SP0090222: madbhaktāstapasā yuktā ihaiva ca nivatsyatha|| 22||
+SP0090231: ayaṃ caivāśramaḥ śreṣṭhaḥ svarṇaśṛṅgo 'calottamaḥ|
+SP0090232: puṇyaṃ pavitraṃ sthānaṃ vai bhaviṣyati na saṃśayaḥ|| 23||
+SP0090241: maināke parvate śreṣṭhe svarṇo 'hamabhavaṃ yataḥ|
+SP0090242: svarṇākṣīṃ cāsṛjaṃ devīṃ svarṇākṣaṃ tena tatsmṛtam|| 24||
+SP0090251: svarṇākṣe ṛṣayo yūyaṃ ṣaṭkulīyāstapodhanāḥ|
+SP0090252: nivatsyatha mayājñaptāḥ svarṇākṣaṃ vai tataśca ha|
+SP0090253: samantādyojanaṃ kṣetraṃ pavitraṃ tanna saṃśayaḥ|| 25||
+SP0090261: devagandharvacaritamapsarogaṇasevitam|
+SP0090262: siṃhebhaśarabhākīrṇaṃ śārdūlarkṣamṛgākulam|
+SP0090263: anekavihagākīrṇaṃ latāvṛkṣakṣupākulam|| 26||
+SP0090271: brahmacārī niyamavāñjitakrodho jitendriyaḥ|
+SP0090272: upoṣya triguṇāṃ rātriṃ caruṃ kṛtvā nivedya ca|
+SP0090273: yatra tatra mṛtaḥ so 'pi brahmaloke nivatsyati|| 27||
+SP0090281: yo 'pyevameva kāmātmā paśyettatra vṛṣadhvajam|
+SP0090282: gosahasraphalaṃ so 'pi matprasādādavāpsyati|
+SP0090283: niyamena mṛtaścātra mayā saha cariṣyati|| 28||
+SP0090291: yāvatsthāsyanti lokāśca mainākaścāpyayaṃ giriḥ|
+SP0090292: tāvatsaha mayā devā matprasādāccariṣyatha|| 29||
+SP0090301: evaṃ sa tānṛṣīnuktvā dṛṣṭvā saumyena cakṣuṣā|
+SP0090302: paśyatāmeva sarveṣāṃ tatraivāntaradhīyata|| 30||
+SP0090310: sanatkumāra uvāca|
+SP0090311: ya imaṃ śṛṇuyānmartyo dvijātīñchrāvayeta vā|
+SP0090312: so 'pi tatphalamāsādya carenmṛtyuvivarjitaḥ|| 31||
+SP0090321: jayati jaladavāhaḥ sarvabhūtāntakālaḥ śamadamaniyatānāṃ kleśahartā yatīnām|
+SP0090322: jananamaraṇahartā ceṣṭatāṃ dhārmikāṇāṃ vividhakaraṇayuktaḥ khecaraḥ pādacārī|| 32||
+SP0090331: madanapuravidārī netradantāvapātī vigatabhayaviṣādaḥ sarvabhūtapracetāḥ|
+SP0090332: satatamabhidadhānaścekitānātmacittaḥ karacaraṇalalāmaḥ sarvadṛgdevadevaḥ|| 33||
+SP0099999: iti skandapurāṇe navamo 'dhyāyaḥ||

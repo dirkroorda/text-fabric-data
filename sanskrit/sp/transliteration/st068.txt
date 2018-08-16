@@ -1,0 +1,56 @@
+Skandapurāṇa Adhyāya 68
+
+E-text generated on February 22, 2017 from the original TeX files of: Yokochi, Yuko, ed. The Skandapurāṇa. Vol.III. Adhyāyas 34.1-61, 53-69. The Vindhyavāsinī Cycle. Critical Edition with an Introduction & Annotated English Synopsis. Leiden/Groningen: Brill & Egbert Forsten, 2013.
+
+SP0680010: sanatkumāra uvāca|
+SP0680011: atha tā devatā devī kauśikī dehasambhavāḥ|
+SP0680012: nyaveśayanmahābhāgā deśeṣu nagareṣu ca|| 1||
+SP0680021: bahuputrāṃ pralambāṃ ca laṅkāyāṃ saṃnyaveśayat|
+SP0680022: lambauṣṭhīṃ vṛṣadaṃśāṃ ca kiṃnarīṃ caiva siṃhale|| 2||
+SP0680031: gokarṇe revatīṃ devīṃ pāṇḍyeṣu mukhamaṇḍikām|
+SP0680032: ābhīreṣu śivāṃ caiva śāntiṃ ca varaṇātaṭe|| 3||
+SP0680041: vatsagulme prabhāṃ devīṃ lakṣmīṃ kolagirāvapi|
+SP0680042: upakāṃ pārasīkeṣu vāyasīṃ yavaneṣu ca|| 4||
+SP0680051: pracaṇḍāṃ ca tukhāreṣu kausaleṣu ca lambikām|
+SP0680052: jayāṃ ca vijayāṃ caiva svapure saṃnyaveśayat|| 5||
+SP0680061: prabhāvatī kaliṅgeṣu jayantī nāgasāhvaye|
+SP0680062: kāśmīreṣu sthitā ṣaṣṭhī saramā malayeṣu ca|| 6||
+SP0680071: pūtanāṃ ca suvīreṣu mṛtyuṃ piṣṭapure tathā|
+SP0680072: koṭīvarṣe bahumāṃsāṃ pauṇḍreṣu kaṭapūtanām|| 7||
+SP0680081: aspṛṣṭāṃ madhyadeśe tu kiṃnarīṃ barbareṣu ca|
+SP0680082: vārāṇasyāṃ nirāyāsāṃ citraghaṇṭāṃ ca kauśikī|
+SP0680083: mahākālīṃ mahākāle vānarīṃ śabareṣu ca|| 8||
+SP0680091: śeṣāśca devatāḥ sarvā grāmeṣu nagareṣu ca|
+SP0680092: karvaṭeṣu mahīdhreṣu kauśikī saṃnyaveśayat|| 9||
+SP0680101: kasyacittvatha kālasya svarṇākṣe hi mahātapāḥ|
+SP0680102: yatra viṣṇurvarāṃl lebhe devamārādhya śaṃkaram|
+SP0680103: cakraṃ sudarśanaṃ nāma dviṣatāmantakopamam|| 10||
+SP0680111: ṛṣirāste mahābhāgaḥ śaradvānnāma gautamaḥ|
+SP0680112: tasya yajñaṃ jagāmātha devī tena nimantritā|| 11||
+SP0680121: tasyāstatrāgamaṃ jñātvā sūnuḥ sumbhasya vīryavān|
+SP0680122: ājagāmāśu taṃ deśaṃ mahiṣo nāma dānavaḥ|| 12||
+SP0680131: susaṃhataḥ pṛthūrasko mahāgrīvaḥ suvāladhiḥ|
+SP0680132: vakraśṛṅgaḥ pṛthukhuro viśālocchritamastakaḥ|| 13||
+SP0680141: baddhavairāśayaḥ krūro mahāsattvo 'tidurjayaḥ|
+SP0680142: vajraniṣpeṣaparuṣaṃ nardamāno mahāsvanaḥ|| 14||
+SP0680151: añjanādrisamaprakhyo yuyutsurbaladarpitaḥ|
+SP0680152: devyāḥ panthānamāvṛtya dānavendrasutaḥ sthitaḥ|| 15||
+SP0680161: vijñāya tasyāgamanaṃ yogeśā vindhyavāsinī|
+SP0680162: jagāma tvaritā tatra yatrāsau dānavādhamaḥ|| 16||
+SP0680171: atha dṛṣṭvā sa tāṃ devīṃ krodhādraktatarekṣaṇaḥ|
+SP0680172: abhyājagāma vegena yatnamāsthāya dānavaḥ|| 17||
+SP0680181: udvāladhistīkṣṇaviṣāṇakoṭiḥ supīnavakṣāḥ kaṭhinordhvakarṇaḥ|
+SP0680182: abhyāpatadguggulutāmranetro javena devīmasitādrikalpaḥ|| 18||
+SP0680191: taṃ kauśikī vīkṣya tadāpatantaṃ daityendraputraṃ mahiṣaṃ saroṣam|
+SP0680192: cukrodha tāmrāyatacārunetrā sthitā dharaṇyāmasurendrahantrī|| 19||
+SP0680201: abhyetya tāṃ dānavarājasūnurbalena mattaḥ parameṇa devīm|
+SP0680202: abhyāhanadvakṣasi lolahāre śṛṅgeṇa śakrāyudhakarkaśena|| 20||
+SP0680211: viṣahya taṃ tasya tadā prahāraṃ jagrāha śṛṅge mahiṣaṃ kareṇa|
+SP0680212: udbhrāmya coccaiḥ paritaḥ saroṣā nyapātayadbhūmitale śvasantam|| 21||
+SP0680221: udgṛhya sā vāladhimindraśatroḥ kṛtvā ca pādaṃ śirasi prasahya|
+SP0680222: triśūlamādāya bibheda pṛṣṭhe vyayojayaccāsubhirāśu daityam|| 22||
+SP0680231: kuliśakaṭhinaśṛṅgaṃ nīlajīmūtakalpaṃ 
+SP0680232: mahiṣamatha nihatya prauḍhadarpaṃ tadānīm|
+SP0680233: vividhakusumavṛṣṭyā sarvataḥ kīryamāṇā
+SP0680234: dharaṇidharamagacchatkauśikī svaṃ nivāsam|| 23||
+SP0689999: iti skandapurāṇe 'ṣṭaṣaṣṭo 'dhyāyaḥ||

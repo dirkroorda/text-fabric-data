@@ -1,0 +1,148 @@
+Skandapurāṇa Adhyāya 36
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0360010: sanatkumāra uvāca|
+SP0360011: trikūṭaśikhare tasminnagare devanirmite|
+SP0360012: āsīnaḥ kāñcane divye vimāne strījanākule|| 1||
+SP0360021: pitṝnsarvānsamāhūya saṃpūjya vidhivattadā|
+SP0360022: sukhopaviṣṭāṃstāndṛṣṭvā idaṃ vacanamabravīt|| 2||
+SP0360031: yuṣmākaṃ tejasā sarvamidamaiśvaryamīdṛśam|
+SP0360032: bhavadbhistatkṛtaṃ devā yenāsmi sukhabhākkṛtaḥ|| 3||
+SP0360040: pitara ūcuḥ|
+SP0360041: maivaṃ vadānṛtaṃ putra mādharmaste bhavediha|
+SP0360042: nāsmatprasādādaiśvaryaṃ tava putra kadācana|| 4||
+SP0360051: vayaṃ tu niraye ghore yātyamānāḥ sudāruṇe|
+SP0360052: tava devasya vīryeṇa sukhamāpuḥ sudurlabham|| 5||
+SP0360061: tvayā vayaṃ suputreṇa tāritā nirayādyathā|
+SP0360062: tathā nānyaṃ prapaśyāma dhanyānāṃ tvaṃ suto hi naḥ|| 6||
+SP0360071: adya varṣasahasrāṇi bahūni niraye vayam|
+SP0360072: pacyema ghore durvṛttā bandhuḥ syāttvaṃ na no yadi|| 7||
+SP0360081: bahavaḥ prāṇinaḥ putra yātyante tatra saṃyatāḥ|
+SP0360082: atighore sudurvṛttāstapasteṣāṃ na vidyate|| 8||
+SP0360090: sukeśa uvāca|
+SP0360091: pitaro noktapūrvaṃ me mṛṣā na ca vadāmi vai|
+SP0360092: yathā prabhāvādyuṣmākamaiśvaryaṃ mama tattadā|| 9||
+SP0360101: śṛṇudhvaṃ vadataḥ samyaṅmāvamaṃsthā vaco mama|
+SP0360102: na cāvamanye pitaro devatānko 'vamanyate|| 10||
+SP0360111: pitaraḥ karma kurvanti satāṃ yatsaṃmataṃ bhuvi|
+SP0360112: nityaṃ cāśāsate tena prajā naḥ santu puṣkalāḥ|| 11||
+SP0360121: dhārmikāśca kṛtajñāśca satkarmaratayastathā|
+SP0360122: ye no narakagartasthāṃstārayiṣyanti nityaśaḥ|| 12||
+SP0360131: teṣāṃ tatkāryakaraṇātsvadharmācyavanena ca|
+SP0360132: sa dharmo 'nuṣṭhitaḥ samyakprajā janayate śubhāḥ|| 13||
+SP0360141: dhārmikāśca vadanyāśca kṛtajñāḥ satpathi sthitāḥ|
+SP0360142: pitṛbhaktāśca sarvatra pitṝṇāṃ tāraṇe ratāḥ|| 14||
+SP0360151: so 'haṃ bhavadbhirdharmeṇa pareṇa ca samādhinā|
+SP0360152: janitastapasā yukto bhavatāmeva sarvaśaḥ|
+SP0360153: devamārādhya narakātpitṝṃstāritavānpunaḥ|| 15||
+SP0360161: eṣa prabhāvo yuṣmākaṃ tapaḥ sucaritaṃ ca ha|
+SP0360162: mamātra kiṃ mahāprajñā anṛtaṃ vātra kiṃ vacaḥ|| 16||
+SP0360171: iyaṃ ca vaidikī śubhrā śrutirvedavidāṃ varāḥ|
+SP0360172: pramāṇaṃ yadi manyadhvamātmanā kṛtamityuta|| 17||
+SP0360181: aṅgādaṅgātsaṃbhavasi hṛdayādadhijāyase|
+SP0360182: ātmā vai putranāmāsi sa jīva śaradaḥ śatam|| 18||
+SP0360191: aṅgebhyo 'haṃ samutpanno yuṣmākaṃ hṛdayācca ha|
+SP0360192: ātmanāhaṃ tathātmānaṃ yuṣmāṃstāritavāṃstathā|| 19||
+SP0360201: tasmādbhavanto manyantu sarva eva samādhinā|
+SP0360202: tasmāddhi ghoranarakāttāritāḥ svena karmaṇā|| 20||
+SP0360211: na cānyakarmaṇā kaścidanyastarati durgatim|
+SP0360212: svakarmaṇā hi jantūnāṃ phalapāko vidhīyate|| 21||
+SP0360220: sanatkumāra uvāca|
+SP0360221: tatasta evaṃ pitarastena proktā mahātmanā|
+SP0360222: harṣeṇa sāsrunayanā idamūcustadā vacaḥ|| 22||
+SP0360230: pitara ūcuḥ|
+SP0360231: tvadanyaḥ ko vadedevaṃ yo na syādīśasaṃmataḥ|
+SP0360232: yuktametattava vaco dhārmikasya mahātmanaḥ|| 23||
+SP0360241: yo na syādīdṛśaḥ putra kathaṃ taṃ sarvadevapaḥ|
+SP0360242: iṣṭaistu yojayetsamyagyathā tvāṃ govṛṣadhvajaḥ|| 24||
+SP0360251: tvaṃ dhātā tvaṃ hi no bandhustvaṃ janetā mahāmate|
+SP0360252: pitā tvameva putrā hi vayaṃ tava na saṃśayaḥ|| 25||
+SP0360261: atra te vartayiṣyāmaḥ purāvṛttaṃ mahāmate|
+SP0360262: śrutau smṛtau ca yadgītaṃ tannaḥ saṃsmartumarhasi|| 26||
+SP0360270: pitara ūcuḥ|
+SP0360271: putrā hi brahmaṇā sṛṣṭā devā yajata māmiti|
+SP0360272: te 'yajanta tadātmānaṃ teṣāṃ brahmā cukopa ha|
+SP0360273: uvāca cainānsaṃrabdho naṣṭasaṃjñā bhaviṣyatha|| 27||
+SP0360281: te śaptāstaṃ tadā devaṃ sarva eva divaukasaḥ|
+SP0360282: duḥkhaśokasamāyuktā brahmāṇaṃ tuṣṭuvustadā|| 28||
+SP0360291: prasannaṃ taṃ samālakṣya ta ūcuḥ śirasā natāḥ|
+SP0360292: naṣṭasaṃjñā vayaṃ deva tanno yaccha punaḥ prabho|
+SP0360293: tatkṣamasva ca deveśa ajñānādyatkṛtaṃ hi naḥ|| 29||
+SP0360301: athaivamukto devaistairbrahmā lokapitāmahaḥ|
+SP0360302: uvāca praṇatāndevānsānukrośamidaṃ vacaḥ|| 30||
+SP0360311: prāyaścittaṃ mahāsattvāścaradhvaṃ niyamena ha|
+SP0360312: vyabhicārakṛtaṃ sarvaṃ tataḥ pāpaṃ prahāsyatha|| 31||
+SP0360320: devā ūcuḥ|
+SP0360321: saiva saṃjñā na no deva vidyate sarvasṛkprabho|
+SP0360322: yayā jñāsyāmahe tāni prāyaścittāni lokapa|| 32||
+SP0360330: brahmovāca|
+SP0360331: svānputrānparipṛcchadhvaṃ tataḥ śreya avāpsyatha|
+SP0360332: punaḥ saṃjñāṃ ca dharmajñā mā kurudhvamato 'nyathā|| 33||
+SP0360340: pitara ūcuḥ|
+SP0360341: tataste suraśārdūlāḥ papracchuḥ svānsutāṃstadā|
+SP0360342: prāyaścittāni dharmāṃśca vedānsāṅgānsuvistarān|| 34||
+SP0360351: te ca tebhyastadā putrā ācakhyuḥ prayatāḥ śubhāḥ|
+SP0360352: yāthātathyena tatsarvaṃ parameṇa samādhinā|| 35||
+SP0360361: atha te labdhasaṃjñāśca labdhakāmāstathaiva ca|
+SP0360362: svānputrānabhyabhāṣanta prīyamānā mudā yutāḥ|| 36||
+SP0360370: devā ūcuḥ|
+SP0360371: putrā na yūyamasmākaṃ vayaṃ putrā hi vaḥ sutāḥ|
+SP0360372: yairjñānaṃ naṣṭasaṃjñānāṃ kṛtamasmākamavyayam|| 37||
+SP0360381: tairevamukte tatrāgādbrahmā lokapitāmahaḥ|
+SP0360382: uvāca cedaṃ tāndevānsarvāneva mahāyaśāḥ|| 38||
+SP0360390: brahmovāca|
+SP0360391: vadanti nānṛtaṃ devāḥ satyaṃ deveṣu vartate|
+SP0360392: sutāścoktā hi vaḥ sarve pitaro nānṛtaṃ hi tat|| 39||
+SP0360401: tasmātpitṛtvaṃ yuṣmākaṃ putrāṇāṃ nityamavyayam|
+SP0360402: bhaviṣyati na saṃdeho yūyaṃ putrāśca sarvaśaḥ|| 40||
+SP0360411: na hyaśiṣyāya kathyante rahasyāni kathaṃcana|
+SP0360412: ekārthau putraśiṣyau ca tasmātputrāḥ stha sarvaśaḥ|| 41||
+SP0360421: taranti putraiḥ pitaraḥ putrāṃstāṃstārayanti ca|
+SP0360422: tārayitvā pitṛtvaṃ ca karmaṇā tena yānti te|| 42||
+SP0360431: yūyaṃ ca tāritāḥ putrairajñānānnarakāttathā|
+SP0360432: tasmādime hi pitaro yūyaṃ putrāśca sarvaśaḥ|| 43||
+SP0360441: pāti yasmātpitā tasmājjanayatyapi vā pitā|
+SP0360442: putreṣu caitadubhayaṃ pitarastena vo matāḥ|| 44||
+SP0360451: tataste brahmaṇaḥ śrutvā yāthātathyena tadvacaḥ|
+SP0360452: pitṝṃstu tānsutānmatvā putratvamupapedire|| 45||
+SP0360461: te putrabhāvamāsādya prītātmāno mahābalāḥ|
+SP0360462: pitarastānvarairiṣṭaiśchandayāmāsuravyathāḥ|| 46||
+SP0360471: pitaraśca tato vavruragre yajanamātmanaḥ|
+SP0360472: yo no 'niṣṭvā yajeddevānna tatphalamavāpnuyāt|| 47||
+SP0360481: enasā cābhisaṃyukto mahānirayabhāgbhavet|
+SP0360482: †abuddhvā† tena devāśca taṃ hanyuḥ pāpacetasam|| 48||
+SP0360491: evamastviti tānuktvā devāste 'tiguṇoditāḥ|
+SP0360492: yathāgataṃ tato jagmurbrahmaṇā saha sarvaśaḥ|| 49||
+SP0360500: pitara ūcuḥ|
+SP0360501: tathā vayaṃ tvayā putra narakānnaṣṭacetasaḥ|
+SP0360502: tāritāścetanāvantaḥ punaśca pravarīkṛtāḥ|| 50||
+SP0360511: pitā tato bhavānpūjyo yo nu pāsi mahābhayāt|
+SP0360512: putrā vayaṃ taveśāna brūhi kiṃ karavāma te|| 51||
+SP0360520: sanatkumāra uvāca|
+SP0360521: sa evamuktastejasvī sukeśo gaṇasattamaḥ|
+SP0360522: praṇataḥ prāñjalirbhūtvā pitṝnvacanamabravīt|| 52||
+SP0360531: evametadyathoktaṃ vo nānṛtaṃ vo vacaḥ śubham|
+SP0360532: parasparapitṛtvaṃ hi sarveṣāṃ samudāhṛtam|| 53||
+SP0360541: varaṃ bhūya imaṃ mahyaṃ prayacchata gaṇeśvarāḥ|
+SP0360542: etena praśnamicchāmi kathitaṃ dvijasattamāḥ|| 54||
+SP0360550: pitara ūcuḥ|
+SP0360551: nāsti kiṃcidaviditaṃ bhavataḥ pravareśvara|
+SP0360552: bhavānasmatpramāṇārthaṃ vyākhyātatvamihecchasi|| 55||
+SP0360561: brūhi yadviditaṃ no 'sti kathayiṣyāma taddhi te|
+SP0360562: śrutaṃ yadanubhūtaṃ vā yathāśakti yathābalam|| 56||
+SP0360570: sukeśa uvāca|
+SP0360571: bhavanto narake ghore parikliṣṭāḥ sudāruṇe|
+SP0360572: ato gatijñāḥ sarveṣāṃ narakānāṃ na saṃśayaḥ|| 57||
+SP0360581: teṣāṃ satattvaṃ yogaṃ ca kālabhedaṃ tathā kramam|
+SP0360582: tatsarvaṃ śrotumicchāmi paraṃ kautūhalaṃ hi me|| 58||
+SP0360591: kiyanto narakāste ca kimpramāṇāḥ kimāśrayāḥ|
+SP0360592: kiṃrūpāḥ ke ca yātyante kathaṃ caiva suduḥkhitāḥ|| 59||
+SP0360601: kathaṃ ca patate janturyātyate ca kathaṃ tathā|
+SP0360602: kiyatā caiva kālena narakātsa vimucyate|
+SP0360603: muktaścottiṣṭhate kena kathaṃ saṃtarate punaḥ|| 60||
+SP0360611: etatsarvamaśeṣeṇa vistareṇa yathātatham|
+SP0360612: kathayadhvaṃ mahāprajñāḥ paraṃ kautūhalaṃ hi me|| 61||
+SP0360621: tamupendrapitāmaheśvareśapravareśaṃ viditārthatattvakośam|
+SP0360622: duritāṅkitapāpayuktayogaṃ pratiyogaṃ tvidamāhuragrayogam|| 62||
+SP0369999: skandapurāṇe ṣaṭtriṃśattamo 'dhyāyaḥ||

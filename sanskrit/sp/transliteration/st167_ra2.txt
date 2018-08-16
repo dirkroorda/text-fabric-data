@@ -1,0 +1,142 @@
+Skandapurāṇa Adhyāya 167: R and A recensions, sub-chapter 2
+
+E-text generated on February 22, 2017 from the original TeX files of:  Peter C. Bisschop, Early Śaivism and the Skandapurāṇa. Sects and Centres. Groningen: Egbert Forsten, 2006.
+
+SPra167.2.0010: sanatkumāra uvāca|
+SPra167.2.0011: himavantasya kūṭāni manugamyāni yāni tu|
+SPra167.2.0012: tānyāyatanacihnāni kāleyaikamanāḥ śṛṇu|| 1||
+SPra167.2.0021: mahaddhimavataḥ kūṭaṃ sajalāmbudadarśanam|
+SPra167.2.0022: khyāyate tripade taddhi śrutālayamahālayam|| 2||
+SPra167.2.0031: †ṣaṭsvarāṇāṃ pradhānena vidhānena śrutasya ca|
+SPra167.2.0032: sa prāsādāni divyāni cikrīkṣata śilātalam†|| 3||
+SPra167.2.0041: yatraitya devagandharvāḥ sāpsarovaracāraṇāḥ|
+SPra167.2.0042: vicaranti yatātmāno vandyaṃ pāśupataṃ padam|| 4||
+SPra167.2.0051: yatra bhūṣaṇasaṃmiśraḥ saraghākulaḍhaukitaḥ|
+SPra167.2.0052: śrūyate caiva lokānāṃ kalodgītaravo mahān|| 5||
+SPra167.2.0061: yatra pāśupatā medhyā janmadoṣamumukṣavaḥ|
+SPra167.2.0062: tatpadaṃ prāpya te vandyaṃ bhavasālokyatāṃ gatāḥ|| 6||
+SPra167.2.0071: †svayambhūvacanāpūjya vighnakoṭīśataiḥ saha|
+SPra167.2.0072: rakṣyate dṛḍhamityuktairnātra kaścijjaḍe vasūn†|| 7||
+SPra167.2.0081: yatra lobhānvitā 'rthāya rāgeṇaiva vimohitāḥ|
+SPra167.2.0082: grāmyeṇānārjavāścaiva na paśyeyurnarādhamāḥ|| 8||
+SPra167.2.0091: labhante tapasā puṇyaṃ śrutālayamahālayam|
+SPra167.2.0092: ye paśyanti na paśyanti te yamaṃ ruṣitānanam|| 9||
+SPra167.2.0101: aśvamedhasahasrasya phalaṃ yadvāditaṃ suraiḥ|
+SPra167.2.0102: dṛṣṭvā mahālayaṃ puṇyaṃ tadeva labhate phalam|| 10||
+SPra167.2.0111: mahaddhimavatastasya kūṭaṃ kūṭavibhūṣaṇam|
+SPra167.2.0112: devagandharvacaritaṃ candanāśokakānanam|| 11||
+SPra167.2.0121: yattapatyā suvarṇārthe pārvatyā ghanasaprabham|
+SPra167.2.0122: gaurīśikharamityevaṃ nītaṃ prakhyātimuttamām|| 12||
+SPra167.2.0131: bhagavatyanukampārthaṃ yatra vyāghraḥ svayambhuvā|
+SPra167.2.0132: somanandiriti khyāto mahāgaṇapatiḥ kṛtaḥ|| 13||
+SPra167.2.0141: †kucaniryāsatāmasya putrasnehātidrutayā†|
+SPra167.2.0142: kucakuṇḍamiti khyātaṃ kuṇḍaṃ yatrā† jayotyatam†|| 14||
+SPra167.2.0151: tadgaurīśikharaṃ ramyaṃ ye 'bhigacchanti mānavāḥ|
+SPra167.2.0152: gosahasrapradānasya te phalaṃ prāpnuyurnarāḥ|| 15||
+SPra167.2.0161: yadā ca dehaparyāyaṃ yayuḥ kālakṛtaṃ narāḥ|
+SPra167.2.0162: tadā gaṇeśvarā bhūtvā carante 'mbikayā saha|| 16||
+SPra167.2.0171: kūṭaṃ tatrarṣabhaṃ nāma sāmbugarbhāmbudopamam|
+SPra167.2.0172: yatra śailādinā prāptaṃ tapaḥ paramabhāsvaram|| 17||
+SPra167.2.0181: yacchailādeḥ priyārthaṃ ca guhāraṇyābhituṣṭayā|
+SPra167.2.0182: phalena mahatā juṣṭaṃ prāptaṃ devāsuroragaiḥ|| 18||
+SPra167.2.0191: yatrāmarendrasadanādavatīrya surastriyaḥ|
+SPra167.2.0192: gāyanti vicarante ca nṛtyanti ca ramanti ca|| 19||
+SPra167.2.0201: ṛṣabhaṃ prāpya tatkūṭaṃ narāḥ satyavatīsuta|
+SPra167.2.0202: gosahasraphalaṃ samyagvindante umayā kṛtam|| 20||
+SPra167.2.0211: yadā maraṇadharmeṇa saṃyujyante ca kālija|
+SPra167.2.0212: kuśadvīpe tadā ramye caranti saha nandinā|| 21||
+SPra167.2.0221: kūṭamanyaddhimavato meghakūṭasamaprabham|
+SPra167.2.0222: yatra bhastreśvaraṃ nāma rudrasyāyatanaṃ śubham|| 22||
+SPra167.2.0230: vyāsa uvāca|
+SPra167.2.0231: kathaṃ bhastreśvaraṃ nāma rudrasyāyatanaṃ śubham|
+SPra167.2.0232: naitanniṣkāraṇaṃ nāma sthānaṃ sthāṇośca mānada|| 23||
+SPra167.2.0240: sanatkumāra uvāca|
+SPra167.2.0241: ikṣvākurabhavadrājā bhagīratha iti smṛtaḥ|
+SPra167.2.0242: kṛpālurdharmakṛccaiva yuddhe nārāyaṇopamaḥ|| 24||
+SPra167.2.0251: tasya pūrve hayasyārthe kapilasya tu tejasā|
+SPra167.2.0252: bhasmabhūtā gatāḥ pūrvamagniṃ prāpyeva vīrudhaḥ|| 25|| 
+SPra167.2.0261: †garutmānaharetteṣāṃ naiva deyaṃ ca viṣṇunā†|
+SPra167.2.0262: gaṅgāvatāryatāṃ saiṣā jaladhātrī bhaviṣyati|| 26||
+SPra167.2.0271: tayā cābhyukṣitamidaṃ śītalairnīrajaḥkaṇaiḥ |
+SPra167.2.0272: brahmalokādhivāsāya bhaviṣyati sukhāya ca|| 27||
+SPra167.2.0281: te tu gaṅgāvataraṇe nṛpasiṃhāḥ kṛtodyamāḥ|
+SPra167.2.0282: †akṣarairvartate kṣīṇā bhakṣanta iva saṃramāḥ†|| 28||
+SPra167.2.0291: bhagīrathastvaṃśumataḥ pautro 'bhūtpṛthivīpatiḥ|
+SPra167.2.0292: dhārmikaśca kṛtajñaśca devabhāvasamanvitaḥ|| 29||
+SPra167.2.0301: sa pūrveṣāṃ vadhaṃ śrutvā gaṅgāvataraṇaṃ ca tad|
+SPra167.2.0302: cintayāmāsa bahudhā gaṅgāvataraṇaṃ prati|| 30||
+SPra167.2.0311: manorathaṃ sa sarveṣāṃ samūlamupalabhya tu|
+SPra167.2.0312: tapastatāpa tapanaḥ saṃjñayāpakṛto yathā|| 31||
+SPra167.2.0321: tato nālpena kālena lokanāthaḥ pitāmahaḥ|
+SPra167.2.0322: tuṣṭo 'bhūttapasā tasya taṃ cāha nṛpasattamam|| 32||
+SPra167.2.0331: bhagīratha nadī gaṅgā khāccyutā khecarāmalā|
+SPra167.2.0332: †asatprāṇahite vāsā viphalā te bhaviṣyati†|| 33||
+SPra167.2.0341: na vegamavanī śaktā gaṅgāyā roddhumudyatā|
+SPra167.2.0342: rabhasā pravidāryaiṣā pravekṣyati rasātalam|| 34||
+SPra167.2.0351: mayā vimuktā gaṅgeyaṃ gatau svacchandagāminī|          
+SPra167.2.0352: gamiṣyati tvayā netrā pūrvakānāṃ hite ratā|| 35||
+SPra167.2.0361: sa tvaṃ nṛpatiśārdūla kurvāṇo vacanaṃ mama|
+SPra167.2.0362: etāṃ dhārayituṃ rājañchivamārādhaya prabhum|| 36||
+SPra167.2.0371: sa evaṃ brahmaṇā prokto rājasiṃho bhagīrathaḥ|
+SPra167.2.0372: śivaṃ prapannaḥ śaraṇaṃ devadānavasaṃghayoḥ|| 37||
+SPra167.2.0381: tasya vijñāya tatkāryaṃ kāryākāryavidāṃ vara|
+SPra167.2.0382: †hārāmbaranibhāḥ† śarva ugro rājānamabravīt|| 38||
+SPra167.2.0391: bhagīratha kva sā gaṅgā yattāṃ vai patatīṃ divaḥ|
+SPra167.2.0392: dhārayāmyumayā dattāṃ pārijātasrajaṃ yathā|| 39||
+SPra167.2.0401: tacchivasya śivaṃ vākyaṃ cāraṇaiścāraṇaprabhaiḥ |
+SPra167.2.0402: piśunāyadbhirākhyātaṃ gaṅgāyā duṣṭacintakaiḥ|| 40||
+SPra167.2.0411: †tasya gaṅgā mataṃ bhūtaṃ śārdūlaṃ kumbhivāsasaḥ†| 
+SPra167.2.0412: tatśrutvā cāraṇākhyātaṃ gaṅgā prāha tadā vacaḥ|
+SPra167.2.0413: nayāmyeṣā suvegena devadevaṃ rasātalam|| 41||
+SPra167.2.0421: tasyā mataṃ sa vijñāya hṛdā tena vicintitam|
+SPra167.2.0422: ajarūpaṃ samāsthāya ekaśṛṅgaṃ mahattaram|
+SPra167.2.0423: dhārayāmi nadīṃ gaṅgāṃ trivegāṃ vegagarbhitām|| 42||
+SPra167.2.0431: bhagīrathena saṃtuṣṭā gaṅgā govṛṣavāhanam|
+SPra167.2.0432: toṣayitvā nadī †dhyātā† nipapāta tridhāpi ca|| 43||
+SPra167.2.0441: ghorarūpaistribhiścaiva avatāraṃ tadākarot|
+SPra167.2.0442: ajarūpamajaścakre purā caikajaṭo jaṭī|| 44||
+SPra167.2.0451: saikayā jaṭayā tāṃ strīṃ †layabhogogopakālanam†|
+SPra167.2.0452: ādadhāra kṣayasyārthe srajamālāṃ yathā haraḥ|| 45||
+SPra167.2.0461: divyaṃ varṣasahasraṃ tu jaṭayaikajaṭo jaṭī|
+SPra167.2.0462: dhārayāmāsa vai gaṅgāṃ bhinnasrotāṃ mahānadīm|
+SPra167.2.0463: nādṛśyata jaṭādhvastā sā tvekasya tridhāragā|| 46||
+SPra167.2.0471: bhagīratho 'pi mokṣārthaṃ gaṅgāyā †jalavidrumaḥ †|
+SPra167.2.0472: tasthāvārādhayañcharvamugramugrapatiṃ bhavam|| 47||
+SPra167.2.0481: pūrṇe varṣasahasre tu pūrṇamānasa īśvaraḥ|
+SPra167.2.0482: utsraṣṭukāmastāṃ gaṅgāṃ rājānamidamabravīt|| 48||
+SPra167.2.0491: garvitāṃ garbhitāṃ caiva gaṅgāṃ capalamūrtikām|
+SPra167.2.0492: tvatkṛte 'dya vimokṣyāmi rahobhuktāmivāṅganām|| 49||
+SPra167.2.0501: yāhi svaṃ rathamāsthāya yatra te pūrvakā hatāḥ|
+SPra167.2.0502: ambuvegena mahatā gaṅgaiṣā tvānugacchatu|| 50||
+SPra167.2.0511: nātyarthaṃ pravahā sāpi ajaśṛṅgādviniḥsṛtā|
+SPra167.2.0512: bhagīratharathaṃ gaṅgā anududrāva nimnagā|| 51||
+SPra167.2.0521: ajo 'pi ajarūpeṇa tenaivāmbudavāhanaḥ|
+SPra167.2.0522: tasminhimavataḥ śṛṅge tasthāvekaḥ prabhāmayaḥ|| 52||
+SPra167.2.0531: bhastretyuktā janāyitrī vacobhiḥ paramarṣibhiḥ|
+SPra167.2.0532: mātṛvacca bibhartyeṣa lokāṃl lokapatirbhavaḥ|| 53||
+SPra167.2.0541: ato 'nena niruktena niruktaḥ patirīśvaraḥ|
+SPra167.2.0542: tasminsthāne bhavo devo bhastreśvara iti smṛtaḥ|| 54||
+SPra167.2.0551: tadvai devarṣigandharvāḥ kiṃnaroragacāraṇāḥ|
+SPra167.2.0552: bhavāyatanamāsādya nemuḥ sumanaso bhavam|| 55||
+SPra167.2.0561: mṛtyorbhītāśca puruṣā dāridrairapi cārditāḥ |
+SPra167.2.0562: tadāyatanamāsādya lebhurlokānsanātanān|| 56||
+SPra167.2.0571: brahmaṇaścāpi yatpuṇyaṃ yaccāpatyaphalaṃ smṛtam|
+SPra167.2.0572: ekasthaṃ labhate martyo dṛṣṭvā bhastreśvaraṃ tvajam|| 57||
+SPra167.2.0581: gaṅgādvāre śubhadvāre svargadvāre mahātmanā|
+SPra167.2.0582: dakṣeṇa sthāpitaṃ puṇyaṃ mahadāyatanaṃ śubham|| 58||
+SPra167.2.0591: vṛkṣāḥ kanakhalā nāma yatra te kanakāmayāḥ|
+SPra167.2.0592: mānuṣāṇāmaśīlatvātsaṃvṛttā dāravaḥ punaḥ|| 59||
+SPra167.2.0601: hastaprāpyo yataḥ svargo yatra dharmasya dhāma ca|
+SPra167.2.0602: ṣaṣṭirdhanuḥsahasrāṇi ṣaṣṭirdhanuḥśatāni ca|
+SPra167.2.0603: pāpānāṃ pratiṣedhārthaṃ yatra rakṣanti nityaśaḥ|| 60||
+SPra167.2.0611: viśvātmā yatra viśveśaḥ śambhurekādaśātmakaḥ|
+SPra167.2.0612: nityaṃ saṃnihito rudro aśvāmukha ivānalaḥ|| 61||
+SPra167.2.0621: tṛṣārtā iva pānīyaṃ bubhukṣārtā ivāśanam|
+SPra167.2.0622: yannarā 'bhigamiṣyanti janmadoṣamumukṣavaḥ|| 62||
+SPra167.2.0631: yattūpavāse 'gniniṣevaṇe ca turaṅgamedhe ca phalaṃ niruktam|
+SPra167.2.0632: tadvai phalaṃ dṛśya naro labheta etattridṛṣṭirbhagavānuvāca|| 63||
+SPra167.2.0641: yatraitya devāḥ sahapūrvadevāḥ sasiddhagandharvabhujaṃgayakṣāḥ|
+SPra167.2.0642: sandhyāṃ samīyuḥ prayatāśca nemuḥ sarve 'pi candrārdhadharaṃ girīśam|| 64||
+SPra167.2.0651: yamaṃ na paśyanti na te mriyante ye 'sūṃstyajantyatra bhavaṃ namantaḥ|
+SPra167.2.0652: vimānavaryeṣu sahāpsarobhiḥ sthitāścareyuḥ saha devasaṃghaiḥ|| 65||
+SPra167.2.9999: iti skandapurāṇe bhastreśvarākhyānaṃ nāma||

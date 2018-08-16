@@ -1,0 +1,306 @@
+Skandapurāṇa Adhyāya 52
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0520010: vyāsa uvāca|
+SP0520011: ke punastaṃ na gacchanti narakaṃ śubhakarmiṇaḥ|
+SP0520012: pāpeṣvabhiratā deva etadicchāmi veditum|| 1||
+SP0520021: tathā strīṇāṃ ca kā yuktā gatiḥ paramikā śubhā|
+SP0520022: kena karmavipākena etadicchāmi veditum|| 2||
+SP0520030: sanatkumāra uvāca|
+SP0520031: na gacchanti narā ye tu narakaṃ taṃ suduḥkhitāḥ|
+SP0520032: pāpakarmaṇyabhiratāstānimāñchṛṇu mānada|| 3||
+SP0520041: nāgnicinnarakaṃ yāti na satputrī na govratī|
+SP0520042: nāśvamedhena yo yaṣṭā gosahasraprado na ca|| 4||
+SP0520051: na ca svādhyāyanityo yo rudrajāpī ca yo naraḥ| 
+SP0520052: brāhmaṇaṃ tārayedyaśca āpado maraṇāntikāt|| 5||
+SP0520061: tameva vyādhitaṃ dīnamakarmaṇyaṃ tathaiva ca|
+SP0520062: śuśrūṣedyāvadarthena yukto dharmeṇa mānavaḥ|| 6||
+SP0520071: tathā gāṃ caiva saṃbhagnāṃ patitāṃ śaktivarjitām|
+SP0520072: saṃrakṣati suyuktātmā sa ca taṃ naiva gacchati|| 7||
+SP0520081: maheśaṃ yaśca bhāvena pareṇa ca samādhinā|
+SP0520082: bhaktaḥ samarcayennityaṃ sa ca taṃ naiva gacchati|| 8||
+SP0520091: brāhmaṇāstaṃ na gacchanti vedavedāṅgapāragāḥ|
+SP0520092: ṣaṭkarmaniratā vyāsa ātmadharmavyavasthitāḥ|| 9||
+SP0520101: tapaḥśaucasamāyuktā dayāvanto dṛḍhavratāḥ|
+SP0520102: pratigrahanivṛttāśca īśabhaktāśca ye dvijāḥ|| 10||
+SP0520111: kṣatriyā ye ca rakṣārthaṃ prajānāṃ nityamudyatāḥ|
+SP0520112: tyajanti samare prāṇānna te narakagāminaḥ|| 11||
+SP0520121: vaiśyā vārtāsamāyuktā nyāyadharmavyavasthitāḥ|
+SP0520122: yeṣāṃ vṛttiravicchinnā devabrāhmaṇapūjane|
+SP0520123: narakaṃ te na paśyanti svargagāste prakīrtitāḥ|| 12||
+SP0520131: bhaktā varṇatrayaṃ ye ca śūdrā darpavivarjitāḥ|
+SP0520132: brāhmaṇāṃśca viśeṣeṇa ye nityaṃ samupāsate|
+SP0520133: na te paśyanti narakānsugatiṃ ca mṛtā yayuḥ|| 13||
+SP0520141: caturṣvapi ca varṇeṣu manujā bhāvataḥ śivam|
+SP0520142: śarvārpitakriyāvasthā bhaktā nityamanuvratāḥ|
+SP0520143: na te prayānti narakānprāpnuvanti parāṃ gatim|| 14||
+SP0520151: prāsādaṃ ye ca vai kṛtvā devadevamupāsate|
+SP0520152: anyānapi pitṝṃste tu narakāduddharantyuta|| 15||
+SP0520161: khānitāḥ puṣkariṇyaśca taḍāgāni hradāni ca|
+SP0520162: ropitāni ca ṣaṇḍāni te 'pi tāni na yānti hi|| 16||
+SP0520171: paritrāṇāṃ dvijātīnāmanyeṣāṃ caiva duḥkhinām|
+SP0520172: nityaṃ prakurvate ye ca te 'pi tānna vrajanti hi|| 17||
+SP0520181: akrodhanāśca ye nityaṃ devabrāhmaṇapūjakāḥ|
+SP0520182: nityaṃ dānaratāścaiva na te gacchantyadhogatim|| 18||
+SP0520191: satyābhidhānasaṃyuktā duṣkṛtārambhavarjitāḥ| 
+SP0520192: svadharmakaraṇe saktāḥ paśyanti narakānna te|| 19||
+SP0520201: liṅgārcanaratastasmātsarvasmātparimucyate|
+SP0520202: dhyānī tu sarvadā yo vai gaṇāñjapati vā śuciḥ|
+SP0520203: yogī tu sarvapāpāni kurvannapi na lipyate|| 20||
+SP0520211: strīṇāṃ tu paramo devaḥ patirbhavati sarvadā|
+SP0520212: tasmānnānyatprapaśyanti ye keciddharmacintakāḥ|| 21||
+SP0520221: karmaṇā manasā vācā yaddadāti juhoti vā|
+SP0520222: parityajya patiṃ nārī na tasya phalamaśnute|| 22||
+SP0520231: patiśuśrūṣaṇe raktā trividhenāpi karmaṇā|
+SP0520232: patau mṛte 'pi manasā nānyamicchati yā naram|| 23||
+SP0520241: karoti puṇyaṃ yaccāpi patyuḥ sarvaṃ prayacchati|
+SP0520242: sā nārī narakānsarvānmanasāpi na gacchati|| 24||
+SP0520251: saṃsāraṃ naiva sā ghoraṃ sarvaṃ saṃpratipadyate|
+SP0520252: anyāsāṃ tu na saṃdeho narakaṃ prati suvrata|| 25||
+SP0520260: sanatkumāra uvāca|
+SP0520261: sukeśaṃ tvanugṛhyaivaṃ kāṣṭhakūṭāśramaṃ gataḥ|
+SP0520262: anujagrāha taṃ vipraṃ kāṣṭhakūṭaṃ tapodhanam|| 26||
+SP0520270: vyāsa uvāca|
+SP0520271: kiṃ tapastasya bhagavanbrāhmaṇasya mahātmanaḥ|
+SP0520272: kiyatā caiva kālena varaṃ lebhe maheśvarāt|| 27||
+SP0520281: kasya putraḥ kasya naptā kiṃnāmā sa ca sattamaḥ|
+SP0520282: etadicchāmi kathitaṃ bhagavanvistarācchubham|| 28||
+SP0520290: sanatkumāra uvāca|  
+SP0520291: gautamasyānvaye vipro nāmnā kṛṣṇa iti prabhuḥ|
+SP0520292: tasya putro 'bhavatkhyāto bhūmanyuriti nāmataḥ|
+SP0520293: tasya patnyabhavatsubhrūrātreyī nāmato yaśā|| 29||
+SP0520301: sa kadācitkṛtodvāho bhūmanyurnāma gautamaḥ|
+SP0520302: nāvindata sutaṃ tasyā jarayā cābhisaṃvṛtaḥ|| 30||
+SP0520311: sa bhāryāmāha duḥkhārta idaṃ vacanakovidaḥ|
+SP0520312: putreṇecchanti lokāṃśca anṛṇāśca  bhavantyuta|
+SP0520313: jarāpariṇataścāhaṃ na ca me dṛśyate sutaḥ|| 31||
+SP0520321: sā tvaṃ kaṃcitsagotraṃ me anujñātā mayā śubhe|
+SP0520322: abhipadyasva putrārthaṃ yāce tvāṃ prāñjalirnataḥ|| 32||
+SP0520330: yaśovāca|
+SP0520331: na mayā śrutametatte tathā noktaṃ tvayānagha|
+SP0520332: mādṛśī kathametaddhi manasāpyabhicintayet|| 33||
+SP0520341: atrīṇāṃ tu kule jātā gautamaṃ kulamāgatā|
+SP0520342: madvidhā kathametaddhi kuryātsadbhirvigarhitam|| 34||
+SP0520351: tapasā dhanamanvicchejjīvitāni sukhāni ca|
+SP0520352: putrānkulaṃ ca lokāṃśca tapaḥ kuru mahāmune|| 35||
+SP0520361: tapasā hi suto labdhaḥ śaktinā sa parāśaraḥ|
+SP0520362: aurvaśca tapasā svena cyavanena mahāmuniḥ|| 36||
+SP0520371: vasiṣṭhena kapiñjalyāmindrapramatireva ca| 
+SP0520372: śilādo 'janayaccaiva tapasā nandinaṃ sutam|| 37||
+SP0520381: tathā bhavānapi tapaḥ karotu susamādhinā|
+SP0520382: lapsyase tvaṃ sutaṃ śreṣṭhaṃ mahāyogabalānvitam|| 38||
+SP0520391: māṃ hi dṛṣṭvā purā prāha atrirbrahmasutaḥ svayam|
+SP0520392: satputriṇī bhavitrīyaṃ na mithyā tadbhaviṣyati|| 39||
+SP0520401: tapo 'sti mayi yatkiṃcittvatprasādātsamārjitam|
+SP0520402: tena svena ca saṃyukto rudramārādhaya prabho|| 40||
+SP0520410: sanatkumāra uvāca|  
+SP0520411: evamuktaḥ sa tejasvī hriyā paramayā yutaḥ|
+SP0520412: tathaiva samanujñāto rudraṃ śaraṇameyivān|| 41||
+SP0520421: tvaritaṃ sa samāgamya narmadāṃ harṣasaṃyutaḥ|
+SP0520422: tasyāstīre tamuddiśya tasthau vāyvaśanaḥ samāḥ|| 42||
+SP0520431: sa tu naivābhavadvipraḥ kṛtārthastena karmaṇā|
+SP0520432: tataḥ sa duḥkhito bhūyaḥ prāṇāyāmena tasthivān|| 43||
+SP0520441: varṣamekaṃ tato devastamuvāca tadā vibhuḥ|
+SP0520442: kimevaṃ kliśyase vipra na tavāsti sutaḥ kvacit|
+SP0520443: vyarthaste 'yaṃ śramastāvannāsti putrastavānagha|| 44||
+SP0520451: sa evamukto nirviṇṇo nirāśaḥ putrajanmani|
+SP0520452: cintayāmāsa maraṇaṃ na gantuṃ svaṃ gṛhaṃ prati|| 45||
+SP0520461: sa kāṣṭhakūṭaṃ saṃbhṛtya gṛhītvāgniṃ ca duḥkhitaḥ|
+SP0520462: vilapya bahu duḥkhārta ātmānaṃ dagdhumaicchata|| 46||
+SP0520471: tasya rudraḥ samālakṣya vyavasāyaṃ suduṣkaram|
+SP0520472: putra putreti gambhīramadṛśya idamabravīt|| 47||
+SP0520481: putraste bhavitā gaccha mā ca tvaṃ sāhasaṃ kṛthāḥ|
+SP0520482: kāṣṭhakūṭeti nāmnā ca bhaviṣyati sa te sutaḥ|| 48||
+SP0520491: atha hṛṣṭamanā vipro gatvā patnyāṃ mahātapāḥ|
+SP0520492: utpādayāmāsa sutaṃ kāṣṭhakūṭaṃ mahāmunim|| 49||
+SP0520501: saṃskṛtasya tu kālena tasya buddhirabhūttataḥ|
+SP0520502: aśakto 'yaṃ vṛddhabhāvānmāmadhyāpayituṃ pitā|
+SP0520503: tasmādyāsyāmi cāmantrya pitaraṃ vedakāraṇāt|| 50||
+SP0520511: sa gatvā mātaraṃ vipraḥ pitaraṃ ca mahāyaśāḥ|
+SP0520512: praṇamya śirasā pādau idaṃ vacanamabravīt|| 51||
+SP0520521: suto yuvābhyāṃ jāto 'haṃ dharmahetorna kāmataḥ|
+SP0520522: āvāṃ tārayitā cāyaṃ tathaiva ca pitāmahān|
+SP0520523: saṃtatiścāpyavicchinnā bhaviṣyati na saṃśayaḥ|| 52||
+SP0520531: iṣṭāṃśca lokānprāpsyāva suputreṇeti sarvathā|
+SP0520532: pitṝṇāṃ cānṛṇau syāva ityabhīṣṭo 'smi vāṃ sutaḥ|| 53||
+SP0520541: so 'haṃ dharmeṣvakuśalaḥ śrutismṛtibahiṣkṛtaḥ|
+SP0520542: kartājñānena tatkarma pitaro yena duḥkhitāḥ|
+SP0520543: bhavāṃśca niraye magnaściraṃ vatsyati duṣṭavat|| 54||
+SP0520551: bhavānnādhyāpane śaktaḥ sthaviratvāddine dine|
+SP0520552: putrasnehācca kāryaṃ ca na samyagdhārayiṣyati|| 55||
+SP0520561: iyaṃ ca jananī nityamekaputro 'yamityuta|
+SP0520562: tvayā samyakpraśāsyantaṃ naiva māmanumaṃsyate|| 56||
+SP0520571: so 'hamanyaṃ taponityaṃ niranukrośameva ca|
+SP0520572: ācāryaṃ matisaṃpannaṃ saṃśrayāmīti me matiḥ|| 57||
+SP0520581: na cāpi tadvyavasyāmi yuvayornāsti kaścana|
+SP0520582: kuryādyaḥ pādayornityaṃ śuśrūṣāmiti cintayan|| 58||
+SP0520591: na ca nākhyeyametadvāṃ mayā cintā kṛtā śubham|
+SP0520592: aśubhaṃ vāpi yatkiṃcidyuvāṃ mama gatiḥ parā|| 59||
+SP0520601: evamuktau tu pitarau putreṇa sumahātmanā|
+SP0520602: sāśrupūrṇekṣaṇau sthitvā muhūrtamidamūcatuḥ|
+SP0520603: āghrāyāliṅgya saṃmārjya snehātpriyasutaṃ tadā|| 60||
+SP0520610: bhūmanyuruvāca|
+SP0520611: śuśrūṣā dvividhā putra pitṝṇāṃ dharmasaṃhitā|
+SP0520612: yā kartavyā prayatnena sutena sumahātmanā|| 61||
+SP0520621: aihikī cāṅgaśuśrūṣā paratre yā ca dharmadā|
+SP0520622: yayā taranti pitaraḥ kāmāṃścāpnuvate 'kṣayān|
+SP0520623: tatraihikaṃ na no hīṣṭaṃ yathā hyāmuṣmikaṃ kṛtam|| 62||
+SP0520631: tasmādāmuṣmikaṃ karma yadbhavettatsamācara|
+SP0520632: gacchādhīṣva śrutiṃ caiva smṛtiṃ caiva sukarmaṇām|| 63||
+SP0520640: mātovāca|
+SP0520641: yathā te 'yaṃ pitā putra bravīti viditātmavān|
+SP0520642: tathā kuru yathā devo varadaste bhavedbhavaḥ|| 64||
+SP0520651: udareṇa mayā duḥkhaṃ dhāritastvaṃ mahāmate|
+SP0520652: tathā ca bahubhiḥ kleśairlabdhaḥ sarvārthasiddhaye|| 65||
+SP0520661: pitrā ca tapasogreṇa prāṇāṃstyaktvātidustyajān|
+SP0520662: mahādevādbhavāṃl labdhastasya yuktaṃ samācara|| 66||
+SP0520671: yathā tuṣṭau tvayā putra jīvau jīvena saṃgatau|
+SP0520672: āvāmubhāvapi syāva tathā samyaktvamācara|| 67||
+SP0520680: sanatkumāra uvāca|
+SP0520681: tatastābhyāmanujñāta āghrātaścaiva mūrdhani|
+SP0520682: pradakṣiṇamupāvṛtya jagāma sukṛtātmavān|| 68||
+SP0520691: sa jagāma tadā tābhyāṃ visṛṣṭaścyavanaṃ prati|
+SP0520692: ṛgyajurbhyāmivotsṛṣṭā svāhutirvaruṇaṃ prati|| 69||
+SP0520701: sa tamāsādya tuṣṭena tenāsau saphalaḥ kṛtaḥ|
+SP0520702: bhāgadheyamiva prāpya devairmantrapuraḥsaraḥ|| 70||
+SP0520711: atha putre gate tasminpitā diṣṭāntameyivān|
+SP0520712: kāṣṭhakūṭastato 'bhyetya kṛtavidyaḥ sudhārmikaḥ|
+SP0520713: apaśyanmātaraṃ dīnāmatoyāmiva padminīm|| 71||
+SP0520721: somahīnāmiva niśāmājñāhīnāmiva śriyam|
+SP0520722: rudantīṃ sāsrupūrṇākṣīṃ vilapantīṃ suduḥkhitām|| 72||
+SP0520731: kāṣṭhakūṭastu tāṃ dṛṣṭvā duḥkhena samabhiplutām|
+SP0520732: jayanta iva paulomīṃ śakre naṣṭe 'bravīdidam|| 73||
+SP0520740: kāṣṭhakūṭa uvāca|
+SP0520741: śrutaṃ mayedaṃ prāgeva kṛtā caivodakakriyā|
+SP0520742: mā śoke mana ādhatsva eṣa dharmaḥ sanātanaḥ|| 74||
+SP0520751: devānāṃ ca ṛṣīṇāṃ ca yogināṃ ca mahātmanām|
+SP0520752: martyānāṃ kiṃ punarmātarmā rudastvaṃ tapodhane|| 75||
+SP0520761: ahaṃ tenātmanātmā vai sṛṣṭaḥ svenaiva tejasā|
+SP0520762: paśya māṃ kṛtakṛtyaṃ tvaṃ gāyatrīvātmanaḥ sutam|| 76||
+SP0520771: vedāḥ sarve mayādhītāḥ sāṅgopāṅgāḥ savistarāḥ|
+SP0520772: tathopavedāḥ sarve ca adhyātmaṃ caiva kṛtsnaśaḥ|| 77||
+SP0520781: yatkiṃcitpuruṣairjñeyaṃ tatsarvaṃ jñātameva ca|
+SP0520782: śrotavyaṃ ca śrutaṃ sarvamupāstāścāpi yoginaḥ|| 78||
+SP0520791: anena hi prakarṣeṇa hṛṣyamāṇā mudānvitā|
+SP0520792: māṃ pālaya mahāsattve gāyatrīva sadā kratum|| 79||
+SP0520800: sanatkumāra uvāca|
+SP0520801: śrutvā tasya vacastadvai mātā tathyaṃ mahātmanaḥ| 
+SP0520802: bhūyastareṇa duḥkhena rudantī tamuvāca ha|| 80||
+SP0520810: yaśovāca|
+SP0520811: putra naitaddhi duḥkhaṃ me mṛtaḥ sa iti saṃmataḥ|
+SP0520812: sarveṣāṃ prāṇināmetadvihitaṃ martyadharmiṇām|| 81||
+SP0520821: sa cāpi kṛtakṛtyaśca mahātmā tapasānvitaḥ|
+SP0520822: na tasya śocyamasmābhiriha kiṃciddhi vidyate|| 82||
+SP0520831: ātmānaṃ putra śocāmi yāhaṃ tena vinā kṛtā|
+SP0520832: tamevānumṛtā nāsmi tavāgamanakāṃkṣiṇī|| 83||
+SP0520841: nārthā na bhogasvajanā na putrā naiva bāndhavāḥ|
+SP0520842: yoṣitāṃ tatra tiṣṭhanti patiryatrāvatiṣṭhate|| 84||
+SP0520851: patiryadi tataḥ sarvaṃ nāsti kiṃcitpatiṃ vinā|
+SP0520852: sarvaṃ hi duḥkhadaṃ tāsāṃ yāsāṃ nāsti patiḥ suta|| 85||
+SP0520861: idaṃ ca me punarduḥkhaṃ yattvāṃ tena sahādya vai|
+SP0520862: nābhinandāmi saṃhṛṣṭā sukhaṃ śrīriva viṣṇunā|| 86||
+SP0520871: bahuśaḥ sa hi māmāha kāṣṭhakūṭa iheṣyati|
+SP0520872: kṛtavidyastatastasya varayiṣye snuṣāṃ śubhām|| 87||
+SP0520881: kāśyapasyodalasyeyaṃ sutā guṇavatī bhṛśam|
+SP0520882: tāmahaṃ varayiṣyāmi kāṣṭhakūṭasya suvratām|| 88||
+SP0520891: kadā drakṣyāmi taṃ putraṃ sapatnīkaṃ dṛḍhavratam|
+SP0520892: agniṃ caivāhariṣyāmi patnīratnaṃ samīkṣya ha|| 89||
+SP0520901: patnyā kadāhaṃ putrasya pādagrahaṇatoṣitaḥ|
+SP0520902: śubhāni manasā vācā vidhāsyāmi bahūnyapi|| 90||
+SP0520911: evaṃ manorathavatastasya putravatastathā|
+SP0520912: priyaputrasya naivābhūdetaddahati māṃ suta|| 91||
+SP0520921: mayā tvamuktaḥ pūrvaṃ ca gacchanvai tasya sannidhau|
+SP0520922: jīvau yathā tvāṃ paśyāvastanna caivābhavattathā|| 92||
+SP0520931: vajrasāramayaṃ me 'dya hṛdayaṃ yanna dīryate|
+SP0520932: yā tvāṃ paśyāmi putreha vinā tenāsatī punaḥ|| 93||
+SP0520940: sanatkumāra uvāca|
+SP0520941: tataḥ sā kurarī yadvadvinā patyā mahāyaśā|
+SP0520942: vilapya bahuduḥkhārtā papāta dharaṇītale|| 94||
+SP0520951: tāṃ kāṣṭhakūṭo duḥkhārtāṃ patitāṃ gatajīvitām|
+SP0520952: visaṃjñāmagninā dagdhvā vilalāpa suduḥkhitaḥ|| 95||
+SP0520961: hā tāta mama durbuddheradharmajñasya caiva hi|
+SP0520962: kva gato 'si na me 'dya tvaṃ sabhāryaḥ saṃprabhāṣase|| 96||
+SP0520971: nanu tvayāhaṃ nirdiṣṭo gacchādhīṣveti hṛṣṭavat|
+SP0520972: so 'hamadyāgato 'dhītvā kasmānmāṃ nābhibhāṣase|| 97||
+SP0520981: nanu te tapasā labdhaḥ pareṇa ca samādhinā|
+SP0520982: putro 'haṃ devadevādvai rudrātkiṃ nābhibhāṣase|| 98||
+SP0520991: kiṃ mayāpakṛtaṃ tāta sahabhāryasya te 'nagha|
+SP0520992: yanmāṃ sahāmbayāgatvā dṛḍhaṃ naivābhinandasi|| 99||
+SP0521001: hā hato 'si mayaikena duṣputreṇa durātmanā|
+SP0521002: arājakamidaṃ manye pitṛghnaṃ māṃ na hanti yat|| 100||
+SP0521011: evaṃ sa vilapanvyāsa ṛṣibhirbahubhistathā|
+SP0521012: saṃsthāpitaḥ samāśvasta akarodudakakriyām|| 101||
+SP0521021: imāṃ pratijñāṃ cakre sa ṛṣimadhye mahātapāḥ|
+SP0521022: duṣkarāṃ sarvabhūtānāmupaspṛśya kṛtāñjaliḥ|| 102||
+SP0521031: adyaprabhṛti nocchvāsaṃ kariṣyāmi kathaṃcana|
+SP0521032: vāyavo me śarīrasthā na cariṣyanti karhicit|| 103||
+SP0521041: nimeṣonmeṣarahita ekapādordhvabāhumān|
+SP0521042: kāṣṭhaloṣṭopalībhūto bhaviṣyāmi na saṃśayaḥ|| 104||
+SP0521051: rudraṃ draṣṭāsmi yāvacca yāvacca pitaraṃ tathā|
+SP0521052: sabhāryaṃ saṃprapaśyāmi tāvadvratamidaṃ mama|| 105||
+SP0521060: sanatkumāra uvāca|
+SP0521061: tataḥ sa ṛṣibhistaistu dṛśyamāno mahātapāḥ|
+SP0521062: maheśvaraṃ sadā dhyāyaṃstatraiva samatiṣṭhata|| 106||
+SP0521071: tasya devasthitasyaivaṃ pitṛbhaktyā tayāpi ca|
+SP0521072: tuṣṭo dine 'ṣṭame vyāsa svayamevāha śaṃkaraḥ|| 107||
+SP0521080: deva uvāca|
+SP0521081: kāṣṭhakūṭa prayacchāmi divyaṃ cakṣustavānagha|
+SP0521082: paśya māṃ tvaṃ suviśrabdhamadṛśyaṃ yogināmapi|| 108||
+SP0521091: brūhi putra varaṃ cāpi yaste hṛdi samāhitaḥ|
+SP0521092: pradāsyāmi na saṃdehaḥ suniścintyābhidhatsva tat|| 109||
+SP0521100: sanatkumāra uvāca|
+SP0521101: tataḥ sa dṛṣṭvā deveśamudyantamiva bhāskaram|
+SP0521102: papāta pādayorhṛṣṭa idaṃ covāca susvaram|| 110||
+SP0521110: kāṣṭhakūṭa uvāca|
+SP0521111: bhagavanmṛtyunā mātā pitā ca mama yojitau|
+SP0521112: jīvetāṃ tāvubhau deva etadicchāmyahaṃ varam|| 111||
+SP0521120: deva uvāca|
+SP0521121: tau mṛtau narakaṃ ghoraṃ prapannau mṛtyunārditau|
+SP0521122: na tau śakyau punarjīvau kartumanyadvṛṇīṣva me|| 112||
+SP0521130: kāṣṭhakūṭa uvāca|
+SP0521131: nāhamanyaṃ varaṃ deva kathaṃcidapi kāmaye|
+SP0521132: pitryartho 'yaṃ samārambhastadvidhatsva namastava|| 113||
+SP0521140: deva uvāca|
+SP0521141: śarīraṃ cenmṛtasyāsti tacchakyaṃ jīvitena hi|
+SP0521142: saṃyojayitumanyena dagdhasyaitanna vidyate|
+SP0521143: tayorna cāsti vai deho na cānyatkāraṇaṃ tathā|| 114||
+SP0521151: yādṛkca sa pitā tubhyaṃ bhavāṃstādṛkśarīrataḥ|
+SP0521152: śarīrametattvaṃ yaccha tato jīvau bhaviṣyataḥ|| 115||
+SP0521160: kāṣṭhakūṭa uvāca|
+SP0521161: tubhyaṃ vai nāstyakartavyaṃ kartavyaṃ cenmataṃ bhavet|
+SP0521162: śarīraṃ ca vinā dṛṣṭamutthānaṃ vai dhruvasya tu|| 116||
+SP0521171: na cāpi me śarīreṇa vinā tābhyāṃ ratiḥ prabho|
+SP0521172: tasmādgṛhāṇa deveśa śarīraṃ yadi manyase|| 117||
+SP0521181: tasyaivedaṃ mahādeva aṅgādaṅgaṃ samutthitam|
+SP0521182: tasmādyacchasva deveśa na me kāryamanena hi|| 118||
+SP0521190: sanatkumāra uvāca|
+SP0521191: tataḥ sa bhagavāndevaḥ prahasya ṛṣisattamam|
+SP0521192: prītātmā pratyuvācedaṃ yuyukṣustaṃ śubhena hi|| 119||
+SP0521200: deva uvāca|
+SP0521201: parīkṣeyaṃ kṛtā putra tava dharmabhṛtāṃ vara|
+SP0521202: pitṛbhaktyānayā samyaktuṣṭo 'smi śṛṇu me vacaḥ|| 120||
+SP0521211: akṣayaścāvyayaścāpi ajaro mṛtyuvarjitaḥ|
+SP0521212: aiśvaryeṇa ca saṃyuktaḥ priyo me gaṇapo bhavān|| 121||
+SP0521221: kāṣṭhakūṭa iti khyātaḥ sarvayogabalānvitaḥ|
+SP0521222: kāmagena vimānena matkṛtena cariṣyasi|| 122||
+SP0521231: ime ca ṛṣayaḥ sarve  āśrame 'smiṃstapasvinaḥ|
+SP0521232: tavaivānucarā bhūtvā bhaviṣyanti gaṇeśvarāḥ|| 123||
+SP0521241: akṣayāścāvyayāścaiva mahāyogabalānvitāḥ|
+SP0521242: aiśvaryeṇa ca tulyāste bhaviṣyanti na saṃśayaḥ|| 124||
+SP0521251: ayaṃ ca te pitā putra bhūmanyuḥ saha bhāryayā|
+SP0521252: tavaivānucaro bhūtvā tvatsamaḥ samupasthitaḥ|| 125||
+SP0521261: śvetaṃ ca parvataṃ divyaṃ vimānairupaśobhitam|
+SP0521262: kāmagaṃ saṃprayacchāmi nivāsaṃ svargasaṃnibham|| 126||
+SP0521270: sanatkumāra uvāca|
+SP0521271: tataḥ sa bhagavāndeva anugṛhya tamūrjitam|
+SP0521272: jagāma mandaraṃ bhūyaḥ so 'pīṣṭaṃ deśamāvrajat|| 127||
+SP0521281: yāvaddevī tapoyuktā pituḥ śikharamāśritā|
+SP0521282: tāvaddeva idaṃ sarvaṃ cakāra kathitaṃ hi yat|| 128||
+SP0521291: ya imaṃ devadevasya ceṣṭitaṃ śṛṇuyānnaraḥ|
+SP0521292: śrāvayīta dvijānvāpi na sa durgatimāpnuyāt|| 129||
+SP0521301: nityametadadhīyaṃśca śuciḥ prayatamānasaḥ|
+SP0521302: dehabhedaṃ samāsādya rudralokaṃ sa gacchati|| 130||
+SP0521311: ya imaṃ bahupāpanāśanaṃ paramaṃ rudrasamīpayojanam|
+SP0521312: paṭhate 'tiguṇaprasādhanaṃ sa mṛto yāti na dīnasaṃbhavam|| 131||
+SP0529999: iti skandapurāṇe dvipañcāśo 'dhyāyaḥ||

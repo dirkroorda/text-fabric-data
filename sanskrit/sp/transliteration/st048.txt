@@ -1,0 +1,29 @@
+Skandapurāṇa Adhyāya 48
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0480010: suśarmovāca|
+SP0480011: tamo nāmāparo ghoro narako 'tibhayaṃkaraḥ|
+SP0480012: tatra so 'bhipatanneva rākṣasairabhihanyate|| 1||
+SP0480021: asimudgaraśaktyagrairgadāmusalapaṭṭasaiḥ|
+SP0480022: bhayadaiḥ parighaiṣṭaṅkairvajrairasiparaśvadhaiḥ|| 2||
+SP0480031: anyaiśca vividhākārairhataḥ kruddhaiḥ sunirdayaiḥ|
+SP0480032: mūrchitastamasā grasto narakaṃ taṃ prapadyate|| 3||
+SP0480041: sa dehena vinaṣṭena tamasā mūrchitākṛtiḥ|
+SP0480042: duḥkhasaṃtatisaṃbaddho yātanāmaśnute bhṛśam|| 4||
+SP0480051: yasmātsa tamasā grasta anāśvasto 'tidāruṇam|
+SP0480052: yātanāmaśnute jantustamastasmātsa ucyate|| 5||
+SP0480061: sarvā bahuvidhākārā yātanā yāḥ prakīrtitāḥ|
+SP0480062: tāstatra samavāpnoti svena pāpena durmatiḥ|| 6||
+SP0480071: samāptayātanaścāpi saṃtīrṇaḥ svena karmaṇā|
+SP0480072: ucchrayeṣu punarjanturyātyate karmabandhanaḥ|| 7||
+SP0480081: brahmahā bhrūṇahā caiva surāpo brāhmaṇaśca yaḥ|
+SP0480082: gavāṃ nipāne yaścaiva pipāsūnāṃ narādhamaḥ|| 8||
+SP0480091: vighnaṃ karoti mohāndha āhūya ca kṛśaṃ tathā|
+SP0480092: brāhmaṇaṃ na dadātyasya arthinaṃ yaśca dūṣayet|| 9||
+SP0480101: śāstrāṇi harate yaśca goghno yaśca naraḥ smṛtaḥ|
+SP0480102: kapilaśca vṛthādṛṣṭirvedadharmārthadūṣakaḥ|
+SP0480103: nāstikāśca durātmāna ityete taṃ prayānti vai|| 10||
+SP0480111: ya imaṃ śṛṇuyāttamomayaṃ tamasā nityamatandritendriyaḥ|
+SP0480112: na sa yāti tamomayaṃ sadā narakaṃ dāruṇajantuśokadam|| 11||
+SP0489999: skandapurāṇe 'ṣṭacatvāriṃśo 'dhyāyaḥ||

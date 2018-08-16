@@ -1,0 +1,51 @@
+Skandapurāṇa Adhyāya 38
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0380010: suśarmovāca|
+SP0380011: ataḥ paraṃ pravakṣyāmi śālmalīnarakaṃ punaḥ|
+SP0380012: yātyante tatra puruṣāḥ subhṛśaṃ pāpakarmiṇaḥ|| 1||
+SP0380021: śālmalīnāṃ sahasrāṇi bahūni pravareśvara|
+SP0380022: uccāḥ sarvāśca tā ghorā bahuyojanavistṛtāḥ|
+SP0380023: mahāśākhā mahāpatrā mahākaṇṭakasaṃyutāḥ|| 2||
+SP0380031: lohena mahatā caiva prākāreṇābhisaṃvṛtāḥ|
+SP0380032: jālena mahatā sarvā upariṣṭātsamāvṛtāḥ|| 3||
+SP0380041: puruṣāstatra tiṣṭhanti bahavo ruṣitānanāḥ|
+SP0380042: vajraṭaṅkopaladharā asimudgaradhāriṇaḥ|| 4||
+SP0380051: anyaiśca vividhākārairāyudhairvṛtapāṇayaḥ|
+SP0380052: yātayanti bhṛśaṃ jantūnavaśāṃste sudāruṇāḥ|| 5||
+SP0380061: chidyamānaśca tatrāpi rākṣasaiḥ krūrakarmabhiḥ|
+SP0380062: diśaḥ prapadyate sarvā vedanārtaḥ suduḥkhitaḥ|
+SP0380063: vrajate yatra yatrāsau tatra tatrābhihanyate|| 6||
+SP0380071: garteṣu patitaṃ caiva rākṣasāḥ prāpya sarvaśaḥ|
+SP0380072: śastrairnānāvidhākārairnikṛntantyatidāruṇāḥ|| 7||
+SP0380081: śrāvayantaḥ purānena kṛtaṃ pāpaṃ mahābalāḥ|
+SP0380082: bhartsayantaśca durvṛttaṃ patitaṃ kvacideva hi|| 8||
+SP0380091: tata utthāya bhinnāṅgaḥ so 'nubaddhaśca rākṣasaiḥ|
+SP0380092: sūcīkaṇṭakasaṃyuktaṃ deśamanyaṃ prapadyate|| 9||
+SP0380101: tatra sūcībhirugrābhiḥ kaṇṭakaiścāyasaiḥ punaḥ|
+SP0380102: bhidyamāno nadanduḥkhānnipatatyatiduḥkhitaḥ|| 10||
+SP0380111: tatrāpyenaṃ samāsādya vividhāyudhapāṇayaḥ|
+SP0380112: rākṣasābhidravantyeva vairiṇo vairiṇaṃ yathā|| 11||
+SP0380121: tasmādutthāya vegena vṛkṣaṃ yadyadhirohati|
+SP0380122: tatra taiḥ kaṇṭakaistīkṣṇairbhidyate chidyate 'pi ca|
+SP0380123: yantraiśca vividhākārairayastuṇḍaiśca pakṣibhiḥ|| 12||
+SP0380131: hṛtakarṇākṣināsoṣṭhaḥ patito dharaṇītale|
+SP0380132: tatra sūcībhirugrābhiḥ sarvāṅgeṣu vibhidyate|| 13||
+SP0380141: evaṃ bahuvidhākārā yātanāstatra duḥkhitāḥ|
+SP0380142: prāpnuvanti durācārā ye tānnigadataḥ śṛṇu|| 14||
+SP0380151: agnido garadātā ca ayonau yaśca gacchati|
+SP0380152: puṃsi yotsṛjate śukraṃ viṣado māṃsavikrayī|| 15||
+SP0380161: samudrayāyī duṣṭātmā yaścaiko mṛṣṭamaśnute|
+SP0380162: atithiṃ nārcayedyastu yastu mithyāvratī bhavet|| 16||
+SP0380171: brahmojjhaśca vivāsāśca yo 'paḥ praviśate dvijaḥ|
+SP0380172: ghaṇṭiko grāmayājī ca śūdrādhyāpaka eva ca|| 17||
+SP0380181: tathā vārdhuṣiko lubdho vikretā brahmaṇaśca yaḥ|
+SP0380182: ete gacchanti durvṛttāḥ kūṭaśālmalisaṃjñakam|| 18||
+SP0380191: koṭīdvayena tūttīrṇā varṣāṇāṃ vai punaśca te|
+SP0380192: ucchraye pātitāḥ stokaṃ kālaṃ viśrāmya vai punaḥ|| 19||
+SP0380201: pātyante narake tasminyāvatkṣīṇaṃ tadenasam|
+SP0380202: eṣaiva vidhiranyeṣāṃ narakāṇāṃ mune smṛtā|| 20||
+SP0380211: ya imaṃ bhṛśaduḥkhitopalambhaṃ sukṛtīnāmatidurgamācalam|
+SP0380212: śṛṇuyātprayataḥ kutūhalātmā na sa gacchennirayaṃ hi śālmalam|| 21||
+SP0389999: skandapurāṇe 'ṣṭatriṃśattamo 'dhyāyaḥ||

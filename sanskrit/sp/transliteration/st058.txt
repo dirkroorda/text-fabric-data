@@ -1,0 +1,75 @@
+Skandapurāṇa Adhyāya 58
+
+E-text generated on February 22, 2017 from the original TeX files of: Yokochi, Yuko, ed. The Skandapurāṇa. Vol.III. Adhyāyas 34.1-61, 53-69. The Vindhyavāsinī Cycle. Critical Edition with an Introduction & Annotated English Synopsis. Leiden/Groningen: Brill & Egbert Forsten, 2013.
+
+SP0580010: vyāsa uvāca|
+SP0580011: varāngṛhītvā rudrāṇī tasmiñchikharasattame|
+SP0580012: akarotkimiti brūhi sarvaṃ devyā viceṣṭitam|| 1||
+SP0580020: sanatkumāra uvāca|
+SP0580021: svayambhuvi gate devī tapaso virarāma ha|
+SP0580022: sā tuṣṭā varadānena cintayantī tadā varam|
+SP0580023: nyavekṣata diśaḥ sarvāḥ prasannavadanekṣaṇā|| 2||
+SP0580031: kasyainaṃ kathayāmīti devaṃ hitveti cābravīt|
+SP0580032: śāstrajñaṃ kaṃciduddiśya yathārthaṃ śāstracintakaḥ|| 3||
+SP0580041: putralambhakṛtaṃ harṣaṃ cintayantyā muhurmuhuḥ|
+SP0580042: apatajjalamatyarthaṃ śītalaṃ susugandhi ca|| 4||
+SP0580051: bahvabhūtsarasi svacchaṃ tasyāstattejasā jalam|
+SP0580052: śiṣye buddhiguṇeneva guruṇā jñānamāhitam|| 5||
+SP0580061: vigāhamānā sā devī tatsaro vimalodakam|
+SP0580062: reje viyanmadhyagatā dīpteva savituḥ prabhā|| 6||
+SP0580071: vigāhamānā vyajahatkṛṣṇāṃ kośīṃ tadānaghā|
+SP0580072: sā vireje tayā muktā kalevendorghanātyaye|| 7||
+SP0580081: tasyāṃ kośyāṃ samabhavatkauśikī lokaviśrutā|
+SP0580082: viśvaṃ sisṛkṣato dhāturdehādiva purā niśā|| 8||
+SP0580091: bimbādharā tīkṣṇasitosradaṃṣṭrā prasannatārādhipacāruvaktrā|
+SP0580092: sujātanīlāñcitadīrghakeśī kiṃcitsamabhyunnataromarājī|| 9||
+SP0580101: susaṃsthitābhyāṃ caraṇāmbujābhyāṃ pradakṣiṇāvartanimagnanābhiḥ|
+SP0580102: vigūḍhajānvasthiśirā sugulphā vinākṛtevāmburuheṇa lakṣmīḥ|| 10||
+SP0580111: prasannarūpā prathamodgatastanī praphullanīlāmbujacārulocanā|
+SP0580112: susaṃskṛtairvajramaṇipravekibhirvibhūṣitā cābharaṇaiḥ sumadhyamā|| 11||
+SP0580121: sāṅgadā baddhakeyūrā kaṭakodbhāsitatviṣā|
+SP0580122: bibharti sā bhujānaṣṭau sāyudhānaparājitā|| 12||
+SP0580131: baddhagodhāṅgulitrāṇā kavacaṃ bibhratī śubham|
+SP0580132: durbhedaṃ sahajaṃ bhāsvatsendrairapi surāsuraiḥ|| 13||
+SP0580141: nibaddhatūṇīrayugā pragṛhītaśarāsanā|
+SP0580142: vasānā padmakiñjalkarucire vāsasī tadā|| 14||
+SP0580151: jānubhyāmavaniṃ gatvā śirasyādhāya cāñjalim|
+SP0580152: vyajñāpayata sā devī brūhi kiṃ karavāṇi te|| 15||
+SP0580161: mūrdhnyupāghrāya tāṃ devīṃ pariṣvajya ca pīḍitam|
+SP0580162: bhavānī prāha saṃhṛṣṭā mūrtisthānaṃ mamāvyaye|| 16||
+SP0580171: jarāmaraṇahīnā tvaṃ śokaduḥkhavivarjitā|
+SP0580172: bhaviṣyasi mahāyogā saṃyugeṣvaparājitā|| 17||
+SP0580181: kauśikīti ca nāmnā tvaṃ khyātiṃ loke gamiṣyasi|
+SP0580182: anyaiśca nāmabhiḥ ślāghyairguṇakarmābhisaṃśrayaiḥ|| 18||
+SP0580191: tava bhaktyā smariṣyanti ye 'tidurgeṣu saṃsthitāḥ|
+SP0580192: durgāṇi te tariṣyanti tvatprasādādvarānane|| 19||
+SP0580201: varā vareṇyā varadā durgā sarvārthasādhanī|
+SP0580202: itthaṃ tvāṃ nāmabhirdivyaiḥ stoṣyanti munayaḥ sadā|| 20||
+SP0580211: japyaiḥ praṇatibhirhomairupahāraiḥ pṛthagvidhaiḥ|
+SP0580212: prāṇinaḥ pūjayiṣyanti bhavantīṃ bhuvi sarvadā|| 21||
+SP0580221: siṃhayuktaṃ mahaddivyaṃ rathamādityavarcasam|
+SP0580222: sasarja sapatākaṃ ca kiṅkiṇījālamaṇḍitam|
+SP0580223: vindhyaṃ girivaraṃ cāsyā nivāsāya samādiśat|| 22||
+SP0580231: evamuktā tadā devī praṇamya bhuvaneśvarīm|
+SP0580232: āruroha rathaṃ divyaṃ kārtasvanamayaṃ śubham|| 23||
+SP0580241: vyomagena rathenātha nānāratnāṃśumālinā|
+SP0580242: jagāmāśu tato vindhyaṃ nānādrumalatācitam|| 24||
+SP0580251: vihaṅgavirutairvindhyaḥ svāgateneva kauśikīm|
+SP0580252: apūjayadameyāṃ tāṃ tatra prāptāṃ tadānaghām|| 25||
+SP0580261: vāribhirvimalaiḥ śītairnirjharodakaniḥsṛtaiḥ|
+SP0580262: sapuṣpanikaraiḥ puṇyairarghaṃ cāsyai dadanniva|| 26||
+SP0580271: atha mṛgapatināgatrastaparyantanāgaṃ 
+SP0580272: cakitahariṇayūthakṣuṇṇadarbhāṅkurāgram|
+SP0580273: varamahiṣaviṣāṇacchinnagulmāvatānaṃ 
+SP0580274: girivaramabhiramyaṃ kauśikī sābhyapaśyat|| 27||
+SP0580281: vyarocayata sā devī vāsāya śikharaṃ gireḥ|
+SP0580282: utphullapādapālīnavihaṅgagaṇanāditam|| 28||
+SP0580291: nirjharodakasamparkaharitopalaśāḍvalam|
+SP0580292: nānādrumalatāpuṣpasurabhīkṛtamārutam|| 29||
+SP0580301: tuhinanikaraśītairnirjharāmbupravāhair 
+SP0580302: nicitapṛthunitambottuṅgaparyantasānum|
+SP0580303: girivaraśikharaṃ tatsādhyuvāsātha devī 
+SP0580304: kusumitataruśākhāśliṣṭamattadvirepham|| 30||
+SP0580311: ya imaṃ paṭhate nityaṃ śṛṇuyādvā samāhitaḥ|
+SP0580312: kauśikyāḥ sambhavaṃ samyaksa yāti paramāṃ gatim|| 31||
+SP0589999: skandapurāṇe 'ṣṭapañcāśo 'dhyāyaḥ||

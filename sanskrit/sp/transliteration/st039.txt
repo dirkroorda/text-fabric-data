@@ -1,0 +1,31 @@
+Skandapurāṇa Adhyāya 39
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0390010: suśarmovāca|
+SP0390011: ataḥ paraṃ tṛtīyastu narakaḥ kālasūtrakaḥ|
+SP0390012: samantānmahatoccena prākāreṇa susaṃvṛtaḥ|
+SP0390013: lohajālena ca tathā ākāśe 'pyabhisaṃvṛtaḥ|| 1||
+SP0390021: yathaikaśca tathā sarve narakā abhisaṃvṛtāḥ|
+SP0390022: socchrayāścaiva vijñeyā na vakṣye tadahaṃ punaḥ|| 2||
+SP0390031: śokadrohajanāstatra yātyante puruṣādhamāḥ|
+SP0390032: ye haranti striyaṃ vājivikretā yastathā gavām|| 3||
+SP0390041: dharmasya cātmanaścaiva brāhmaṇānāṃ ca nindakāḥ|
+SP0390042: chadmanā yaśca śāstrāṇi gurubhyo 'paharetpunaḥ|| 4||
+SP0390051: guruṃ nindati yaścāpi pitaraṃ mātaraṃ tathā|
+SP0390052: śvaśuraṃ bhrātaraṃ jyeṣṭhaṃ tathā cānyāngarīyasaḥ|
+SP0390053: ākrośate ca yastānvai tathā cāpyavamanyate|| 5||
+SP0390061: āśramāṇāṃ tathā bhettā rahasyānāṃ ca sarvaśaḥ|
+SP0390062: adattaṃ yaḥ samādadyātsa gaccheddvija tatra vai|| 6||
+SP0390071: te tatra patitā ghore narake pāpacetasaḥ|
+SP0390072: tisraḥ koṭyastu saṃpūrṇā varṣāṇāṃ tu narādhamāḥ|
+SP0390073: yātyante mṛtyuvacanātkrandamānā vicetasaḥ|| 7||
+SP0390081: kālasūtreṇa mahatā mitvā mitvā tu duṣkṛtam|
+SP0390082: chidyantyaṅgāni jantūnāṃ kuṇṭhāgrairāyudhairbhṛśam|
+SP0390083: kiṃkaraistairaviśrāntaṃ divārātrimatandritam|| 8||
+SP0390091: pūrṇe kāle tato janturucchrayānpratipadyate|
+SP0390092: viśrāmya sa tadā jantuḥ pātyate narake punaḥ|
+SP0390093: yāvadasya kṛtaṃ pāpaṃ kṣīṇaṃ sarvamaśeṣataḥ|| 9||
+SP0390101: ya imaṃ bahupāpakartṛsūtraṃ śṛṇuyātsuralokakarmasūtram|
+SP0390102: na sa yāti tamugraduḥkhasūtraṃ narakaṃ yamalokakālasūtram|| 10||
+SP0399999: skandapurāṇa ekonacatvāriṃśattamo 'dhyāyaḥ||

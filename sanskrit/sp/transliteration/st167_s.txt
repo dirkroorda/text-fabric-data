@@ -1,0 +1,433 @@
+Skandapurāṇa Adhyāya 167: S recension
+
+E-text generated on February 22, 2017 from the original TeX files of:  Peter C. Bisschop, Early Śaivism and the Skandapurāṇa. Sects and Centres. Groningen: Egbert Forsten, 2006.
+
+SP1670010: vyāsa uvāca|
+SP1670011: yatproktaṃ bhavatā guhyaṃ māhātmyamidamuttamam|
+SP1670012: nānyasyaitadbhavenmuktvā jagadārtiharaṃ haram|| 1||
+SP1670021: puṇyānyāyatanānīha devadevasya śūlinaḥ|
+SP1670022: yāni dṛṣṭvā na śocanti janmamṛtyū mahāmune|| 2||
+SP1670031: tāni me brūhi dharmajña yadyanugrāhyatā mayi|
+SP1670032: evaṃ kṛtārthamātmānaṃ mucyeyaṃ munisattama|| 3||
+SP1670041: vyāsasya vacanaṃ śrutvā brahmaputro 'bravīdidam|
+SP1670042: sādhu vyāsa mahābuddhe bhaktimānasi śaṃkare|| 4||
+SP1670051: sthānāni śūlino yastvaṃ puṇyāni śrotumicchasi|
+SP1670052: kṛtārthastvaṃ mahāyoga muktaḥ saṃsārabandhanaiḥ|| 5||
+SP1670061: śṛṇu vakṣyāmi te vatsa guhyametatparaṃ hi me|
+SP1670062: sthānānāṃ varṇanaṃ śambhormṛtyujanmabhayāpaham|| 6||
+SP1670071: ādityabandhanaṃ nāma kūṭaṃ vindhyagireḥ śubham|
+SP1670072: sthāpitaṃ tatra liṅgaṃ tu tapanena mahāprabham|
+SP1670073: taddṛṣṭvā manujo vyāsa janma prati na śocati|| 7||
+SP1670081: hemasomodbhavaṃ nāma kūṭaṃ himagireḥ śubham|
+SP1670082: puṇyamāyatanaṃ tatra cyavanenābhinirmitam|| 8||
+SP1670091: ye tadāyatanaṃ śambhorabhigacchanti mānavāḥ|
+SP1670092: na cyavanti punaḥ svargātpralaye 'pi samāgate|| 9||
+SP1670101: udaye tu girau puṇye siddhasaṃghairniṣevite|
+SP1670102: satyo nāma hradaḥ puṇyo hemapadmasamāvṛtaḥ|| 10||
+SP1670111: yatra te munayaḥ satyāḥ satyānalaraviprabhāḥ|
+SP1670112: dhārayanti mahātmāna āśīrbhiḥ sarathaṃ ravim|| 11||
+SP1670121: puṇyamāyatanaṃ tatra sthāpitaṃ taiḥ pinākinaḥ|
+SP1670122: amarairarcitaṃ vyāsa siddhavidyādharairvṛtam|| 12||
+SP1670131: yaistadāyatanaṃ dṛṣṭaṃ bhavabhaktairviyadgataiḥ|
+SP1670132: te bhavasya priyā bhūtvā bhavanti pramatheśvarāḥ|| 13||
+SP1670141: uśīrabījaḥ śailendrastatrāśramapadaṃ mahat|
+SP1670142: āgastyasya tṛṇāṅgasya devadānavapūjitam|
+SP1670143: mahānīlamayaṃ liṅgaṃ tasminvyāsa mahocchrayam|| 14||
+SP1670151: tasminnāyatane rudraṃ tṛṇāṅgaḥ sa mahānṛṣiḥ|
+SP1670152: dakṣiṇāṃ mūrtimāsthāya stauti nityaṃ kapardinam|
+SP1670153: divaukasastamabhyarcya bhavanti gaṇapādhipāḥ|| 15||
+SP1670161: uttareṇa nirāloke ravicandravivarjite|
+SP1670162: meruśṛṅge mahotsedhe sauvarṇaṃ sthāpitaṃ mahat|| 16||
+SP1670171: liṅgaṃ bhagavato vyāsa yatrāste śūladhṛksvayam|
+SP1670172: uttānapādaputreṇa bhavabhaktiparātmanā|| 17||
+SP1670181: nityamabhyarcitaṃ liṅgaṃ dhruvamāste mahāmune|
+SP1670182: devānāmapyagamyaṃ taddhruvaṃ muktvā paraṃ varam|| 18||
+SP1670191: jaigīṣavyeṇa muninā aste parvatarājani|
+SP1670192: sthāpitaṃ sumahalliṅgaṃ devadevasya śūlinaḥ|
+SP1670193: taṃ dṛṣṭvā mānavo vyāsa rudralokamavāpnuyāt|| 19||
+SP1670201: mokṣavidyāsvabhijñāśca sāṃkhyayogaviśāradāḥ|
+SP1670202: bhavanti manujā dṛṣṭvā talliṅgaṃ paramādbhutam|| 20||
+SP1670211: nandane devarājena sthāpitaṃ liṅgamuttamam|
+SP1670212: tapanīyamayaṃ śubhraṃ devatā yadupāsate|
+SP1670213: taddṛṣṭvā devatāste tu prāpnuvanti paraṃ padam|| 21||
+SP1670221: kṣīrode sāgare divye vālikhilyaiḥ svayaṃ kṛtam|
+SP1670222: mahadāyatanaṃ puṇyaṃ siddhakiṃnarasevitam|| 22||
+SP1670231: tasmiṃścandraprabhaṃ liṅgaṃ sphāṭikaṃ maṇirañjitam|
+SP1670232: vālikhilyāstamabhyarcya jagmurīśasya lokatām|| 23||
+SP1670241: sauvarṇaṃ yakṣarājena sthāpitaṃ gandhamādane|
+SP1670242: liṅgaṃ bhagavato divyaṃ yatkubero nanāma ha|| 24||
+SP1670251: mandārakusumairdivyairhemapadmaiśca bhaktitaḥ|
+SP1670252: tamabhyarcya maheśānaṃ kubero nirvṛto 'bhavat|| 25||
+SP1670261: yaistadāyatanaṃ dṛṣṭaṃ kuberasya surāsuraiḥ|
+SP1670262: sarvayajñaphalaṃ tebhyo dadāti vṛṣabhadhvajaḥ|| 26||
+SP1670271: ebhyaḥ puṇyatamānīha yāni gamyāni mānuṣaiḥ|
+SP1670272: śṛṇu tāni mahābuddhe sthānāni śaśimaulinaḥ|| 27||
+SP1670281: sarvaparvatarājasya śṛṅge himavataḥ śubhe|
+SP1670282: mahālayamiti khyātaṃ sthānamādyaṃ svayambhuvaḥ|| 28||
+SP1670291: yatra sarvāmarā vyāsa caturvaktrapuraḥsarāḥ|
+SP1670292: saṃsiddhā munayaścaiva ye ca yogīśvarā bhuvi|
+SP1670293: samabhyarcya haraṃ bhaktyā tadavāptāḥ paraṃ padam|| 29||
+SP1670301: yatra sākṣānmahādevo nyastavānpadamātmanaḥ|
+SP1670302: yaṃ praṇamya narāḥ sarve mucyante sarvakilbiṣaiḥ|| 30||
+SP1670311: abhigamya tamīśānaṃ mahālayanivāsinam|
+SP1670312: dehabhedaṃ samāsādya yatra tatra yathā tathā|
+SP1670313: na punarjāyate janturyātaḥ siddhimanuttamām|| 31||
+SP1670321: na taṃ paśyantyadharmajñā mahāpāpakṛto narāḥ|
+SP1670322: mahāgaṇapatistatra dvārasaṃstho mahābalaḥ|
+SP1670323: sa teṣāṃ gamanaṃ hanti ye narāḥ pāpakāriṇaḥ|| 32||
+SP1670331: yogino yatra devāśca siddhāśca paramarṣayaḥ|
+SP1670332: taṃ praṇamya yayuḥ siddhiṃ puṇyaṃ paśupateḥ padam|| 33||
+SP1670341: tasya saṃkalpanādeva drakṣyāmīti mahālayam|
+SP1670342: karmabhirmucyate janturmahāpātakasaṃjñitaiḥ|| 34||
+SP1670351: mahālayaṃ mahatkṣetraṃ mokṣasiddhipradaṃ vibhoḥ|
+SP1670352: kulānubhayataḥ sapta dṛṣṭvā trāyati mānavaḥ|| 35||
+SP1670361: tataḥ puṇyatamaṃ vyāsa kedāraṃ nāma nāmataḥ|
+SP1670362: paraṃ dhāma vṛṣāṅkasya tasyaivottarataḥ śucim|| 36||
+SP1670371: svayaṃ kila haro devastasminnacalasattame|
+SP1670372: jaṭābhārājjalaṃ puṇyaṃ mumoca - - - - -|
+SP1670373: - - - dabhavattatra haramauliviniḥsṛtam|| 37||
+SP1670381: narāstadamṛtaprakhyaṃ ye pibanti jalaṃ śubham|
+SP1670382: te bhavanti gaṇā vyāsa kuṣmāṇḍā rudravallabhāḥ|
+SP1670383: mahārūpā mahātmāno nandino 'pyadhikaprabhāḥ|| 38||
+SP1670391: kedāravāsinaṃ dṛṣṭvā devadevaṃ jagatpatim|
+SP1670392: - - - - - - - -  - - - - - - - - || 39||
+SP1670401: brahmā śakrastathā viṣṇuḥ somo yakṣagaṇādhipaḥ|
+SP1670402: arcayanti sthitaṃ tatra bhaktitaḥ parameśvaram|| 40||
+SP1670411: kedārasalilaṃ pītaṃ yairnaraiḥ sumahātmabhiḥ|
+SP1670412: kathaṃ śocanti te vyāsa prāptaṃ kiṃ nu na taiḥ śubham|| 41||
+SP1670421: kedāre himavanmahīdhraśikhare yattatpayaḥ prasrutaṃ 
+SP1670422: mūrdhnaḥ somamahendraviṣṇumarutāṃ sraṣṭurvibhoḥ śūlinaḥ|
+SP1670423: pātuṃ yanna labhantyadharmarucayaḥ śaivaṃ vinānugrahaṃ 
+SP1670424: tatpītvā bhavabandhanapratibhayānmuktā bhaveyuḥ prajāḥ|| 42||
+SP1670431: madhyameśvaramatraiva sthānamādyamumāpateḥ|
+SP1670432: gatvā tamapi deveśaṃ gāṇapatyamavāpnuyāt|| 43||
+SP1670441: tatrāpi svayameveśaḥ sadā saṃnihito mune|
+SP1670442: abhigamya tamīśānaṃ na śocenmaraṇaṃ prati|| 44||
+SP1670451: trayāṇāmapi lokānāṃ pradeśo himavadgireḥ|
+SP1670452: eṣa śreṣṭhatamo vyāsa sarvasiddhipradaḥ śubhaḥ|| 45||
+SP1670461: asyābhigamanādeva sarvayajñaphalaṃ smṛtam|
+SP1670462: vipannasya prasādādvā gāṇapatyā gatirvarā|
+SP1670463: nātaḥ puṇyatamaṃ kiṃcitsarvalokeṣu vidyate|| 46||
+SP1670471: trailokye cakravartitvamasminvā maraṇaṃ girau|
+SP1670472: cakravartipadāttasmādiha mṛtyurviśiṣyate|| 47||
+SP1670481: yāti sāyujyatāṃ śambhoḥ paramaiśvaryasaṃyutaḥ|
+SP1670482: girāviha mṛto jantuḥ kiṃ tataḥ paramaṃ padam|| 48||
+SP1670491: mahaddhimavatastvanyatkūṭaṃ siddhaniṣevitam|
+SP1670492: yatra devī tapastepe gauravarṇasamīpsayā|| 49||
+SP1670501: gaurīśikharamityeva triṣu lokeṣu viśrutam|
+SP1670502: kucakuṇḍa iti khyāte tīrthe yatromayā kṛte|| 50||
+SP1670511: tadgaurīśikharaṃ puṇyaṃ ye 'bhigacchanti mānavāḥ|
+SP1670512: aśvamedhaphalaṃ prāpya te yānti paramāṃ gatim|| 51||
+SP1670521: ṛṣabhaṃ śṛṅgamaparaṃ vajrasphaṭikasaṃnibham|
+SP1670522: yatra nandī tapastepe varaṃ cāvāpa śaṃkarāt|| 52||
+SP1670531: ṛṣabhaṃ prāpya tatkūṭaṃ sthānaṃ puṇyamumāpateḥ|
+SP1670532: dṛṣṭvā pāpavinirmukto rudralokamavāpnute|| 53||
+SP1670541: anyaddhimagireḥ kūṭaṃ hemakūṭasamaprabham|
+SP1670542: yatra bhastreśvaraṃ nāma rudrasyāyatanaṃ śubham|
+SP1670543: rudrastasmingirau devo bhastreśvara iti smṛtaḥ|| 54||
+SP1670551: taṃ namasya mahādevaṃ kiṃnaroragacāraṇāḥ|
+SP1670552: mṛtyubhītāśca puruṣā janmaduḥkhaistathārditāḥ|| 55||
+SP1670561: tadāyatanamāsādya kāmānāpuryathepsitān|
+SP1670562: taṃ dṛṣṭvā manujo vyāsa rājasūyaphalaṃ labhet|| 56||
+SP1670571: gaṅgādvāre śubhadvāre mahāpuṇye mahātmanā|
+SP1670572: dakṣeṇa sthāpitaṃ liṅgaṃ bhaktihetoḥ kapardinaḥ|| 57||
+SP1670581: vṛkṣāḥ kanakhalā nāma yatrāsankanakātmakāḥ|
+SP1670582: mānuṣāṇāmaśīlatvātsaṃvṛttā dāravo babhuḥ|| 58||
+SP1670591: viśvātmā yatra viśveśaḥ śambhurambikayā saha|
+SP1670592: bahurūpeśvaro nāmnā naikaprāṇivarapradaḥ|| 59||
+SP1670601: mānavās yatra gacchanti janmadoṣamumukṣavaḥ|
+SP1670602: vājimedhaṃ daśaguṇaṃ yaṃ dṛṣṭvā prāpnute naraḥ|| 60||
+SP1670611: yaṃ devavidyādharasiddhasaṃghā gandharvayakṣoragadānavāśca|
+SP1670612: dṛṣṭveśvaraṃ nīlapayodakaṇṭhaṃ saṃsārapaṅke na punaḥ patanti|| 61||
+SP1670621: japyeśvaramiti khyātamanyadāyatanaṃ vibhoḥ|
+SP1670622: yatra japyaṃ purā kṛtvā liṅgaṃ sthāpitavāndvijaḥ|| 62||
+SP1670631: japyeśvaraṃ tamāsādya prāṇāṃstyakṣyanti ye narāḥ|
+SP1670632: te janmamaraṇānmuktā vatsyanti śivasadmani|| 63||
+SP1670641: anyadāyatanaṃ vyāsa śaśibimbārdhamaulinaḥ|
+SP1670642: mahābhairava ityeva khyātaṃ jagati yanmune|| 64||
+SP1670651: yatra śūladharo devaḥ svayameva vṛṣadhvajaḥ|
+SP1670652: cakāra bhairavaṃ rūpaṃ nandyumāgaṇabhīṣaṇam|
+SP1670653: yaṃ dṛṣṭvā himavatputrī babhūva bhayavihvalā|| 65||
+SP1670661: krīḍāhetorbhavo yatra trāsayitvā girīndrajām|
+SP1670662: saumyarūpo 'bhavadbhūyaḥ sāntvayāmāsa śailajām|
+SP1670663: mahābhairava ityeva tadāyatanamucyate|| 66||
+SP1670671: bhairaveśvaramāgamya yaḥ paśyeta pinākinam|
+SP1670672: maraṇaṃ janma vā vyāsa nāsau punaravāpnuyāt|| 67||
+SP1670681: yadevāśramiṇāṃ puṇyaṃ tathaiśavratacāriṇām|
+SP1670682: tatphalaṃ bhairavaṃ dṛṣṭvā prāpnoti narapuṃgavaḥ|| 68||
+SP1670691: kumbhakāreśvare caiva tathaivotkuṭukeśvare|
+SP1670692: chagalaṇḍeśvare caiva mahābhairavajaṃ phalam|
+SP1670693: dṛṣṭairebhistribhiḥ sthānaistrilokādhipatirbhavet|| 69||
+SP1670701: rudrakoṭīti cāpyanyacchivāyatanamucyate|
+SP1670702: rudrakoṭītrayaṃ japtvā tatra nandī varottamān|| 70||
+SP1670711: avāpa śaṃkarādvyāsa gaṇeśatvaṃ tathottamam|
+SP1670712: yaistadāyatanaṃ dṛṣṭaṃ te yānti paramāṃ gatim|| 71||
+SP1670721: devadāruvane cāpi bhavasyāyatanaṃ varam|
+SP1670722: devadāruvanaiśchannaṃ saralaiśca sugandhibhiḥ|
+SP1670723: sadā saṃsevitaṃ taddhi gandharvoragakiṃnaraiḥ|| 72||
+SP1670731: yatra vaikhānasā viprāḥ śivabhaktiparāyaṇāḥ|
+SP1670732: bhāskarānalasaṃkāśā nivasanti tapodhanāḥ|| 73||
+SP1670741: bhikṣāhetorvanaṃ tattu prāviśatkila śūladhṛk|
+SP1670742: sa dṛṣṭastatra deveśo munibhiḥ stabdhamehanaḥ|| 74||
+SP1670751: īrṣayā munibhirliṅgaṃ tasya devasya tanmahat|
+SP1670752: vimūḍhaiḥ pātitaṃ vyāsa devadāruvanāśrame|| 75||
+SP1670761: tasminnipatite liṅge liṅgahīnamabhūjjagat|
+SP1670762: sthāvaraṃ jaṅgamaṃ caiva babhau sarvaṃ napuṃsakam|| 76||
+SP1670771: brahmādayastato devāste ca siddhā mumukṣavaḥ|
+SP1670772: jñātvā śaṃkarajaṃ sarvaṃ tadapāyaṃ sudāruṇam|
+SP1670773: saṃstutya vividhaiḥ stotraiḥ śaṃkaraṃ paryatoṣayan|| 77||
+SP1670781: tatastadabhavalliṅgaṃ yathāpūrvaṃ pinākinaḥ|
+SP1670782: jagataśca punaḥ puṃstvaṃ tatkṣaṇātsamapadyata|| 78||
+SP1670791: tatra taiḥ sthāpitaṃ liṅgaṃ parameśasya bhaktitaḥ|
+SP1670792: taṃ dṛṣṭvā vājimedhānāṃ daśānāṃ prāpnute phalam|| 79||
+SP1670801: devadāruvanaṃ puṇyamīśasya sumahātmanaḥ|
+SP1670802: abhigamya narāḥ kṣipraṃ mucyante sarvapātakaiḥ|| 80||
+SP1670811: dadhīcena mahaddivyaṃ puṇyamāyatanaṃ kṛtam|
+SP1670812: sthāneśvaramiti khyātaṃ lokeṣu triṣu viśrutam|| 81||
+SP1670821: naraḥ sthāneśvaraṃ prāpya yastyajeta kalevaram|
+SP1670822: yogaiśvaryamanuprāpya svargaloke sa modate|| 82||
+SP1670831: takṣakena bhujaṃgena dṛḍhabhaktena śaṃkare|
+SP1670832: takṣakeśvaramityevaṃ sthāpitaṃ jāhnavītaṭe|| 83||
+SP1670841: devadevasya rudrasya yatra sāṃnidhyamuttamam|
+SP1670842: taṃ dṛṣṭvā puruṣo devamaśvamedhaphalaṃ labhet|| 84||
+SP1670851: agastyena kṛtaṃ cānyatpuṇyamāyatanaṃ mahat|
+SP1670852: āmrāteśvaramityeva khyātaṃ jagati suprabham|| 85||
+SP1670861: dṛṣṭvā paramayā bhaktyā puruṣastaṃ śucivrataḥ|
+SP1670862: dehabhedamanuprāpya śarvalokamavāpnuyāt|| 86||
+SP1670871: girau kālañjare liṅgaṃ dṛṣṭvā sthānamumāpateḥ|
+SP1670872: aśvamedhaphalaṃ prāpya rudralokamavāpnuyāt|| 87||
+SP1670881: puṣpabhadramiti khyātaṃ vindhyaprasthe drumāvṛtam|
+SP1670882: bhavasyāyatanaṃ puṇyaṃ devagandharvasevitam|| 88||
+SP1670891: yattadrāvaṇaputreṇa meghanādena rakṣasā|
+SP1670892: sthāpitaṃ toṣayānena sarvabhūtapatiṃ bhavam|| 89||
+SP1670901: yatra mandodarīputraḥ sthāṇunā śaśimaulinā|
+SP1670902: māyārathapradānena kṛtaḥ prāptamanorathaḥ|| 90||
+SP1670911: taṃ dṛṣṭvā cābhigatvā ca praṇamya jagataḥ patim|
+SP1670912: puruṣāḥ svargamāyānti divyayogasamanvitāḥ|| 91||
+SP1670921: andhreṣvāyatanaṃ cānyaccharvasya paramātmanaḥ|
+SP1670922: nāmnā citrarathaṃ nāma yogasiddhivarapradam|| 92||
+SP1670931: tripurasya vadhe yatra ratho devasya dhīmataḥ|
+SP1670932: amaraiścitrito vyāsa somādityayamādibhiḥ|| 93||
+SP1670941: samyagiṣṭe tu yatproktamaśvamedhe phalaṃ budhaiḥ|
+SP1670942: taccitrarathamāsādya phalaṃ labhati mānavaḥ|| 94||
+SP1670951: anyaduktarathaṃ nāma bhavasyāyatanaṃ śubham|
+SP1670952: surakiṃnaragandharvaiḥ sadā saṃsevitaṃ śubham|| 95||
+SP1670961: tatra śrīparvataṃ nāma parvataḥ śrīniketanaḥ|
+SP1670962: siddhāmaraśatākīrṇaṃ siddhikṣetraṃ taduttamam|| 96||
+SP1670971: śūlino yatra liṅgānāṃ puṇyānāṃ varadāyinām|
+SP1670972: sahasraṃ sthāpitaṃ vyāsa śilādena mahātmanā|| 97||
+SP1670981: ye paśyanti tamīśānaṃ śrīparvatanivāsinam|
+SP1670982: janmamṛtyubhayaṃ teṣāṃ nāsti puṃsāṃ kadācana|| 98||
+SP1670991: anenaiva śarīreṇa tasminkṣetre bhavātmake|
+SP1670992: yogābhyāsaparā viprāḥ siddhiṃ yānti yathepsitām|| 99||
+SP1671001: manasāpyabhigacchanti ye narāḥ śrīgiriṃ mune|
+SP1671002: na te yānti yamāvāsaṃ mṛtyāvapi samāgate|| 100||
+SP1671011: tataścottaragokarṇaṃ haraliṅgāṅkitāśrayam|
+SP1671012: taptaṃ yatra tapastīvraṃ rākṣasaiḥ piśitāśanaiḥ|
+SP1671013: rāvaṇādyairmahābhāgairlabdhaśca vara īpsitaḥ|| 101||
+SP1671021: purā yatra tapaḥ kṛtvā prasādya ca pinākinam|
+SP1671022: trailokye cakravartitvaṃ rāvaṇaḥ samavāptavān|| 102||
+SP1671031: aśvamedhaṃ daśaguṇaṃ taṃ dṛṣṭvā labhate naraḥ|
+SP1671032: mṛtaśca rudrasāyujyaṃ gacchate nātra saṃśayaḥ|| 103||
+SP1671041: tato dakṣiṇagokarṇaṃ sthānaṃ puṇyaṃ pinākinaḥ|
+SP1671042: spṛkkayā jātayā yatra laṅkāmalayasānuṣu|
+SP1671043: arcyate bhagavāndevaḥ sarvāmaravareśvaraḥ|| 104||
+SP1671051: eko rākṣasaśārdūlo yatrādyāpi vibhīṣaṇaḥ|
+SP1671052: samabhyarcyāmareśānaṃ bhuṅkte rājyamaśaṅkitam|| 105||
+SP1671061: mānavā ye 'bhigacchanti gokarṇāyatanāśramam|
+SP1671062: daśānāmaśvamedhānāṃ prāpnuvanti phalaṃ śubham|| 106||
+SP1671071: hariścandra iti khyāto girirnaikavinirjharaḥ|
+SP1671072: jāmadagnyena rāmeṇa yasminnāyatanaṃ kṛtam|| 107||
+SP1671081: yatra devāśca siddhāśca yakṣaguhyakakiṃnarāḥ|
+SP1671082: vratino yoginaścaiva nemire vṛṣabhadhvajam|| 108||
+SP1671091: hariścandragireḥ śṛṅgamākūṭaṃ yairnirīkṣitam|
+SP1671092: na te vasanti martyeṣu devā bhūtvā punarmune|| 109||
+SP1671101: uttare narmadātīre dviyojanapathāntare|
+SP1671102: kārohaṇamiti khyātaṃ trinetrāyatanaṃ mahat|
+SP1671103: yatra kaḥ kāṃ tapasyantīmāruroha prajāpatiḥ|| 110||
+SP1671111: āruroha yataḥ kāṃ tāṃ tasmindeśe prajāpatiḥ|
+SP1671112: tasmātkārohaṇo nāma sa deśaḥ parikīrtitaḥ|| 111||
+SP1671121: tasmindeśe 'vatīrṇaśca bhagavānvṛṣabhadhvajaḥ|
+SP1671122: puṇyo 'sau sarvadeśebhyo deśo yena nibodha tat|| 112||
+SP1671131: kṣīṇe kṛtayuge vyāsa tretāyugamukhodaye|
+SP1671132: tasminpādaṃ mumocaikaṃ dharmo 'dharmanipīḍitaḥ|
+SP1671133: dvitīyaṃ dvāpare prāpte tṛtīyaṃ ca kalau yuge|| 113||
+SP1671141: caturthenāvatasthe ca yataḥ sa bhagavānprabhuḥ|
+SP1671142: evaṃ sa dharmasaṃvāso deśaḥ puṇyatamaḥ smṛtaḥ|| 114||
+SP1671151: bhārabhūtistvasau bhūtvā tasmindeśe pinākadhṛk|
+SP1671152: bhāraṃ baddhvā dvijātīnāṃ narmadāyāṃ vicikṣipe|
+SP1671153: kāruṇyena mahādevo martyajanmamumukṣayā|| 115||
+SP1671161: tretāyāṃ diṇḍimuṇḍaśca śirāṃsi vinikṛttavān|
+SP1671162: dvāpare cāṣaḍhirbhūtvā nṛttenānugṛhītavān| 116||
+SP1671171: evaṃ pratiyugaṃ vyāsa tasmindeśe śivaḥ svayam|
+SP1671172: avatīrṇaścānugṛhya brāhmaṇāñchuddhamānasān|| 117||
+SP1671181: teṣāmāyatanāni sma sarveṣāmeva suvrata|
+SP1671182: yena dṛṣṭāni devasya aiśānaṃ lokamāpnuyāt| 118||
+SP1671191: vartamāne kalau cāpi jñātvā duḥkhārditaṃ jagat|
+SP1671192: catvāraḥ puruṣānsṛṣṭvā svasmānmukhacatuṣṭayāt|
+SP1671193: provāca parameśāno lokānugrahalipsayā|| 119||
+SP1671201: yūyaṃ yāta mahīṃ sarve dvijā bhūtvā tapasvinaḥ|
+SP1671202: māmevaiṣyatha yogīśā nītvā viprānparaṃ padam|| 120||
+SP1671211: te tathoktāstathā vyāsa sambabhūvuḥ pṛthakpṛthak|
+SP1671212: mānuṣeṣu tadā viprā mokṣadharmaparāyaṇāḥ|| 121||
+SP1671221: ujjayanyāṃ gurujyeṣṭhaḥ kauśiko nāma nāmataḥ|
+SP1671222: dvitīyo gārgya ityeva jambumārge satāpanaḥ|| 122||
+SP1671231: tṛtīyaścābhavanmitro mathurāyāṃ mahāmanāḥ|
+SP1671232: brahmacārī caturthastu kuruṣveva sugotrajaḥ|| 123||
+SP1671241: bhagavānapi deveśaḥ paramaiśvaryasaṃyutaḥ|
+SP1671242: atrivaṃśaprasūtasya nāmnā vai somaśarmaṇaḥ|
+SP1671243: rūpaṃ kṛtvā sitāṅgaṃ tu jagāmātrigṛhaṃ śubham|| 124||
+SP1671251: sa taṃ brahmavidaṃ vipramātreyaṃ sakulaṃ vibhuḥ|
+SP1671252: yogasiddhipradānena anujagrāha śaṃkaraḥ|| 125||
+SP1671261: anugṛhya tadā vyāsa sakulaṃ dvijasattamam|
+SP1671262: jagāmojjayanīṃ devaḥ śmaśānaṃ ca viveśa ha|| 126||
+SP1671271: sa tatra bhasmanātmānamavaguṇṭhya vṛṣadhvajaḥ|
+SP1671272: ulmukaṃ vāmahastena gṛhītvā samupāviśat|| 127||
+SP1671281: tatra prathamamādāya śiṣyaṃ kauśikamīśvaraḥ|
+SP1671282: jambūmārge dvitīyaṃ ca mathurāyāṃ tato 'param|| 128||
+SP1671291: kanyakubje tataścānyamanugṛhya jagatpatiḥ|
+SP1671292: svasiddhāntaṃ dadau yogamuvācedaṃ ca lāguḍiḥ || 129||
+SP1671301: rahasyaṃ paramaṃ hīdaṃ pañcārtha iti saṃjñitam|
+SP1671302: viprānmocayituṃ datto yuṣmabhyaṃ martyabandhanāt|
+SP1671303: anayā dīkṣayā viprānprāpayadhvaṃ paraṃ padam|| 130||
+SP1671311: nadītīreṣu medhyeṣu puṇyeṣvāyataneṣu ca|
+SP1671312: śūnyāgāreṣvaraṇyeṣu vāso vaḥ saṅgavarjitaḥ|| 131||
+SP1671321: vaco bhagavataḥ śrutvā śiṣyāḥ paśupateḥ svayam|
+SP1671322: yathājñaptamakurvanta  sarve te bhavatejasaḥ|| 132||
+SP1671331: dharmapādāṅkite deśe avatīrṇo yato bhavaḥ|
+SP1671332: sa deśaḥ paramastasmānmahāpuṇyatamaḥ smṛtaḥ|| 133||
+SP1671341: āśramo yogināṃ yatra pravṛttaḥ pāpanāśanaḥ|
+SP1671342: aṣṭāyatanamityevaṃ sthānaṃ tatra mahātmanaḥ|
+SP1671343: yaddṛṣṭvā manujā vyāsa prāpnuvanti paraṃ padam|| 134||
+SP1671351: kārohaṇaṃ śivasthānaṃ ye 'bhigacchanti mānavāḥ|
+SP1671352: garbhaśayyābhayaṃ teṣāṃ na bhavenmunisattama|| 135||
+SP1671361: mahīnarmadayormadhyaṃ sahyasya ca yaduttaram|
+SP1671362: etatpaśupateḥ kṣetraṃ purāṇamṛṣibhiḥ stutam|| 136||
+SP1671371: tadāgatya naro vyāsa yadyapi syātsupāpakṛt|
+SP1671372: sarvapāpavinirmukto yatheṣṭāṃ prāpnuyādgatim|| 137||
+SP1671381: kārohaṇaṃ kṣetramatīva puṇyaṃ śaivāni yatrāyatanāni dhīman|
+SP1671382: gatvā narāstāni mahāphalāni saṃsāragehaṃ na punarviśanti|| 138||
+SP1671391: puṇyamāyatanaṃ cānyatsaptalokābhinanditam|
+SP1671392: vārāṇasyāṃ muniśreṣṭha yatra saṃnihito haraḥ|| 139||
+SP1671401: tatra bhāgīrathī puṇyā uttarāṃ bhajate diśam|
+SP1671402: siddhikṣetraṃ bṛhatkṣetraṃ lokeṣu triṣu viśrutam|
+SP1671403: avimuktaṃ smṛtaṃ nāmnā na vimuktaṃ hareṇa tu|| 140||
+SP1671411: avimukteśvaraṃ dṛṣṭvā tatra devamumāpatim|
+SP1671412: gāṇapatyā gatiḥ proktā mṛtyukāle mahāmune|| 141||
+SP1671421: yatrāste gaṇapo dvāri vidyutkeśo mahābalaḥ|
+SP1671422: daṇḍapāṇirmahātejāḥ samādeśātsvayambhuvaḥ|| 142||
+SP1671431: tamadṛṣṭvā na paśyanti devadeveśvaraṃ haram|
+SP1671432: yogino 'pi mahātmānaḥ puṇyaṃ tasyāpi darśanam|| 143||
+SP1671441: daṇḍapāṇiṃ śuciṃ dṛṣṭvā haradattavaraṃ gaṇam|
+SP1671442: iha loke sukhaṃ prāpya yānti tasya salokatām|| 144||
+SP1671451: yatra siddhā mahātmāno yogaiśvaryabalānvitāḥ|
+SP1671452: channāḥ pradakṣiṇaṃ kṛtvā praṇamanti svayambhuvam|| 145||
+SP1671461: śakraḥ pitāmaho viṣṇurdhaneśo varuṇo yamaḥ|
+SP1671462: hutabhukpavanaḥ somaḥ svayaṃ caiva divākaraḥ|| 146||
+SP1671471: tathā saptarṣayaḥ siddhā gandharvāḥ pannagāstathā|
+SP1671472: avimukteśvaraṃ devamarcayanti yatavratāḥ|| 147||
+SP1671481: tataḥ puṇyatamaṃ nāsti siddhikṣetramiti śrutiḥ|
+SP1671482: yatra jantorvipannasya muktiḥ saṃsārabandhanāt|
+SP1671483: prasādājjāyate śambhorguhyametatparaṃ smṛtam|| 148||
+SP1671491: gaṅgā dakṣiṇatastasminnuttareṇa varāṇasī|
+SP1671492: tattayormadhyataḥ kṣetramavimuktaṃ pinākinaḥ|| 149||
+SP1671501: liṅge yatsthāpite śambhoḥ prāpyate phalamanyataḥ|
+SP1671502: tatsahasraguṇaṃ proktamavimukte niveśite|| 150||
+SP1671511: sthāpayedvidhinā yoṣā pumānvā vidhipūrvakam|
+SP1671512: sahasraṃ sthāpitaṃ tena liṅgānāṃ bhavati prabhoḥ|
+SP1671513: tryakṣaḥ sa gaṇapo bhūtvā rudrasāyujyatāṃ vrajet|| 151||
+SP1671521: ataḥ kṛtvā muniśreṣṭha brahmādityapuraḥsaraiḥ|
+SP1671522: liṅgāni sthāpitāni sma sarvaistatra surottamaiḥ|| 152||
+SP1671531: tasminbhagavataḥ kṣetre kāśipuryāmanekaśaḥ|
+SP1671532: dṛśyantyadyāpi liṅgāni sthāpitāni mahātmabhiḥ|| 153||
+SP1671541: smaraṇādavimuktasya pṛthivyante 'pi saṃsthitaḥ|
+SP1671542: kalmaṣairmucyate janturmṛtaśca labhate sukham|| 154||
+SP1671551: brāhmaṇāstanna muñcanti vedatattvārthavedinaḥ|
+SP1671552: siddhāḥ pāśupatā ye ca bhavabandhamumukṣavaḥ|| 155||
+SP1671561: prāpya vārāṇasīṃ puṇyāṃ siddhikṣetramanuttamam|
+SP1671562: punarniṣkrāntumanyatra kasya jantormatirbhavet|| 156||
+SP1671571: vedeṣu gīyate vyāsa tatkṣetraṃ śaśimaulinaḥ|
+SP1671572: dehinastyajataḥ prāṇānmokṣasiddhigatipradam|| 157||
+SP1671581: ye 'vimukte vasanti sma narā rudraparāyaṇāḥ|
+SP1671582: rudrasya bhavane vyāsa te vasanti na saṃśayaḥ|| 158||
+SP1671591: tiṣṭhangacchansvapañjāgrankarma kurvanhasannapi|
+SP1671592: yo 'vimuktaṃ smareddehī tasya janmabhayaṃ kutaḥ|| 159||
+SP1671601: nāvimuktātparaṃ sthānaṃ nāvimuktātparaṃ padam|
+SP1671602: nāvimuktātparaṃ puṇyaṃ nāvimuktātparā gatiḥ|| 160||
+SP1671611: yā gatirdhyāyato nityaṃ pare brahmaṇi līyataḥ |
+SP1671612: saiva saṃtyajataḥ prāṇānavimukte smṛtā gatiḥ|| 161||
+SP1671621: kṣetraṃ guhyamumāpateḥ suravṛṣairjuṣṭaṃ sadā siddhaye 
+SP1671622: brahmādyairavimuktametaditi yatsaṃsevitaṃ śāntaye|
+SP1671623: ye sevanti tadīśabhaktiparamā martyāḥ śamaprāptaye 
+SP1671624: muktāste bhavasāgarapratibhayādgacchanti mokṣaṃ param|| 162||
+SP1671631: prayāge ca tapaḥkṣetre devasyāyatanaṃ mahat|
+SP1671632: taddṛṣṭvā manujaḥ samyagiṣṭāṃ gatimavāpnuyāt|| 163||
+SP1671641: naimiśe devadeveśaṃ rudrasyāyatanaṃ mahat|
+SP1671642: dṛṣṭvā pāpavinirmuktaḥ svargalokamavāpnuyāt|| 164||
+SP1671651: dharmakṣetre kurukṣetre sthānaṃ yogeśvaraṃ mahat|
+SP1671652: tena dṛṣṭena viprendra gāṇapatyamavāpnuyāt|
+SP1671653: rudralokaṃ mṛtaścāsau prāpnuyātsarvakāmikam|| 165||
+SP1671661: gayāyāmanyadīśasya sthānaṃ bhagavataḥ śubham|
+SP1671662: gṛdhrakūṭeśvaraṃ nāmnā sarvapāpavimocanam|
+SP1671663: na taṃ dṛṣṭvā vimuhyanti mṛtyukāle narottamāḥ|| 166||
+SP1671671: tatra bhasma samālabhya sarvapāpairvimucyate|
+SP1671672: dvādaśābdavratasyāpi dvijaḥ phalamavāpnuyāt|| 167||
+SP1671681: anyadāyatanaṃ puṇyaṃ magadhāsu pinākinaḥ|
+SP1671682: nagare pāṭalīputre nāmnā prahasiteśvaram|
+SP1671683: vājimedhamavāpnoti abhigamya tamīśvaram|| 168||
+SP1671691: magadhāsu smṛtānyaṣṭau sthānāni śaśimaulinaḥ|
+SP1671692: śiṣyaiḥ parivṛto yāni babhrāma laguḍīśvaraḥ |
+SP1671693: tāni dṛṣṭvā bhavetsadyaḥ pumānpāpavivarjitaḥ|| 169||
+SP1671701: yavaneṣu smṛtaṃ sthānaṃ puṇyamanyadumāpateḥ|
+SP1671702: tripiṣṭapamavāpnoti taṃ dṛṣṭvā mānavaḥ prabhum|| 170||
+SP1671711: aṅgadeśe paraṃ puṇyaṃ sthānaṃ proktaṃ pinākinaḥ|
+SP1671712: hemacūḍeśvaraṃ nāmnā taṃ dṛṣṭvā na vimuhyati|| 171||
+SP1671721: bhāgīrathyāstato vyāsa sāgarasya ca saṃgame|
+SP1671722: brahmaṇā sthāpitaṃ liṅgaṃ tasya puṇyaṃ pinākinaḥ|| 172||
+SP1671731: tasyābhigamanādeva sarvapāpairvimucyate|
+SP1671732: daśānāmaśvamedhānāṃ taṃ dṛṣṭvā prāpnute phalam|| 173||
+SP1671741: prabhāse śūlinaṃ dṛṣṭvā dehabhede gaṇo bhavet|
+SP1671742: puṣkare śaṃkaraṃ dṛṣṭvā na śocenmṛtyujanmanī|| 174||
+SP1671751: mahendre ca nagaśreṣṭhe rudrasyāyatanaṃ śubham|
+SP1671752: abhigamya naro vidvānaśvamedhaphalaṃ labhet|| 175||
+SP1671761: mahākāleśvaraṃ devamujjayanyāṃ mahāvrataḥ|
+SP1671762: abhigamyāpnuyādvidvāngaṇatvaṃ tripuradviṣaḥ|| 176||
+SP1671771: drimicaṇḍeśvaraṃ devaṃ dṛṣṭvā trāyati mānavaḥ|
+SP1671772: kulānubhayajānsapta sarvayajñāni cāpnute|
+SP1671773: śaṅkukarṇeśvaraṃ dṛṣṭvā na śocenmaraṇaṃ naraḥ|| 177||
+SP1671781: tathā himagireḥ śṛṅge siddhakiṃnarasevite|
+SP1671782: ḍiṅgeśvaramiti khyātaṃ rudrasyāyatanaṃ mahat|| 178||
+SP1671791: abhigamya ca dṛṣṭvā ca taṃ devaṃ jagataḥ prabhum|
+SP1671792: śivabhaktiparo vyāsa sarvakāmānavāpnuyāt|
+SP1671793: mṛtasya ca gatiḥ proktā gāṇapatyā mahātmanaḥ|| 179||
+SP1671801: suvarṇākṣe paraṃ sthānaṃ devadevasya saṃsmṛtam|
+SP1671802: taṃ dṛṣṭvā manujo bhaktyā rājasūyaphalaṃ labhet|| 180||
+SP1671811: saptagodāvare sthānaṃ dṛṣṭvā puṇyaṃ kapardinaḥ|
+SP1671812: aśvamedhaphalaṃ prāpya svargaloke vasennaraḥ|| 181||
+SP1671821: sthānaṃ puṇyatamaṃ cānyacchreṣṭhaṃ jagati kīrtitam|
+SP1671822: nāmnā bhadreśvaraṃ khyātaṃ devagandharvasevitam|
+SP1671823: taṃ vīkṣya mānavo vyāsa sarvayajñaphalaṃ labhet|| 182||
+SP1671831: janmaprabhṛti yatkiṃcitkṛtaṃ karmāśubhaṃ mahat|
+SP1671832: tatkṣaṇānnaśyate sarvaṃ dṛṣṭvā bhadreśvaraṃ haram|
+SP1671833: yatra tatra mṛtaścāpi gāṇapatyaṃ labhennaraḥ|| 183||
+SP1671841: dhanyāste mānavā vyāsa rudrabhaktā mahaujasaḥ|
+SP1671842: ye prapaśyanti bhadreśaṃ janmamṛtyubhayāpaham|| 184||
+SP1671851: ekāmre ca vibhoḥ sthānaṃ dṛṣṭvā svargamavāpnuyāt|
+SP1671852: virajāyāṃ haraṃ dṛṣṭvā vājimedhamavāpnuyāt|| 185||
+SP1671861: nepāleṣu ca deveśaṃ dṛṣṭvā paśupatiṃ prabhum|
+SP1671862: daśāśvamedhānāpnoti rudralokaṃ ca gacchati|
+SP1671863: dehabhedaṃ ca samprāpya paśutvādvipramucyate|| 186||
+SP1671871: anyaddhimagirau sthānaṃ naikatuṅgādhipeśvaram|
+SP1671872: taṃ dṛṣṭvā na punarmartyo jāyate munisattama|
+SP1671873: bhaktānāṃ praṇatānāṃ ca sarvakāmapradaṃ smṛtam|| 187||
+SP1671881: evametāni puṇyāni rudrasyāyatanāni te|
+SP1671882: kathitāni mayā vyāsa yairgatiḥ prāpyate śubhā|| 188||
+SP1671891: ya etāni paṭhedvipraḥ prayatātmā dine dine|
+SP1671892: tasya sāyujyatāṃ devo dadāti vṛṣabhadhvajaḥ|| 189||
+SP1671901: maṅgalyaṃ paramaṃ puṇyaṃ medhyaṃ sarvabhayāpaham|
+SP1671902: sthānānāṃ kīrtanaṃ śambhornityaṃ kuryācchucirnaraḥ|| 190||
+SP1671911: iti girivaraputrīviṣṇugaṅgādharasya 
+SP1671912: jagati vasatireṣā sarvakāmapradā te|
+SP1671913: munivarasuta śiṣṭā pāpasaṃśuddhakartrī 
+SP1671914: vada kimaparamanyadvyāsa tubhyaṃ vadāmi|| 191||
+SP1679999: iti skandapurāṇe saptaṣaṣṭyuttaraśatatamo 'dhyāyaḥ||

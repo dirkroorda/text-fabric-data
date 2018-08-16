@@ -1,0 +1,247 @@
+Skandapurāṇa Adhyāya 62
+
+E-text generated on February 22, 2017 from the original TeX files of: Yokochi, Yuko, ed. The Skandapurāṇa. Vol.III. Adhyāyas 34.1-61, 53-69. The Vindhyavāsinī Cycle. Critical Edition with an Introduction & Annotated English Synopsis. Leiden/Groningen: Brill & Egbert Forsten, 2013.
+
+SP0620010: sanatkumāra uvāca|
+SP0620011: atha nirjitya daityendrau divaṃ vikramaśālinau|
+SP0620012: jagmatuḥ sahitau daityairvindhyaṃ tuṅgaśiloccayam|| 1||
+SP0620021: sampūjya vidhivaddaityānprasthāpya bhrātarau tadā|
+SP0620022: remāte vindhyapādeṣu phullapādapasānuṣu|| 2||
+SP0620031: daityābhyāmatha vijñāya brahmā suraparābhavam|
+SP0620032: vicintyaikamanāḥ samyagvadhopāyaṃ tayostadā|| 3||
+SP0620041: tilaṃ tilaṃ samādāya ratnebhyaścārudarśanām|
+SP0620042: sasarja kamanīyāṅgīmaṅganāṃ valgunisvanām|| 4||
+SP0620051: tilottameti tasyāśca nāma cakre pitāmahaḥ|
+SP0620052: divyānāmapi sā strīṇāmupameva tadā babhau|| 5||
+SP0620061: atisaṃpūrṇavaktrāṃ tāmatīndīvaralocanām|
+SP0620062: atihaṃsasvanālāpāmatimattebhagāminīm|| 6||
+SP0620071: lakṣmī nirīkṣya savrīḍā paṅkajenāvṛṇonmukham|
+SP0620072: vapurbhiḥ svaiśca cārvaṅgyāṃ trepurudyānadevatāḥ|| 7||
+SP0620081: tāmutpādya tato dhātā pākaśāsanamabravīt|
+SP0620082: śambhunā madanaḥ pūrvaṃ nirdagdho locanāgninā|| 8||
+SP0620091: tasya prodbhūtaye yāmaḥ sarve pārśvaṃ pinākinaḥ|
+SP0620092: tamārādhya tathā kurmo yathā syānmadanaḥ punaḥ|| 9||
+SP0620101: atha te brahmaṇā sārdhaṃ tayā cāsuravidviṣaḥ|
+SP0620102: jagmurvindhyagireḥ śṛṅgaṃ yatrāste bhagavānharaḥ|| 10||
+SP0620111: tatra śarvamapaśyanto dadhyuste surasattamāḥ|
+SP0620112: gṛṇantaḥ praṇavaṃ sarve śivasaṃnyastacetasaḥ|| 11||
+SP0620121: atha liṅgaṃ samuttasthau teṣāṃ madhye divaukasām|
+SP0620122: susaṃhataṃ susaṃśliṣṭaṃ samūhastejasāmiva|| 12||
+SP0620131: uccacāra tadā tasmāduccairvāgviśadākṣarā|
+SP0620132: nirdagdho 'yaṃ mayā pāpastapasvijanakaṇṭakaḥ|| 13||
+SP0620141: yuṣmadarthe vimokṣyāmi kāryaṃ vo yaḥ kariṣyati|
+SP0620142: karotu paritaśceyaṃ māṃ pradakṣiṇamaṅganā|| 14||
+SP0620151: evamuktā maheśena sā cakāra pradakṣiṇam|
+SP0620152: saṃnidhāyāñjaliṃ mūrdhni raktendīvarakomalam|| 15||
+SP0620161: neme mūrtiṃ tadā pūrvāṃ niḥsasāra tato mukham|
+SP0620162: tryakṣaṃ prasannaṃ bimbauṣṭhamamitadyutikāntimat|| 16||
+SP0620171: atha tejo viniḥsṛtya vadanendoḥ pinākinaḥ|
+SP0620172: tāṃ viveśāṅganāmāśu śaradbhāskarabhāsvaram|| 17||
+SP0620181: atha sā dakṣiṇāṃ mūrtiṃ praṇeme cārudarśanā|
+SP0620182: nirjagāma tadā dīptaṃ mukhaṃ suragurostataḥ|| 18||
+SP0620191: vāribhārālasāmbhodarucimadbhīmanisvanam|
+SP0620192: karāladaśanodbhāsi dīptaraktāntalocanam|| 19||
+SP0620201: atyādityaṃ tatastejo mukhānniḥsṛtya dakṣiṇāt|
+SP0620202: dṛśyamānaṃ suraiḥ sarvairviveśa pramadottamām|| 20||
+SP0620211: praṇeme sā tatastasya paścimāṃ mūrtimañjasā|
+SP0620212: niścakrāma tatastasyā mukhaṃ tryakṣamanuttamam|| 21||
+SP0620221: tatastejo viniḥsṛtya mukhendormadanadviṣaḥ|
+SP0620222: dīpyamānaṃ viveśāśu tāmeva pramadottamām|| 22||
+SP0620231: uttarāṃ mūrtimāgamya praṇeme sā kṛtāñjaliḥ|
+SP0620232: tasyā mukhaṃ susaṃpūrṇaṃ suprasannaṃ viniryayau|| 23||
+SP0620241: tasmāttejo viniḥsṛtya sūryadīptānalaprabham|
+SP0620242: viveśa pramadāmāśu tāmeva varavarṇinīm|| 24||
+SP0620251: mukhāni devadevasya surāṇāmarthasiddhaye|
+SP0620252: catvāri niryayurdikṣu na tasyā rūpavismayāt|| 25||
+SP0620261: ātmasaṃsthaṃ purā tejo dagdhvā yanmadanaṃ kṛtam|
+SP0620262: anujagrāha deveśastena tāṃ pramadottamām|| 26||
+SP0620271: abravīcca surānsarvāṃstatredaṃ vacanaṃ śivaḥ|
+SP0620272: yasmādiyaṃ māṃ yūyaṃ ca maṇḍalena pradakṣiṇam|| 27||
+SP0620281: cakre sarve suraśreṣṭhāḥ sthānaṃ tasmādidaṃ mama|
+SP0620282: bhaviṣyati girau vindhye maṇḍaleśvarasaṃjñitam|
+SP0620283: sāṃnidhyaṃ sarvadā hyasminkariṣyāmi varapradam|| 28||
+SP0620291: maṇḍaleśvaramīśānaṃ dṛṣṭvā tu prayato naraḥ|
+SP0620292: aśvamedhaphalaṃ prāpya mama lokamavāpsyati|| 29||
+SP0620301: naikasiddhaśatākīrṇaṃ kiṃnaroragasevitam|
+SP0620302: yuṣmābhiḥ sarvadā yuktaṃ bhaviṣyati mama priyam|| 30||
+SP0620311: eṣā tilottamā caiva yadarthaṃ surasattamāḥ|
+SP0620312: sṛṣṭā yuṣmābhiravyagrā tadvaḥ kāryaṃ kariṣyati|| 31||
+SP0620321: etāmavekṣya tau daityau mohitau madanārditau|
+SP0620322: anyonyaṃ yāsyato nāśameṣā caiva bhaviṣyati|| 32||
+SP0620331: ajarā cāmarā caiva sarvāpsaravarā śubhā|
+SP0620332: pūjyā ceha sadā sthāne vandyā caiva bhaviṣyati|| 33||
+SP0620340: sanatkumāra uvāca|
+SP0620341: evamukte maheśena surāḥ suprītacetasaḥ|
+SP0620342: tāṃ striyaṃ preṣayāmāsurvadhārthaṃ daityayostadā|| 34||
+SP0620351: sahāyānpradadau cāsyai brahmā kamalavāhanaḥ|
+SP0620352: krodhaṃ darpamṛtūnsarvānrāgaṃ madanameva ca|
+SP0620353: kālaṃ mṛtyuṃ ca mohaṃ ca viṣādaṃ cāmitadyutiḥ|| 35||
+SP0620361: atha sampreṣayitvā tu devatāstāṃ tilottamām|
+SP0620362: ātmānaṃ piṇḍayāmāsurdevāste sarva eva hi|| 36||
+SP0620371: kaḥ kaḥ katama āyāta ihādyeti surarṣabhāḥ|
+SP0620372: tato madhye sthitaṃ bhūyaste 'paśyanparameśvaram|| 37||
+SP0620381: piṇḍyamāneṣu deveṣu yasmānmadhye samāsthitaḥ|
+SP0620382: piṇḍāreśvara ityeva tatrāsāvabhavattataḥ|| 38||
+SP0620391: piṇḍāreśvaramīśānaṃ dṛṣṭvā bhaktyā tu mānavaḥ|
+SP0620392: sarvāśubhavinirmukto dehabhede gaṇo bhavet|| 39||
+SP0620401: tataste devatāḥ sarve kṛtvā kāryamatandritāḥ|
+SP0620402: praṇamya parameśānaṃ svāni sadmāni bhejire|| 40||
+SP0620411: sāpi cārumukhāpāṅgī pīnonnatapayodharā|
+SP0620412: ākṣipantīva cetāṃsi surāṇāṃ vibhramaistadā|
+SP0620413: pratasthe dakṣiṇāmāśāmāsāte yatra dānavau|| 41||
+SP0620421: vindhyapādeṣu ramyeṣu vihagodgītasānuṣu|
+SP0620422: bhramantāvatha daityendrau sthitāṃ dadṛśatustu tām|| 42||
+SP0620431: aśokaśākhāmutphullāmālambyonmattaṣaṭpadām|
+SP0620432: vasānāmaṃśukaṃ citramālambya maṇimekhalām|| 43||
+SP0620441: gāyantīṃ madhuraṃ raktaṃ samaṃ kalamanākulam|
+SP0620442: tāramandrātitāraiśca svaraiḥ samyagalaṃkṛtam|| 44||
+SP0620451: sākṣādiva tapaḥsiddhiṃ śriyaṃ mūrtimatīmiva|
+SP0620452: prāptāmiva ratiṃ sākṣātkāntiṃ cāndramasīmiva|| 45||
+SP0620461: mamaiveyaṃ mamaiveyamiti tau dānavottamau|
+SP0620462: abhisṛtya śubhāṃ devīṃ pāṇyorjagṛhatuḥ samam|| 46||
+SP0620471: atha darpamadakrodhamātsaryāviṣṭacetasau|
+SP0620472: tau cukrudhaturatyarthamanyonyasyāsurottamau|| 47||
+SP0620481: tayorgade 'ntakaḥ kālo mṛtyuścāviviśurdrutam|
+SP0620482: pragṛhyātha gade kruddhāvanyonyamabhijaghnatuḥ|| 48||
+SP0620491: athaikaikena tau tatra prahāreṇābhitāḍitau|
+SP0620492: viṣaṇṇasthitasarvāṅgau śivaśāpavimohitau|
+SP0620493: visaṃjñau patitau bhūmau chinnamūlāviva drumau|| 49||
+SP0620501: atha niryayatustatra kāmopahatacetasoḥ|
+SP0620502: ātmānau saha śukreṇa tayordānavamukhyayoḥ|| 50||
+SP0620511: tau tadā nirgatau tatra tayorjīvau durātmanoḥ|
+SP0620512: balinau cārusarvāṅgau bālāvāśu babhūvatuḥ|| 51||
+SP0620521: ekastatrābravīdbālaḥ sumbho 'haṃ dviṣatāmiti|
+SP0620522: nisumbho 'pyahamanyastu bālastatrāvadattadā|| 52||
+SP0620531: atha vindhyaḥ samāsādya bālau tāvamitadyutī|
+SP0620532: ādideśātmanaḥ patnīṃ pāhi tvaṃ bālakāviti|| 53||
+SP0620541: vavṛdhāte 'tha tau tatra dānavendrasutāvubhau|
+SP0620542: kṛṣṇapakṣakṣaye yadvadyugapacchaśisāgarau|| 54||
+SP0620551: buddhvā tau ca tadā janma dānavābhyāmariṃdamau|
+SP0620552: tapaśceraturatyugraṃ parṇāmbupavanāśanau|| 55||
+SP0620561: tapasārādhitastābhyāṃ tatrāgatyābravītprabhuḥ|
+SP0620562: tuṣṭo 'smi yuvayoḥ putrau varaṃ kiṃ vā dadāmyaham|| 56||
+SP0620571: vavrāte tau varaṃ vīrāvajayyāvadhyatāṃ sadā|
+SP0620572: prārthanāṃ tāṃ tayoḥ śrutvā pratyuvāca pitāmahaḥ|| 57||
+SP0620581: avaśyaṃ yuvayoreṣyaṃ maraṇaṃ yena kenacit|
+SP0620582: surebhyo 'nyatra daityendrāvamaratvaṃ na vidyate|| 58||
+SP0620591: ityuktavantaṃ brahmāṇaṃ vavrāte dānavau varam|
+SP0620592: ubhāvapi suniścintya samprahṛṣṭatanūruhau|| 59||
+SP0620601: jaganmātaiva yā kanyā vinā tasyāḥ pitāmaha|
+SP0620602: mā bhūtāmāvayordeva sadā mṛtyuparājayau|| 60||
+SP0620611: evamastviti tau procya daityendratanayāvubhau|
+SP0620612: viśvasya jagataḥ sraṣṭā tatraivāntaradhīyata|| 61||
+SP0620621: atha tau tapasastīvrādviramya kṛtamaṅgalau|
+SP0620622: maulinau baddhakeyūrau hārāṅgadavibhūṣitau|| 62||
+SP0620631: haricandanadigdhāṅgau pītakauśeyavāsasau|
+SP0620632: vindhyaprastheṣu ramyeṣu ceraturdānavottamau|| 63||
+SP0620641: pitāmahādvaraprāptiṃ śrutvā sumbhanisumbhayoḥ|
+SP0620642: ājagmurdānavā hṛṣṭāḥ pātālatalavāsinaḥ|| 64||
+SP0620651: śambhurmayo ghanaḥ keśirnarako namucirdrumaḥ|
+SP0620652: anye ca koṭiśo dṛptā hataśeṣāḥ suradviṣaḥ|| 65||
+SP0620661: vindhyaprasthe niṣeduste sametāḥ sarvadānavāḥ|
+SP0620662: nānādrumalatāgulmavikīrṇakusumotkare|| 66||
+SP0620671: dhanvino baddhanistriṃśāścitrābharaṇabhūṣitāḥ|
+SP0620672: sendracāpāstaḍitvanto nabhasīva balāhakāḥ|| 67||
+SP0620681: athovāca mayastatra dānavo dānavottamau|
+SP0620682: pitṛbhyāṃ yuvayorbhuktaṃ trailokyamakhilaṃ purā|| 68||
+SP0620691: yuvābhyāmadhunā daityau kasmānnādīyate punaḥ|
+SP0620692: sametānamarānsarvānnirjitya raṇamūrdhani|| 69||
+SP0620701: ye sahāyā hi vāṃ pitrorbabhūvuḥ suravidviṣaḥ|
+SP0620702: ta evāmī balonmattāḥ sahāyā yuvayoryudhi|| 70||
+SP0620711: ityuktavati daityendre maye sumbho mahāsuraḥ|
+SP0620712: nisumbhasya mukhaṃ prekṣya vākyamitthaṃ tadābravīt|| 71||
+SP0620721: bhūrlokamakhilaṃ daityā yuṣmābhiḥ saha sāmpratam|
+SP0620722: saṃvibhajya surānsarvāñjeṣyāmo raṇamūrdhani|| 72||
+SP0620731: jambūdvīpaṃ svayaṃ so 'tha jagrāhāsurasattamaḥ|
+SP0620732: śākadvīpaṃ nisumbhāya dadau bhrātre kanīyase|| 73||
+SP0620741: śālmalidvīpagomedau dānavebhyo dadau prabhuḥ|
+SP0620742: krauñcadvīpakuśadvīpau daityebhyaḥ pradadau ca saḥ|
+SP0620743: daityendraḥ puṣkaradvīpaṃ bhārgavāya nyavedayat|| 74||
+SP0620751: evaṃ prativibhajyāśu bhūrlokamakhilaṃ tadā|
+SP0620752: ijyāñjalinamaskārānyajñānsarvāśca satkriyāḥ|
+SP0620753: ācchidya devatebhyaste jagṛhurdaityadānavāḥ|| 75||
+SP0620761: babhūvātha tato yajñaḥ kaśyapasya mahātmanaḥ|
+SP0620762: āgatya taṃ tadā yajñaṃ mamṛduḥ suraśatravaḥ|| 76||
+SP0620771: ādhipatyaṃ hi naḥ kṛtsne bhūrloke kaśyapādhunā|
+SP0620772: sarvāvasthāsu yajñe 'sminnasmāṃstvaṃ yaṣṭumarhasi|| 77||
+SP0620781: evamuktastato daityairmārīcaḥ kaśyapastadā|
+SP0620782: gambhīramarthavadvākyamuvācetthaṃ smayanniva|| 78||
+SP0620791: trailokyamātmanaḥ kṛtvā jitvā sarvāmarānraṇe|
+SP0620792: yajñabhāgāṃstato daityāḥ sarvānādātumarhatha|| 79||
+SP0620801: evamuktāstadā tena daityadānavasattamāḥ|
+SP0620802: balaṃ sarvaṃ samānāyya kṛtvā saṃgrāmikīḥ kriyāḥ|| 80||
+SP0620811: praśasteṣu kṛtācārā muhūrtarkṣadineṣu te|
+SP0620812: rathairnāgaisturaṃgaiśca niryayurdaityadānavāḥ|| 81||
+SP0620821: pṛṣṭhataḥ purataḥ samyakpārśvayorubhayorapi|
+SP0620822: vidhāya rakṣāṃ saṃyattā yayurdevāñjigīṣavaḥ|| 82||
+SP0620831: teṣāmāgamanaṃ jñātvā dviṣatāṃ pākaśāsanaḥ|
+SP0620832: saṃhatānāṃ susaṃyatto yudhā nākaṃ jigīṣatām|| 83||
+SP0620841: vidhiṃ vidhāya svapure samastaṃ daurgakarmikam|
+SP0620842: puṇyeṣu tithinakṣatramuhūrtakaraṇeṣu saḥ|| 84||
+SP0620851: munīnvidhivadabhyarcya namaskṛtvā pinākine|
+SP0620852: sārdhaṃ suragaṇaiḥ sarvairniryayau kṛtamaṅgalaḥ|| 85||
+SP0620861: himavacchikharākāraṃ caturdantamanekapam|
+SP0620862: āruhyairāvataṃ śaśvanmadatoyaughavarṣiṇam|| 86||
+SP0620871: mahatā hemadaṇḍena ratnāṃśupariveṣiṇā|
+SP0620872: ucchritenātapatreṇa dhriyamāṇena bhāsvatā|| 87||
+SP0620881: vījyamānaḥ śaraccandrakiraṇotkaranirmalaiḥ|
+SP0620882: cāmarai ratnadaṇḍāṃśusamūhakhacitodaraiḥ|| 88||
+SP0620891: āśībhirjayaśabdaiśca munibhiḥ parivardhitaḥ|
+SP0620892: abhitaḥ stūyamānaśca sūtamāgadhavandibhiḥ|| 89||
+SP0620901: athāvakāśe vistīrṇe same pādapavarjite|
+SP0620902: racayāmāsa devānāṃ padmavyūhaṃ bṛhaspatiḥ|| 90||
+SP0620911: marudbhiḥ sahitaṃ kṛtvā karṇikāyāṃ śatakratum|
+SP0620912: patreṣu ca vasūnrudrānādityāṃśca nyaveśayat|| 91||
+SP0620921: kesareṣu yamaṃ kālaṃ kuberavaruṇāvapi|
+SP0620922: anantaṃ sahitaṃ nāgairnāle gururakalpayat|| 92||
+SP0620931: devānanyānsametāṃśca rakṣogandharvasenayā|
+SP0620932: puraḥsarānsa padmasya paritaḥ paryakalpayat|| 93||
+SP0620941: atha dānavatūryāṇāṃ śabdaṃ śrutvā divaukasaḥ|
+SP0620942: ājaghnurmuditā bherīrnedurnādāṃśca saṅghaśaḥ|| 94||
+SP0620951: vimiśraṃ tūryaśabdena śrutvā nādaṃ divaukasām|
+SP0620952: saṃyattāḥ sutarāṃ cakruḥ prayatnaṃ dānaveśvarāḥ|| 95||
+SP0620961: atha te dānavā dṛṣṭvā padmavyūhaṃ divaukasām|
+SP0620962: papracchurbhārgavaṃ tatra tadbhedamamitaujasaḥ|| 96||
+SP0620971: sa pṛṣṭo dānavaśreṣṭhairvyūhabhedamanākulaḥ|
+SP0620972: vicintya bhārgavo dhīmānitthamāhāsurāṃstadā|| 97||
+SP0620981: vikīrṇāḥ paritaḥ sarve tuṣāranikarā iva|
+SP0620982: padmavyūhaṃ surendrāṇāṃ hata samyaksuradviṣaḥ|| 98||
+SP0620991: evamuktāstato daityā bhārgaveṇa mahātmanā|
+SP0620992: siṃhanādaṃ vinadyāśu paritaste 'bhyasarpata|| 99||
+SP0621001: tato yuddhaṃ samabhavaddevadānavasainyayoḥ|
+SP0621002: āyudhairvividhaistīkṣṇaiḥ parasparamabhighnatoḥ|| 100||
+SP0621011: sādinaḥ sādibhiḥ sārdhaṃ nāgā nāgai rathā rathaiḥ|
+SP0621012: pattayaḥ pattibhirdṛptairdṛptāḥ saṃyuyudhuryudhi|| 101||
+SP0621021: kecidvibhinnā nārācaiśchinnāḥ kecitparaśvadhaiḥ|
+SP0621022: nipeturvyasavo yodhāḥ senayorubhayorapi|| 102||
+SP0621031: chindhi bhindhi sahedānīṃ tiṣṭha mūḍha kva gacchasi|
+SP0621032: iti vācaḥ samuttasthuryudhi yodhairudīritāḥ|| 103||
+SP0621041: vasārudhirasaṃsiktaṃ tanutrāvaraṇācitam|
+SP0621042: hatanāgāśvakalilaṃ tadbabhūva raṇājiram|| 104||
+SP0621051: atha te dānavaistatra pīḍyamānā divaukasaḥ|
+SP0621052: savraṇā hatabhūyiṣṭhāḥ śakramevābhisaṃśritāḥ|
+SP0621053: anantaṃ nāgamukhyāśca kuberaṃ yakṣarākṣasāḥ|| 105||
+SP0621061: bhinne vyūhe 'tha devānāṃ prahṛṣṭā daityadānavāḥ|
+SP0621062: siṃhanādānvinadyoccaistūryāṇyāhatya bhūyaśaḥ|
+SP0621063: abhyadravata saṃyattāḥ samare pākaśāsanam|| 106||
+SP0621071: athotthāpya gajaṃ śakro vajreṇa śataparvaṇā|
+SP0621072: cūrṇayāmāsa saṃkruddho daityadānavavāhinīm|| 107||
+SP0621081: dadāha dānavānīkaṃ paritaḥ pākaśāsanaḥ|
+SP0621082: nidāghasamaye dīptaḥ śuṣkakakṣamivānalaḥ|| 108||
+SP0621091: atha sumbhaḥ samabhyetya samare śakramabravīt|
+SP0621092: dṛṣṭo 'syadya mayā śakra na jīvanpratiyāsyasi|| 109||
+SP0621101: athāgatya tadā brahmā prāhetthaṃ surasattamān|
+SP0621102: na yoddhavyaṃ surā daityairavadhyā vaḥ suradviṣaḥ|| 110||
+SP0621111: antardadhustatastasya vākyaṃ śrutvā divaukasaḥ|
+SP0621112: vihāya samaraṃ sarve kṣipraṃ sabalavāhanāḥ|| 111||
+SP0621121: atha daityāḥ susaṃhṛṣṭāstūryāṇyāhatya sarvaśaḥ|
+SP0621122: neduruccairvacaścedamūcuḥ samaraśālinaḥ|| 112||
+SP0621131: turagakhurapuṭāntakṣuṇṇareṇvandhakāre
+SP0621132: dviradarathaninādatrastapādātavṛnde|
+SP0621133: vigatabhayaviṣādaḥ saṃyuge sumbhasiṃho
+SP0621134: jayati suravijetā vārivāhorunādaḥ|| 113||
+SP0621141: tadanu jayati dīrghaḥ pīnabāhūrupādaḥ 
+SP0621142: pṛthurucirasuvakṣā unnatāṃsaḥ sunetraḥ|
+SP0621143: mṛgapatisamagāmī toyadadhvānanādī
+SP0621144: amaravaravijetā daityanātho nisumbhaḥ|| 114||
+SP0629999: iti skandapurāṇe dviṣaṣṭo 'dhyāyaḥ||

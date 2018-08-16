@@ -1,0 +1,152 @@
+Skandapurāṇa Adhyāya 12
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0120010: sanatkumāra uvāca|
+SP0120011: tataḥ sa bhagavāndevo brahmā tāmāha susvaram|
+SP0120012: devi yenaiva sṛṣṭāsi manasā yastvayā vṛtaḥ|
+SP0120013: sa bhartā tava deveśo bhavitā mā tapaḥ kṛthāḥ|| 1||
+SP0120021: tataḥ pradakṣiṇaṃ kṛtvā brahmā vyāsa gireḥ sutām|
+SP0120022: jagāmādarśanaṃ tasyāḥ sā cāpi virarāma ha|| 2||
+SP0120031: sā devī yuktamityevamuktvā svasyāśramasya ha|
+SP0120032: dvāri jātamaśokaṃ vai samupāśritya saṃsthitā|| 3||
+SP0120041: athāgāccandratilakastridaśārtiharo haraḥ|
+SP0120042: vikṛtaṃ rūpamāsthāya hrasvo bāhuka eva ca|| 4||
+SP0120051: vibhugnanāsiko bhūtvā kubjaḥ keśāntapiṅgalaḥ|
+SP0120052: uvāca vikṛtāsyaśca devi tvāṃ varayāmyaham|| 5||
+SP0120061: athomā yogasaṃsiddhā jñātvā śaṃkaramāgatam|
+SP0120062: antarbhāvaviśuddhā sā kriyānuṣṭhānalipsayā|| 6||
+SP0120071: tamuvācārghyamānāyya madhuparkeṇa caiva hi|
+SP0120072: sampūjya sasukhāsīnaṃ brāhmaṇaṃ brāhmaṇapriyā|| 7||
+SP0120080: devyuvāca|
+SP0120081: bhagavannasvatantrāsmi pitā me 'styaraṇī tathā|
+SP0120082: tau prabhū mama dāne vai kanyāhaṃ dvijapuṃgava|| 8||
+SP0120091: gatvā yācasva pitaraṃ mama śailendramavyayam|
+SP0120092: sa ceddadāti māṃ vipra tubhyaṃ tadrucitaṃ mama|| 9||
+SP0120100: sanatkumāra uvāca|
+SP0120101: tataḥ sa bhagavāndevastathaiva vikṛtaḥ prabhuḥ|
+SP0120102: uvāca śailarājaṃ tamumāṃ me yaccha śailarāṭ|| 10||
+SP0120111: sa taṃ vikṛtarūpeṇa jñātvā rudramathāvyayam|
+SP0120112: bhītaḥ śāpācca vimanā idaṃ vacanamabravīt|| 11||
+SP0120121: bhagavannāvamanyāmi brāhmaṇānbhūmidaivatān|
+SP0120122: manīṣitaṃ tu yatpūrvaṃ tacchṛṇuṣva mahātapaḥ|| 12||
+SP0120131: svayaṃvaro me duhiturbhavitā viprapūjitaḥ|
+SP0120132: varayedyaṃ svayaṃ tatra sa bhartāsyā bhavediti|| 13||
+SP0120140: sanatkumāra uvāca|
+SP0120141: tacchrutvā śailavacanaṃ bhagavāngovṛṣadhvajaḥ|
+SP0120142: devyāḥ samīpamāgatya idamāha mahāmanāḥ|| 14||
+SP0120151: devi pitrā tavājñaptaḥ svayaṃvara iti śrutam|
+SP0120152: tatra tvaṃ varayitrī yaṃ sa te bhartā kilānaghe|| 15||
+SP0120161: tadāpṛcche gamiṣyāmi durlabhā tvaṃ varānane|
+SP0120162: rūpavantaṃ samutsṛjya vṛṇīthā mādṛśaṃ katham|| 16||
+SP0120170: sanatkumāra uvāca|
+SP0120171: tenoktā sā tadā tatra bhāvayantī tadīritam|
+SP0120172: bhāvaṃ ca rudranihitaṃ prasādaṃ manasastathā|| 17||
+SP0120181: samprāpyovāca deveśaṃ mā te bhūdbuddhiranyathā|
+SP0120182: ahaṃ tvāṃ varayiṣyāmi nānyadbhūtaṃ kathaṃcana|| 18||
+SP0120191: atha vā te 'sti saṃdeho mayi vipra kathaṃcana|
+SP0120192: ihaiva tvāṃ mahābhāga varayāmi manoratham|| 19||
+SP0120200: sanatkumāra uvāca|
+SP0120201: gṛhītvā stabakaṃ sā tu hastābhyāṃ tatra saṃsthitam|
+SP0120202: skandhe śambhoḥ samādāya devī prāha vṛto 'si me|| 20||
+SP0120211: tataḥ sa bhagavāndevastathā devyā vṛtastadā|
+SP0120212: uvāca tamaśokaṃ vai vācā saṃjīvayanniva|| 21||
+SP0120221: yasmāttava supuṣpeṇa stabakena vṛto hyaham|
+SP0120222: tasmāttvaṃ jarayā tyaktaḥ amaraḥ sambhaviṣyasi|| 22||
+SP0120231: kāmarūpaḥ kāmapuṣpaḥ kāmago dayito mama|
+SP0120232: sarvābharaṇapuṣpāḍhyaḥ sarvavṛkṣaphalopagaḥ|| 23||
+SP0120241: sarvānnabhakṣadaścaiva amṛtasrava eva ca|
+SP0120242: sarvagandhaśca devyāstvaṃ bhaviṣyasi dṛḍhaṃ priyaḥ|
+SP0120243: nirbhayaḥ sarvalokeṣu cariṣyasi sunirvṛtaḥ|| 24||
+SP0120251: āśramaṃ caivamatyarthaṃ citrakūṭeti viśrutam|
+SP0120252: yo 'bhiyāsyati puṇyārthī so 'śvamedhamavāpsyati|
+SP0120253: yatra tatra mṛtaścāpi brahmalokaṃ gamiṣyati|| 25||
+SP0120261: yaścātra niyamairyuktaḥ prāṇānsamyakparityajet|
+SP0120262: sa devyāstapasā yukto mahāgaṇapatirbhavet|| 26||
+SP0120270: sanatkumāra uvāca|
+SP0120271: evamuktvā tadā deva āpṛcchya himavatsutām|
+SP0120272: antardadhe jagatsraṣṭā sarvabhūtapa īśvaraḥ|| 27||
+SP0120281: sāpi devī gate tasminbhagavatyamitātmani|
+SP0120282: tata evonmukhī sthitvā śilāyāṃ saṃviveśa ha|| 28||
+SP0120291: unmukhī sā gate tasminmaheṣvāse prajāpatau|
+SP0120292: niśeva candrarahitā sā babhau vimanāstadā|| 29||
+SP0120301: atha śuśrāva sā śabdaṃ bālasyārtasya śailajā|
+SP0120302: sarasyudakasampūrṇe samīpe cāśramasya ha|| 30||
+SP0120311: sa kṛtvā bālarūpaṃ tu devadevaḥ svayaṃ śivaḥ|
+SP0120312: krīḍāhetoḥ saromadhye grāhagrasto 'bhavattadā|| 31||
+SP0120321: yogamāyāmathāsthāya prapañcodbhavakāraṇam|
+SP0120322: tadrūpaṃ saraso madhye kṛtvedaṃ samabhāṣata|
+SP0120323: trātu māṃ kaścidetyeha grāheṇa hṛtacetasam|| 32||
+SP0120331: dhikkaṣṭaṃ bāla evāhamaprāptārthamanorathaḥ|
+SP0120332: yāsyāmi nidhanaṃ vaktre grāhasyāsya durātmanaḥ|| 33||
+SP0120341: śocāmi na svakaṃ dehaṃ grāhagrasto 'pi duḥkhitaḥ|
+SP0120342: yathā śocāmi pitaraṃ mātaraṃ ca tapasvinīm|| 34||
+SP0120351: māṃ śrutvā grāhavadane prāptaṃ nidhanamutsukau|
+SP0120352: priyaputrāvekaputrau prāṇānnūnaṃ vihāsyataḥ|| 35||
+SP0120360: sanatkumāra uvāca|
+SP0120361: śrutvā tu devī taṃ nādaṃ viprasyārtasya śobhanā|
+SP0120362: utthāya pradrutā tatra yatra tiṣṭhatyasau dvijaḥ|| 36||
+SP0120371: sāpaśyadinduvadanā bālakaṃ cārurūpiṇam|
+SP0120372: grāheṇa grasyamānaṃ taṃ vepamānamavasthitam|| 37||
+SP0120381: so 'pi grāhavaraḥ śrīmāndṛṣṭvā devīmupāgatām|
+SP0120382: taṃ gṛhītvā drutaṃ yāto madhyaṃ sarasa eva ha|| 38||
+SP0120391: sa kṛṣyamāṇastejasvī nādamārtaṃ tadākarot|
+SP0120392: athāha devī duḥkhārtā bālaṃ dṛṣṭvā mahāvratā|| 39||
+SP0120401: grāharāja mahāsattva bālakaṃ hyekaputrakam|
+SP0120402: visṛjainaṃ mahādaṃṣṭra kṣipraṃ bhīmaparākrama|| 40||
+SP0120410: grāha uvāca|
+SP0120411: yo devi divase ṣaṣṭhe prathamaṃ samupaiti mām|
+SP0120412: sa āhāro mama purā vihito lokakartṛbhiḥ|| 41||
+SP0120421: so 'yaṃ mama mahābhāge ṣaṣṭhe 'hani girīndraje|
+SP0120422: brahmaṇā vihito nūnaṃ nainaṃ mokṣye kathaṃcana|| 42||
+SP0120430: devyuvāca|
+SP0120431: yanmayā himavacchṛṅge caritaṃ tapa uttamam|
+SP0120432: tena bālamimaṃ muñca grāharāja namo 'stu te|| 43||
+SP0120440: grāha uvāca|
+SP0120441: mā vyayaṃ tapaso devi kārṣīḥ śailendranandane|
+SP0120442: nainaṃ mocayituṃ śakto devarājo 'pi sa svayam|| 44||
+SP0120451: mahyamīśena tuṣṭena śarveṇogreṇa śūlinā|
+SP0120452: amaratvamavadhyatvamakṣayaṃ balameva ca|| 45||
+SP0120461: svayaṃgrahaṇamokṣaśca jñānaṃ caivāvyayaṃ punaḥ|
+SP0120462: dattaṃ tato bravīmi tvāṃ nāyaṃ mokṣamavāpsyati|| 46||
+SP0120471: atha vā te kṛpā devi bhṛśaṃ bāle śubhānane|
+SP0120472: bravīmi yatkuru tathā tato mokṣamavāpsyati|| 47||
+SP0120480: devyuvāca|
+SP0120481: grāhādhipa vadasvāśu yatsatāmavigarhitam|
+SP0120482: tatkṛtaṃ nātra saṃdeho mānyā me brāhmaṇā dṛḍham|| 48||
+SP0120490: grāha uvāca|
+SP0120491: yatkṛtaṃ vai tapaḥ kiṃcidbhavatyā svalpamantaśaḥ|
+SP0120492: tatsarvaṃ me prayacchasva tato mokṣamavāpsyati|| 49||
+SP0120500: devyuvāca|
+SP0120501: janmaprabhṛti yatpuṇyaṃ mahāgrāha kṛtaṃ mayā|
+SP0120502: tatte sarvaṃ mayā dattaṃ bālaṃ muñca mamāgrataḥ|| 50||
+SP0120510: sanatkumāra uvāca|
+SP0120511: prajajvāla tato grāhastapasā tena bṛṃhitaḥ|
+SP0120512: āditya iva madhyāhne durnirīkṣyastadābhavat|| 51||
+SP0120521: uvāca cedaṃ tuṣṭātmā devīṃ lokasya dhāriṇīm|
+SP0120522: devi kiṃ kṛtametatte aniścitya mahāvrate|
+SP0120523: tapaso hyarjanaṃ duḥkhaṃ tasya tyāgo na śasyate|| 52||
+SP0120531: gṛhāṇa tapa etacca bālaṃ cemaṃ śucismite|
+SP0120532: tuṣṭo 'smi te viprabhaktyā varaṃ tasmāddadāmi te|| 53||
+SP0120541: sā tvevamuktā grāheṇa uvācedaṃ mahāvratā|
+SP0120542: suniścitya mahāgrāha kṛtaṃ bālasya mokṣaṇam|
+SP0120543: na viprebhyastapaḥ śreṣṭhaṃ śreṣṭhā me brāhmaṇā matāḥ|| 54||
+SP0120551: dattvā cāhaṃ na gṛhṇāmi grāhendra viditaṃ hi te|
+SP0120552: na hi kaścinnaro grāha pradattaṃ punarāharet|| 55||
+SP0120561: dattametanmayā tubhyaṃ nādadāni hi tatpunaḥ|
+SP0120562: tvayyeva ramatāmetadbālaścāyaṃ vimucyatām|| 56||
+SP0120571: tathoktastāṃ praśasyātha muktvā bālaṃ namasya ca|
+SP0120572: devīmādityasadbhāsaṃ tatraivāntaradhīyata|| 57||
+SP0120581: bālo 'pi sarasastīre mukto grāheṇa vai tadā|
+SP0120582: svapnalabdha ivārthaughastatraivāntaradhīyata|| 58||
+SP0120591: tapaso 'tha vyayaṃ matvā devī himagirīndrajā|
+SP0120592: bhūya eva tapaḥ kartumārebhe yatnamāsthitā|| 59||
+SP0120601: kartukāmāṃ tapo bhūyo jñātvā tāṃ śaṃkaraḥ svayam|
+SP0120602: provāca vacanaṃ vyāsa mā kṛthāstapa ityuta|| 60||
+SP0120611: mahyametattapo devi tvayā dattaṃ mahāvrate|
+SP0120612: tenaivamakṣayaṃ tubhyaṃ bhaviṣyati sahasradhā|| 61||
+SP0120621: iti labdhvā varaṃ devī tapaso 'kṣayyamuttamam|
+SP0120622: svayaṃvaramudīkṣantī tasthau prītimudāyutā|| 62||
+SP0120631: idaṃ paṭhedyo hi naraḥ sadaiva bālānubhāvācaraṇaṃ hi śambhoḥ|
+SP0120632: sa dehabhedaṃ samavāpya pūto bhavedgaṇastasya kumāratulyaḥ|| 63||
+SP0129999: iti skandapurāṇe dvādaśamo 'dhyāyaḥ||

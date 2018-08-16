@@ -1,0 +1,31 @@
+Skandapurāṇa Adhyāya 43
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0430010: suśarmovāca|
+SP0430011: ataḥ paraṃ pravakṣyāmi narakaṃ pāpanāśanam|
+SP0430012: ayoghanamiti khyātaṃ sarvaprāṇibhayaṃkaram|| 1||
+SP0430021: yatra te puruṣā ghorā yamābhā yamakiṃkarāḥ|
+SP0430022: mahābalā mahāsattvāḥ sarve yogeśvarāstathā|| 2||
+SP0430031: ayaskārā yathā piṇḍamayaso 'gnipratāpitam|
+SP0430032: saṃdaṃśenāpi saṃgṛhya sthāpayitvāyase ghane|| 3||
+SP0430041: abhighnanti ghanairanyaistathā tatrāpi jantavaḥ|
+SP0430042: hanyante rākṣasairghoraistarjayadbhiḥ sudāruṇam|| 4||
+SP0430051: varṣakoṭīstathā sapta yātitāḥ svena karmaṇā|
+SP0430052: ucchrayeṣu tathā ghorāṃ yātanāṃ prāpnuvanti te|| 5||
+SP0430061: ete ye yānti puruṣāḥ socchrayaṃ narakaṃ mahat|
+SP0430062: tānahaṃ saṃpravakṣyāmi anirdeśyānnarādhamān|| 6||
+SP0430071: pādena hanyātpitaraṃ mātaraṃ pūjyameva vā|
+SP0430072: anyaṃ kaṃcitstriyaṃ vāpi hastenātha kaśādibhiḥ|
+SP0430073: tathā pravrajitaṃ caiva agniṃ vāpyatha laṅghayet|| 7||
+SP0430081: bālamarthakṛte yaśca mṛtyunā yojayettathā|
+SP0430082: striyaṃ vātha pumāṃsaṃ vā klībaṃ vānyaṃ narādhamaḥ|| 8||
+SP0430091: bhrātṝnyaścātisaṃdhatte dravye kasmiṃścideva hi|
+SP0430092: pitaraṃ vātha durbuddhirmātaraṃ bhaginīmapi|| 9||
+SP0430101: patiryaścaiva bhāryāṃ svāṃ putrāṃścaivātisaṃdhayet|
+SP0430102: bhāryā patiṃ vā putraṃ vā teṣāṃ sā gatirucyate|| 10||
+SP0430111: kīlayedyaśca devārcāstīrthāni ca durātmavān|
+SP0430112: vidyāḥ śāstrāṇi divyāni teṣāṃ sā gatirucyate|| 11||
+SP0430121: ya imaṃ bahupāpayogakāraṇaṃ śṛṇuyānnityamasaukhyasarvadānam|
+SP0430122: praṇataḥ sa na yāti taṃ bhayānakaṃ narakaṃ durgamayoghanāvatānam|| 12||
+SP0439999: skandapurāṇe trayaścatvāriṃśo 'dhyāyaḥ||

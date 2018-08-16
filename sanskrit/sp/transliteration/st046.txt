@@ -1,0 +1,30 @@
+Skandapurāṇa Adhyāya 46
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0460010: suśarmovāca|
+SP0460011: ataḥ paraṃ pravakṣyāmi rauravaṃ narakaṃ punaḥ|
+SP0460012: yatra te vivaśā baddhāḥ karmaṇā svena jantavaḥ|
+SP0460013: yātyante duḥkhaśokārtā mahānirayagāminaḥ|| 1||
+SP0460021: ru iti procyate śabdastatrāsau śrūyate yataḥ|
+SP0460022: punaḥ punarvā bhīmo hi rauravastena kīrtyate|| 2||
+SP0460031: pūrṇastu sarvaḥ kārīṣyā jvalatyā so 'tidāruṇaḥ|
+SP0460032: madhye stambho 'sya loho vai taptakāñcanasaprabhaḥ|| 3||
+SP0460041: tatra janturbhṛśaṃ magnaḥ praviśandahyate bhṛśam|
+SP0460042: ārtanādānprakurvāṇo mūrchitaḥ patitaḥ punaḥ|| 4||
+SP0460051: tataḥ kleśena mahatā uddhṛtyātmānamātmanā|
+SP0460052: bhūyo 'nyaṃ deśamāsādya tathaiva praviśansa hi|| 5||
+SP0460061: tatastasmādupotpatya stambhamāśrayate yadi|
+SP0460062: tenāpi dahyate bhūyo visṛjya praviśetpunaḥ|| 6||
+SP0460071: evaṃ sa yātyate tatra bahūnabdānsuduḥkhitaḥ|
+SP0460072: tato visṛṣṭo bhūyaśca ucchrayānpratipadyate|| 7||
+SP0460081: taṃ hi gacchanti puruṣāḥ surāpā dharmadeśakāḥ|
+SP0460082: pitṛhā mātṛhā caiva bhrātṛhā guruhā tathā|| 8||
+SP0460091: goghno 'tha damakaścaiva jantūnāṃ bhṛśadāruṇaḥ|
+SP0460092: galakarttā kūṭamānī karmaṇāṃśca karoti yaḥ|| 9||
+SP0460101: parivittiḥ parivettā śmaśānaratireva ca|
+SP0460102: punarbhūsutasaṃyogī yasya copapatirgṛhe|
+SP0460103: ete sarve 'bhigacchanti narakaṃ rauravaṃ narāḥ|| 10||
+SP0460111: ya imaṃ śṛṇuyācca rauravaṃ narakaṃ pāpakṛtāṃ surauravam|
+SP0460112: niyataṃ prayato 'tirauravaṃ na sa gacchenmanasāpi rauravam|| 11||
+SP0469999: skandapurāṇe ṣaṭcatvāriṃśo 'dhyāyaḥ||

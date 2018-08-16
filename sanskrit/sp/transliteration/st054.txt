@@ -1,0 +1,91 @@
+Skandapurāṇa Adhyāya 54
+
+E-text generated on February 22, 2017 from the original TeX files of: Yokochi, Yuko, ed. The Skandapurāṇa. Vol.III. Adhyāyas 34.1-61, 53-69. The Vindhyavāsinī Cycle. Critical Edition with an Introduction & Annotated English Synopsis. Leiden/Groningen: Brill & Egbert Forsten, 2013.
+
+SP0540010: sanatkumāra uvāca|
+SP0540011: tatastena vimānena sarvasṛksa caturmukhaḥ|
+SP0540012: jagāma mandaraṃ dhīmānvicitropalakandaram|| 1||
+SP0540021: sa tamāsādya vistīrṇamanaupamyamatiprabham|
+SP0540022: dūrāddṛṣṭisukhaṃ dṛṣṭvā sabhāsthānidamabravīt|| 2||
+SP0540031: idaṃ rudragṛhaṃ śubhramadṛśyaṃ sukṛtāmapi|
+SP0540032: devānāmapi paśyadhvaṃ bhāskarākāravarcasam|| 3||
+SP0540041: idaṃ praviśya devānāṃ yajñaśrīrnāpasarpati|
+SP0540042: jayaśca nityaṃ yuddheṣu dharmaśca sumahānapi|| 4||
+SP0540051: etatsṛṣṭaṃ svayaṃ tena manasānupamadyuti|
+SP0540052: na hyasya sadṛśaṃ kiṃcidaṇḍe 'sminvidyate gṛham|| 5||
+SP0540061: idaṃ praviśya dharmātmā duḥkhaṃ bhūyo na vindate|
+SP0540062: na cāpi janma prāpnoti nityamaiśvaryago hi saḥ|| 6||
+SP0540071: anirdeśyamidaṃ yogādyogināmapi nityaśaḥ|
+SP0540072: anyastu kuta evedaṃ varṇayīta mahānapi|| 7||
+SP0540081: etadasmadvimānasya vāyunābhyāhataṃ ruṣā|
+SP0540082: vardhate giriṇā sārdhaṃ vindhyasya śikharaṃ yathā|| 8||
+SP0540091: etadasmadvimānasya mārgamāvṛtya viṣṭhitam|
+SP0540092: ūrdhvaṃ tiryagadhastācca devadevasya tejasā|| 9||
+SP0540101: etadandhaṃ tamaḥ kṛtvā megho 'sau jīvanaḥ svayam|
+SP0540102: vajrodyatakaraḥ sragmī pratyudyātyabhinādayan|| 10||
+SP0540110: sanatkumāra uvāca|
+SP0540111: tataḥ sa bhagavāndevo brahmā lokapitāmahaḥ|
+SP0540112: viṣṭabhya taṃ vimānāgryamavatasthe kṛtāñjaliḥ|| 11||
+SP0540121: tuṣṭāva ca tadā devaṃ śarvamugraṃ kapardinam|
+SP0540122: te caiva ṛṣayaḥ sarve vimānasthāḥ susaṃyatāḥ|| 12||
+SP0540131: tataḥ sa meghaḥ svaṃ sthānamagamadvṛṣṭisarjanaḥ|
+SP0540132: diśaśca vimalāḥ sarvāḥ prakāśaścābhavadbhṛśam|| 13||
+SP0540141: taṃ japantaṃ viditvā ca bhagavāngovṛṣadhvajaḥ|
+SP0540142: nandinaṃ dvāradeśasthamidamāha sureśvaraḥ|| 14||
+SP0540151: eṣa brahmā vimānena māmiha draṣṭumāgataḥ|
+SP0540152: brūhi yenāgato 'sīha kāryeṇa vidito 'si me|
+SP0540153: kuru tadgaccha śīghraṃ tvaṃ kālastasyāyamāgataḥ|| 15||
+SP0540160: sanatkumāra uvāca|
+SP0540161: sa evamukto rudreṇa nandī pramathanāyakaḥ|
+SP0540162: dvāḥstha-m-eva vimānasthaṃ brahmāṇamidamabravīt|| 16||
+SP0540170: nandyuvāca|
+SP0540171: yūyaṃ jñātā bhagavatā yena kāryeṇa cāgatāḥ|
+SP0540172: kurudhvaṃ kila tacchīghraṃ kālo 'yaṃ tasya vartate|| 17||
+SP0540181: tataḥ sa kṛtvā manasā namaskāraṃ hi śambhave|
+SP0540182: pradakṣiṇamupāvṛtya mandaraṃ prajagāma ha|| 18||
+SP0540191: sa mandaragiriṃ sarvaṃ parihṛtya mahāmanāḥ|
+SP0540192: śākadvīpasya madhyena jambūdvīpamathāgamat|| 19||
+SP0540201: sa dṛśyamāno devaiśca munibhiśca yatavrataiḥ|
+SP0540202: himavantaṃ giriśreṣṭhamupāgamyedamabravīt|| 20||
+SP0540211: etaddhimavataḥ śṛṅgamucchritaṃ kāntimatsthitam|
+SP0540212: yugāntādityasaṃkāśaṃ dūrātsamabhilakṣyate|| 21||
+SP0540221: atra sā jagato dhātrī dhātrī putramivaurasam|
+SP0540222: pālayantī jagatsarvaṃ tapastapyati śailajā|| 22||
+SP0540231: aho nu śikharaṃ puṇyaṃ bhāgyavaccāpi sarvathā|
+SP0540232: yadenaṃ giriputryarthe varairyokṣyati kāmahā|| 23||
+SP0540241: paśyadhvaṃ tapaso vīryaṃ devyāḥ sucaritasya vai|
+SP0540242: yadetacchikharaṃ dṛṣṭvā na paśyāma punaryamam|| 24||
+SP0540251: sa evaṃ kathayanneva vimānena caturmukhaḥ|
+SP0540252: ṛṣibhiḥ sahitaḥ sarvaiḥ śikharadvāramāgataḥ|| 25||
+SP0540261: tatrainaṃ rudrasacivā āyudhodyatapāṇayaḥ|
+SP0540262: bhartsayanto 'bhyavartanta tiṣṭha tiṣṭhetivādinaḥ|| 26||
+SP0540271: tānbrahmā ślakṣṇayā vācā sāntvapūrvamuvāca ha|
+SP0540272: praśaṃsamānastānsarvānprāñjaliryuktamānasaḥ|| 27||
+SP0540280: brahmovāca|
+SP0540281: yūyaṃ sarve mahātmāna aiśvaryeṇa samanvitāḥ|
+SP0540282: akṣayā hyamarāścaiva tathāpratihatāśca ha|| 28||
+SP0540291: mahāyogabalopetā ajayyā yudhi kenacit|
+SP0540292: ko yuṣmānabhivarteta śakro 'pi pravareśvarāḥ|| 29||
+SP0540301: devadevājñayā so 'hamāyāto mandarādiha|
+SP0540302: devyā varapradānārthamanujñā kriyatāṃ mama|| 30||
+SP0540310: gaṇeśvarā ūcuḥ|
+SP0540311: devyā dātā svayaṃ devo varāniṣṭānmahāmanāḥ|
+SP0540312: tāneva devī tvanyasmānmanasāpi na cintayet|| 31||
+SP0540321: śakto devo 'nugrahītuṃ jagatsarvaṃ maheśvaraḥ|
+SP0540322: tvāmapyasau 'nugṛhṇāti kimu devīṃ jagatpatiḥ|| 32||
+SP0540330: brahmovāca|
+SP0540331: aśakto na mahādevo varaṃ dātuṃ mahāmanāḥ|
+SP0540332: ya evaṃ cintayeddevaṃ na bhavetsa kathaṃcana|| 33||
+SP0540341: na devī bhagavatpārśvādicchate kila pārvatī|
+SP0540342: varāniṣṭāṃstato devo māmiha preṣayacchivaḥ|| 34||
+SP0540351: atha taṃ yuktamanaso yuktaṃ pratyakṣamīśvarāḥ|
+SP0540352: maheśvaramapaśyanta kṛtānujñaṃ ca lokapam|| 35||
+SP0540361: niyuktāśca punaḥ sarve brahmāṇaṃ lokakāraṇam|
+SP0540362: ūcurgaṇeśvarāḥ sarve viditārthā mahāmune|| 36||
+SP0540371: preṣito devadevena jñāto 'smābhiḥ pitāmaha|
+SP0540372: tvaṃ viśasvādhunā deva pārvatyā varaditsayā|| 37||
+SP0540381: avatīrya vimānāttu tataḥ śīghraṃ pitāmahaḥ|
+SP0540382: nililye śikhare tasminnānādhātuvicitrite|| 38||
+SP0540391: atha sopaladhātunirjharo girirājo 'timahāśiloccayaḥ|
+SP0540392: vinisṛṣṭadivākarāmalaḥ sa girirdivya ivodayācalaḥ|| 39||
+SP0549999: iti skandapurāṇe catuṣpañcāśo 'dhyāyaḥ||

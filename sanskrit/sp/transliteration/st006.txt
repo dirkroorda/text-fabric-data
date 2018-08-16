@@ -1,0 +1,39 @@
+Skandapurāṇa Adhyāya 6
+
+E-text generated on February 22, 2017 from the original TeX files of: Adriaensen, R., H.T. Bakker and H. Isaacson, eds. The Skandapurāṇa. Vol. I. Adhyāyas 1-25. Critically Edited with Prolegomena and English Synopsis. Groningen: Egbert Forsten, 1998.
+
+SP0060010: sanatkumāra uvāca|
+SP0060011: tataḥ sa bhagavāndevaḥ kapardī nīlalohitaḥ|
+SP0060012: ājñayā parameśasya jagrāha brahmaṇaḥ śiraḥ|| 1||
+SP0060021: tadgṛhītvā śiro dīptaṃ rūpaṃ vikṛtamāsthitaḥ|
+SP0060022: yogakrīḍāṃ samāsthāya bhaikṣāya pracacāra ha|| 2||
+SP0060031: sa devaveśmani tadā bhikṣārthamagamaddvijāḥ|
+SP0060032: na cāsya kaścittāṃ bhikṣāmanurūpāmadādvibhoḥ|| 3||
+SP0060041: abhyagātsaṃkrameṇaiva veśma viṣṇormahātmanaḥ|
+SP0060042: tasyātiṣṭhata sa dvāri bhikṣāmuccārayañchubhām|| 4||
+SP0060051: sa dṛṣṭvā tadupasthaṃ tu viṣṇurvai yogacakṣuṣā|
+SP0060052: śirāṃ lalāṭātsambhidya raktadhārāmapātayat|
+SP0060053: papāta sā ca vistīrṇā yojanārdhaśataṃ tadā|| 5||
+SP0060061: tayā patantyā viprendrā bahūnyabdāni dhārayā|
+SP0060062: pitāmahakapālasya nārdhamapyabhipūritam|
+SP0060063: tamuvāca tato devaḥ prahasya vacanaṃ śubham|| 6||
+SP0060071: sakṛtkanyāḥ pradīyante sakṛdagniśca jāyate|
+SP0060072: sakṛdrājāno bruvate sakṛdbhikṣā pradīyate|| 7||
+SP0060081: tuṣṭo 'smi tava dānena yuktenānena mānada|
+SP0060082: varaṃ varaya bhadraṃ te varado 'smi tavādya vai|| 8||
+SP0060090: viṣṇuruvāca|
+SP0060091: eṣa eva varaḥ ślāghyo yadahaṃ devatādhipam|
+SP0060092: paśyāmi śaṃkaraṃ devamugraṃ śarvaṃ kapardinam|| 9||
+SP0060101: devaśchāyāṃ tato vīkṣya kapālasthe tadā rase|
+SP0060102: sasarja puruṣaṃ dīptaṃ viṣṇoḥ sadṛśamūrjitam|| 10||
+SP0060111: tamāhāthākṣayaścāsi ajarāmara eva ca|
+SP0060112: yuddheṣu cāpratidvandvī sakhā viṣṇoranuttamaḥ|
+SP0060113: devakāryakaraḥ śrīmānsahānena carasva ca|| 11||
+SP0060121: nārāsu janma yasmātte viṣṇudehodbhavāsu ca|
+SP0060122: narastasmāddhi nāmnā tvaṃ priyaścāsya bhaviṣyasi|| 12||
+SP0060130: vāyuruvāca|
+SP0060131: taṃ tadāśvāsya nikṣipya naraṃ viṣṇoḥ svayaṃ prabhuḥ|
+SP0060132: agamadbrahmasadanaṃ tau cāviviśaturgṛham|| 13||
+SP0060141: ya idaṃ narajanmeha śṛṇuyādvā paṭheta vā|
+SP0060142: sa kīrtyā parayā yukto viṣṇuloke mahīyate|| 14||
+SP0069999: iti skandapurāṇe ṣaṣṭho 'dhyāyaḥ||

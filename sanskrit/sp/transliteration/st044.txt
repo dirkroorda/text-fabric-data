@@ -1,0 +1,30 @@
+Skandapurāṇa Adhyāya 44
+
+E-text generated on February 22, 2017 from the original TeX files of: Bakker, Hans T., Peter C. Bisschop and Yuko Yokochi, eds. The Skandapurāṇa. Vol. IIB. Adhyāyas 31-52. The Vāhana and Naraka Cycles. Critical Edition with an Introduction & Annotated English Synopsis, in cooperation with Nina Mirnig and Judit Törzsök. Leiden/Boston: Brill, 2014.
+
+SP0440010: suśarmovāca|
+SP0440011: ataḥ paraṃ padmamahaṃ pravakṣyāmi sudurgamam|
+SP0440012: sukṛtīnāmalabhyaṃ ca duṣkṛtīnāṃ bhayāvaham|| 1||
+SP0440021: tatrāgnistāpano nāma dhamyamāna iva jvalan|
+SP0440022: jantavastatra tāpyante vahnivarṇā bhavanti ca|
+SP0440023: padmapatranibhāḥ sarve dhāmyamānāstatastataḥ|| 2||
+SP0440031: tasya madhye mahāstambho lohaḥ samavatiṣṭhate|
+SP0440032: taṃ te gatvā pragṛhṇanti so 'pyagnimati dāruṇaḥ|| 3||
+SP0440041: evaṃ tatrāniśaṃ ghoraṃ yātitāstūcchrayeṣvapi|
+SP0440042: narāstaṃ yānti niḥsaṅgaṃ ye tānme tvaṃ niśāmaya|| 4||
+SP0440051: gurubhāryāṃ ca yo gacchedgurusvaṃ vā hareta yaḥ|
+SP0440052: devadravyaṃ bhakṣayecca nāśayedvāpyabhīkṣṇaśaḥ|| 5||
+SP0440061: brāhmaṇasvaṃ haredyaśca balāddhārayate 'pi vā|
+SP0440062: bāladravyāpahārī ca strīdhanasya tathaiva ca|| 6||
+SP0440071: klīvāṃśca tyajate yaśca yo hanyāccharaṇāgatam|
+SP0440072: dhanaṃ cāsyābhimanyeta devadravyaharaśca yaḥ|| 7||
+SP0440081: sarvabhakṣaśca yaḥ syādvai yaśca pānīyavikrayī|
+SP0440082: somavikrayikaścaiva agnyutsādaka eva ca|| 8||
+SP0440091: agnipraharaṇo yaśca viṣapraharaṇaśca yaḥ|
+SP0440092: aśastraṃ yaśca saṃgrāme hanyācchastreṇa mānavam|
+SP0440093: yācamānaṃ tathā caiva upaviṣṭamathāpi vā|| 9||
+SP0440101: parāṅmukhaṃ ca saṃsaktamanyena sahavādinam|
+SP0440102: ete sarve narāstatra gacchantyakṛtabuddhayaḥ|| 10||
+SP0440111: ya imaṃ śṛṇuyātkṛtāntasadmaṃ prayato nityamanekaduḥkhasadmam|
+SP0440112: sa na yāti tamugraśokapadmaṃ narakaṃ mṛtyumivāti kālasadmam|| 11||
+SP0449999: skandapurāṇe catuścatvāriṃśo 'dhyāyaḥ||
