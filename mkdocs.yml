@@ -12,7 +12,7 @@ theme:
   favicon: 'images/icon/favicon.ico'
   feature:
     tabs: false
-repo_url: 'https://github.com/annotation/text-fabric/'
+repo_url: 'https://github.com/annotation/text-fabric-data/'
 
 strict: false
 

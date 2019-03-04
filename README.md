@@ -1,6 +1,6 @@
 # text-fabric-data
 [![DOI](https://zenodo.org/badge/74902112.svg)](https://zenodo.org/badge/latestdoi/74902112)
-![text-fabric](https://raw.github.com/annotation/text-fabric/master/docs/tf.png)
+![text-fabric](docs/images/tf.png)
 
 Text-Fabric data is a collection of richly annotated data sources.
 They are stored in a compact, plain text format
