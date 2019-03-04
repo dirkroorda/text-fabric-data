@@ -7,11 +7,11 @@ type: pages
 
 Text-Fabric data is a collection of richly annotated data sources.
 They are stored here in a compact, plain text format
-[.tf](https://github.com/Dans-labs/text-fabric/wiki/File-formats).
+[.tf](https://annotation.github.io/text-fabric/Model/File-formats/).
 
 These text materials are complex fabrics of text representations and (linguistic) annotations.
-In order to work with them, you need software such as 
-[Text-Fabric](https://github.com/Dans-labs/text-fabric/wiki)
+In order to work with them, you need
+[Text-Fabric](https://github.com/annotation/text-fabric)
 which is a Python package that you can easily install.
 
 Here are the sources that are currently available.

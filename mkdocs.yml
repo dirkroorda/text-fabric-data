@@ -1,0 +1,88 @@
+site_name: Text-Fabric-Data
+site_description: >- 
+  Various data sources in the Text-Fabric format
+
+site_url: 'https://annotation.github.io/text-fabric-data/'
+
+site_author: Dirk Roorda
+
+theme:
+  name: material
+  logo: 'images/tf-small.png'
+  favicon: 'images/icon/favicon.ico'
+  feature:
+    tabs: false
+repo_url: 'https://github.com/annotation/text-fabric/'
+
+strict: false
+
+nav:
+  - Home: 'index.md'
+  - Greek:
+    - About: 'greek/sblgnt/0_home.md'
+    - Overview: 'greek/sblgnt/0_overview.md'
+    - book: 'greek/sblgnt/book.md'
+    - booknum: 'greek/sblgnt/booknum.md'
+    - Case: 'greek/sblgnt/Case.md'
+    - Cat: 'greek/sblgnt/Cat.md'
+    - chapter: 'greek/sblgnt/chapter.md'
+    - child: 'greek/sblgnt/child.md'
+    - ClType: 'greek/sblgnt/ClType.md'
+    - Degree: 'greek/sblgnt/Degree.md'
+    - End: 'greek/sblgnt/End.md'
+    - freq_lex: 'greek/sblgnt/freq_lex.md'
+    - freq_occ: 'greek/sblgnt/freq_occ.md'
+    - function: 'greek/sblgnt/function.md'
+    - g_plain: 'greek/sblgnt/g_plain.md'
+    - g_word: 'greek/sblgnt/g_word.md'
+    - Gender: 'greek/sblgnt/Gender.md'
+    - HasDet: 'greek/sblgnt/HasDet.md'
+    - Head: 'greek/sblgnt/Head.md'
+    - Mood: 'greek/sblgnt/Mood.md'
+    - morphId: 'greek/sblgnt/morphId.md'
+    - nodeId: 'greek/sblgnt/nodeId.md'
+    - Number: 'greek/sblgnt/Number.md'
+    - oslots: 'greek/sblgnt/oslots.md'
+    - otext: 'greek/sblgnt/otext.md'
+    - otype: 'greek/sblgnt/otype.md'
+    - Person: 'greek/sblgnt/Person.md'
+    - psp: 'greek/sblgnt/psp.md'
+    - rank_lex: 'greek/sblgnt/rank_lex.md'
+    - rank_occ: 'greek/sblgnt/rank_occ.md'
+    - Rule: 'greek/sblgnt/Rule.md'
+    - Start: 'greek/sblgnt/Start.md'
+    - Tense: 'greek/sblgnt/Tense.md'
+    - trailer: 'greek/sblgnt/trailer.md'
+    - Type: 'greek/sblgnt/Type.md'
+    - Unicode: 'greek/sblgnt/Unicode.md'
+    - UnicodeLemma: 'greek/sblgnt/UnicodeLemma.md'
+    - verse: 'greek/sblgnt/verse.md'
+    - Voice: 'greek/sblgnt/Voice.md'
+  - Sanskrit:
+    - About: 'sanskrit/dcs/0_home.md'
+    - Overview: 'sanskrit/dcs/0_overview.md'
+    - book: 'sanskrit/dcs/book.md'
+    - chapter: 'sanskrit/dcs/chapter.md'
+    - char: 'sanskrit/dcs/char.md'
+    - freq: 'sanskrit/dcs/freq.md'
+    - oslots: 'sanskrit/dcs/oslots.md'
+    - otext: 'sanskrit/dcs/otext.md'
+    - otype: 'sanskrit/dcs/otype.md'
+    - rank: 'sanskrit/dcs/rank.md'
+    - trailer: 'sanskrit/dcs/trailer.md'
+    - verse: 'sanskrit/dcs/verse.md'
+    - word: 'sanskrit/dcs/word.md'
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: true
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+
+plugins:
+ - markdownextradata
